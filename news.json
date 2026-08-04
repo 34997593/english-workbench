@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04T15:26:19Z",
+  "updated": "2026-08-04T15:47:55Z",
   "count": 60,
   "articles": [
     {
@@ -59,11 +59,11 @@
     },
     {
       "source": "NPR",
-      "link": "https://www.npr.org/2026/08/04/nx-s1-5918643/five-states-polls-what-to-know",
-      "title": "5 states have primary elections on Tuesday. These are the races to watch",
-      "summary": "From Michigan's Senate and governor primary to Missouri's 1st Congressional District, a number of key races in primary elections Tuesday could signal the future for Democrats and Republicans.",
+      "link": "https://www.npr.org/2026/08/04/nx-s1-5918682/2026-primary-elections-michigan-wisconsin",
+      "title": "Primaries in the Midwest have become a high stakes proving ground for progressives",
+      "summary": "Democratic primary elections in Michigan, Wisconsin and Minnesota have made the Midwest a test case for whether progressive candidates can win in competitive states and what electability really means.",
       "paragraphs": [
-        "From Michigan's Senate and governor primary to Missouri's 1st Congressional District, a number of key races in primary elections Tuesday could signal the future for Democrats and Republicans."
+        "Democratic primary elections in Michigan, Wisconsin and Minnesota have made the Midwest a test case for whether progressive candidates can win in competitive states and what electability really means."
       ],
       "date": "2026-08-04",
       "real": true
@@ -75,17 +75,6 @@
       "summary": "Dallas's financial industry is growing, amid a larger Texas business boom. But can it really steal New York's crown?",
       "paragraphs": [
         "Dallas's financial industry is growing, amid a larger Texas business boom. But can it really steal New York's crown?"
-      ],
-      "date": "2026-08-04",
-      "real": true
-    },
-    {
-      "source": "NPR",
-      "link": "https://www.npr.org/2026/08/04/nx-s1-5918682/2026-primary-elections-michigan-wisconsin",
-      "title": "Primaries in the Midwest have become a high stakes proving ground for progressives",
-      "summary": "Democratic primary elections in Michigan, Wisconsin and Minnesota have made the Midwest a test case for whether progressive candidates can win in competitive states and what electability really means.",
-      "paragraphs": [
-        "Democratic primary elections in Michigan, Wisconsin and Minnesota have made the Midwest a test case for whether progressive candidates can win in competitive states and what electability really means."
       ],
       "date": "2026-08-04",
       "real": true
@@ -109,6 +98,17 @@
       "paragraphs": [
         "Military veteran and D.C. resident Anna King has filed a $3 million lawsuit against the Idaho National Guard, saying three guard members assaulted her while detaining her in front of her home.",
         "(Image credit: ACLU of the District of Columbia)"
+      ],
+      "date": "2026-08-04",
+      "real": true
+    },
+    {
+      "source": "NPR",
+      "link": "https://www.npr.org/2026/08/04/nx-s1-5918643/five-states-polls-what-to-know",
+      "title": "5 states have primary elections on Tuesday. These are the races to watch",
+      "summary": "From Michigan's Senate and governor primary to Missouri's 1st Congressional District, a number of key races in primary elections Tuesday could signal the future for Democrats and Republicans.",
+      "paragraphs": [
+        "From Michigan's Senate and governor primary to Missouri's 1st Congressional District, a number of key races in primary elections Tuesday could signal the future for Democrats and Republicans."
       ],
       "date": "2026-08-04",
       "real": true
