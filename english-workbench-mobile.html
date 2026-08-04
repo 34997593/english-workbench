@@ -53,9 +53,9 @@
   .word:active{background:var(--pink-soft)}
   .word:hover{background:var(--pink-soft)}
   .key-word{font-weight:700;color:var(--pink-dark)}
-  .action-bar{display:flex;gap:10px;margin-top:18px;flex-wrap:wrap}
-  .btn-pink{background:var(--pink);color:#fff;border:none;border-radius:999px;padding:10px 18px;font-size:13px;font-weight:700;box-shadow:0 4px 12px var(--shadow)}
-  .btn-ghost{background:#fff;border:1px solid var(--line);border-radius:999px;padding:10px 16px;font-size:13px;font-weight:600;color:var(--ink)}
+  .action-bar{display:flex;gap:10px;margin-top:18px;flex-wrap:nowrap}
+  .btn-pink{flex:1;min-width:0;white-space:nowrap;background:var(--pink);color:#fff;border:none;border-radius:999px;padding:10px 8px;font-size:13px;font-weight:700;box-shadow:0 4px 12px var(--shadow)}
+  .btn-ghost{flex:1;min-width:0;white-space:nowrap;background:#fff;border:1px solid var(--line);border-radius:999px;padding:10px 8px;font-size:13px;font-weight:600;color:var(--ink)}
 
   /* vocab list */
   .vocab-item{display:flex;justify-content:space-between;align-items:center;padding:12px 0;border-bottom:1px solid var(--line)}
