@@ -1035,7 +1035,7 @@ async function loadRealNews(silent){
   if(!arts||!arts.length) arts=await tryFetchNewsJson(NEWS_JSON_URL);
   if(arts&&arts.length){
     realArticles=arts; usingReal=true; realIndex=0;
-    realStatus=`已接入 ${realArticles.length} 条真实新闻（更新于 ${realArticles[0]?.date||'今日'}）`;
+    realStatus=`已接入 ${realArticles.length} 条真实新闻（GitHub Pages 每日缓存 · 更新于 ${realArticles[0]?.date||'今日'}）`;
     renderAllTabs(); toast(realStatus); updateRealUI(); return;
   }
   // 3) 公共代理现抓兜底
