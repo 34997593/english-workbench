@@ -168,6 +168,13 @@
   <!-- READ TAB -->
   <div id="tab-read" class="tab-page">
     <div class="card">
+      <!-- 文章切换导航 -->
+      <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:12px;background:var(--pink-light);border-radius:12px;padding:8px 10px">
+        <button class="btn-ghost" style="padding:8px 12px" onclick="prevArticle()">← 上一篇</button>
+        <span id="articleCounter" style="font-size:12px;color:var(--muted);font-weight:600">1 / 1</span>
+        <button class="btn-ghost" style="padding:8px 12px" onclick="nextArticle()">下一篇 →</button>
+      </div>
+
       <div class="article-meta">
         <span class="tag" id="readLevel">简单</span>
         <span class="meta-sep">·</span>
@@ -178,6 +185,12 @@
       <div class="article-title" id="readTitle">标题</div>
       <div class="article-summary" id="readSummary">中文导读</div>
       <div class="article-body" id="readBody">正文</div>
+
+      <!-- 原文提示 -->
+      <div id="originalHint" class="hint" style="display:none;background:#fff7fb;border:1px dashed var(--pink);border-radius:10px;padding:10px;margin-top:12px">
+        📰 真实新闻通常只提供摘要。想读完整全文，可点击标题或下方「阅读完整原文」。
+      </div>
+
       <div class="action-bar">
         <button class="btn-pink" onclick="playFullArticle()">▶ 播放全文</button>
         <button class="btn-ghost" onclick="saveSentence()">💾 收藏好句</button>
@@ -185,8 +198,7 @@
       </div>
       <div class="action-bar" id="realActions" style="display:none;margin-top:10px">
         <button class="btn-ghost" onclick="loadRealNews(false)">↻ 刷新真实新闻</button>
-        <button class="btn-ghost" onclick="nextRealArticle()">📰 换一篇</button>
-        <button class="btn-ghost" id="origBtn" style="display:none" onclick="openOriginal()">🔗 看原文</button>
+        <button class="btn-ghost" id="origBtn" style="display:none" onclick="openOriginal()">🔗 阅读完整原文</button>
       </div>
       <div id="realStatus" class="real-status"></div>
     </div>
@@ -693,6 +705,15 @@ function renderReadTab(){
   document.getElementById('readTitle').style.cursor=art.link?'pointer':'default';
   document.getElementById('readTitle').onclick=art.link?openOriginal:null;
 
+  // 更新计数器
+  const total=usingReal?realArticles.length:ARTICLES.length;
+  const idx=usingReal?realIndex:todayIndex;
+  document.getElementById('articleCounter').textContent=`${idx+1} / ${total}`;
+
+  // 显示原文提示（真实新闻且较短时）
+  const hint=document.getElementById('originalHint');
+  if(hint) hint.style.display=(art.isReal && art.link)?'block':'none';
+
   const body=document.getElementById('readBody');
   body.innerHTML='';
   art.paragraphs.forEach(para=>{
@@ -1080,11 +1101,26 @@ async function loadRealNewsProxy(silent){
 function renderAllTabs(){
   renderReadTab(); renderPatternsTab(); renderSpeakTab(); renderTransTab(); renderSavedTab();
 }
-function nextRealArticle(){
-  if(!usingReal||!realArticles.length) return;
-  realIndex=(realIndex+1)%realArticles.length;
+function nextArticle(){
+  if(usingReal && realArticles.length){
+    realIndex=(realIndex+1)%realArticles.length;
+  }else{
+    todayIndex=(todayIndex+1)%ARTICLES.length;
+  }
   renderReadTab(); renderPatternsTab(); renderSpeakTab(); renderTransTab();
+  document.getElementById('mainScroll').scrollTop=0;
 }
+function prevArticle(){
+  if(usingReal && realArticles.length){
+    realIndex=(realIndex-1+realArticles.length)%realArticles.length;
+  }else{
+    todayIndex=(todayIndex-1+ARTICLES.length)%ARTICLES.length;
+  }
+  renderReadTab(); renderPatternsTab(); renderSpeakTab(); renderTransTab();
+  document.getElementById('mainScroll').scrollTop=0;
+}
+// 保留旧函数供兼容
+function nextRealArticle(){ nextArticle(); }
 function openOriginal(){
   const a=currentArticle();
   if(a&&a.link) window.open(a.link,"_blank");
