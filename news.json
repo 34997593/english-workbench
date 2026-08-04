@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04T13:43:03Z",
+  "updated": "2026-08-04T14:25:07Z",
   "count": 60,
   "articles": [
     {
@@ -59,11 +59,11 @@
     },
     {
       "source": "NPR",
-      "link": "https://www.npr.org/2026/08/04/nx-s1-5918643/five-states-polls-what-to-know",
-      "title": "5 states have primary elections on Tuesday. These are the races to watch",
-      "summary": "From Michigan's Senate and governor primary to Missouri's 1st Congressional District, a number of key races in primary elections Tuesday could signal the future for Democrats and Republicans.",
+      "link": "https://www.npr.org/2026/08/04/nx-s1-5697067/texas-banking-goldman-sachs-wall-street",
+      "title": "Why Texas is betting 'Y'all Street' can take on Wall Street",
+      "summary": "Dallas's financial industry is growing, amid a larger Texas business boom. But can it really steal New York's crown?",
       "paragraphs": [
-        "From Michigan's Senate and governor primary to Missouri's 1st Congressional District, a number of key races in primary elections Tuesday could signal the future for Democrats and Republicans."
+        "Dallas's financial industry is growing, amid a larger Texas business boom. But can it really steal New York's crown?"
       ],
       "date": "2026-08-04",
       "real": true
@@ -75,17 +75,6 @@
       "summary": "Democratic primary elections in Michigan, Wisconsin and Minnesota have made the Midwest a test case for whether progressive candidates can win in competitive states and what electability really means.",
       "paragraphs": [
         "Democratic primary elections in Michigan, Wisconsin and Minnesota have made the Midwest a test case for whether progressive candidates can win in competitive states and what electability really means."
-      ],
-      "date": "2026-08-04",
-      "real": true
-    },
-    {
-      "source": "NPR",
-      "link": "https://www.npr.org/2026/08/04/nx-s1-5697067/texas-banking-goldman-sachs-wall-street",
-      "title": "Why Texas is betting 'Y'all Street' can take on Wall Street",
-      "summary": "Dallas's financial industry is growing, amid a larger Texas business boom. But can it really steal New York's crown?",
-      "paragraphs": [
-        "Dallas's financial industry is growing, amid a larger Texas business boom. But can it really steal New York's crown?"
       ],
       "date": "2026-08-04",
       "real": true
@@ -109,6 +98,50 @@
       "paragraphs": [
         "Military veteran and D.C. resident Anna King has filed a $3 million lawsuit against the Idaho National Guard, saying three guard members assaulted her while detaining her in front of her home.",
         "(Image credit: ACLU of the District of Columbia)"
+      ],
+      "date": "2026-08-04",
+      "real": true
+    },
+    {
+      "source": "NPR",
+      "link": "https://www.npr.org/2026/08/04/nx-s1-5918643/five-states-polls-what-to-know",
+      "title": "5 states have primary elections on Tuesday. These are the races to watch",
+      "summary": "From Michigan's Senate and governor primary to Missouri's 1st Congressional District, a number of key races in primary elections Tuesday could signal the future for Democrats and Republicans.",
+      "paragraphs": [
+        "From Michigan's Senate and governor primary to Missouri's 1st Congressional District, a number of key races in primary elections Tuesday could signal the future for Democrats and Republicans."
+      ],
+      "date": "2026-08-04",
+      "real": true
+    },
+    {
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/8/4/spanish-pm-sanchez-faces-criticism-as-eu-meets-over-ceuta-crossings?traffic_source=rss",
+      "title": "Spanish PM Sanchez faces criticism as EU meets over Ceuta crossings",
+      "summary": "",
+      "paragraphs": [
+        ""
+      ],
+      "date": "2026-08-04",
+      "real": true
+    },
+    {
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/sports/2026/8/4/top-africa-football-leaders-back-infantino-after-fifa-selloff-scandal?traffic_source=rss",
+      "title": "Top Africa football leaders back Infantino after FIFA selloff scandal",
+      "summary": "",
+      "paragraphs": [
+        ""
+      ],
+      "date": "2026-08-04",
+      "real": true
+    },
+    {
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/hamas-negotiator-says-deal-to-disarm-was-necessary-to-save?traffic_source=rss",
+      "title": "Hamas negotiator says deal to disarm was necessary to ‘save Gaza’",
+      "summary": "",
+      "paragraphs": [
+        ""
       ],
       "date": "2026-08-04",
       "real": true
@@ -348,39 +381,6 @@
       "source": "Al Jazeera",
       "link": "https://www.aljazeera.com/sports/2026/8/4/ufcs-allan-nascimento-dead-aged-34-after-apparent-heart-attack?traffic_source=rss",
       "title": "Nascimento: UFC fighter dead at 34 after apparent heart attack",
-      "summary": "",
-      "paragraphs": [
-        ""
-      ],
-      "date": "2026-08-04",
-      "real": true
-    },
-    {
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/8/4/palestine-weekly-israel-kills-dozens-in-gaza-after-hamas-disarmament-deal?traffic_source=rss",
-      "title": "Palestine weekly: Israel kills dozens in Gaza after Hamas disarmament deal",
-      "summary": "",
-      "paragraphs": [
-        ""
-      ],
-      "date": "2026-08-04",
-      "real": true
-    },
-    {
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/8/4/why-are-the-washington-wildfires-so-severe-spokane-fires-explained?traffic_source=rss",
-      "title": "Why are the Washington wildfires so severe? Spokane fires explained",
-      "summary": "",
-      "paragraphs": [
-        ""
-      ],
-      "date": "2026-08-04",
-      "real": true
-    },
-    {
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/bodycam-video-shows-firefighters-battling-blaze-in-spokane-us?traffic_source=rss",
-      "title": "Bodycam video shows firefighters battling blaze in Spokane, US",
       "summary": "",
       "paragraphs": [
         ""
