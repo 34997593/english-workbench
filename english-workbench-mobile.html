@@ -954,7 +954,7 @@ const PROXIES=[
 // 定时任务每天生成的 news.json 地址（GitHub Action 推到仓库后的 raw 链接）。
 // 部署时改成你自己的，例如 https://raw.githubusercontent.com/用户名/仓库名/main/news.json
 // 留空则跳过远程读取，仅用本地 news.json（http 服务器场景）与公共代理兜底。
-const NEWS_JSON_URL="https://raw.githubusercontent.com/34997593/english-workbench/main/news.json";
+const NEWS_JSON_URL="https://api.github.com/repos/34997593/english-workbench/contents/news.json";
 // 真实新闻无配套句型时用的通用句型库
 const UNIVERSAL_PATTERNS=[
   {en:"According to [source], [claim].",cn:"根据……，……。",tags:['引用观点'],examples:["According to the report, the economy is slowly recovering."]},
@@ -1017,9 +1017,18 @@ function parseRSS(xml,feedName){
 async function tryFetchNewsJson(url){
   if(!url) return null;
   try{
+    const isApi=url.includes('api.github.com/repos') && url.includes('/contents/');
     const r=await fetch(url,{cache:"no-store"});
     if(!r.ok) return null;
-    const data=await r.json();
+    let data;
+    if(isApi){
+      const meta=await r.json();
+      if(meta.encoding==='base64' && meta.content){
+        data=JSON.parse(atob(meta.content.replace(/\s/g,'')));
+      }else return null;
+    }else{
+      data=await r.json();
+    }
     if(data&&Array.isArray(data.articles)&&data.articles.length){
       data.articles.forEach(a=>{ if(!a.level) a.level=a.source||"真实"; });
       return data.articles;
@@ -1035,7 +1044,7 @@ async function loadRealNews(silent){
   if(!arts||!arts.length) arts=await tryFetchNewsJson(NEWS_JSON_URL);
   if(arts&&arts.length){
     realArticles=arts; usingReal=true; realIndex=0;
-    realStatus=`已接入 ${realArticles.length} 条真实新闻（GitHub Pages 每日缓存 · 更新于 ${realArticles[0]?.date||'今日'}）`;
+    realStatus=`已接入 ${realArticles.length} 条真实新闻（GitHub 每日缓存 · 更新于 ${realArticles[0]?.date||'今日'}）`;
     renderAllTabs(); toast(realStatus); updateRealUI(); return;
   }
   // 3) 公共代理现抓兜底
