@@ -56,6 +56,7 @@
   .action-bar{display:flex;gap:10px;margin-top:18px;flex-wrap:nowrap}
   .btn-pink{flex:1;min-width:0;white-space:nowrap;background:var(--pink);color:#fff;border:none;border-radius:999px;padding:10px 8px;font-size:13px;font-weight:700;box-shadow:0 4px 12px var(--shadow)}
   .btn-ghost{flex:1;min-width:0;white-space:nowrap;background:#fff;border:1px solid var(--line);border-radius:999px;padding:10px 8px;font-size:13px;font-weight:600;color:var(--ink)}
+  .src-toggle{background:var(--pink-light);border:1px solid var(--line);border-radius:999px;padding:6px 14px;font-size:12px;font-weight:600;color:var(--pink-dark)}
 
   /* vocab list */
   .vocab-item{display:flex;justify-content:space-between;align-items:center;padding:12px 0;border-bottom:1px solid var(--line)}
@@ -173,6 +174,9 @@
         <button class="btn-ghost" style="padding:8px 12px" onclick="prevArticle()">← 上一篇</button>
         <span id="articleCounter" style="font-size:12px;color:var(--muted);font-weight:600">1 / 1</span>
         <button class="btn-ghost" style="padding:8px 12px" onclick="nextArticle()">下一篇 →</button>
+      </div>
+      <div style="text-align:center;margin:-2px 0 12px">
+        <button class="src-toggle" id="srcToggle" onclick="toggleSource()">📰 真实新闻（点切换内置）</button>
       </div>
 
       <div class="article-meta">
@@ -1121,6 +1125,13 @@ function prevArticle(){
 }
 // 保留旧函数供兼容
 function nextRealArticle(){ nextArticle(); }
+// 在「真实新闻」与「内置 10 篇」之间切换
+function toggleSource(){
+  usingReal=!usingReal;
+  realIndex=0; todayIndex=0;
+  renderReadTab(); renderPatternsTab(); renderSpeakTab(); renderTransTab();
+  document.getElementById('mainScroll').scrollTop=0;
+}
 function openOriginal(){
   const a=currentArticle();
   if(a&&a.link) window.open(a.link,"_blank");
@@ -1132,6 +1143,8 @@ function updateRealUI(){
   if(ra) ra.style.display=usingReal?'flex':'none';
   const ob=document.getElementById('origBtn');
   if(ob) ob.style.display=(usingReal&&currentArticle().link)?'inline-block':'none';
+  const st=document.getElementById('srcToggle');
+  if(st) st.textContent=usingReal?'📰 真实新闻（点切换内置）':'📚 内置文章（点切换真实）';
 }
 
 /* ================= SAVED TAB ================= */
