@@ -1249,25 +1249,31 @@ function speak(text){
 }
 // 长文本按句朗读（播放全文），避免浏览器静默截断
 function speakLong(text){
-  if(!('speechSynthesis' in window)){toast('当前浏览器不支持语音朗读');return;}
+  if(!('speechSynthesis' in window)){toast('当前浏览器不支持语音朗读，建议用手机 Safari / Chrome');return;}
   const sentences=text.split(/(?<=[.!?])\s+/).map(s=>s.trim()).filter(Boolean);
   if(!sentences.length) return;
-  let i=0, started=false;
+  let i=0;
   const step=()=>{
     if(i>=sentences.length) return;
     const v=pickVoice();
-    if(!v){toast('未检测到英文语音包，请在系统设置里开启一个英文 TTS 语音');return;}
+    if(!v){toast('未检测到英文语音包，请在系统设置里开启一个英文 TTS 语音（Windows：设置→时间和语言→语音→添加 English 语音）');return;}
     const u=new SpeechSynthesisUtterance(sentences[i]);
     u.lang=settings.accent; u.rate=.9; u.voice=v;
     u.onend=()=>{i++; step();};
     u.onerror=()=>{i++; step();};
     window.speechSynthesis.speak(u);
   };
-  const start=()=>{if(started)return; started=true; step();};
-  if(getVoices().length===0){
+  // 预热：先触发一次加载
+  getVoices();
+  if(getVoices().length){
+    step();
+  }else{
+    let done=false;
+    const start=()=>{if(done)return;done=true;step();};
     window.speechSynthesis.onvoiceschanged=start;
-    setTimeout(()=>{if(getVoices().length)start();},400);
-  }else start();
+    // 兜底：即便语音引擎迟迟不就绪，也尝试一次（step 内部会给出无语音包提示）
+    setTimeout(()=>{if(!done)start();},800);
+  }
 }
 
 /* ================= TOAST ================= */
@@ -1287,6 +1293,8 @@ function esc(s){return (s||'').replace(/[&<>]/g,c=>({'&':'&amp;','<':'&lt;','>':
 
 // start
 init();
+// 预热语音引擎：部分浏览器首次 getVoices() 返回空，先触发加载，之后点击朗读才同步可用
+if('speechSynthesis' in window){ window.speechSynthesis.getVoices(); }
 </script>
 </body>
 </html>
