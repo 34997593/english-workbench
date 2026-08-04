@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04T14:38:11Z",
+  "updated": "2026-08-04T14:42:15Z",
   "count": 60,
   "articles": [
     {
@@ -59,22 +59,22 @@
     },
     {
       "source": "NPR",
-      "link": "https://www.npr.org/2026/08/04/nx-s1-5697067/texas-banking-goldman-sachs-wall-street",
-      "title": "Why Texas is betting 'Y'all Street' can take on Wall Street",
-      "summary": "Dallas's financial industry is growing, amid a larger Texas business boom. But can it really steal New York's crown?",
+      "link": "https://www.npr.org/2026/08/04/nx-s1-5918682/2026-primary-elections-michigan-wisconsin",
+      "title": "Primaries in the Midwest have become a high stakes proving ground for progressives",
+      "summary": "Democratic primary elections in Michigan, Wisconsin and Minnesota have made the Midwest a test case for whether progressive candidates can win in competitive states and what electability really means.",
       "paragraphs": [
-        "Dallas's financial industry is growing, amid a larger Texas business boom. But can it really steal New York's crown?"
+        "Democratic primary elections in Michigan, Wisconsin and Minnesota have made the Midwest a test case for whether progressive candidates can win in competitive states and what electability really means."
       ],
       "date": "2026-08-04",
       "real": true
     },
     {
       "source": "NPR",
-      "link": "https://www.npr.org/2026/08/04/nx-s1-5918682/2026-primary-elections-michigan-wisconsin",
-      "title": "Primaries in the Midwest have become a high stakes proving ground for progressives",
-      "summary": "Democratic primary elections in Michigan, Wisconsin and Minnesota have made the Midwest a test case for whether progressive candidates can win in competitive states and what electability really means.",
+      "link": "https://www.npr.org/2026/08/04/nx-s1-5697067/texas-banking-goldman-sachs-wall-street",
+      "title": "Why Texas is betting 'Y'all Street' can take on Wall Street",
+      "summary": "Dallas's financial industry is growing, amid a larger Texas business boom. But can it really steal New York's crown?",
       "paragraphs": [
-        "Democratic primary elections in Michigan, Wisconsin and Minnesota have made the Midwest a test case for whether progressive candidates can win in competitive states and what electability really means."
+        "Dallas's financial industry is growing, amid a larger Texas business boom. But can it really steal New York's crown?"
       ],
       "date": "2026-08-04",
       "real": true
@@ -109,6 +109,39 @@
       "summary": "From Michigan's Senate and governor primary to Missouri's 1st Congressional District, a number of key races in primary elections Tuesday could signal the future for Democrats and Republicans.",
       "paragraphs": [
         "From Michigan's Senate and governor primary to Missouri's 1st Congressional District, a number of key races in primary elections Tuesday could signal the future for Democrats and Republicans."
+      ],
+      "date": "2026-08-04",
+      "real": true
+    },
+    {
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/8/4/beirut-port-blast-anniversary-overshadowed-by-new-wave-of-destruction?traffic_source=rss",
+      "title": "Beirut port blast anniversary overshadowed by new wave of destruction",
+      "summary": "",
+      "paragraphs": [
+        ""
+      ],
+      "date": "2026-08-04",
+      "real": true
+    },
+    {
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/sports/2026/8/4/fifa-deny-infantino-sought-trump-backing-after-failed-world-cup-sell-off?traffic_source=rss",
+      "title": "FIFA denies Infantino sought Trump backing after failed World Cup selloff",
+      "summary": "",
+      "paragraphs": [
+        ""
+      ],
+      "date": "2026-08-04",
+      "real": true
+    },
+    {
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/features/2026/8/4/why-are-oil-companies-posting-record-profits-amid-iran-war-disruption?traffic_source=rss",
+      "title": "Why are oil companies posting record profits amid Iran war disruption?",
+      "summary": "",
+      "paragraphs": [
+        ""
       ],
       "date": "2026-08-04",
       "real": true
@@ -348,39 +381,6 @@
       "source": "Al Jazeera",
       "link": "https://www.aljazeera.com/opinions/2026/8/4/we-demand-accountability-for-the-beirut-blast?traffic_source=rss",
       "title": "We demand accountability for the Beirut blast",
-      "summary": "",
-      "paragraphs": [
-        ""
-      ],
-      "date": "2026-08-04",
-      "real": true
-    },
-    {
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/sports/2026/8/4/uefa-confirm-legal-letter-served-to-fifa-after-infantino-world-cup-plan?traffic_source=rss",
-      "title": "UEFA confirms legal letter served to FIFA after Infantino’s World Cup plan",
-      "summary": "",
-      "paragraphs": [
-        ""
-      ],
-      "date": "2026-08-04",
-      "real": true
-    },
-    {
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/8/4/us-arrests-suspect-over-spokane-wildfire-as-tens-of-thousands-flee-blaze?traffic_source=rss",
-      "title": "US arrests suspect over Spokane wildfire as tens of thousands flee blaze",
-      "summary": "",
-      "paragraphs": [
-        ""
-      ],
-      "date": "2026-08-04",
-      "real": true
-    },
-    {
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/sports/2026/8/4/ufcs-allan-nascimento-dead-aged-34-after-apparent-heart-attack?traffic_source=rss",
-      "title": "Nascimento: UFC fighter dead at 34 after apparent heart attack",
       "summary": "",
       "paragraphs": [
         ""
