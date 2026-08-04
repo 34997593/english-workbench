@@ -1,0 +1,1247 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<title>英语工作台 · English Workbench</title>
+<style>
+  :root{
+    --pink:#ff6b9d; --pink-dark:#e84a7f; --pink-light:#fff0f5; --pink-soft:#ffe4ed;
+    --bg:#fff5f8; --card:#ffffff; --ink:#2d2d2d; --muted:#8a8a8a;
+    --line:#f0d6e0; --shadow:rgba(255,107,157,.12); --green:#22c55e;
+    --accent-blue:#60a5fa; --yellow:#fbbf24;
+  }
+  *{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+  html,body{height:100%;margin:0;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"PingFang SC","Microsoft YaHei",sans-serif;background:var(--bg);color:var(--ink);}
+  body{display:flex;flex-direction:column;overflow:hidden}
+  .scroll{flex:1;overflow-y:auto;padding:16px;padding-bottom:100px;-webkit-overflow-scrolling:touch}
+
+  /* header */
+  .header{background:linear-gradient(135deg,var(--pink),var(--pink-dark));color:#fff;padding:16px 18px 22px;border-radius:0 0 24px 24px;box-shadow:0 6px 20px var(--shadow)}
+  .header-top{display:flex;align-items:center;gap:12px}
+  .avatar{width:46px;height:46px;border-radius:50%;background:#fff;display:flex;align-items:center;justify-content:center;font-size:26px;border:3px solid rgba(255,255,255,.4)}
+  .title{flex:1}
+  .title h1{margin:0;font-size:18px;font-weight:700}
+  .title small{display:block;font-size:11px;opacity:.9;margin-top:2px}
+  .settings-btn{width:38px;height:38px;border-radius:50%;background:rgba(255,255,255,.22);border:none;color:#fff;font-size:18px;display:flex;align-items:center;justify-content:center}
+  .progress-row{display:flex;gap:10px;margin-top:14px}
+  .progress-pill{flex:1;background:rgba(255,255,255,.18);border-radius:999px;padding:8px 12px;font-size:12px;text-align:center;font-weight:600}
+
+  /* tabs */
+  .tabs{position:sticky;top:0;z-index:5;display:flex;gap:8px;padding:14px 16px;overflow-x:auto;background:var(--bg);scrollbar-width:none}
+  .tabs::-webkit-scrollbar{display:none}
+  .tab{white-space:nowrap;border:1px solid var(--line);background:#fff;border-radius:999px;padding:8px 16px;font-size:13px;font-weight:600;color:var(--muted);cursor:pointer}
+  .tab.active{background:var(--pink);color:#fff;border-color:var(--pink);box-shadow:0 4px 12px var(--shadow)}
+
+  /* cards */
+  .card{background:var(--card);border-radius:20px;padding:18px;margin-bottom:14px;box-shadow:0 2px 10px var(--shadow)}
+  .card-title{font-size:16px;font-weight:700;margin-bottom:4px}
+  .card-sub{font-size:12px;color:var(--muted);margin-bottom:14px}
+  .tag{display:inline-block;background:var(--pink-light);color:var(--pink-dark);border-radius:999px;padding:3px 10px;font-size:11px;font-weight:700;margin-right:6px}
+
+  /* reading */
+  .article-meta{display:flex;gap:8px;align-items:center;margin-bottom:12px;flex-wrap:wrap}
+  .article-title{font-size:20px;font-weight:800;line-height:1.3;margin-bottom:8px;color:var(--pink-dark)}
+  .article-source{font-size:12px;color:var(--muted)}
+  .article-source b,.article-date b{color:var(--ink);font-weight:600}
+  .article-date{font-size:12px;color:var(--muted)}
+  .meta-sep{color:var(--line);font-size:12px}
+  .article-summary{background:var(--pink-light);border-radius:12px;padding:12px;font-size:13px;color:#7a3e52;margin-bottom:16px;line-height:1.6}
+  .article-body{font-size:16px;line-height:1.85;color:#3a3a3a}
+  .article-body p{margin:0 0 14px}
+  .word{display:inline;color:var(--ink);border-radius:4px;padding:1px 1px;transition:.1s}
+  .word:active{background:var(--pink-soft)}
+  .word:hover{background:var(--pink-soft)}
+  .key-word{font-weight:700;color:var(--pink-dark)}
+  .action-bar{display:flex;gap:10px;margin-top:18px;flex-wrap:wrap}
+  .btn-pink{background:var(--pink);color:#fff;border:none;border-radius:999px;padding:10px 18px;font-size:13px;font-weight:700;box-shadow:0 4px 12px var(--shadow)}
+  .btn-ghost{background:#fff;border:1px solid var(--line);border-radius:999px;padding:10px 16px;font-size:13px;font-weight:600;color:var(--ink)}
+
+  /* vocab list */
+  .vocab-item{display:flex;justify-content:space-between;align-items:center;padding:12px 0;border-bottom:1px solid var(--line)}
+  .vocab-item:last-child{border-bottom:none}
+  .vocab-word{font-weight:700;color:var(--pink-dark)}
+  .vocab-mean{font-size:12px;color:var(--muted);margin-top:2px}
+  .mini-play{width:30px;height:30px;border-radius:50%;background:var(--pink-light);border:none;color:var(--pink-dark);font-size:12px}
+
+  /* patterns */
+  .pattern-card{background:var(--pink-light);border-radius:16px;padding:16px;margin-bottom:14px}
+  .pattern-en{font-size:16px;font-weight:700;color:var(--pink-dark);margin-bottom:6px}
+  .pattern-cn{font-size:13px;color:#7a3e52;margin-bottom:10px}
+  .pattern-tag{display:inline-block;background:#fff;color:var(--pink-dark);border-radius:999px;padding:2px 8px;font-size:11px;font-weight:700;margin-right:4px}
+  .example{font-size:13px;color:#555;margin:6px 0;padding-left:12px;border-left:3px solid var(--pink)}
+  .imitate-input{width:100%;border:1px solid var(--line);border-radius:14px;padding:12px;font-size:14px;margin-top:10px;font-family:inherit}
+
+  /* translation */
+  .trans-item{background:#fff;border:1px solid var(--line);border-radius:16px;padding:14px;margin-bottom:12px}
+  .trans-cn{font-size:15px;margin-bottom:10px;font-weight:500}
+  .trans-key{font-size:11px;color:var(--pink-dark);background:var(--pink-light);border-radius:999px;padding:2px 8px;margin-bottom:8px;display:inline-block}
+  .trans-answer{font-size:13px;color:var(--green);margin-top:8px;display:none;background:#f0fdf4;padding:10px;border-radius:10px}
+  .trans-en-src{font-size:14px;background:#fff7fb;border:1px solid var(--line);border-radius:10px;padding:10px;margin-bottom:10px;line-height:1.6;color:var(--ink)}
+  .real-status{font-size:12px;color:var(--pink-dark);margin-top:10px;background:var(--pink-light);border-radius:10px;padding:8px 10px;line-height:1.4}
+  .trans-answer.show{display:block}
+
+  /* saved */
+  .saved-empty{text-align:center;padding:40px 20px;color:var(--muted)}
+  .saved-list .card{padding:14px}
+  .saved-row{display:flex;justify-content:space-between;align-items:flex-start;gap:10px;padding:10px 0;border-bottom:1px solid var(--line)}
+  .saved-row:last-child{border-bottom:none}
+  .saved-en{font-weight:700;color:var(--pink-dark)}
+  .saved-cn{font-size:12px;color:var(--muted);margin-top:2px}
+  .del-btn{color:#ef4444;font-size:12px;border:none;background:transparent}
+
+  /* bottom nav */
+  .bottom-nav{position:fixed;bottom:0;left:0;right:0;background:#fff;border-top:1px solid var(--line);display:flex;justify-content:space-around;padding:8px 0 12px;z-index:10}
+  .nav-item{flex:1;text-align:center;font-size:11px;color:var(--muted);cursor:pointer;padding:4px}
+  .nav-item.active{color:var(--pink-dark);font-weight:700}
+  .nav-item .icon{font-size:22px;display:block;margin-bottom:2px}
+
+  /* modals */
+  .overlay{position:fixed;inset:0;background:rgba(0,0,0,.45);z-index:50;display:none;align-items:center;justify-content:center;padding:20px}
+  .overlay.show{display:flex}
+  .modal{background:#fff;border-radius:24px;width:100%;max-width:420px;max-height:85vh;overflow:hidden;display:flex;flex-direction:column}
+  .modal-header{padding:16px 18px;border-bottom:1px solid var(--line);font-weight:700;display:flex;justify-content:space-between;align-items:center}
+  .modal-body{padding:16px 18px;overflow-y:auto}
+  .close-btn{background:none;border:none;font-size:22px;color:var(--muted)}
+
+  /* bottom sheet */
+  .sheet-overlay{position:fixed;inset:0;background:rgba(0,0,0,.35);z-index:60;display:none}
+  .sheet-overlay.show{display:block}
+  .sheet{position:fixed;left:0;right:0;bottom:0;background:#fff;border-radius:24px 24px 0 0;padding:18px 18px 28px;z-index:61;transform:translateY(110%);transition:transform .25s ease-out;max-height:70vh;overflow-y:auto}
+  .sheet.show{transform:translateY(0)}
+  .sheet-handle{width:40px;height:5px;background:var(--line);border-radius:999px;margin:0 auto 14px}
+  .sheet-word{font-size:24px;font-weight:800;color:var(--pink-dark)}
+  .sheet-phon{font-size:14px;color:var(--muted);margin:4px 0 12px}
+  .sheet-section{margin-bottom:14px}
+  .sheet-pos{font-size:12px;font-weight:700;color:var(--pink);margin-bottom:4px}
+  .sheet-def{font-size:14px;color:#444;line-height:1.5}
+  .sheet-example{font-size:13px;color:var(--muted);font-style:italic;margin-top:6px;padding-left:10px;border-left:3px solid var(--pink-soft)}
+  .avatar-grid{display:grid;grid-template-columns:repeat(5,1fr);gap:10px;margin:12px 0}
+  .avatar-opt{width:48px;height:48px;border-radius:50%;background:var(--pink-light);display:flex;align-items:center;justify-content:center;font-size:26px;border:2px solid transparent;cursor:pointer}
+  .avatar-opt.selected{border-color:var(--pink)}
+  .input-line{width:100%;border:1px solid var(--line);border-radius:12px;padding:10px 12px;font-size:14px;margin-top:6px;font-family:inherit}
+  .accent-row{display:flex;gap:10px;margin-top:8px}
+  .accent-btn{flex:1;border:1px solid var(--line);border-radius:12px;padding:10px;text-align:center;font-size:13px;cursor:pointer;background:#fff}
+  .accent-btn.selected{background:var(--pink);color:#fff;border-color:var(--pink)}
+  .hint{font-size:12px;color:var(--muted);margin-top:6px;line-height:1.4}
+
+  /* speak tab */
+  .speak-card{background:#fff;border-radius:18px;padding:16px;margin-bottom:14px;border:1px solid var(--line)}
+  .speak-sentence{font-size:16px;line-height:1.7;margin-bottom:12px}
+  .current-sent{background:var(--pink-light);border-radius:10px;padding:12px;font-size:16px;line-height:1.7;margin-bottom:12px}
+
+  @media(min-width:640px){
+    body{max-width:480px;margin:0 auto;border-left:1px solid var(--line);border-right:1px solid var(--line)}
+  }
+</style>
+</head>
+<body>
+
+<!-- Header -->
+<div class="header">
+  <div class="header-top">
+    <div class="avatar" id="headerAvatar">🦊</div>
+    <div class="title">
+      <h1 id="headerName">小胡豆英语工作台</h1>
+      <small>v1.0 · 阅读驱动 · 每天进步一点点</small>
+    </div>
+    <button class="settings-btn" onclick="openSettings()">⚙️</button>
+  </div>
+  <div class="progress-row">
+    <div class="progress-pill">🔥 连续 <span id="streak">0</span> 天</div>
+    <div class="progress-pill">✅ 今日 <span id="done">0</span>/3</div>
+  </div>
+</div>
+
+<!-- Tabs -->
+<div class="tabs" id="topTabs">
+  <div class="tab active" data-tab="read" onclick="switchTab('read')">每日阅读</div>
+  <div class="tab" data-tab="patterns" onclick="switchTab('patterns')">写作句型</div>
+  <div class="tab" data-tab="speak" onclick="switchTab('speak')">口语朗读</div>
+  <div class="tab" data-tab="translate" onclick="switchTab('translate')">中译英</div>
+  <div class="tab" data-tab="saved" onclick="switchTab('saved')">我的收藏</div>
+</div>
+
+<!-- Scrollable Content -->
+<div class="scroll" id="mainScroll">
+
+  <!-- READ TAB -->
+  <div id="tab-read" class="tab-page">
+    <div class="card">
+      <div class="article-meta">
+        <span class="tag" id="readLevel">简单</span>
+        <span class="meta-sep">·</span>
+        <span class="article-source">📍 来源：<b id="readSource">—</b></span>
+        <span class="meta-sep">·</span>
+        <span class="article-date">🕒 <b id="readDate">—</b></span>
+      </div>
+      <div class="article-title" id="readTitle">标题</div>
+      <div class="article-summary" id="readSummary">中文导读</div>
+      <div class="article-body" id="readBody">正文</div>
+      <div class="action-bar">
+        <button class="btn-pink" onclick="playFullArticle()">▶ 播放全文</button>
+        <button class="btn-ghost" onclick="saveSentence()">💾 收藏好句</button>
+        <button class="btn-ghost" onclick="markDone()">✓ 标记完成</button>
+      </div>
+      <div class="action-bar" id="realActions" style="display:none;margin-top:10px">
+        <button class="btn-ghost" onclick="loadRealNews(false)">↻ 刷新真实新闻</button>
+        <button class="btn-ghost" onclick="nextRealArticle()">📰 换一篇</button>
+        <button class="btn-ghost" id="origBtn" style="display:none" onclick="openOriginal()">🔗 看原文</button>
+      </div>
+      <div id="realStatus" class="real-status"></div>
+    </div>
+    <div class="card">
+      <div class="card-title">本课重点词</div>
+      <div class="card-sub">点击单词可查看释义</div>
+      <div id="keyVocab"></div>
+    </div>
+  </div>
+
+  <!-- PATTERNS TAB -->
+  <div id="tab-patterns" class="tab-page" style="display:none">
+    <div class="card">
+      <div class="card-title">今日写作句型</div>
+      <div class="card-sub">来自今日阅读，点击「AI 批改」需要填入 OpenAI Key</div>
+      <div id="patternsList"></div>
+    </div>
+  </div>
+
+  <!-- SPEAK TAB -->
+  <div id="tab-speak" class="tab-page" style="display:none">
+    <div class="card">
+      <div class="card-title">口语朗读</div>
+      <div class="card-sub">跟读今日文章中的句子，练发音和节奏</div>
+      <div class="current-sent" id="speakSentence">句子</div>
+      <button class="btn-pink" onclick="speakCurrent()">▶ 朗读本句</button>
+      <div style="margin-top:18px" id="speakList"></div>
+    </div>
+  </div>
+
+  <!-- TRANSLATE TAB -->
+  <div id="tab-translate" class="tab-page" style="display:none">
+    <div class="card">
+      <div class="card-title">中译英练习</div>
+      <div class="card-sub">围绕今日主题，写完后可对照参考答案</div>
+      <div id="transList"></div>
+    </div>
+  </div>
+
+  <!-- SAVED TAB -->
+  <div id="tab-saved" class="tab-page" style="display:none">
+    <div class="card">
+      <div class="card-title">我的收藏</div>
+      <div class="card-sub">点文章里的单词或好句即可收藏到这里</div>
+      <div id="savedList"><div class="saved-empty">还没有收藏，快去阅读里点击单词吧～</div></div>
+    </div>
+  </div>
+
+</div>
+
+<!-- Bottom Nav -->
+<div class="bottom-nav">
+  <div class="nav-item active" data-tab="read" onclick="switchTab('read')">
+    <span class="icon">📖</span>阅读
+  </div>
+  <div class="nav-item" data-tab="patterns" onclick="switchTab('patterns')">
+    <span class="icon">✍️</span>句型
+  </div>
+  <div class="nav-item" data-tab="speak" onclick="switchTab('speak')">
+    <span class="icon">🎙️</span>朗读
+  </div>
+  <div class="nav-item" data-tab="translate" onclick="switchTab('translate')">
+    <span class="icon">🔄</span>中译英
+  </div>
+  <div class="nav-item" data-tab="saved" onclick="switchTab('saved')">
+    <span class="icon">⭐</span>收藏
+  </div>
+</div>
+
+<!-- Settings Modal -->
+<div class="overlay" id="settingsOverlay" onclick="if(event.target===this)closeSettings()">
+  <div class="modal">
+    <div class="modal-header">个性化设置<span class="close-btn" onclick="closeSettings()">×</span></div>
+    <div class="modal-body">
+      <label style="font-size:13px;font-weight:700">选择头像</label>
+      <div class="avatar-grid" id="avatarGrid"></div>
+      <label style="font-size:13px;font-weight:700">工作台名称</label>
+      <input class="input-line" id="nameInput" placeholder="给你的工作台起个名字">
+      <label style="font-size:13px;font-weight:700;margin-top:14px;display:block">发音偏好</label>
+      <div class="accent-row">
+        <div class="accent-btn" data-accent="en-US" onclick="selectAccent('en-US')">🇺🇸 美音</div>
+        <div class="accent-btn" data-accent="en-GB" onclick="selectAccent('en-GB')">🇬🇧 英音</div>
+      </div>
+      <label style="font-size:13px;font-weight:700;margin-top:14px;display:block">OpenAI API Key（可选）</label>
+      <input class="input-line" id="keyInput" type="password" placeholder="sk-... 用于 AI 批改">
+      <div class="hint">Key 只存在你的浏览器本地，不会上传给我。不填也能用除 AI 批改外的所有功能。</div>
+      <label style="font-size:13px;font-weight:700;margin-top:14px;display:block">自定义代理（可选，解决真实新闻加载失败）</label>
+      <input class="input-line" id="proxyInput" placeholder="如 https://你的代理/?url=">
+      <div class="hint">若真实新闻一直加载失败（多为网络/代理被墙），可填一个你能访问的 CORS 代理地址前缀，保存后会优先使用。留空则用内置公共代理。</div>
+      <button class="btn-pink" style="width:100%;margin-top:18px" onclick="saveSettings()">保存</button>
+      <div style="display:flex;gap:10px;margin-top:14px">
+        <button class="btn-ghost" style="flex:1" onclick="exportBackup()">⬇ 导出备份</button>
+        <button class="btn-ghost" style="flex:1" onclick="document.getElementById('importFile').click()">⬆ 导入备份</button>
+      </div>
+      <input type="file" id="importFile" accept="application/json" style="display:none" onchange="importBackup(this.files[0])">
+      <div class="hint" style="margin-top:10px">备份包含收藏、学习进度、设置。换手机或清缓存前导出，之后导入即可恢复。</div>
+    </div>
+  </div>
+</div>
+
+<!-- Word Sheet -->
+<div class="sheet-overlay" id="sheetOverlay" onclick="closeSheet()"></div>
+<div class="sheet" id="wordSheet">
+  <div class="sheet-handle"></div>
+  <div style="display:flex;justify-content:space-between;align-items:flex-start">
+    <div>
+      <div class="sheet-word" id="sheetWord">word</div>
+      <div class="sheet-phon" id="sheetPhon">/wɜːrd/</div>
+    </div>
+    <button class="mini-play" style="width:44px;height:44px;font-size:18px" onclick="speakWord()">🔊</button>
+  </div>
+  <div id="sheetDefs"></div>
+  <div style="margin-top:16px;display:flex;gap:10px">
+    <button class="btn-pink" onclick="saveWordFromSheet()">⭐ 收藏单词</button>
+    <button class="btn-ghost" onclick="closeSheet()">关闭</button>
+  </div>
+</div>
+
+<script>
+/* ================= DATA ================= */
+const AVATARS = ['🦊','🍑','🌸','📚','🐰','💡','🍎','🌷','⭐','🐱'];
+const ARTICLES = [
+  {
+    title:"The Cost of Constant Connection",
+    source:"Workbench Original",
+
+    date:"2026-07-26",
+    level:"简单",
+    summary:"我们时刻在线，但真正的交流却在减少。这篇文章探讨智能手机如何改变人际关系，以及我们为什么需要数字断联。",
+    paragraphs:[
+      "In an era where digital interfaces mediate the majority of our interpersonal exchanges, the quality of human communication has undergone a subtle yet profound deterioration. While technology ostensibly connects us across vast distances, it frequently undermines the authentic bond that underpins meaningful relationships.",
+      "The proliferation of social media platforms has cultivated a culture of performance. Individuals meticulously curate their online personas, prioritizing superficial validation over genuine self-expression. Consequently, conversations grow increasingly transactional—a decisive paradigm shift that erodes our capacity for vulnerability.",
+      "Moreover, the ephemeral nature of instant messaging discourages deliberation. Nuance is sacrificed at the altar of speed; complex emotions are compressed into emojis. The ubiquitous presence of notifications leaves our attention fragmented, making deep listening a rare luxury rather than a daily practice.",
+      "The remedy is not to abandon technology but to establish boundaries. By designating screen-free zones and practicing intentional communication, we can reclaim the depth that constant connectivity has quietly stolen."
+    ],
+    keyWords:['era','interface','interpersonal','deterioration','ostensibly','authentic','proliferation','meticulously','curate','persona','validation','transactional','paradigm','vulnerability','ephemeral','nuance','ubiquitous','fragmented','remedy','intentional'],
+    patterns:[
+      {en:"In an era where [X] has [done Y], [Z] has undergone a subtle yet profound deterioration.",cn:"在一个……的时代，……经历了微妙而深刻的恶化。",tags:['论文开头'],examples:["In an era where artificial intelligence has reshaped education, the role of human teachers has undergone a subtle yet profound transformation."]},
+      {en:"While [X] ostensibly [does Y], it frequently undermines [Z].",cn:"虽然……表面上……，但它常常损害……。",tags:['让步转折'],examples:["While social media ostensibly brings people together, it frequently undermines genuine face-to-face interaction."]},
+      {en:"The proliferation of [X] has cultivated a culture of [Y].",cn:"……的激增孕育了一种……的文化。",tags:['引出现象'],examples:["The proliferation of remote work tools has cultivated a culture of flexibility and autonomy."]}
+    ],
+    translations:[
+      {cn:"在一个数字工具主导人际交流的时代，沟通质量正在悄然下降。",keys:['digital tools','dominate','interpersonal communication','decline'],answer:"In an era where digital tools dominate interpersonal communication, the quality of conversation is quietly declining."},
+      {cn:"虽然社交媒体表面上拉近了距离，但它常常削弱真实的情感连接。",keys:['social media','superficially','erode','authentic connection'],answer:"While social media superficially brings us closer, it often erodes authentic emotional connection."},
+      {cn:"智能手机的普及使我们的注意力变得碎片化。",keys:['smartphones','ubiquitous','attention','fragmented'],answer:"The ubiquitous presence of smartphones has left our attention fragmented."},
+      {cn:"我们需要设定界限，才能夺回被科技偷走的深度交流。",keys:['set boundaries','reclaim','technology','deep communication'],answer:"We need to set boundaries in order to reclaim the deep communication that technology has stolen."},
+      {cn:"真正的倾听在当今世界已成为一种稀有的奢侈。",keys:['genuine listening','rare luxury','modern world'],answer:"Genuine listening has become a rare luxury in the modern world."}
+    ]
+  },
+  {
+    title:"Learning a Language as an Adult",
+    source:"Workbench Original",
+
+    date:"2026-07-27",
+    level:"简单",
+    summary:"成年人学语言常被误以为太晚，但研究显示成人有更成熟的学习策略。关键是兴趣、频率和敢于犯错。",
+    paragraphs:[
+      "Contrary to popular belief, adults possess distinct advantages when acquiring a second language. Their mature cognitive abilities enable them to recognize patterns, draw analogies, and apply explicit grammar rules with greater efficiency than young children.",
+      "The primary obstacle for adult learners is not age but psychology. Many fear embarrassment and therefore avoid speaking until they feel fully prepared. This perfectionist tendency creates a vicious cycle: the less they speak, the less confident they become, and the slower their progress.",
+      "Research suggests that consistency outweighs intensity. Studying for twenty minutes each day yields better long-term retention than cramming for three hours once a week. Furthermore, integrating the language into enjoyable activities—reading novels, watching films, or listening to podcasts—transforms study from a chore into a habit.",
+      "Ultimately, language learning is less about innate talent and more about resilience. Adults who embrace mistakes as valuable feedback rather than evidence of failure tend to advance steadily toward fluency."
+    ],
+    keyWords:['contrary','acquiring','cognitive','analogies','explicit','obstacle','psychology','embarrassment','perfectionist','vicious','consistency','retention','cramming','integrating','chore','ultimately','innate','resilience','feedback','fluency'],
+    patterns:[
+      {en:"Contrary to popular belief, [X] possess distinct advantages when [doing Y].",cn:"与普遍看法相反，……在做某事时拥有独特优势。",tags:['驳论开头'],examples:["Contrary to popular belief, introverts possess distinct advantages when leading creative teams."]},
+      {en:"The primary obstacle for [X] is not [Y] but [Z].",cn:"……的主要障碍不是……而是……。",tags:['转折强调'],examples:["The primary obstacle for remote workers is not technology but loneliness."]},
+      {en:"[X] yields better long-term results than [Y].",cn:"……比……带来更好的长期效果。",tags:['比较论证'],examples:["Consistent exercise yields better long-term results than occasional intense workouts."]}
+    ],
+    translations:[
+      {cn:"与普遍看法相反，成年人在学习第二语言时具有独特优势。",keys:['contrary to popular belief','adults','second language','advantages'],answer:"Contrary to popular belief, adults possess distinct advantages when learning a second language."},
+      {cn:"成人学习者的主要障碍不是年龄，而是害怕犯错的心理。",keys:['obstacle','adult learners','not age','fear of mistakes'],answer:"The primary obstacle for adult learners is not age but the fear of making mistakes."},
+      {cn:"每天坚持学习 20 分钟，比一周突击三小时效果更好。",keys:['twenty minutes daily','better','cramming'],answer:"Studying for twenty minutes each day yields better results than cramming for three hours once a week."},
+      {cn:"把语言学习融入感兴趣的活动，能把它从苦差事变成习惯。",keys:['integrate','enjoyable activities','chore','habit'],answer:"Integrating language learning into enjoyable activities can transform it from a chore into a habit."},
+      {cn:"把错误视为有价值的反馈，而非失败的证据。",keys:['mistakes','valuable feedback','evidence of failure'],answer:"View mistakes as valuable feedback rather than evidence of failure."}
+    ]
+  },
+  {
+    title:"Why We Procrastinate",
+    source:"Workbench Original",
+
+    date:"2026-07-28",
+    level:"简单",
+    summary:"拖延不是懒惰，而是情绪调节问题。文章解释了我们为什么会逃避任务，并给出小而可行的应对方法。",
+    paragraphs:[
+      "Procrastination is rarely a sign of laziness. More often, it is an emotional regulation problem. When a task feels overwhelming or threatens our self-esteem, we delay it to avoid the discomfort of beginning.",
+      "The human brain is wired to prioritize immediate rewards over future benefits. Checking social media provides a quick dopamine hit, whereas writing a report offers only a distant sense of accomplishment. This mismatch explains why we choose short-term relief even when we understand the long-term consequences.",
+      "Interestingly, perfectionism and procrastination are closely linked. People who set unrealistically high standards often postpone starting because they dread producing imperfect work. The task becomes so intimidating in their imagination that any distraction feels preferable.",
+      "The antidote is to shrink the task. Instead of aiming to complete the entire project, commit to working for just five minutes. Once momentum builds, resistance tends to fade, and the task becomes far more manageable than anticipated."
+    ],
+    keyWords:['procrastination','laziness','regulation','overwhelming','self-esteem','discomfort','wired','prioritize','dopamine','accomplishment','mismatch','consequences','perfectionism','unrealistically','dread','intimidating','distraction','antidote','momentum','resistance'],
+    patterns:[
+      {en:"[X] is rarely a sign of [Y]. More often, it is a [Z] problem.",cn:"……很少是……的表现，更多是一个……问题。",tags:['重新定义问题'],examples:["Anxiety is rarely a sign of weakness. More often, it is a signal that something needs attention."]},
+      {en:"The human brain is wired to prioritize [X] over [Y].",cn:"人类大脑倾向于优先……而非……。",tags:['解释原因'],examples:["The human brain is wired to prioritize safety over uncertainty."]},
+      {en:"The antidote is to [X].",cn:"解药/对策就是……。",tags:['提出建议'],examples:["The antidote to information overload is to set clear boundaries on what we consume."]}
+    ],
+    translations:[
+      {cn:"拖延很少是懒惰的表现，更多是一种情绪调节问题。",keys:['procrastination','laziness','emotional regulation'],answer:"Procrastination is rarely a sign of laziness. More often, it is an emotional regulation problem."},
+      {cn:"人类大脑倾向于优先选择即时奖励，而非长远利益。",keys:['human brain','immediate rewards','long-term benefits'],answer:"The human brain is wired to prioritize immediate rewards over long-term benefits."},
+      {cn:"完美主义和拖延症密切相关。",keys:['perfectionism','procrastination','closely linked'],answer:"Perfectionism and procrastination are closely linked."},
+      {cn:"我们常常选择短期解脱，即使清楚长期后果。",keys:['choose','short-term relief','long-term consequences'],answer:"We often choose short-term relief even when we understand the long-term consequences."},
+      {cn:"对策是把任务缩小，先承诺只做五分钟。",keys:['shrink the task','commit','five minutes'],answer:"The antidote is to shrink the task and commit to working for just five minutes."}
+    ]
+  },
+  {
+    title:"The Rise of Remote Work",
+    source:"Workbench Original",
+
+    date:"2026-07-29",
+    level:"简单",
+    summary:"远程办公改变了工作方式，带来自由也带来挑战。文章讨论它的利弊以及如何保持效率。",
+    paragraphs:[
+      "Remote work has transformed from a temporary measure into a permanent arrangement for millions of professionals. The elimination of daily commutes has given employees back precious hours, while employers have discovered that productivity does not necessarily depend on physical presence.",
+      "Yet this new model is not without drawbacks. The boundaries between work and personal life have blurred, making it difficult for many people to truly disconnect. Virtual meetings, though convenient, often lack the spontaneous collaboration that occurs naturally in shared office spaces.",
+      "Another challenge is the erosion of workplace culture. Casual conversations by the coffee machine and impromptu team lunches play a larger role in building trust than most managers realize. When these moments disappear, employees may feel isolated and less aligned with organizational goals.",
+      "The most effective remote workers establish clear routines. They designate a specific workspace, set defined working hours, and communicate proactively with colleagues. By treating boundaries with respect, they enjoy flexibility without sacrificing well-being."
+    ],
+    keyWords:['remote','permanent','arrangement','elimination','commutes','precious','drawbacks','boundaries','blurred','disconnect','virtual','spontaneous','collaboration','erosion','impromptu','isolated','aligned','organizational','designate','proactively','flexibility','well-being'],
+    patterns:[
+      {en:"[X] has transformed from [Y] into [Z].",cn:"……已经从……转变为……。",tags:['描述变化'],examples:["Online education has transformed from a supplement into a mainstream option."]},
+      {en:"Yet this new model is not without drawbacks.",cn:"然而这种新模式并非没有缺点。",tags:['转折引出问题'],examples:["Yet this approach is not without drawbacks."]},
+      {en:"By treating [X] with respect, [Y] can [Z] without sacrificing [W].",cn:"通过尊重……，……可以在不牺牲……的情况下实现……。",tags:['总结建议'],examples:["By treating rest with respect, professionals can maintain performance without sacrificing health."]}
+    ],
+    translations:[
+      {cn:"远程办公已从临时措施转变为数百万职场人的长期安排。",keys:['remote work','temporary measure','permanent arrangement'],answer:"Remote work has transformed from a temporary measure into a permanent arrangement for millions of professionals."},
+      {cn:"取消日常通勤为员工节省了大量宝贵时间。",keys:['eliminate','daily commutes','precious hours'],answer:"The elimination of daily commutes has given employees back precious hours."},
+      {cn:"工作与生活的界限变得模糊，让人难以真正断开连接。",keys:['boundaries','blurred','disconnect'],answer:"The boundaries between work and personal life have blurred, making it difficult to truly disconnect."},
+      {cn:"虚拟会议虽然方便，却常缺乏自然发生的即兴协作。",keys:['virtual meetings','convenient','spontaneous collaboration'],answer:"Virtual meetings, though convenient, often lack the spontaneous collaboration that occurs naturally."},
+      {cn:"最有效的远程工作者会建立清晰的日常规律。",keys:['effective','remote workers','clear routines'],answer:"The most effective remote workers establish clear routines."}
+    ]
+  },
+  {
+    title:"Coffee Culture Around the World",
+    source:"Workbench Original",
+
+    date:"2026-07-30",
+    level:"简单",
+    summary:"咖啡不只是一种饮料，更是社交与文化的载体。从意大利的浓缩到日本的精品咖啡，各地有不同喝法。",
+    paragraphs:[
+      "Coffee is far more than a caffeinated beverage; it is a social ritual that varies dramatically across cultures. In Italy, espresso is consumed quickly at a bar counter, often while standing. It is a brief but essential pause in the rhythm of the day, rarely accompanied by food or prolonged conversation.",
+      "In contrast, coffeehouses in Vienna represent a slower, more contemplative tradition. Patrons linger for hours over a single cup, reading newspapers, writing, or engaging in philosophical debate. The café functions as a public living room, welcoming strangers and regulars alike.",
+      "Meanwhile, Japan has elevated coffee preparation to an art form. Master brewers pay meticulous attention to every variable, from water temperature to pour speed. The result is not merely a drink but an aesthetic experience that invites the customer to slow down and observe.",
+      "What unites these diverse traditions is the role of coffee as a connector. Whether shared in haste or savored in silence, a cup of coffee creates a moment of human communion in an increasingly fragmented world."
+    ],
+    keyWords:['caffeinated','beverage','ritual','dramatically','espresso','essential','rhythm','prolonged','contemplative','patrons','linger','philosophical','elevated','preparation','meticulous','variable','aesthetic','diverse','connector','communion','fragmented'],
+    patterns:[
+      {en:"[X] is far more than [Y]; it is [Z].",cn:"……远不止是……，它是……。",tags:['升华定义'],examples:["Reading is far more than a hobby; it is a conversation with the greatest minds in history."]},
+      {en:"In contrast, [X] represents [Y].",cn:"相比之下，……代表了……。",tags:['对比'],examples:["In contrast, Eastern education represents a more collective tradition."]},
+      {en:"What unites these diverse [X] is [Y].",cn:"将这些多样的……统一起来的，是……。",tags:['归纳共性'],examples:["What unites these diverse cultures is a shared respect for hospitality."]}
+    ],
+    translations:[
+      {cn:"咖啡远不止是一种含咖啡因的饮料，它是一种社交仪式。",keys:['coffee','caffeinated beverage','social ritual'],answer:"Coffee is far more than a caffeinated beverage; it is a social ritual."},
+      {cn:"在意大利，浓缩咖啡通常在吧台站着快速喝完。",keys:['Italy','espresso','bar counter','quickly'],answer:"In Italy, espresso is consumed quickly at a bar counter, often while standing."},
+      {cn:"相比之下，维也纳的咖啡馆代表了一种更慢、更沉思的传统。",keys:['Vienna','coffeehouses','contemplative tradition'],answer:"In contrast, coffeehouses in Vienna represent a slower, more contemplative tradition."},
+      {cn:"日本把咖啡制作提升到了艺术境界。",keys:['Japan','coffee preparation','art form'],answer:"Japan has elevated coffee preparation to an art form."},
+      {cn:"无论是匆忙分享还是静静品味，咖啡都能在日益碎片化的世界中创造人际连接的时刻。",keys:['shared in haste','savored in silence','human connection','fragmented world'],answer:"Whether shared in haste or savored in silence, coffee creates moments of human connection in an increasingly fragmented world."}
+    ]
+  },
+  {
+    title:"Sleep: The Forgotten Pillar of Health",
+    source:"Workbench Original",
+
+    date:"2026-07-31",
+    level:"简单",
+    summary:"睡眠常被忽视，但它和饮食、运动一样重要。本文讲睡眠如何影响大脑、情绪与创造力。",
+    paragraphs:[
+      "Modern society tends to celebrate overwork and treat sleep as a luxury that can be indefinitely postponed. Yet sleep is not merely a passive state of rest; it is an active process during which the brain consolidates memories, clears toxins, and restores emotional balance.",
+      "The consequences of chronic sleep deprivation extend far beyond daytime drowsiness. Attention, decision-making, and creativity all decline when the brain is denied adequate recovery time. Over longer periods, insufficient sleep is linked to weakened immunity, weight gain, and increased risk of mental health disorders.",
+      "One reason people sacrifice sleep is the illusion that late-night work produces more output. In reality, the quality of work done while exhausted is often so poor that it must be redone the following day. The hours gained at night are frequently lost to inefficiency in the morning.",
+      "Protecting sleep requires viewing it as a non-negotiable priority rather than a reward for finishing everything else. Simple habits—consistent bedtimes, limited evening screen use, and a cool dark bedroom—can yield remarkable improvements in both energy and mood."
+    ],
+    keyWords:['celebrate','overwork','luxury','indefinitely','postponed','passive','consolidates','toxins','restores','deprivation','drowsiness','creativity','denied','adequate','immunity','illusion','sacrifice','exhausted','non-negotiable','consistent','remarkable'],
+    patterns:[
+      {en:"[X] tends to celebrate [Y] and treat [Z] as [W].",cn:"……往往推崇……，并把……视为……。",tags:['描述社会现象'],examples:["Modern culture tends to celebrate busyness and treat rest as laziness."]},
+      {en:"The consequences of [X] extend far beyond [Y].",cn:"……的后果远不止……。",tags:['强调影响'],examples:["The consequences of poor diet extend far beyond weight gain."]},
+      {en:"Protecting [X] requires viewing it as [Y] rather than [Z].",cn:"保护……需要把它视为……，而非……。",tags:['给出态度'],examples:["Protecting mental health requires viewing it as a necessity rather than a reward."]}
+    ],
+    translations:[
+      {cn:"现代社会往往推崇过度工作，把睡眠视为可以无限推迟的奢侈。",keys:['modern society','overwork','sleep','luxury'],answer:"Modern society tends to celebrate overwork and treat sleep as a luxury that can be indefinitely postponed."},
+      {cn:"睡眠时大脑会巩固记忆、清除毒素并恢复情绪平衡。",keys:['brain','consolidate memories','clear toxins','emotional balance'],answer:"During sleep, the brain consolidates memories, clears toxins, and restores emotional balance."},
+      {cn:"睡眠不足的后果远不止白天犯困。",keys:['sleep deprivation','daytime drowsiness'],answer:"The consequences of chronic sleep deprivation extend far beyond daytime drowsiness."},
+      {cn:"深夜工作产出更多只是错觉。",keys:['illusion','late-night work','more output'],answer:"The illusion that late-night work produces more output is misleading."},
+      {cn:"保护睡眠需要把它视为不可妥协的优先事项。",keys:['protect sleep','non-negotiable priority'],answer:"Protecting sleep requires viewing it as a non-negotiable priority."}
+    ]
+  },
+  {
+    title:"Urban Gardening in Small Spaces",
+    source:"Workbench Original",
+
+    date:"2026-08-01",
+    level:"简单",
+    summary:"没有大院子也能种菜养花。城市园艺在小空间里也能带来食物、平静和与自然连接的感觉。",
+    paragraphs:[
+      "As cities become denser and apartment living more common, many urban dwellers are discovering that a lack of yard space does not preclude gardening. A windowsill, balcony, or even a sunny kitchen counter can become a productive green corner.",
+      "The appeal of urban gardening goes beyond aesthetics. Growing even a small amount of food fosters a connection to the natural world that is often missing in concrete environments. It reminds people that vegetables do not originate in supermarkets but in soil, water, and sunlight.",
+      "Beginners are advised to start with forgiving plants such as herbs, lettuce, or cherry tomatoes. These crops require minimal equipment and offer quick rewards, which helps sustain motivation through the early stages of learning.",
+      "Beyond the practical harvest, tending to plants provides a gentle form of mindfulness. The routine of watering, pruning, and observing growth offers a peaceful counterbalance to the fast pace of city life."
+    ],
+    keyWords:['denser','dwellers','preclude','windowsill','balcony','productive','aesthetics','fosters','concrete','originate','advised','forgiving','herbs','minimal','sustain','motivation','tending','mindfulness','pruning','observing','counterbalance'],
+    patterns:[
+      {en:"Many [X] are discovering that [Y] does not preclude [Z].",cn:"许多……发现……并不妨碍……。",tags:['引出发现'],examples:["Many older workers are discovering that age does not preclude learning new skills."]},
+      {en:"The appeal of [X] goes beyond [Y].",cn:"……的吸引力远不止……。",tags:['深化主题'],examples:["The appeal of remote work goes beyond avoiding commutes."]},
+      {en:"[X] provides a gentle form of [Y].",cn:"……提供了一种温和的……方式。",tags:['描述益处'],examples:["Walking provides a gentle form of meditation."]}
+    ],
+    translations:[
+      {cn:"许多城市居民发现，没有院子并不妨碍园艺。",keys:['urban dwellers','lack of yard','preclude gardening'],answer:"Many urban dwellers are discovering that a lack of yard space does not preclude gardening."},
+      {cn:"城市园艺的吸引力远不止美观。",keys:['urban gardening','aesthetics'],answer:"The appeal of urban gardening goes beyond aesthetics."},
+      {cn:"种植少量食物能培养与自然的连接。",keys:['growing food','connection','natural world'],answer:"Growing even a small amount of food fosters a connection to the natural world."},
+      {cn:"新手建议从容易养活的植物开始，比如香草或生菜。",keys:['beginners','forgiving plants','herbs','lettuce'],answer:"Beginners are advised to start with forgiving plants such as herbs or lettuce."},
+      {cn:"照料植物是一种温和的正念练习。",keys:['tending plants','gentle','mindfulness'],answer:"Tending to plants provides a gentle form of mindfulness."}
+    ]
+  },
+  {
+    title:"Minimalism: Less is More",
+    source:"Workbench Original",
+
+    date:"2026-08-02",
+    level:"简单",
+    summary:"极简主义不是扔东西，而是把空间和注意力留给真正重要的事。文章讨论物质与精神的关系。",
+    paragraphs:[
+      "Minimalism is frequently misunderstood as an aesthetic of empty white rooms and bare shelves. In truth, it is a philosophy of intentionality. The goal is not to own as little as possible but to ensure that every possession, commitment, and relationship serves a meaningful purpose.",
+      "The modern consumer economy thrives on convincing people that satisfaction lies in the next purchase. Advertisements promise happiness through novelty, creating a cycle of desire and disappointment. Minimalism interrupts this cycle by asking a simple question: does this truly add value to my life?",
+      "Letting go of excess possessions can be surprisingly liberating. Physical clutter often reflects mental clutter, and the process of decluttering forces individuals to clarify what they genuinely need. The space that remains is not empty; it is open.",
+      "Ultimately, minimalism is less about deprivation and more about abundance—an abundance of time, attention, and freedom. By removing the unnecessary, we make room for what genuinely matters."
+    ],
+    keyWords:['misunderstood','aesthetic','bare','philosophy','intentionality','possession','commitment','thrives','convincing','satisfaction','novelty','disappointment','interrupts','liberating','clutter','decluttering','genuinely','deprivation','abundance','unnecessary'],
+    patterns:[
+      {en:"[X] is frequently misunderstood as [Y]. In truth, it is [Z].",cn:"……常被误解为……。事实上，它是……。",tags:['澄清概念'],examples:["Failure is frequently misunderstood as defeat. In truth, it is feedback."]},
+      {en:"The goal is not to [X] but to [Y].",cn:"目标不是……，而是……。",tags:['阐明目标'],examples:["The goal is not to avoid discomfort but to build resilience."]},
+      {en:"By removing [X], we make room for [Y].",cn:"通过去除……，我们为……腾出空间。",tags:['收尾升华'],examples:["By removing distractions, we make room for deep work."]}
+    ],
+    translations:[
+      {cn:"极简主义常被误解为空荡荡的白房间。事实上，它是一种关于意图的哲学。",keys:['minimalism','empty white rooms','philosophy of intentionality'],answer:"Minimalism is frequently misunderstood as an aesthetic of empty white rooms. In truth, it is a philosophy of intentionality."},
+      {cn:"目标不是拥有尽可能少的东西，而是确保每件物品都有意义。",keys:['goal','own as little as possible','meaningful purpose'],answer:"The goal is not to own as little as possible but to ensure that every possession serves a meaningful purpose."},
+      {cn:"现代消费经济靠让人们相信满足感来自下一次购买而繁荣。",keys:['consumer economy','satisfaction','next purchase'],answer:"The modern consumer economy thrives on convincing people that satisfaction lies in the next purchase."},
+      {cn:"丢弃多余物品可能出奇地令人解脱。",keys:['letting go','excess possessions','liberating'],answer:"Letting go of excess possessions can be surprisingly liberating."},
+      {cn:"通过去除不必要的东西，我们为真正重要的事物腾出空间。",keys:['remove unnecessary','make room','what matters'],answer:"By removing the unnecessary, we make room for what genuinely matters."}
+    ]
+  },
+  {
+    title:"AI in Education",
+    source:"Workbench Original",
+
+    date:"2026-08-03",
+    level:"中等",
+    summary:"人工智能正在改变教育，但它不会取代老师。文章讨论 AI 如何辅助个性化学习，以及师生关系的不可替代性。",
+    paragraphs:[
+      "Artificial intelligence is reshaping education at a remarkable pace. Adaptive learning platforms can now diagnose a student's weaknesses, generate personalized exercises, and provide instant feedback. For learners who previously lacked access to tutoring, these tools represent a genuine democratization of knowledge.",
+      "However, the excitement surrounding AI should not obscure the limitations of technology. Algorithms excel at pattern recognition and repetition, but they cannot inspire curiosity, model empathy, or understand the emotional context behind a wrong answer. A frustrated student does not only need correction; they need encouragement.",
+      "The most promising applications of AI in education treat it as a complement to human instruction rather than a replacement. Teachers who use AI to handle administrative tasks can devote more time to mentorship, discussion, and creative projects that machines cannot replicate.",
+      "The challenge ahead is to integrate AI without losing the human dimension of learning. If technology becomes a substitute for relationship, education risks becoming efficient but hollow. If it becomes a tool within relationship, it can amplify what great teachers have always done."
+    ],
+    keyWords:['reshaping','adaptive','diagnose','personalized','democratization','obscure','limitations','algorithms','empathy','emotional','frustrated','encouragement','promising','complement','administrative','mentorship','replicate','integrate','dimension','efficient','hollow','amplify'],
+    patterns:[
+      {en:"[X] is reshaping [Y] at a remarkable pace.",cn:"……正以惊人的速度重塑……。",tags:['描述趋势'],examples:["Renewable energy is reshaping the global economy at a remarkable pace."]},
+      {en:"However, the excitement surrounding [X] should not obscure [Y].",cn:"然而，围绕……的热情不应掩盖……。",tags:['冷静分析'],examples:["However, the excitement surrounding automation should not obscure its social costs."]},
+      {en:"The challenge ahead is to [X] without losing [Y].",cn:"未来的挑战是在不失去……的情况下实现……。",tags:['展望未来'],examples:["The challenge ahead is to grow without losing our core values."]}
+    ],
+    translations:[
+      {cn:"人工智能正以惊人的速度重塑教育。",keys:['artificial intelligence','reshaping education','remarkable pace'],answer:"Artificial intelligence is reshaping education at a remarkable pace."},
+      {cn:"自适应学习平台能诊断学生的薄弱环节并生成个性化练习。",keys:['adaptive learning platforms','diagnose weaknesses','personalized exercises'],answer:"Adaptive learning platforms can diagnose a student's weaknesses and generate personalized exercises."},
+      {cn:"算法擅长模式识别和重复训练，但无法激发好奇心或示范共情。",keys:['algorithms','pattern recognition','inspire curiosity','empathy'],answer:"Algorithms excel at pattern recognition and repetition, but they cannot inspire curiosity or model empathy."},
+      {cn:"AI 在教育中最有前景的应用是充当人类教学的补充，而非替代。",keys:['AI','complement','human instruction','replacement'],answer:"The most promising applications of AI in education treat it as a complement to human instruction rather than a replacement."},
+      {cn:"未来的挑战是在整合 AI 的同时不失去学习的人文维度。",keys:['challenge','integrate AI','human dimension'],answer:"The challenge ahead is to integrate AI without losing the human dimension of learning."}
+    ]
+  },
+  {
+    title:"The Power of Walking",
+    source:"Workbench Original",
+
+    date:"2026-08-04",
+    level:"简单",
+    summary:"走路是最被低估的运动之一。它不仅有益身体，还能清理想法、激发创意。本文讲为什么每天该走一走。",
+    paragraphs:[
+      "Walking is perhaps the most underrated form of exercise. It requires no equipment, no gym membership, and no special training. Yet its benefits extend across physical health, mental clarity, and creative thinking.",
+      "From a physiological perspective, regular walking strengthens the heart, improves circulation, and supports healthy joints. Unlike running, it places minimal stress on the knees and ankles, making it sustainable for people of nearly all ages and fitness levels.",
+      "The mental benefits are equally impressive. Walking at a comfortable pace allows the mind to wander without the pressure of productivity. This relaxed state often leads to unexpected insights, as the brain makes connections that focused concentration suppresses.",
+      "Many writers and philosophers have relied on walking as part of their creative process. A simple daily stroll, whether through a park or along city streets, can transform a stressful day into a more balanced and thoughtful one."
+    ],
+    keyWords:['underrated','equipment','membership','physiological','strengthens','circulation','joints','sustainable','equally','wander','pressure','productivity','insights','suppresses','philosophers','relied','stroll','balanced','thoughtful'],
+    patterns:[
+      {en:"[X] is perhaps the most underrated form of [Y].",cn:"……或许是最被低估的……形式。",tags:['开篇立论'],examples:["Reading aloud is perhaps the most underrated form of language practice."]},
+      {en:"Unlike [X], [Y] [does Z].",cn:"与……不同，…………。",tags:['对比说明'],examples:["Unlike video calls, letters allow us to pause and choose our words carefully."]},
+      {en:"[X] can transform [Y] into [Z].",cn:"……可以把……转变为……。",tags:['点出作用'],examples:["A good conversation can transform a misunderstanding into connection."]}
+    ],
+    translations:[
+      {cn:"走路或许是最被低估的运动形式。",keys:['walking','most underrated form of exercise'],answer:"Walking is perhaps the most underrated form of exercise."},
+      {cn:"它不需要任何装备、健身房会员或特殊训练。",keys:['no equipment','gym membership','special training'],answer:"It requires no equipment, no gym membership, and no special training."},
+      {cn:"与跑步不同，走路对膝盖和脚踝的压力很小。",keys:['unlike running','minimal stress','knees','ankles'],answer:"Unlike running, walking places minimal stress on the knees and ankles."},
+      {cn:"舒适的步速让思绪自由漫游，常带来意想不到的灵感。",keys:['comfortable pace','mind wander','unexpected insights'],answer:"Walking at a comfortable pace allows the mind to wander and often leads to unexpected insights."},
+      {cn:"每天简单地散步可以把充满压力的一天变得更平衡、更深思。",keys:['daily stroll','stressful day','balanced','thoughtful'],answer:"A simple daily stroll can transform a stressful day into a more balanced and thoughtful one."}
+    ]
+  }
+];
+
+const LS_SETTINGS = "ew_settings_v1";
+const LS_SAVED = "ew_saved_v1";
+const LS_PROGRESS = "ew_progress_v1";
+
+let settings={name:"小胡豆英语工作台",avatar:"🦊",accent:"en-US",openaiKey:"",proxy:""};
+let saved={words:[],sentences:[]};
+let progress={streak:0,lastDate:"",doneToday:0};
+let todayIndex=0;
+let currentSheetWord="";
+
+/* ================= REAL NEWS STATE ================= */
+let usingReal=false;
+let realArticles=[];
+let realIndex=0;
+let realStatus="";
+let displayPatterns=[];
+let displayTrans=[];
+function currentArticle(){ return usingReal ? (realArticles[realIndex]||ARTICLES[todayIndex]) : ARTICLES[todayIndex]; }
+
+/* ================= INIT ================= */
+function loadData(){
+  try{
+    const s=JSON.parse(localStorage.getItem(LS_SETTINGS));
+    if(s) settings={...settings,...s};
+  }catch(e){}
+  try{
+    const sv=JSON.parse(localStorage.getItem(LS_SAVED));
+    if(sv) saved={...saved,...sv};
+  }catch(e){}
+  try{
+    const p=JSON.parse(localStorage.getItem(LS_PROGRESS));
+    if(p) progress={...progress,...p};
+  }catch(e){}
+}
+function saveSettingsData(){localStorage.setItem(LS_SETTINGS,JSON.stringify(settings));}
+function saveSavedData(){localStorage.setItem(LS_SAVED,JSON.stringify(saved));}
+function saveProgressData(){localStorage.setItem(LS_PROGRESS,JSON.stringify(progress));}
+
+function init(){
+  loadData();
+  updateHeader();
+  computeTodayArticle();
+  updateProgress();
+  renderReadTab();
+  renderPatternsTab();
+  renderSpeakTab();
+  renderTransTab();
+  renderSavedTab();
+  loadRealNews(false); // 后台抓取真实英文新闻，失败自动回退内置文章
+}
+
+function computeTodayArticle(){
+  const base=new Date("2026-01-01").getTime();
+  const now=Date.now();
+  const days=Math.floor((now-base)/(24*3600*1000));
+  todayIndex=Math.abs(days)%ARTICLES.length;
+}
+
+function updateHeader(){
+  document.getElementById('headerAvatar').textContent=settings.avatar;
+  document.getElementById('headerName').textContent=settings.name;
+}
+
+function updateProgress(){
+  const today=new Date().toISOString().slice(0,10);
+  if(progress.lastDate!==today){
+    if(progress.lastDate===new Date(Date.now()-86400000).toISOString().slice(0,10)){
+      progress.streak++;
+    }else if(progress.lastDate!==today){
+      progress.streak=0;
+    }
+    progress.doneToday=0;
+    progress.lastDate=today;
+    saveProgressData();
+  }
+  document.getElementById('streak').textContent=progress.streak;
+  document.getElementById('done').textContent=progress.doneToday;
+}
+
+function markDone(){
+  if(progress.doneToday<3){
+    progress.doneToday++;
+    saveProgressData();
+    updateProgress();
+    alert('✅ 今日进度 +1，继续保持！');
+  }
+}
+
+/* ================= TABS ================= */
+function switchTab(tab){
+  document.querySelectorAll('.tab').forEach(t=>t.classList.toggle('active',t.dataset.tab===tab));
+  document.querySelectorAll('.nav-item').forEach(n=>n.classList.toggle('active',n.dataset.tab===tab));
+  document.querySelectorAll('.tab-page').forEach(p=>p.style.display=p.id==='tab-'+tab?'block':'none');
+  document.getElementById('mainScroll').scrollTop=0;
+}
+
+/* ================= READ TAB ================= */
+function fmtDate(d){
+  if(!d) return '—';
+  const m=d.match(/(\d{4})-(\d{2})-(\d{2})/);
+  return m?`${m[1]}年${parseInt(m[2])}月${parseInt(m[3])}日`:d;
+}
+function renderReadTab(){
+  const art=currentArticle();
+  document.getElementById('readLevel').textContent=art.level||art.source||"真实";
+  document.getElementById('readSource').textContent=art.source;
+  document.getElementById('readDate').textContent=art.isReal?art.date:fmtDate(art.date);
+  document.getElementById('readTitle').textContent=art.title;
+  document.getElementById('readSummary').textContent=art.summary||'';
+  document.getElementById('readTitle').style.cursor=art.link?'pointer':'default';
+  document.getElementById('readTitle').onclick=art.link?openOriginal:null;
+
+  const body=document.getElementById('readBody');
+  body.innerHTML='';
+  art.paragraphs.forEach(para=>{
+    const p=document.createElement('p');
+    p.innerHTML=tokenizeText(para);
+    body.appendChild(p);
+  });
+  body.querySelectorAll('.word').forEach(w=>{
+    w.addEventListener('click',()=>openSheet(w.dataset.word));
+  });
+
+  const vocab=document.getElementById('keyVocab');
+  vocab.innerHTML='';
+  if(art.isReal){
+    vocab.innerHTML='<div class="hint" style="margin-top:0">真实新闻未标注重点词，点文中任意单词即可查释义 👆</div>';
+  }else{
+    art.keyWords.slice(0,8).forEach(w=>{
+      const row=document.createElement('div'); row.className='vocab-item';
+      row.innerHTML=`<div><div class="vocab-word">${esc(w)}</div><div class="vocab-mean">点击查看释义</div></div><button class="mini-play" onclick="speak('${esc(w)}')">🔊</button>`;
+      row.querySelector('.vocab-word').onclick=()=>openSheet(w);
+      vocab.appendChild(row);
+    });
+  }
+  updateRealUI();
+}
+
+function tokenizeText(text){
+  const keys=currentArticle().keyWords||[];
+  const parts=text.split(/([a-zA-Z0-9'-]+)/g);
+  return parts.map(p=>{
+    if(/^[a-zA-Z0-9'-]+$/.test(p)){
+      const cls=keys.includes(p.toLowerCase())?'word key-word':'word';
+      return `<span class="${cls}" data-word="${p.toLowerCase()}">${esc(p)}</span>`;
+    }
+    return esc(p);
+  }).join('');
+}
+
+function playFullArticle(){
+  const art=currentArticle();
+  speakLong(art.title+". "+art.paragraphs.join(" "));
+}
+
+function saveSentence(){
+  const art=currentArticle();
+  const sent=prompt('复制一句你想收藏的话到这里，或直接输入：',art.paragraphs[0]);
+  if(sent && sent.trim()){
+    saved.sentences.unshift({en:sent.trim(),cn:"",date:new Date().toISOString().slice(0,10)});
+    saveSavedData();
+    renderSavedTab();
+    alert('💾 已收藏好句');
+  }
+}
+
+/* ================= WORD SHEET ================= */
+async function openSheet(word){
+  currentSheetWord=word;
+  document.getElementById('sheetWord').textContent=word;
+  document.getElementById('sheetPhon').textContent='';
+  document.getElementById('sheetDefs').innerHTML='<div style="color:var(--muted);font-size:13px">正在查词典…</div>';
+  document.getElementById('sheetOverlay').classList.add('show');
+  setTimeout(()=>document.getElementById('wordSheet').classList.add('show'),10);
+
+  try{
+    const r=await fetch(`https://api.dictionaryapi.dev/api/v2/entries/en/${encodeURIComponent(word)}`);
+    if(!r.ok) throw new Error('not found');
+    const data=await r.json();
+    const entry=data[0];
+    const phon=entry.phonetics.find(p=>p.text)?.text||'';
+    document.getElementById('sheetPhon').textContent=phon;
+
+    const defs=document.getElementById('sheetDefs');
+    defs.innerHTML='';
+    (entry.meanings||[]).forEach(m=>{
+      const sec=document.createElement('div'); sec.className='sheet-section';
+      const pos=document.createElement('div'); pos.className='sheet-pos'; pos.textContent=m.partOfSpeech;
+      sec.appendChild(pos);
+      m.definitions.slice(0,3).forEach((d,i)=>{
+        const def=document.createElement('div'); def.className='sheet-def'; def.textContent=`${i+1}. ${d.definition}`;
+        sec.appendChild(def);
+        if(d.example){
+          const ex=document.createElement('div'); ex.className='sheet-example'; ex.textContent=`"${d.example}"`;
+          sec.appendChild(ex);
+        }
+      });
+      defs.appendChild(sec);
+    });
+  }catch(e){
+    document.getElementById('sheetDefs').innerHTML=`<div style="color:var(--muted);font-size:13px">未找到释义。可试试用沉浸式翻译插件查看整句翻译。</div>`;
+  }
+}
+
+function closeSheet(){
+  document.getElementById('wordSheet').classList.remove('show');
+  setTimeout(()=>document.getElementById('sheetOverlay').classList.remove('show'),200);
+}
+
+function speakWord(){speak(currentSheetWord);}
+
+function saveWordFromSheet(){
+  if(!currentSheetWord) return;
+  if(!saved.words.find(w=>w.en===currentSheetWord)){
+    saved.words.unshift({en:currentSheetWord,cn:"",date:new Date().toISOString().slice(0,10)});
+    saveSavedData();
+    renderSavedTab();
+    alert('⭐ 已收藏 '+currentSheetWord);
+  }else{
+    alert('已经收藏过啦');
+  }
+}
+
+/* ================= PATTERNS TAB ================= */
+function renderPatternsTab(){
+  const art=currentArticle();
+  const list=document.getElementById('patternsList');
+  list.innerHTML='';
+  const pats=(art.patterns&&art.patterns.length)?art.patterns:UNIVERSAL_PATTERNS;
+  displayPatterns=pats;
+  if(art.isReal){
+    list.innerHTML='<div class="hint" style="margin-bottom:12px">本文来自真实新闻，暂无配套句型。下面是通用写作句型，照样可以练 👇</div>';
+  }
+  pats.forEach((p,i)=>{
+    const card=document.createElement('div'); card.className='pattern-card';
+    const tags=p.tags.map(t=>`<span class="pattern-tag">${esc(t)}</span>`).join('');
+    let exs=p.examples.map(e=>`<div class="example">${esc(e)}</div>`).join('');
+    card.innerHTML=`
+      <div class="pattern-en">${esc(p.en)}</div>
+      <div class="pattern-cn">${esc(p.cn)}</div>
+      <div style="margin-bottom:8px">${tags}</div>
+      <div style="font-size:12px;color:var(--muted);margin-bottom:4px">例句：</div>
+      ${exs}
+      <textarea class="imitate-input" id="pat-input-${i}" placeholder="用这个句型仿写一句话..."></textarea>
+      <div class="action-bar" style="margin-top:10px;margin-bottom:0">
+        <button class="btn-pink" onclick="aiCheckPattern(${i})">🤖 AI 批改</button>
+        <button class="btn-ghost" onclick="speak(document.getElementById('pat-input-${i}').value)">▶ 朗读</button>
+      </div>
+      <div id="pat-result-${i}" style="margin-top:10px;display:none;background:#fff;border-radius:10px;padding:10px;font-size:13px;color:#444;line-height:1.5"></div>
+    `;
+    list.appendChild(card);
+  });
+}
+
+/* ================= SPEAK TAB ================= */
+function renderSpeakTab(){
+  const art=currentArticle();
+  const sentences=[];
+  art.paragraphs.forEach(para=>{
+    para.split(/(?<=[.!?])\s+/).forEach(s=>{if(s.trim())sentences.push(s.trim());});
+  });
+
+  document.getElementById('speakSentence').textContent=sentences[0];
+
+  const list=document.getElementById('speakList');
+  list.innerHTML='<div class="card-title" style="margin-bottom:10px">本段其他句子</div>';
+  sentences.slice(0,6).forEach((s,i)=>{
+    const div=document.createElement('div'); div.className='speak-card';
+    div.innerHTML=`<div class="speak-sentence">${esc(s)}</div><button class="btn-ghost" onclick="speak('${esc(s).replace(/'/g,"\\'")}')">▶ 朗读</button>`;
+    list.appendChild(div);
+  });
+}
+function speakCurrent(){const t=document.getElementById('speakSentence').textContent;speak(t);}
+
+/* ================= TRANSLATE TAB ================= */
+function renderTransTab(){
+  const art=currentArticle();
+  const list=document.getElementById('transList');
+  list.innerHTML='';
+  let trans=[];
+  if(art.translations&&art.translations.length){
+    trans=art.translations;
+  }else if(art.isReal){
+    const sentences=[];
+    art.paragraphs.forEach(p=>p.split(/(?<=[.!?])\s+/).forEach(s=>{if(s.trim())sentences.push(s.trim());}));
+    trans=sentences.slice(0,3).map(s=>({cn:"（把这句英文译成中文，无标准答案）",en:s,keys:[],isSelf:true}));
+    list.innerHTML='<div class="hint" style="margin-bottom:12px">本文来自真实新闻，暂无配套翻译题。挑几句原文练英译中也可以 👇</div>';
+  }
+  displayTrans=trans;
+  trans.forEach((t,i)=>{
+    const div=document.createElement('div'); div.className='trans-item';
+    const keysHtml=(t.keys&&t.keys.length)?`<div style="display:flex;gap:6px;flex-wrap:wrap;margin-bottom:6px">${t.keys.map(k=>`<span class="trans-key">${esc(k)}</span>`).join('')}</div>`:'';
+    let actionHtml;
+    if(t.isSelf){
+      actionHtml=`<button class="btn-pink" onclick="aiCheckTrans(${i})">提交 · AI 批改</button><button class="btn-ghost" onclick="speak('${esc(t.en).replace(/'/g,"\\'")}')">▶ 朗读原文</button>`;
+    }else{
+      actionHtml=`<button class="btn-pink" onclick="aiCheckTrans(${i})">提交 · AI 批改</button><button class="btn-ghost" onclick="toggleAnswer(${i})">查看参考答案</button>`;
+    }
+    const answerHtml=t.isSelf?'':`<div class="trans-answer" id="trans-answer-${i}"><b>参考：</b>${esc(t.answer)}<br><button class="btn-ghost" style="margin-top:8px" onclick="speak('${esc(t.answer).replace(/'/g,"\\'")}')">▶ 朗读答案</button></div>`;
+    const srcHtml=t.isSelf?`<div class="trans-en-src">${esc(t.en)}</div>`:'';
+    div.innerHTML=`
+      ${keysHtml}
+      <div class="trans-cn">${esc(t.cn)}</div>
+      ${srcHtml}
+      <textarea class="imitate-input" id="trans-input-${i}" placeholder="${t.isSelf?'在此输入你的中文翻译...':'在此输入你的英文译文...'}"></textarea>
+      <div class="action-bar" style="margin-top:10px;margin-bottom:0">${actionHtml}</div>
+      ${answerHtml}
+      <div id="trans-result-${i}" style="margin-top:10px;display:none;background:#f8fafc;border-radius:10px;padding:10px;font-size:13px;color:#444;line-height:1.5"></div>
+    `;
+    list.appendChild(div);
+  });
+}
+function toggleAnswer(i){
+  const el=document.getElementById('trans-answer-'+i);
+  if(el) el.classList.toggle('show');
+}
+
+/* ================= AI CHECK ================= */
+async function aiCheckPattern(idx){
+  const input=document.getElementById('pat-input-'+idx).value.trim();
+  if(!input){alert('请先写一句');return;}
+  const pattern=displayPatterns[idx].en;
+  const resultEl=document.getElementById('pat-result-'+idx);
+  resultEl.style.display='block';
+  if(!settings.openaiKey){resultEl.innerHTML='<span style="color:#b45309">⚠️ 请在设置中填入 OpenAI API Key 以使用 AI 批改。</span>';return;}
+  resultEl.textContent='AI 批改中…';
+  try{
+    const feedback=await callOpenAI(`目标句型：${pattern}\n用户仿写：${input}\n请用中文给出简短批改：1)是否用对句型；2)语法/用词问题；3)修改建议。控制在150字内。`);
+    resultEl.innerHTML=esc(feedback).replace(/\n/g,'<br>');
+  }catch(e){resultEl.innerHTML='<span style="color:#dc2626">批改失败：'+esc(e.message)+'</span>';}
+}
+async function aiCheckTrans(idx){
+  const input=document.getElementById('trans-input-'+idx).value.trim();
+  if(!input){alert('请先输入译文');return;}
+  const item=displayTrans[idx];
+  const resultEl=document.getElementById('trans-result-'+idx);
+  resultEl.style.display='block';
+  if(!settings.openaiKey){resultEl.innerHTML='<span style="color:#b45309">⚠️ 请在设置中填入 OpenAI API Key 以使用 AI 批改。</span>';return;}
+  resultEl.textContent='AI 批改中…';
+  try{
+    const base=item.isSelf
+      ? `英文原句：${item.en}\n用户把英文译成中文：${input}`
+      : `中文原句：${item.cn}\n参考译文：${item.answer}\n用户译文：${input}`;
+    const feedback=await callOpenAI(`${base}\n请用中文给出简短批改：1)意思是否准确；2)表达问题；3)更自然的建议。控制在150字内。`);
+    resultEl.innerHTML=esc(feedback).replace(/\n/g,'<br>');
+  }catch(e){resultEl.innerHTML='<span style="color:#dc2626">批改失败：'+esc(e.message)+'</span>';}
+}
+async function callOpenAI(prompt){
+  const r=await fetch('https://api.openai.com/v1/chat/completions',{
+    method:'POST',
+    headers:{'Content-Type':'application/json','Authorization':'Bearer '+settings.openaiKey},
+    body:JSON.stringify({model:'gpt-3.5-turbo',messages:[{role:'user',content:prompt}],temperature:.5})
+  });
+  if(!r.ok){const e=await r.text(); throw new Error(e);}
+  const j=await r.json();
+  return j.choices[0].message.content;
+}
+
+/* ================= REAL NEWS (RSS) ================= */
+const REAL_FEEDS=[
+  {name:"BBC News", url:"http://feeds.bbci.co.uk/news/rss.xml"},
+  {name:"NPR News", url:"https://feeds.npr.org/1001/rss.xml"},
+  {name:"Al Jazeera", url:"https://www.aljazeera.com/xml/rss/all.xml"},
+  {name:"The Guardian", url:"https://www.theguardian.com/world/rss"}
+];
+const PROXIES=[
+  "https://api.allorigins.win/raw?url=",
+  "https://corsproxy.io/?url=",
+  "https://thingproxy.freeboard.io/fetch/"
+];
+// 定时任务每天生成的 news.json 地址（GitHub Action 推到仓库后的 raw 链接）。
+// 部署时改成你自己的，例如 https://raw.githubusercontent.com/用户名/仓库名/main/news.json
+// 留空则跳过远程读取，仅用本地 news.json（http 服务器场景）与公共代理兜底。
+const NEWS_JSON_URL="https://raw.githubusercontent.com/34997593/english-workbench/main/news.json";
+// 真实新闻无配套句型时用的通用句型库
+const UNIVERSAL_PATTERNS=[
+  {en:"According to [source], [claim].",cn:"根据……，……。",tags:['引用观点'],examples:["According to the report, the economy is slowly recovering."]},
+  {en:"This suggests that [conclusion].",cn:"这表明……。",tags:['推导结论'],examples:["This suggests that remote work is here to stay."]},
+  {en:"It is worth noting that [point].",cn:"值得注意的是……。",tags:['补充观点'],examples:["It is worth noting that young people read less news."]}
+];
+function textOf(el,tag){
+  let n=null;
+  try{ n=el.querySelector(tag); }catch(e){}
+  if(!n && tag.indexOf(':')>=0) n=el.getElementsByTagName(tag)[0];
+  return n?n.textContent.trim():"";
+}
+function htmlToParagraphs(html){
+  const tmp=document.createElement('div');
+  tmp.innerHTML=html||"";
+  tmp.querySelectorAll('script,style').forEach(n=>n.remove());
+  const text=(tmp.textContent||"").replace(/\s+/g," ").trim();
+  if(!text) return [];
+  const sentences=text.split(/(?<=[.!?])\s+/).map(s=>s.trim()).filter(Boolean);
+  const paras=[];
+  for(let i=0;i<sentences.length;i+=2){ paras.push(sentences.slice(i,i+2).join(" ")); }
+  return paras.length?paras:[text];
+}
+function fmtPubDate(raw){
+  if(!raw) return "";
+  const d=new Date(raw);
+  if(isNaN(d.getTime())) return raw;
+  const y=d.getFullYear(), m=d.getMonth()+1, day=d.getDate();
+  const hh=String(d.getHours()).padStart(2,"0"), mm=String(d.getMinutes()).padStart(2,"0");
+  return `${y}年${m}月${day}日 ${hh}:${mm}`;
+}
+function parseRSS(xml,feedName){
+  const doc=new DOMParser().parseFromString(xml,"application/xml");
+  if(doc.querySelector("parsererror")) return [];
+  const items=[...doc.querySelectorAll("item, entry")];
+  const out=[];
+  items.forEach(it=>{
+    const title=textOf(it,"title");
+    if(!title) return;
+    const linkEl=it.querySelector("link");
+    const link=linkEl?(linkEl.getAttribute("href")||linkEl.textContent.trim()):"";
+    const desc=textOf(it,"description")||textOf(it,"summary")||textOf(it,"content")||textOf(it,"content:encoded")||"";
+    const pub=textOf(it,"pubDate")||textOf(it,"published")||textOf(it,"updated")||"";
+    const paras=htmlToParagraphs(desc);
+    out.push({
+      title, source:feedName, link,
+      rawDate:pub,
+      date:fmtPubDate(pub),
+      level:"真实",
+      summary:"",
+      paragraphs:paras.length?paras:["（该条目暂无正文摘要）"],
+      keyWords:[],
+      patterns:[],
+      translations:[],
+      isReal:true
+    });
+  });
+  return out;
+}
+async function tryFetchNewsJson(url){
+  if(!url) return null;
+  try{
+    const r=await fetch(url,{cache:"no-store"});
+    if(!r.ok) return null;
+    const data=await r.json();
+    if(data&&Array.isArray(data.articles)&&data.articles.length){
+      data.articles.forEach(a=>{ if(!a.level) a.level=a.source||"真实"; });
+      return data.articles;
+    }
+  }catch(e){ /* 忽略，走下一步兜底 */ }
+  return null;
+}
+async function loadRealNews(silent){
+  if(!silent) toast("正在加载真实英文新闻…");
+  // 1) 同目录 news.json（用 http 服务器打开时）
+  let arts=await tryFetchNewsJson('./news.json');
+  // 2) GitHub raw news.json（file:// 双击但联网时）
+  if(!arts||!arts.length) arts=await tryFetchNewsJson(NEWS_JSON_URL);
+  if(arts&&arts.length){
+    realArticles=arts; usingReal=true; realIndex=0;
+    realStatus=`已接入 ${realArticles.length} 条真实新闻（更新于 ${realArticles[0]?.date||'今日'}）`;
+    renderAllTabs(); toast(realStatus); updateRealUI(); return;
+  }
+  // 3) 公共代理现抓兜底
+  await loadRealNewsProxy(silent);
+}
+async function loadRealNewsProxy(silent){
+  realArticles=[];
+  const proxies=settings.proxy?[settings.proxy,...PROXIES]:PROXIES;
+  for(const feed of REAL_FEEDS){
+    for(const proxy of proxies){
+      try{
+        const r=await fetch(proxy+encodeURIComponent(feed.url),{cache:"no-store"});
+        if(!r.ok) continue;
+        const xml=await r.text();
+        const items=parseRSS(xml,feed.name);
+        if(items.length) realArticles.push(...items);
+        break; // 该 feed 已成功，换下一个
+      }catch(e){ /* 试下一个代理 */ }
+    }
+    if(realArticles.length>50) break;
+  }
+  if(realArticles.length){
+    usingReal=true; realIndex=0;
+    realStatus=`已接入 ${realArticles.length} 条真实新闻（实时代理）`;
+    renderAllTabs(); toast(realStatus);
+  }else{
+    usingReal=false;
+    realStatus="真实新闻加载失败，已用内置文章（可能网络受限）";
+    if(!silent) toast(realStatus);
+  }
+  updateRealUI();
+}
+function renderAllTabs(){
+  renderReadTab(); renderPatternsTab(); renderSpeakTab(); renderTransTab(); renderSavedTab();
+}
+function nextRealArticle(){
+  if(!usingReal||!realArticles.length) return;
+  realIndex=(realIndex+1)%realArticles.length;
+  renderReadTab(); renderPatternsTab(); renderSpeakTab(); renderTransTab();
+}
+function openOriginal(){
+  const a=currentArticle();
+  if(a&&a.link) window.open(a.link,"_blank");
+}
+function updateRealUI(){
+  const el=document.getElementById('realStatus');
+  if(el) el.textContent=realStatus;
+  const ra=document.getElementById('realActions');
+  if(ra) ra.style.display=usingReal?'flex':'none';
+  const ob=document.getElementById('origBtn');
+  if(ob) ob.style.display=(usingReal&&currentArticle().link)?'inline-block':'none';
+}
+
+/* ================= SAVED TAB ================= */
+function renderSavedTab(){
+  const list=document.getElementById('savedList');
+  const all=[...saved.words.map(w=>({type:'word',...w})),...saved.sentences.map(s=>({type:'sent',...s}))].sort((a,b)=>b.date.localeCompare(a.date));
+  if(!all.length){list.innerHTML='<div class="saved-empty">还没有收藏，快去阅读里点击单词或好句吧～</div>';return;}
+  list.innerHTML='';
+  all.forEach(item=>{
+    const row=document.createElement('div'); row.className='saved-row';
+    row.innerHTML=`<div><div class="saved-en">${esc(item.en)}</div><div class="saved-cn">${item.type==='word'?'单词 · ':'好句 · '}${esc(item.date)}</div></div>`;
+    const del=document.createElement('button'); del.className='del-btn'; del.textContent='删除';
+    del.onclick=()=>{
+      if(item.type==='word') saved.words=saved.words.filter(w=>w.en!==item.en);
+      else saved.sentences=saved.sentences.filter(s=>s.en!==item.en);
+      saveSavedData(); renderSavedTab();
+    };
+    row.appendChild(del);
+    list.appendChild(row);
+  });
+}
+
+/* ================= SETTINGS ================= */
+function openSettings(){
+  document.getElementById('nameInput').value=settings.name;
+  document.getElementById('keyInput').value=settings.openaiKey;
+  document.getElementById('proxyInput').value=settings.proxy;
+  renderAvatarGrid();
+  document.querySelectorAll('.accent-btn').forEach(b=>b.classList.toggle('selected',b.dataset.accent===settings.accent));
+  document.getElementById('settingsOverlay').classList.add('show');
+}
+function closeSettings(){document.getElementById('settingsOverlay').classList.remove('show');}
+function renderAvatarGrid(){
+  const grid=document.getElementById('avatarGrid');
+  grid.innerHTML='';
+  AVATARS.forEach(a=>{
+    const div=document.createElement('div'); div.className='avatar-opt'+(a===settings.avatar?' selected':''); div.textContent=a;
+    div.onclick=()=>{settings.avatar=a; renderAvatarGrid();};
+    grid.appendChild(div);
+  });
+}
+function selectAccent(acc){settings.accent=acc; document.querySelectorAll('.accent-btn').forEach(b=>b.classList.toggle('selected',b.dataset.accent===acc));}
+function saveSettings(){
+  settings.name=document.getElementById('nameInput').value.trim()||settings.name;
+  settings.openaiKey=document.getElementById('keyInput').value.trim();
+  settings.proxy=document.getElementById('proxyInput').value.trim();
+  saveSettingsData();
+  updateHeader();
+  closeSettings();
+  if(settings.proxy){
+    toast('已保存自定义代理，正在重新抓取真实新闻…');
+    loadRealNews(false);
+  }
+}
+function exportBackup(){
+  const data={app:"english-workbench",version:2,exportedAt:new Date().toISOString(),settings,saved,progress};
+  const blob=new Blob([JSON.stringify(data,null,2)],{type:"application/json"});
+  const a=document.createElement('a');
+  a.href=URL.createObjectURL(blob);
+  a.download=`english-workbench-backup-${new Date().toISOString().slice(0,10)}.json`;
+  a.click();
+  URL.revokeObjectURL(a.href);
+  toast("已导出备份文件");
+}
+function importBackup(file){
+  if(!file) return;
+  const reader=new FileReader();
+  reader.onload=()=>{
+    try{
+      const data=JSON.parse(reader.result);
+      if(data.settings) settings={...settings,...data.settings};
+      if(data.saved) saved={words:data.saved.words||[],sentences:data.saved.sentences||[]};
+      if(data.progress) progress={...progress,...data.progress};
+      saveSettingsData(); saveSavedData(); saveProgressData();
+      updateHeader(); renderAllTabs(); renderSavedTab();
+      toast("备份已导入");
+      closeSettings();
+    }catch(e){ alert("备份文件解析失败："+e.message); }
+  };
+  reader.readAsText(file);
+}
+
+/* ================= TTS ================= */
+function getVoices(){
+  return ('speechSynthesis' in window)?window.speechSynthesis.getVoices():[];
+}
+// 选一个最匹配的英文语音；没有就返回 null
+function pickVoice(){
+  const voices=getVoices();
+  if(!voices.length) return null;
+  const base=settings.accent.split('-')[0].toLowerCase(); // en
+  return voices.find(v=>v.lang===settings.accent)
+      || voices.find(v=>v.lang&&v.lang.toLowerCase().startsWith(base))
+      || voices.find(v=>v.lang&&v.lang.toLowerCase().startsWith('en'))
+      || voices[0];
+}
+// 短文本朗读（查词、句型、单句）
+function speak(text){
+  if(!text) return;
+  if(!('speechSynthesis' in window)){toast('当前浏览器不支持语音朗读，建议用手机 Safari / Chrome');return;}
+  const fire=()=>{
+    const v=pickVoice();
+    if(!v){toast('未检测到英文语音包，请在系统设置里开启一个英文 TTS 语音');return;}
+    window.speechSynthesis.cancel();
+    const u=new SpeechSynthesisUtterance(text);
+    u.lang=settings.accent; u.rate=.9; u.voice=v;
+    window.speechSynthesis.speak(u);
+  };
+  if(getVoices().length===0){
+    let fired=false;
+    window.speechSynthesis.onvoiceschanged=()=>{if(!fired){fired=true;fire();}};
+    setTimeout(()=>{if(!fired&&getVoices().length){fired=true;fire();}},400);
+    setTimeout(()=>{if(!fired)toast('语音引擎加载失败，请检查系统语音设置');},2500);
+  }else{fire();}
+}
+// 长文本按句朗读（播放全文），避免浏览器静默截断
+function speakLong(text){
+  if(!('speechSynthesis' in window)){toast('当前浏览器不支持语音朗读');return;}
+  const sentences=text.split(/(?<=[.!?])\s+/).map(s=>s.trim()).filter(Boolean);
+  if(!sentences.length) return;
+  let i=0, started=false;
+  const step=()=>{
+    if(i>=sentences.length) return;
+    const v=pickVoice();
+    if(!v){toast('未检测到英文语音包，请在系统设置里开启一个英文 TTS 语音');return;}
+    const u=new SpeechSynthesisUtterance(sentences[i]);
+    u.lang=settings.accent; u.rate=.9; u.voice=v;
+    u.onend=()=>{i++; step();};
+    u.onerror=()=>{i++; step();};
+    window.speechSynthesis.speak(u);
+  };
+  const start=()=>{if(started)return; started=true; step();};
+  if(getVoices().length===0){
+    window.speechSynthesis.onvoiceschanged=start;
+    setTimeout(()=>{if(getVoices().length)start();},400);
+  }else start();
+}
+
+/* ================= TOAST ================= */
+function toast(msg){
+  let t=document.getElementById('toast');
+  if(!t){
+    t=document.createElement('div'); t.id='toast';
+    t.style.cssText='position:fixed;left:50%;bottom:96px;transform:translateX(-50%);background:rgba(45,45,45,.92);color:#fff;padding:10px 16px;border-radius:12px;font-size:13px;z-index:99;max-width:78%;text-align:center;transition:opacity .3s;pointer-events:none;line-height:1.4';
+    document.body.appendChild(t);
+  }
+  t.textContent=msg; t.style.opacity='1';
+  clearTimeout(t._timer); t._timer=setTimeout(()=>{t.style.opacity='0';},2600);
+}
+
+/* ================= UTILS ================= */
+function esc(s){return (s||'').replace(/[&<>]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]));}
+
+// start
+init();
+</script>
+</body>
+</html>
