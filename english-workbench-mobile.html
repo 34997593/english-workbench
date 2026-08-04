@@ -1257,52 +1257,38 @@ function pickVoice(){
 function speak(text){
   if(!text) return;
   if(!('speechSynthesis' in window)){toast('当前浏览器不支持语音朗读，建议用手机 Safari / Chrome');return;}
-  const fire=()=>{
-    const v=pickVoice();
-    if(!v){toast('未检测到英文语音包，请在系统设置里开启一个英文 TTS 语音');return;}
-    window.speechSynthesis.cancel();
-    const u=new SpeechSynthesisUtterance(text);
-    u.lang=settings.accent; u.rate=.9; u.voice=v;
-    window.speechSynthesis.speak(u);
-  };
-  if(getVoices().length===0){
-    let fired=false;
-    window.speechSynthesis.onvoiceschanged=()=>{if(!fired){fired=true;fire();}};
-    setTimeout(()=>{if(!fired&&getVoices().length){fired=true;fire();}},400);
-    setTimeout(()=>{if(!fired)toast('语音引擎加载失败，请检查系统语音设置');},2500);
-  }else{fire();}
+  // 同步调用：必须保留在用户手势链内，iOS Safari 等浏览器才允许播放
+  getVoices();
+  const v=pickVoice();
+  if(!v){toast('未检测到英文语音包，请在系统设置里开启一个英文 TTS 语音（Windows：设置→时间和语言→语音→添加 English 语音）', 4000);return;}
+  window.speechSynthesis.cancel();
+  const u=new SpeechSynthesisUtterance(text);
+  u.lang=settings.accent; u.rate=.9; u.voice=v;
+  window.speechSynthesis.speak(u);
 }
 // 长文本按句朗读（播放全文），避免浏览器静默截断
 function speakLong(text){
   if(!('speechSynthesis' in window)){toast('当前浏览器不支持语音朗读，建议用手机 Safari / Chrome');return;}
   const sentences=text.split(/(?<=[.!?])\s+/).map(s=>s.trim()).filter(Boolean);
   if(!sentences.length) return;
+  getVoices();
+  const v=pickVoice();
+  if(!v){toast('未检测到英文语音包，请在系统设置里开启一个英文 TTS 语音（Windows：设置→时间和语言→语音→添加 English 语音）', 4000);return;}
   let i=0;
   const step=()=>{
     if(i>=sentences.length) return;
-    const v=pickVoice();
-    if(!v){toast('未检测到英文语音包，请在系统设置里开启一个英文 TTS 语音（Windows：设置→时间和语言→语音→添加 English 语音）');return;}
     const u=new SpeechSynthesisUtterance(sentences[i]);
     u.lang=settings.accent; u.rate=.9; u.voice=v;
     u.onend=()=>{i++; step();};
     u.onerror=()=>{i++; step();};
     window.speechSynthesis.speak(u);
   };
-  // 预热：先触发一次加载
-  getVoices();
-  if(getVoices().length){
-    step();
-  }else{
-    let done=false;
-    const start=()=>{if(done)return;done=true;step();};
-    window.speechSynthesis.onvoiceschanged=start;
-    // 兜底：即便语音引擎迟迟不就绪，也尝试一次（step 内部会给出无语音包提示）
-    setTimeout(()=>{if(!done)start();},800);
-  }
+  window.speechSynthesis.cancel();
+  step();
 }
 
 /* ================= TOAST ================= */
-function toast(msg){
+function toast(msg, duration){
   let t=document.getElementById('toast');
   if(!t){
     t=document.createElement('div'); t.id='toast';
@@ -1310,7 +1296,7 @@ function toast(msg){
     document.body.appendChild(t);
   }
   t.textContent=msg; t.style.opacity='1';
-  clearTimeout(t._timer); t._timer=setTimeout(()=>{t.style.opacity='0';},2600);
+  clearTimeout(t._timer); t._timer=setTimeout(()=>{t.style.opacity='0';},duration||2600);
 }
 
 /* ================= UTILS ================= */
