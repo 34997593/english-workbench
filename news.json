@@ -1,390 +1,434 @@
 {
-  "updated": "2026-08-04T23:50:10Z",
+  "updated": "2026-08-05T23:43:34Z",
   "count": 60,
   "articles": [
     {
       "source": "NPR",
-      "link": "https://www.npr.org/2026/08/04/nx-s1-5918536/spacex-first-earnings-report-since-ipo",
-      "title": "SpaceX's revenue rises as its once-soaring stock price drifts back to Earth",
-      "summary": "On their first earnings call since SpaceX's June public offering, executives said the company is pouring funds into rocket development, Starlink satellites and AI.",
+      "link": "https://www.npr.org/2026/08/05/g-s1-137523/ousted-bangladeshi-leader-vows-to-return-from-exile-despite-facing-a-death-sentence",
+      "title": "Ousted Bangladeshi leader vows to return from exile despite facing a death sentence",
+      "summary": "Hasina's speech marked the second anniversary of her ouster. She fled Bangladesh by helicopter following nearly two months of protests in 2024 that left nearly 1,400 people dead, according to the United Nations.",
       "paragraphs": [
-        "On their first earnings call since SpaceX's June public offering, executives said the company is pouring funds into rocket development, Starlink satellites and AI."
+        "Hasina's speech marked the second anniversary of her ouster. She fled Bangladesh by helicopter following nearly two months of protests in 2024 that left nearly 1,400 people dead, according to the United Nations."
       ],
-      "date": "2026-08-04",
+      "date": "2026-08-05",
       "real": true
     },
     {
       "source": "NPR",
-      "link": "https://www.npr.org/2026/08/04/nx-s1-5919329/ranchers-evacuate-cattle",
-      "title": "Oregon's wildfire season is pushing ranchers to evacuate their cattle",
-      "summary": "Oregon has been having an extremely active fire season. Some of the areas burning are critical to ranchers whose livelihoods depend on cattle.",
+      "link": "https://www.npr.org/2026/08/05/nx-s1-5922451/150-million-contract-to-represent-migrant-children-awarded-to-trump-texas-law-firm",
+      "title": "Small Texas law firm set to receive $150M to represent unaccompanied migrant children",
+      "summary": "The firm, Houston-based Burke Law Group has only two attorneys who specialize in immigration and asylum cases. Two of its founders have ties to the Trump administration.",
       "paragraphs": [
-        "Oregon has been having an extremely active fire season. Some of the areas burning are critical to ranchers whose livelihoods depend on cattle."
+        "The firm, Houston-based Burke Law Group has only two attorneys who specialize in immigration and asylum cases. Two of its founders have ties to the Trump administration."
       ],
-      "date": "2026-08-04",
+      "date": "2026-08-05",
       "real": true
     },
     {
       "source": "NPR",
-      "link": "https://www.npr.org/2026/08/04/nx-s1-5910852/maine-birthing-center-fight",
-      "title": "One Maine community's fight to save a birthing center",
-      "summary": "In mid-coast Maine a grassroots coalition is fighting to prevent the proposed closure of Miles Hospital's labor and delivery center.",
+      "link": "https://www.npr.org/2026/08/05/nx-s1-5920379/cdc-director-confirmed-erica-schwartz",
+      "title": "Dr. Erica Schwartz confirmed as CDC director, filling a leadership vacuum",
+      "summary": "Schwartz takes command of a public health agency that has lost thousands of employees, amid layoffs, resignations and leadership turmoil.",
       "paragraphs": [
-        "In mid-coast Maine a grassroots coalition is fighting to prevent the proposed closure of Miles Hospital's labor and delivery center."
+        "Schwartz takes command of a public health agency that has lost thousands of employees, amid layoffs, resignations and leadership turmoil."
       ],
-      "date": "2026-08-04",
+      "date": "2026-08-05",
       "real": true
     },
     {
       "source": "NPR",
-      "link": "https://www.npr.org/2026/08/04/g-s1-137389/max-miller-congress-house-ethics-committee-investigation",
-      "title": "House Ethics Committee will investigate Ohio Republican Max Miller",
-      "summary": "The committee said it was reviewing allegations that Miller \"may have engaged in domestic violence.\" Miller has denied the allegations, which have swirled around his bid for a third term in Congress.",
+      "link": "https://www.npr.org/2026/08/05/nx-s1-5919997/how-trump-made-an-estimated-2-2-billion-during-the-first-year-of-his-second-term",
+      "title": "How Trump made an estimated $2.2 billion during the first year of his second term",
+      "summary": "<em>New York Times</em> reporter Eric Lipton discusses his Pulitzer Prize-winning investigations into Trump's conflicts of interest and whether he's exploiting the power of the presidency for self-enrichment.",
       "paragraphs": [
-        "The committee said it was reviewing allegations that Miller \"may have engaged in domestic violence.\" Miller has denied the allegations, which have swirled around his bid for a third term in Congress."
+        "New York Times reporter Eric Lipton discusses his Pulitzer Prize-winning investigations into Trump's conflicts of interest and whether he's exploiting the power of the presidency for self-enrichment."
       ],
-      "date": "2026-08-04",
+      "date": "2026-08-05",
       "real": true
     },
     {
       "source": "NPR",
-      "link": "https://www.npr.org/2026/08/04/g-s1-137287/us-patriot-missiles-ukraine-middle-east-iran-war",
-      "title": "The soaring demand for Patriot missiles, from the Middle East to Ukraine",
-      "summary": "The U.S. and its partners depend on Patriot interceptors to shoot down incoming ballistic missiles. But Russia and Iran are firing their weapons at rates far higher than Patriots can be produced.",
+      "link": "https://www.npr.org/2026/08/05/g-s1-137440/judge-dismisses-lawsuit-oath-keepers",
+      "title": "Judge reluctantly dismisses case against Oath Keepers militia group over Jan. 6 riot",
+      "summary": "A judge has granted the Justice Department's bid to drop a landmark case against leaders of the Oath Keepers, as former prosecutors warn about the dangers of denying the violence of Jan. 6.",
       "paragraphs": [
-        "The U.S. and its partners depend on Patriot interceptors to shoot down incoming ballistic missiles. But Russia and Iran are firing their weapons at rates far higher than Patriots can be produced."
+        "A judge has granted the Justice Department's bid to drop a landmark case against leaders of the Oath Keepers, as former prosecutors warn about the dangers of denying the violence of Jan. 6."
       ],
-      "date": "2026-08-04",
+      "date": "2026-08-05",
       "real": true
     },
     {
       "source": "NPR",
-      "link": "https://www.npr.org/2026/08/04/nx-s1-5919238/jeffrey-epstein-jpmorgan-bank-of-america-deutsche-bank-senate-democrats",
-      "title": "Senate Democrats say banks turned blind eye to suspicious moves by Jeffrey Epstein",
-      "summary": "A report from Senate Democrats accuses big banks of failing to report suspicious money transfers made by Jeffrey Epstein until after his arrest in 2019.",
+      "link": "https://www.npr.org/2026/08/05/g-s1-137449/pakistans-ruling-party-leads-in-kashmir-vote-despite-boycott-call-by-banned-group",
+      "title": "Pakistan's ruling party leads in Kashmir vote despite boycott call by banned group",
+      "summary": "Candidates backed by twice-elected former Prime Minister Nawaz Sharif's Pakistan Muslim League-N party have won 24 of the 34 seats decided in the first two phases of voting, the election commission, said Wednesday.",
       "paragraphs": [
-        "A report from Senate Democrats accuses big banks of failing to report suspicious money transfers made by Jeffrey Epstein until after his arrest in 2019."
+        "Candidates backed by twice-elected former Prime Minister Nawaz Sharif's Pakistan Muslim League-N party have won 24 of the 34 seats decided in the first two phases of voting, the election commission, said Wednesday."
       ],
-      "date": "2026-08-04",
+      "date": "2026-08-05",
       "real": true
     },
     {
       "source": "NPR",
-      "link": "https://www.npr.org/2026/08/04/nx-s1-5919214/europe-heatwave-danube-rhine-wildfires",
-      "title": "Europe's heat wave fuels drought, wildfires and fears about energy supplies",
-      "summary": "Europe's heat wave exposes buried history and new threats — Nazi-era wrecks emerge from the Danube, nuclear reactors face cooling risks, and Greece battles deadly wildfires.",
+      "link": "https://www.npr.org/2026/08/05/g-s1-137436/under-chinas-new-unity-law-tibetans-fight-to-preserve-language-and-culture",
+      "title": "Under China's new 'unity' law, Tibetans fight to preserve language and culture",
+      "summary": "A 73-year-old retired nurse's decision to learn to write Tibetan language offers a glimpse into how some embrace their language and cultural identity in Tibet.",
       "paragraphs": [
-        "Europe's heat wave exposes buried history and new threats — Nazi-era wrecks emerge from the Danube, nuclear reactors face cooling risks, and Greece battles deadly wildfires."
+        "A 73-year-old retired nurse's decision to learn to write Tibetan language offers a glimpse into how some embrace their language and cultural identity in Tibet."
       ],
-      "date": "2026-08-04",
+      "date": "2026-08-05",
       "real": true
     },
     {
       "source": "NPR",
-      "link": "https://www.npr.org/2026/08/04/nx-s1-5905346/new-books-august-2026",
-      "title": "13 new books in August will get you through the dog days of summer",
-      "summary": "This month brings riveting novels about dogs, Hollywood stars, small towns and characters with bigger woes than just the sweltering summer heat and humidity.",
+      "link": "https://www.npr.org/2026/08/05/nx-s1-5920403/michigan-senate-el-sayed-stevens-democrats",
+      "title": "Progressive Abdul El-Sayed wins Michigan's Democratic primary for Senate",
+      "summary": "El-Sayed, an epidemiologist, backs Medicare for all and decries corporate money in politics. He beat Rep. Haley Stevens, whose supporters said she would have had a better chance in the fall.",
       "paragraphs": [
-        "This month brings riveting novels about dogs, Hollywood stars, small towns and characters with bigger woes than just the sweltering summer heat and humidity."
+        "El-Sayed, an epidemiologist, backs Medicare for all and decries corporate money in politics. He beat Rep. Haley Stevens, whose supporters said she would have had a better chance in the fall."
       ],
-      "date": "2026-08-04",
+      "date": "2026-08-05",
       "real": true
     },
     {
       "source": "NPR",
-      "link": "https://www.npr.org/2026/08/04/g-s1-137277/up-first-newsetter-michigan-primaries-todd-blanche-spokane-wildfires-chuck-edwards",
-      "title": "5 states hold primaries today. And, Spokane police arrest man connected to wildfire",
-      "summary": "Five state primaries are being held today, and Michigan is a key focus for Democrats who want to see how progressives fare in races. And, a man has been arrested in connection with a Spokane fire.",
+      "link": "https://www.npr.org/2026/08/05/g-s1-137429/up-first-newsletter-us-missiles-iran-war-michigan-primaries-moderna-flu-shot-black-lung",
+      "title": "U.S. missile stockpiles dwindle. And, FDA weighs approval of flu shots with mRNA tech",
+      "summary": "The U.S. Army's missile stockpile is dwindling and could take years to replenish. And, the Food and Drug Administration is deciding whether to approve a flu vaccine with mRNA technology.",
       "paragraphs": [
-        "Five state primaries are being held today, and Michigan is a key focus for Democrats who want to see how progressives fare in races. And, a man has been arrested in connection with a Spokane fire."
+        "The U.S. Army's missile stockpile is dwindling and could take years to replenish. And, the Food and Drug Administration is deciding whether to approve a flu vaccine with mRNA technology."
       ],
-      "date": "2026-08-04",
+      "date": "2026-08-05",
       "real": true
     },
     {
       "source": "NPR",
-      "link": "https://www.npr.org/2026/08/04/g-s1-136906/drones-healthcare-trump-administration-rwanda",
-      "title": "They're a world leader in using drones for healthcare. But drones can't do it all",
-      "summary": "Drones carrying medical supplies constantly crisscross the skies of Rwanda. The Trump administration is giving a major grant to the effort — and at the same time cutting aid to the country.",
+      "link": "https://www.npr.org/2026/08/05/nx-s1-5921194/russian-missile-drone-barrage",
+      "title": "A Russian barrage in Ukraine's capital kills 17 as air defenses fall short",
+      "summary": "Ukraine's depleted air defenses failed to stop any of Moscow's incoming missiles overnight.",
       "paragraphs": [
-        "Drones carrying medical supplies constantly crisscross the skies of Rwanda. The Trump administration is giving a major grant to the effort — and at the same time cutting aid to the country."
+        "Ukraine's depleted air defenses failed to stop any of Moscow's incoming missiles overnight."
       ],
-      "date": "2026-08-04",
+      "date": "2026-08-05",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/8/4/sri-lanka-shuts-schools-as-floods-and-mudslides-kill-7?traffic_source=rss",
-      "title": "Sri Lanka shuts schools as floods and mudslides kill 7",
+      "link": "https://www.aljazeera.com/news/2026/8/5/fifa-pledges-to-defend-infantino-after-world-cup-rights-plan-collapses?traffic_source=rss",
+      "title": "FIFA pledges to defend Infantino after World Cup rights plan collapses",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-08-04",
+      "date": "2026-08-05",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/8/4/russia-strikes-ukrainian-capital-kyiv-with-ballistic-missiles?traffic_source=rss",
-      "title": "Russia strikes Ukrainian capital Kyiv with ballistic missiles",
+      "link": "https://www.aljazeera.com/news/2026/8/5/erica-schwartz-confirmed-as-new-cdc-chief-amid-us-agency-turmoil?traffic_source=rss",
+      "title": "Erica Schwartz confirmed as new CDC chief amid US agency turmoil",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-08-04",
+      "date": "2026-08-05",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/economy/2026/8/4/elon-musks-spacex-reports-reports-losses-but-less-than-expected?traffic_source=rss",
-      "title": "Elon Musk’s SpaceX reports losses but less than expected",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/israeli-occupation-destroys-farmland-and-lives-in-southern-syria?traffic_source=rss",
+      "title": "Israeli occupation destroys farmland and lives in southern Syria",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-08-04",
+      "date": "2026-08-05",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/how-the-far-right-weaponised-the-ceuta-crisis?traffic_source=rss",
-      "title": "How the far right weaponised the Ceuta crisis",
+      "link": "https://www.aljazeera.com/news/2026/8/5/us-officials-push-back-on-reports-of-dangerously-low-munitions-supplies?traffic_source=rss",
+      "title": "US officials push back on reports of dangerously low munitions supplies",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-08-04",
+      "date": "2026-08-05",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/funeral-for-family-killed-in-us-strike-on-irans-qeshm-island?traffic_source=rss",
-      "title": "Funeral for family killed in US strike on Iran’s Qeshm Island",
+      "link": "https://www.aljazeera.com/news/2026/8/5/us-man-arrested-at-trumps-golf-course-charged-with-multiple-felonies?traffic_source=rss",
+      "title": "US man arrested at Trump’s golf course charged with multiple felonies",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-08-04",
+      "date": "2026-08-05",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/aje-onl-nf_death-toll-rises-to-87-in-assam-040826?traffic_source=rss",
-      "title": "Death toll rises to 87 in India’s flood-stricken Assam",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/israeli-forces-raid-camp-in-occupied-west-bank-2?traffic_source=rss",
+      "title": "Israeli forces raid camp in occupied West Bank",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-08-04",
+      "date": "2026-08-05",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/six-years-on-beirut-blast-families-still-await-justice?traffic_source=rss",
-      "title": "Six years on, Beirut blast families still await justice",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/5-8-clip-teargas-ik-protests-pk?traffic_source=rss",
+      "title": "Clashes on anniversary of Imran Khan imprisonment",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-08-04",
+      "date": "2026-08-05",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/8/4/national-guard-deployment-to-washington-dc-will-cost-us-roughly-1-4bn?traffic_source=rss",
-      "title": "National Guard deployment to Washington, DC will cost US roughly $1.4bn",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/el-sayed-wins-michigan-democratic-senate-primary-2?traffic_source=rss",
+      "title": "El-Sayed wins Michigan Democratic Senate primary",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-08-04",
+      "date": "2026-08-05",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/8/4/us-says-deal-on-reopening-hormuz-close-as-iran-oman-hold-positive-talks?traffic_source=rss",
-      "title": "US says deal on reopening Hormuz close as Iran, Oman hold ‘positive’ talks",
+      "link": "https://www.aljazeera.com/news/2026/8/5/us-announces-more-than-100m-in-rewards-for-eight-jalisco-cartel-leaders?traffic_source=rss",
+      "title": "US announces more than $100m in rewards for eight Jalisco cartel leaders",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-08-04",
+      "date": "2026-08-05",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/8/4/us-court-deals-blow-to-trumps-bid-to-scrap-climate-grant-programme?traffic_source=rss",
-      "title": "US court deals blow to Trump’s bid to scrap climate grant programme",
+      "link": "https://www.aljazeera.com/news/2026/8/5/iran-says-hormuz-talks-with-oman-in-final-stages-as-route-approved?traffic_source=rss",
+      "title": "Iran says Hormuz talks with Oman in ‘final’ stages as route approved",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-08-04",
+      "date": "2026-08-05",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/8/4/how-much-of-a-challenge-are-wildfires-to-europe?traffic_source=rss",
-      "title": "How much of a challenge are wildfires to Europe?",
+      "link": "https://www.aljazeera.com/news/2026/8/5/whats-behind-us-representative-massies-claims-over-crisis-at-ceuta?traffic_source=rss",
+      "title": "What’s behind US Representative Massie’s claims over crisis at Ceuta?",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-08-04",
+      "date": "2026-08-05",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/8/4/i-wanted-to-hug-whatever-remained-gaza-families-3-year-wait-for-funeral?traffic_source=rss",
-      "title": "‘I wanted to hug whatever remained’: Gaza families’ 3-year wait for funeral",
+      "link": "https://www.aljazeera.com/economy/2026/8/5/spacex-shares-slide-on-the-heels-of-first-quarterly-report?traffic_source=rss",
+      "title": "SpaceX shares slide on the heels of first quarterly report",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-08-04",
+      "date": "2026-08-05",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/8/4/kosovo-finds-third-wartime-mass-grave-site-as-officials-widen-search?traffic_source=rss",
-      "title": "Kosovo finds third wartime mass grave site as officials widen search",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/05-08-sv-hasina-returns-bangladesh-bn?traffic_source=rss",
+      "title": "Sheikh Hasina says she will return to Bangladesh in December",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-08-04",
+      "date": "2026-08-05",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/shop-owners-dismantle-businesses-after-israeli-demolition-orders?traffic_source=rss",
-      "title": "Shop owners dismantle businesses after Israeli demolition orders",
+      "link": "https://www.aljazeera.com/news/2026/8/5/new-mexico-sues-us-justice-department-for-impeding-epstein-probe?traffic_source=rss",
+      "title": "New Mexico sues US Justice Department for impeding Epstein probe",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-08-04",
+      "date": "2026-08-05",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/8/4/argentina-grain-exports-halt-as-maritime-pilots-strike-over-milei-decree?traffic_source=rss",
-      "title": "Argentina grain exports halt as maritime pilots strike over Milei decree",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/aje-onl-nf_young-pilot-makes-emergency-landing-on-florida-i10-050826?traffic_source=rss",
+      "title": "Young pilot makes daring emergency landing on Florida interstate",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-08-04",
+      "date": "2026-08-05",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/evacuations-ordered-as-guatemala-volcano-erupts?traffic_source=rss",
-      "title": "Evacuations ordered as Guatemala volcano erupts",
+      "link": "https://www.aljazeera.com/news/2026/8/5/brazils-flavio-bolsonaro-names-alfredo-gaspar-as-running-mate?traffic_source=rss",
+      "title": "Brazil’s Flavio Bolsonaro names Alfredo Gaspar as running mate",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-08-04",
+      "date": "2026-08-05",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/8/4/red-cross-urges-international-aid-as-sudan-crisis-deepens?traffic_source=rss",
-      "title": "Red Cross urges international aid as Sudan crisis deepens",
+      "link": "https://www.aljazeera.com/news/2026/8/5/malaysia-will-not-return-rohingya-refugees-to-myanmar-if-lives-are-at-risk?traffic_source=rss",
+      "title": "Malaysia vows not to return Rohingya refugees to Myanmar if lives at risk",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-08-04",
+      "date": "2026-08-05",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/economy/2026/8/4/telegram-says-apple-suspension-followed-content-norms-violation-by-one-user?traffic_source=rss",
-      "title": "Telegram says Apple suspension followed content norms violation by one user",
+      "link": "https://www.aljazeera.com/news/2026/8/5/us-law-enforcement-reports-deadly-mass-shooting-in-north-carolina?traffic_source=rss",
+      "title": "US authorities say three killed in Prospect Hill, North Carolina shooting",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-08-04",
+      "date": "2026-08-05",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/kazakhstan-releases-first-tiger-to-restore-extinct-species?traffic_source=rss",
-      "title": "Kazakhstan releases first tiger to restore extinct species",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/8/5/is-the-conflict-between-russia-and-ukraine-deepening?traffic_source=rss",
+      "title": "Is the conflict between Russia and Ukraine deepening?",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-08-04",
+      "date": "2026-08-05",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/economy/2026/8/4/white-house-to-meet-ai-firms-on-advanced-model-safety?traffic_source=rss",
-      "title": "White House to meet AI firms on advanced model safety",
+      "link": "https://www.aljazeera.com/gallery/2026/8/5/photos-israeli-forces-raid-occupied-west-banks-qalandiya-refugee-camp?traffic_source=rss",
+      "title": "Photos: Israeli forces raid occupied West Bank’s Qalandiya refugee camp",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-08-04",
+      "date": "2026-08-05",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/8/4/doj-sends-monitors-to-michigan-poll-sites-as-lawmakers-warn-of-partisan-aim?traffic_source=rss",
-      "title": "DOJ sends monitors to Michigan poll sites as lawmakers warn of partisan aim",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/el-sayed-wins-michigan-democratic-senate-primary?traffic_source=rss",
+      "title": "El-Sayed wins Michigan Democratic Senate primary",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-08-04",
+      "date": "2026-08-05",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/mass-funeral-held-for-112-members-of-two-palestinian-families?traffic_source=rss",
-      "title": "Mass funeral held for 112 members of two Palestinian families",
+      "link": "https://www.aljazeera.com/news/2026/8/5/puntland-forces-seize-government-held-camp-in-somalias-galkayo?traffic_source=rss",
+      "title": "Puntland forces seize government-held camp in Somalia’s Galkayo",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-08-04",
+      "date": "2026-08-05",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/8/4/maximum-use-iran-boosts-military-strength-during-ceasefire-with-us?traffic_source=rss",
-      "title": "‘Maximum use’: Iran boosts military strength during ceasefire with US",
+      "link": "https://www.aljazeera.com/news/2026/8/5/at-least-one-lebanese-person-two-israeli-soldiers-killed-in-south-lebanon?traffic_source=rss",
+      "title": "At least one Lebanese person, two Israeli soldiers killed in south Lebanon",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-08-04",
+      "date": "2026-08-05",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/rubio-progress-made-to-reopen-strait-of-hormuz?traffic_source=rss",
-      "title": "Rubio: Progress made to reopen Strait of Hormuz",
+      "link": "https://www.aljazeera.com/sports/2026/8/5/liv-golf-secures-lead-investor-for-player-driven-life-after-saudi-future?traffic_source=rss",
+      "title": "LIV Golf secures ‘lead’ investor for player-driven future after Saudi exit",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-08-04",
+      "date": "2026-08-05",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/why-did-the-us-economy-slow-down?traffic_source=rss",
-      "title": "Why did the US economy slow down?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/5-8-sv-russia-attacks-kyiv-ua?traffic_source=rss",
+      "title": "Russia kills 17 in ballistic missile attacks around Kyiv",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-08-04",
+      "date": "2026-08-05",
+      "real": true
+    },
+    {
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/2026/aug/05/us-state-department-consulate-closures",
+      "title": "US to shut five consulates as critics fear China could fill diplomatic vacuum",
+      "summary": "<p>State department informs Congress of planned closures in Canada, Grenada, Japan, Indonesia and Cameroon</p><p>The US state department is to shut five foreign consulates and missions across Asia, Africa, North America and the Caribbean, drawing criticism that it is leaving a diplomatic vacuum at r",
+      "paragraphs": [
+        "<p>State department informs Congress of planned closures in Canada, Grenada, Japan, Indonesia and Cameroon</p><p>The US state department is to shut five foreign consulates and missions across Asia, Africa, North America and the Caribbean, drawing criticism that it is leaving a diplomatic vacuum at risk of being filled by China.</p><p>The US Congress has been served notice of the impending closures, which are being justified on cost grounds and follow a reassessment of the US’s bilateral relationships with a range of countries since Donald Trump returned to the White House in January 2025.</p> <a href=\"https://www.theguardian.com/us-news/2026/aug/05/us-state-department-consulate-closures\">Continue reading...</a>"
+      ],
+      "date": "2026-08-05",
+      "real": true
+    },
+    {
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/environment/2026/aug/05/el-nino-could-push-50m-people-acute-hunger-next-year",
+      "title": "El Niño could push 50m people into acute hunger before end of next year",
+      "summary": "<p>UN forecasters warn of worsening conditions in 45 countries currently experiencing severe food insecurity</p><p>About 50 million people are likely to be pushed into acute hunger before the end of next year by the <a href=\"https://www.theguardian.com/environment/2026/jul/31/india-monsoon-el-nino-h",
+      "paragraphs": [
+        "<p>UN forecasters warn of worsening conditions in 45 countries currently experiencing severe food insecurity</p><p>About 50 million people are likely to be pushed into acute hunger before the end of next year by the <a href=\"https://www.theguardian.com/environment/2026/jul/31/india-monsoon-el-nino-hot-dry-conditions-meteorologists\">rapidly developing El Niño weather system</a>, according to forecasting.</p><p>This is in addition to the hundreds of millions of people already facing dangerous levels of hunger, owing to years of drought in parts of Africa and pressure on food prices from the war in Iran.</p> <a href=\"https://www.theguardian.com/environment/2026/aug/05/el-nino-could-push-50m-people-acute-hunger-next-year\">Continue reading...</a>"
+      ],
+      "date": "2026-08-05",
+      "real": true
+    },
+    {
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/aug/05/wednesday-briefing-how-misinformation-and-a-hardened-immigration-policy-turned-ceuta-into-europes-latest-flashpoint",
+      "title": "Wednesday briefing: ​How misinformation and ​a​ hardened immigration policy ​turned Ceuta ​into Europe’s ​latest ​flashpoint",
+      "summary": "<p>In today’s newsletter: The past week shows how quickly images, rumours and ​right-wing political opportunism can eclipse the facts on the ground</p><p>Good morning. Last week, an estimated 72,000 migrants began crossing into a tiny Spanish enclave on the tip of Morocco. Within 24 hours, most of t",
+      "paragraphs": [
+        "<p>In today’s newsletter: The past week shows how quickly images, rumours and ​right-wing political opportunism can eclipse the facts on the ground</p><p>Good morning. Last week, an estimated 72,000 migrants began crossing into a tiny Spanish enclave on the tip of Morocco. Within 24 hours, most of them had <a href=\"https://www.theguardian.com/world/2026/aug/03/ceuta-leader-border-crossing-morocco-spain\">headed home</a>. At least 88 people died after attempting the crossing, according to local officials. This isn’t the whole story of what happened over the last week, but the facts are worth remembering.</p><p>At an emergency meeting yesterday, EU interior ministers sought to draw a line under Ceuta, insisting that the passport-free Schengen area had never been at risk from the arrival of migrants at this scale. Despite this, much of the media coverage has suggested that events in Ceuta represent a territorial threat to Europe, sparking calls for greater security across the region’s borders.</p><p><em><strong>Environment </strong></em>| Eight of the biggest oil companies <a href=\"https://www.theguardian.com/business/ng-interactive/2026/aug/04/revealed-major-oil-firms-make-93bn-profits-amid-war-and-climate-crisis\">amassed profits of more</a> than $90bn (£67bn) in just three months as the Iran conflict sent energy prices soaring and the emissions-fuelled climate crisis caused deadly heatwaves.</p><p><em><strong>UK politics </strong></em>| Women should not feel pressurised into experiencing an “ideal birth”, the new health secretary, Yvette Cooper, has said, <a href=\"https://www.theguardian.com/society/2026/aug/05/women-must-not-feel-pressure-to-have-ideal-birth-says-yvette-cooper\">promising a root-and-branch reform</a> of standards after several damning maternity scandals.</p><p><em><strong>Middle East </strong></em>| Jordan is convening an emergency meeting over an “imminent” <a href=\"https://www.theguardian.com/world/2026/aug/04/jordan-convenes-emergency-meeting-israel-religious-conflict-jerusalem\">threat of an Israeli takeover</a> of the most important Muslim site in Jerusalem, with the potential to “trigger a religious conflict”.</p><p><em><strong>Ukraine </strong></em>| Russian strikes in and around Kyiv <a href=\"https://www.theguardian.com/world/2026/aug/05/russia-kyiv-attack-kills-at-least-14-people-ukraine-authorities\">killed at least 14 people</a>, ⁠injured 27 and ⁠damaged warehouses, ​emergency service officials said. Some reports put the death toll at 15.</p><p><em><strong>Ceuta </strong></em>| Hundreds of people <a href=\"https://www.theguardian.com/world/2026/aug/05/hundreds-in-morocco-gather-near-ceuta-border-in-anxious-wait-for-missing-loved-ones\">have gathered</a> in the northern Moroccan town of Fnideq, near the border with Spain’s Ceuta, flashing photos of their missing loved ones to passersby in the hope of tracking them down.</p> <a href=\"https://www.theguardian.com/world/2026/aug/05/wednesday-briefing-how-misinformation-and-a-hardened-immigration-policy-turned-ceuta-into-europes-latest-flashpoint\">Continue reading...</a>"
+      ],
+      "date": "2026-08-05",
+      "real": true
+    },
+    {
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/aug/05/hundreds-in-morocco-gather-near-ceuta-border-in-anxious-wait-for-missing-loved-ones",
+      "title": "Hundreds in Morocco gather near Ceuta border in anxious wait for missing loved ones",
+      "summary": "<p>People hope to see friends or relatives among those still returning as death toll from mass crossing nears 100</p><p>Hundreds of people have gathered in the northern Moroccan town of Fnideq, near the border with Spain’s Ceuta, flashing photos of their missing loved ones to passersby in the hope o",
+      "paragraphs": [
+        "<p>People hope to see friends or relatives among those still returning as death toll from mass crossing nears 100</p><p>Hundreds of people have gathered in the northern Moroccan town of Fnideq, near the border with Spain’s Ceuta, flashing photos of their missing loved ones to passersby in the hope of tracking them down.</p><p>Their perch was the same small tranche of land that made headlines around the world last week as extraordinary scenes emerged of <a href=\"https://www.theguardian.com/world/2026/jul/31/ceuta-spain-morocco-border-deaths\">about 72,000 people making their way into Ceuta</a>, a tiny Spanish territory in north Africa.</p> <a href=\"https://www.theguardian.com/world/2026/aug/05/hundreds-in-morocco-gather-near-ceuta-border-in-anxious-wait-for-missing-loved-ones\">Continue reading...</a>"
+      ],
+      "date": "2026-08-05",
       "real": true
     },
     {
@@ -400,101 +444,79 @@
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/news/audio/2026/aug/03/how-ceuta-migrant-crisis-exposes-divisions-within-europe-the-latest",
-      "title": "How Ceuta migrant crisis exposes divisions within Europe - The Latest",
-      "summary": "<p>Dozens of people died attempting to reach the Spanish enclave of Ceuta after an estimated 50,000 crossed from Morocco last week. The incident has led to a political crisis in Spain and criticism from EU countries.</p><p>Lucy Hough speaks to the Guardian’s European community affairs correspondent,",
+      "link": "https://www.theguardian.com/world/2026/aug/05/toronto-zoo-pygmy-hippo-calf",
+      "title": "Toronto zoo announces birth of pygmy hippo calf, third for mother Kindia",
+      "summary": "<p>The 20-year-old’s third calf is being monitored by officials as survival rates for the species are challenging, the zoo said</p><p>The Toronto Zoo has announced the birth of a female pygmy hippo calf.</p><p>Kindia, the zoo’s 20-year-old pygmy hippo, started showing signs of labor at around 8.15am",
       "paragraphs": [
-        "<p>Dozens of people died attempting to reach the Spanish enclave of Ceuta after an estimated 50,000 crossed from Morocco last week. The incident has led to a political crisis in Spain and criticism from EU countries.</p><p>Lucy Hough speaks to the Guardian’s European community affairs correspondent, Ashifa Kassam – <a href=\"https://www.youtube.com/@todayinfocuspodcast\">watch on YouTube</a></p> <a href=\"https://www.theguardian.com/news/audio/2026/aug/03/how-ceuta-migrant-crisis-exposes-divisions-within-europe-the-latest\">Continue reading...</a>"
+        "<p>The 20-year-old’s third calf is being monitored by officials as survival rates for the species are challenging, the zoo said</p><p>The Toronto Zoo has announced the birth of a female pygmy hippo calf.</p><p>Kindia, the zoo’s 20-year-old pygmy hippo, started showing signs of labor at around 8.15am last Sunday, it said. Around four hours later, the calf’s feet emerged and after 1.5 hours of active labor, Kindia successfully gave birth to the baby pygmy hippo.</p> <a href=\"https://www.theguardian.com/world/2026/aug/05/toronto-zoo-pygmy-hippo-calf\">Continue reading...</a>"
       ],
-      "date": "2026-08-03",
+      "date": "2026-08-05",
       "real": true
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/world/2026/aug/03/ceuta-leader-border-crossing-morocco-spain",
-      "title": "Ceuta leader accuses Morocco over ‘atrocity’ of mass border crossing",
-      "summary": "<p>Juan Jesús Vivas says influx seen as ‘at least encouraged or permitted’ by Rabat, as Spain demands EU solidarity</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/jul/31/ceuta-spain-eu-border-africa\">Explainer: why is Ceuta a migration flashpoint?</a></p></li></ul><p>A growing chorus ",
+      "link": "https://www.theguardian.com/world/2026/aug/05/mexico-cesar-gastelum-shot-dead-streaming-live-social-media",
+      "title": "Mexican influencer shot dead while streaming live on social media",
+      "summary": "<p>César Gastélum was filming outside a fast-food outlet in Sinaloa state when he was killed by a motorbike driver</p><p>A popular Mexican influencer has been shot dead while doing a live stream on social media outside a restaurant in Sinaloa state, where lethal cartel violence has become widespread",
       "paragraphs": [
-        "<p>Juan Jesús Vivas says influx seen as ‘at least encouraged or permitted’ by Rabat, as Spain demands EU solidarity</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/jul/31/ceuta-spain-eu-border-africa\">Explainer: why is Ceuta a migration flashpoint?</a></p></li></ul><p>A growing chorus of voices has accused Morocco of helping to fuel the crisis in Ceuta, with the leader of the Spanish enclave describing last week’s border crossings as an attack on Spain’s territorial integrity that was seen as being “if not orchestrated, at least encouraged or permitted by Morocco”.</p><p>Spanish officials ⁠said on Monday that an estimated 69,500 people who had arrived late last week in Ceuta, a tiny Spanish territory in north Africa, had returned to Morocco in recent days. About 2,500 people who had made the crossing were believed to still be in Ceuta.</p> <a href=\"https://www.theguardian.com/world/2026/aug/03/ceuta-leader-border-crossing-morocco-spain\">Continue reading...</a>"
+        "<p>César Gastélum was filming outside a fast-food outlet in Sinaloa state when he was killed by a motorbike driver</p><p>A popular Mexican influencer has been shot dead while doing a live stream on social media outside a restaurant in Sinaloa state, where lethal cartel violence has become widespread.</p><p>César Gastélum, who had nearly 600,000 followers on TikTok and was known for making comedy videos, was filming with two friends outside a fast-food restaurant in the city of Culiacán. The three were dressed in the bright orange jackets and backpacks of food delivery drivers.</p> <a href=\"https://www.theguardian.com/world/2026/aug/05/mexico-cesar-gastelum-shot-dead-streaming-live-social-media\">Continue reading...</a>"
       ],
-      "date": "2026-08-03",
+      "date": "2026-08-05",
       "real": true
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/world/2026/aug/02/ceuta-border-crossing-spain-morocco",
-      "title": "Chaos of border crossing gives way to limbo for Moroccans on Ceuta’s streets",
-      "summary": "<p>People among the more than 50,000 who entered Spanish enclave this week describe the journey and their prospects</p><p>Four days ago, Youssef El Abbas saw an opportunity to reclaim the life he had lost seven years earlier. News was circulating that about 400 people had swum from Morocco to the ne",
+      "link": "https://www.theguardian.com/global-development/2026/aug/05/peruvian-cardinal-historic-milestone-150m-lead-poisoning-settlement-1300-children",
+      "title": "Peruvian cardinal hails $150m lead poisoning settlement for 1,300 people as a ‘historic milestone’",
+      "summary": "<p>Cardinal Pedro Barreto received death threats and harassment during his almost 20-year campaign against a US mining company’s operations in the Andes</p><p>A Peruvian cardinal who received a barrage of death threats when he challenged the firm behind a toxic smelter has called a $150m (£111m) out",
       "paragraphs": [
-        "<p>People among the more than 50,000 who entered Spanish enclave this week describe the journey and their prospects</p><p>Four days ago, Youssef El Abbas saw an opportunity to reclaim the life he had lost seven years earlier. News was circulating that about 400 people had swum from Morocco to the neighbouring Spanish enclave of Ceuta on the north African coast, approximately 12 miles (19km) across the strait of Gibraltar from mainland Spain.</p><p>Here was a chance for the 44-year-old Moroccan father of four to return to Spain, from which he had been deported when his residency expired after the loss of his job in Bilbao in 2019.</p> <a href=\"https://www.theguardian.com/world/2026/aug/02/ceuta-border-crossing-spain-morocco\">Continue reading...</a>"
+        "<p>Cardinal Pedro Barreto received death threats and harassment during his almost 20-year campaign against a US mining company’s operations in the Andes</p><p>A Peruvian cardinal who received a barrage of death threats when he challenged the firm behind a toxic smelter has called a $150m (£111m) out-of-court settlement to more than 1,000 people who were allegedly poisoned by the plant as children “a historic milestone”.</p><p>Cardinal Pedro Barreto, 82, was in Rome meeting <a href=\"https://www.theguardian.com/world/2025/may/08/pope-leo-xiv-peru-latin-america\">Pope Leo XIV</a> and other cardinals in June when he received news that the firm that ran the smelter, the Doe Run Company, a subsidiary of Renco Group, <a href=\"https://www.businesswire.com/news/home/20260624893544/en/Schlichter-Bogard-Reaches-Landmark-$150-Million-Settlement-in-La-Oroya-Lead-Poisoning-Litigation\">would pay $150m to 1,373 Peruvians</a> who have suffered health impacts since childhood.</p> <a href=\"https://www.theguardian.com/global-development/2026/aug/05/peruvian-cardinal-historic-milestone-150m-lead-poisoning-settlement-1300-children\">Continue reading...</a>"
       ],
-      "date": "2026-08-02",
+      "date": "2026-08-05",
       "real": true
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/world/2026/aug/02/anti-lgbtq-laws-are-on-the-rise-across-west-africa-campaigners-warn",
-      "title": "Anti-LGBTQ+ laws are on the rise across west Africa, campaigners warn",
-      "summary": "<p>Activists in the region say politicians regard LGBTQ+ people as ‘the easiest scapegoats to maintain their power’</p><p>A growing number of west African countries are implementing or strengthening anti-LGBTQ+ laws, amid local political pressures and a global pushback against LGBTQ+ rights.</p><p>I",
+      "link": "https://www.theguardian.com/world/2026/aug/05/mexico-top-university-unam-resit-entrance-exam-cheating-scandal",
+      "title": "Mexico’s top university orders 58,000 students to resit entrance exam after suspected cheating",
+      "summary": "<p>National Autonomous University of Mexico says applicants must take test in person after online debacle</p><p>Mexico’s largest and most prestigious university has announced that about 58,000 students will have to resit their entrance exam after abnormally high test results raised suspicions of wid",
       "paragraphs": [
-        "<p>Activists in the region say politicians regard LGBTQ+ people as ‘the easiest scapegoats to maintain their power’</p><p>A growing number of west African countries are implementing or strengthening anti-LGBTQ+ laws, amid local political pressures and a global pushback against LGBTQ+ rights.</p><p>In March, Senegal <a href=\"https://www.theguardian.com/global-development/2026/apr/07/senegal-harsh-anti-gay-law-hiv-progress\">doubled the maximum prison sentence</a> for gay sex to 10 years and criminalised the “promotion” of homosexuality. Niger criminalised <a href=\"https://www.theguardian.com/world/2026/jul/01/witch-hunt-in-niger-as-military-regime-rounds-up-lgbtq-population\">“sexual relations with a person of the same sex”</a> in February, the first time same-sex intimacy had been outlawed in the country.</p> <a href=\"https://www.theguardian.com/world/2026/aug/02/anti-lgbtq-laws-are-on-the-rise-across-west-africa-campaigners-warn\">Continue reading...</a>"
+        "<p>National Autonomous University of Mexico says applicants must take test in person after online debacle</p><p>Mexico’s largest and most prestigious university has announced that about 58,000 students will have to resit their entrance exam after abnormally high test results raised suspicions of widespread cheating.</p><p>The National Autonomous University of Mexico (Unam) said the exam would take place in person after its first attempt at a fully remote online version led to a debacle and thousands of annulled results.</p> <a href=\"https://www.theguardian.com/world/2026/aug/05/mexico-top-university-unam-resit-entrance-exam-cheating-scandal\">Continue reading...</a>"
       ],
-      "date": "2026-08-02",
+      "date": "2026-08-05",
       "real": true
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/world/2026/aug/04/guatemala-volcano-eruption-prompts-evacuation-of-hundreds-of-people",
-      "title": "Guatemala volcano eruption prompts evacuation of hundreds of people",
-      "summary": "<p>Eruption of the Fuego volcano sends lava and ash nearly four miles into the sky as country declares second-highest alert</p><p>Hundreds of people living on the slopes of <a href=\"https://www.theguardian.com/world/guatemala\">Guatemala</a>’s Fuego volcano have evacuated their homes after a huge eru",
+      "link": "https://www.theguardian.com/us-news/2026/aug/04/us-revokes-brazil-ambassador-visa",
+      "title": "US revokes Brazil ambassador’s visa in escalation of diplomatic feud",
+      "summary": "<p>Move is retaliation for Lula’s government refusal to approve Trump’s nominee for ambassador in Brasília</p><p>Donald Trump’s administration has <a href=\"https://www.reuters.com/world/americas/us-revokes-visa-brazilian-ambassador-over-diplomatic-dispute-official-says-2026-08-04/\">revoked the visa<",
       "paragraphs": [
-        "<p>Eruption of the Fuego volcano sends lava and ash nearly four miles into the sky as country declares second-highest alert</p><p>Hundreds of people living on the slopes of <a href=\"https://www.theguardian.com/world/guatemala\">Guatemala</a>’s Fuego volcano have evacuated their homes after a huge eruption spewed lava and plumes of ash.</p><p>Central America’s most active volcano erupted on Monday morning, with conditions intensifying by nightfall and prompting authorities to issue the country’s second-most severe alert warning.</p> <a href=\"https://www.theguardian.com/world/2026/aug/04/guatemala-volcano-eruption-prompts-evacuation-of-hundreds-of-people\">Continue reading...</a>"
+        "<p>Move is retaliation for Lula’s government refusal to approve Trump’s nominee for ambassador in Brasília</p><p>Donald Trump’s administration has <a href=\"https://www.reuters.com/world/americas/us-revokes-visa-brazilian-ambassador-over-diplomatic-dispute-official-says-2026-08-04/\">revoked the visa</a> of Brazil’s ambassador to the US in a sharp escalation of a diplomatic feud with the country’s president, Luiz Inácio Lula da Silva.</p><p>The US state department said <a href=\"https://en.wikipedia.org/wiki/Maria_Luiza_Ribeiro_Viotti\">Maria Luiza Ribeiro Viotti</a>’s visa had been cancelled in retaliation for Brazil’s refusal to approve Trump’s nominee for ambassador in Brasília and its decision last month to deny visas to two US diplomats seeking to visit ahead of an October election.</p> <a href=\"https://www.theguardian.com/us-news/2026/aug/04/us-revokes-brazil-ambassador-visa\">Continue reading...</a>"
       ],
-      "date": "2026-08-04",
+      "date": "2026-08-05",
       "real": true
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/world/2026/aug/04/white-elephant-colombia-anti-corruption-activist-senator-luis-carlos-rua",
-      "title": "White elephant in the room: Colombia swears in costumed anti-corruption activist as senator",
-      "summary": "<p>Luis Carlos Rúa revealed himself to be Elefante blanco just three days before election for ‘his own safety’. Now he is tackling graft from senate floor</p><p>When 102 senators were sworn in for Colombia’s latest parliamentary session, they included 32 women, 69 men – and one cartoon elephant.</p>",
+      "link": "https://www.theguardian.com/world/2026/aug/05/new-zealand-capital-rare-snow-wellington-dunedin-ski-down-worlds-steepest-street",
+      "title": "New Zealand capital delights in rare snowfall as southern city residents ski down world’s steepest street",
+      "summary": "<p>Snow falls in Wellington for the first time in 15 years while snow blanketed Dunedin and Christchurch on the country’s south island</p><p>Temperatures have plummeted across New Zealand as an Antarctic cold snap hovers over the country, delighting the capital, Wellington, which experienced snow fo",
       "paragraphs": [
-        "<p>Luis Carlos Rúa revealed himself to be Elefante blanco just three days before election for ‘his own safety’. Now he is tackling graft from senate floor</p><p>When 102 senators were sworn in for Colombia’s latest parliamentary session, they included 32 women, 69 men – and one cartoon elephant.</p><p>He had some difficulty making his way down the narrow central aisle of Congress’s ceremonial chamber, weaving past fellow senators in sharply tailored suits and dresses, before taking the oath in his pot-bellied white plush costume.</p> <a href=\"https://www.theguardian.com/world/2026/aug/04/white-elephant-colombia-anti-corruption-activist-senator-luis-carlos-rua\">Continue reading...</a>"
+        "<p>Snow falls in Wellington for the first time in 15 years while snow blanketed Dunedin and Christchurch on the country’s south island</p><p>Temperatures have plummeted across New Zealand as an Antarctic cold snap hovers over the country, delighting the capital, Wellington, which experienced snow for the first time in 15 years, while giving a southern city’s residents a chance to ski through the streets.</p><p>The front moved in on Tuesday, with much of the country waking to freezing conditions, frosts, snowfall, hail and bitingly cold wind.</p> <a href=\"https://www.theguardian.com/world/2026/aug/05/new-zealand-capital-rare-snow-wellington-dunedin-ski-down-worlds-steepest-street\">Continue reading...</a>"
       ],
-      "date": "2026-08-04",
+      "date": "2026-08-05",
       "real": true
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/environment/2026/aug/03/weather-tracker-austria-heat-europe-japan-typhoon-dolphin",
-      "title": "Weather tracker: Austria breaks heat records as Japan braces for Typhoon Dolphin",
-      "summary": "<p>Soaring temperatures continue to sweep parts of Europe, while Okinawa faces powerful winds and storm surges</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/aug/03/europe-heatwave-wildfires-migration-ceuta-spain-latest-news-updates\">Europe live – latest updates</a></p></li></ul>",
+      "link": "https://www.theguardian.com/world/2026/aug/05/alex-eala-philippines-tennis-fever",
+      "title": "‘Our new champion’: Philippines swept up in tennis fever after Alex Eala’s historic win",
+      "summary": "<p>WTA event win earns 21-year-old a presidential reception in the Philippines as interest in tennis surges in home country</p><p>The Philippines has been swept up in tennis fever after 21-year-old rising star Alex Eala delivered a historic win, drawing praise from the president who hosted a recepti",
       "paragraphs": [
-        "<p>Soaring temperatures continue to sweep parts of Europe, while Okinawa faces powerful winds and storm surges</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/aug/03/europe-heatwave-wildfires-migration-ceuta-spain-latest-news-updates\">Europe live – latest updates</a></p></li></ul><p>Unbearable, record-breaking heat has dominated the summer of 2026 across much of Europe. New records were set in central Europe last week, with Wieselburg in Austria registering a new July peak of 40.3C (104.5F). This is particularly significant as it is just 0.2C behind the all-time high, set in the August of 2003.</p><p>However, not all of the northern hemisphere has experienced extreme heat and aridity. Vancouver recorded its wettest July since 2016 and the third wettest since 2008, with 33.6mm of rain. While that total may not appear exceptional, it is only a touch above the 1991-2020 climate average, highlighting how unusually dry July has been in the Canadian city over the past decade.</p> <a href=\"https://www.theguardian.com/environment/2026/aug/03/weather-tracker-austria-heat-europe-japan-typhoon-dolphin\">Continue reading...</a>"
+        "<p>WTA event win earns 21-year-old a presidential reception in the Philippines as interest in tennis surges in home country</p><p>The Philippines has been swept up in tennis fever after 21-year-old rising star Alex Eala delivered a historic win, drawing praise from the president who hosted a reception in her honour.</p><p>On Monday, Eala became the <a href=\"https://www.theguardian.com/sport/2026/aug/03/alexandra-eala-dc-open-title-philippines\">first player from the Philippines</a> to win a Women’s Tennis Association (WTA) Tour-level singles title.</p> <a href=\"https://www.theguardian.com/world/2026/aug/05/alex-eala-philippines-tennis-fever\">Continue reading...</a>"
       ],
-      "date": "2026-08-03",
-      "real": true
-    },
-    {
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/world/2026/aug/01/at-least-13-dead-as-tourist-plane-crashes-during-flight-over-perus-nazca-lines",
-      "title": "Tourist plane crashes during flight over Peru’s Nazca Lines, killing 13",
-      "summary": "<p>Aircraft crashes into field after departing from nearby city of Pisco, according to local authorities</p><p>Police in Peru report that 13 people, among them foreign tourists, have been killed in a plane crash in southern Peru, near the Nazca Lines.</p><p>Local authorities in Nazca confirmed that ",
-      "paragraphs": [
-        "<p>Aircraft crashes into field after departing from nearby city of Pisco, according to local authorities</p><p>Police in Peru report that 13 people, among them foreign tourists, have been killed in a plane crash in southern Peru, near the Nazca Lines.</p><p>Local authorities in Nazca confirmed that 11 tourists and two pilots died when the Cessna Grand Caravan crashed in Pueblo Viejo, approximately 4 miles (6km) from the city of Nazca and roughly 12km from the Nazca Lines site.</p> <a href=\"https://www.theguardian.com/world/2026/aug/01/at-least-13-dead-as-tourist-plane-crashes-during-flight-over-perus-nazca-lines\">Continue reading...</a>"
-      ],
-      "date": "2026-08-01",
-      "real": true
-    },
-    {
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/society/2026/jul/31/hiv-aids-medication-usaid-cuts",
-      "title": "HIV prevention drug could reduce cases globally but USAID cuts prevent access, say experts",
-      "summary": "<p>Injectable PrEP drug holds promise but investment in HIV prevention has declined dramatically worldwide</p><ul><li><p><a href=\"https://www.theguardian.com/news/2026/feb/17/sign-up-for-the-breaking-news-us-email-to-get-newsletter-alerts-direct-to-your-inbox?utm_medium=ACQUISITIONS_STANDFIRST&amp;u",
-      "paragraphs": [
-        "<p>Injectable PrEP drug holds promise but investment in HIV prevention has declined dramatically worldwide</p><ul><li><p><a href=\"https://www.theguardian.com/news/2026/feb/17/sign-up-for-the-breaking-news-us-email-to-get-newsletter-alerts-direct-to-your-inbox?utm_medium=ACQUISITIONS_STANDFIRST&amp;utm_campaign=BN22326&amp;utm_content=signup&amp;utm_term=standfirst&amp;utm_source=GUARDIAN_WEB\">Sign up for the Breaking News US newsletter email</a><em> </em></p></li></ul><p>New innovations in HIV prevention could dramatically reduce the number of new <a href=\"https://www.theguardian.com/society/aids-and-hiv\">HIV</a> cases around the globe, but US foreign aid cuts will mean that those that most need the new medication will be unable to access it, according to experts at the Aids 2026 Conference in Rio de Janeiro, <a href=\"https://www.theguardian.com/world/brazil\">Brazil</a>.</p><p>One year ago, the World Health Organization<a href=\"https://www.who.int/news/item/14-07-2025-who-recommends-injectable-lenacapavir-for-hiv-prevention\"> recommended that governments around the world prioritize</a> expanded access to lenacapavir, an injectable version of the HIV prevention medication PrEP that requires only two injections annually. PrEP, which also comes in the form of daily oral medications and bimonthly injections, is 99% effective in preventing sexually transmitted HIV for people who take it consistently.</p> <a href=\"https://www.theguardian.com/society/2026/jul/31/hiv-aids-medication-usaid-cuts\">Continue reading...</a>"
-      ],
-      "date": "2026-07-31",
+      "date": "2026-08-05",
       "real": true
     },
     {
@@ -532,134 +554,112 @@
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/world/2026/aug/03/nauru-officially-changes-its-name-to-naoero",
-      "title": "Nauru officially changes its name to Naoero",
-      "summary": "<p>Pacific nation is latest country to signal a shift away from its colonial past with return to its traditional name</p><p>The Pacific Island country of <a href=\"https://www.theguardian.com/world/nauru\">Nauru</a> has changed its name to the Republic of Naoero, its president said, matching the spell",
+      "link": "https://www.theguardian.com/media/2026/aug/06/news-corp-subscriptions-fall-in-australia-as-company-takes-aim-at-slimy-ai-slop",
+      "title": "News Corp subscriptions fall in Australia as company takes aim at ‘slimy’ AI slop",
+      "summary": "<p>Chief executive Robert Thomson says ‘crass kleptomaniac’ AI companies are ‘in possession of stolen goods’</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/aug/06/australia-news-live-nsw-politics-icac-corruption-perrottet-ibac-victoria-daniel-andrews-royal-commission-ant",
       "paragraphs": [
-        "<p>Pacific nation is latest country to signal a shift away from its colonial past with return to its traditional name</p><p>The Pacific Island country of <a href=\"https://www.theguardian.com/world/nauru\">Nauru</a> has changed its name to the Republic of Naoero, its president said, matching the spelling and pronunciation in the national language.</p><p>The country’s international code will change from NRU to NRO and its people will be known as dei-Naoero instead of Nauruan. Commonly known abroad by the pronunciation of Now-roo, the new name is spoken as Now-ero.</p> <a href=\"https://www.theguardian.com/world/2026/aug/03/nauru-officially-changes-its-name-to-naoero\">Continue reading...</a>"
+        "<p>Chief executive Robert Thomson says ‘crass kleptomaniac’ AI companies are ‘in possession of stolen goods’</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/aug/06/australia-news-live-nsw-politics-icac-corruption-perrottet-ibac-victoria-daniel-andrews-royal-commission-antisemitism-labor-tax-albanese-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>News Corp has reported a slight slide in digital subscriptions at its Australian mastheads, erasing recent gains, among otherwise robust financials at the Rupert Murdoch-backed global conglomerate.</p><p>Digital subscribers at News Corp Australia – a division that includes the Australian, the Daily Telegraph and the Herald Sun, among others – fell from 1,166,000 to 1,162,000 during the financial year, according to the company’s internal data published in its full year results on Thursday morning.</p> <a href=\"https://www.theguardian.com/media/2026/aug/06/news-corp-subscriptions-fall-in-australia-as-company-takes-aim-at-slimy-ai-slop\">Continue reading...</a>"
       ],
-      "date": "2026-08-03",
+      "date": "2026-08-05",
       "real": true
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/business/2026/aug/03/yen-trump-currency-us-japan",
-      "title": "Yen hits three-month high after Trump helps prop up currency",
-      "summary": "<p>US and Japanese governments confirm they carried out a rare joint intervention late last week</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/aug/03/trump-japan-currency-yen-explainer\">Why has Trump stepped in to prop up Japan’s currency?</a></p></li><li><p><a href=\"https://www.theg",
+      "link": "https://www.theguardian.com/australia-news/live/2026/aug/06/australia-news-live-nsw-politics-icac-corruption-perrottet-ibac-victoria-daniel-andrews-royal-commission-antisemitism-labor-tax-albanese-ntwnfb",
+      "title": "News live: News Corp loses subscribers in Australia as company lashes out at AI ‘crass kleptomaniacs’ and ‘slimy sea of slop’",
+      "summary": "<p>Internal data shows digital subscribers slide from 1,166,000 to 1,162,000. Follow today’s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.the",
       "paragraphs": [
-        "<p>US and Japanese governments confirm they carried out a rare joint intervention late last week</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/aug/03/trump-japan-currency-yen-explainer\">Why has Trump stepped in to prop up Japan’s currency?</a></p></li><li><p><a href=\"https://www.theguardian.com/business/live/2026/aug/03/uk-economy-recession-strait-hormuz-closed-oil-latest-news-updates\">Business live – latest updates</a></p></li></ul><p>The yen has hit its highest level in three months after <a href=\"https://www.theguardian.com/world/2026/aug/03/trump-japan-currency-yen-explainer\">Japan and the US</a> launched a combined operation to support the Japanese currency.</p><p>The yen strengthened to ¥155 to the US dollar on Monday, its highest level since early May, after Tokyo and Washington confirmed they had carried out a rare joint currency intervention late last week.</p> <a href=\"https://www.theguardian.com/business/2026/aug/03/yen-trump-currency-us-japan\">Continue reading...</a>"
+        "<p>Internal data shows digital subscribers slide from 1,166,000 to 1,162,000. Follow today’s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>A 60-year-old man has died after an alleged assault in Melbourne, where he was allegedly set upon by a group of youths.</p><p>Victoria police said the man sustained critical injuries on 1 August after the group of young people allegedly attempted to steal items from a nearby store in the suburb of Sunshine. The victim allegedly came to the aid of a shop employee before he was attacked himself.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/aug/06/australia-news-live-nsw-politics-icac-corruption-perrottet-ibac-victoria-daniel-andrews-royal-commission-antisemitism-labor-tax-albanese-ntwnfb\">Continue reading...</a>"
       ],
-      "date": "2026-08-03",
+      "date": "2026-08-05",
       "real": true
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/australia-news/live/2026/aug/05/australia-news-live-jetstar-charge-overhead-luggage-labor-tax-coalition-economy-wednesday-ntwnfb",
-      "title": "Australia news live: Pocock says falling house prices a ‘good thing for our country’; Labor expands solar discount to commercial buildings",
-      "summary": "<p>Follow today’s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podc",
+      "link": "https://www.theguardian.com/australia-news/2026/aug/06/ed-husic-car-accident-sydney-labor-mp-ntwnfb",
+      "title": "Labor MP Ed Husic taken to hospital with fractures and concussion after car accident",
+      "summary": "<p>Husic to take ‘short’ period of leave after collision on Sydney motorway on Tuesday</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/aug/06/australia-news-live-nsw-politics-icac-corruption-perrottet-ibac-victoria-daniel-andrews-royal-commission-antisemitism-labor-tax-al",
       "paragraphs": [
-        "<p>Follow today’s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>Almost every house sold in first six months of the year made a profit</strong></p><p>The vast majority of homeowners are selling their properties for more than they bought them for, even as house prices enter a tailspin, AAP reports.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/aug/05/australia-news-live-jetstar-charge-overhead-luggage-labor-tax-coalition-economy-wednesday-ntwnfb\">Continue reading...</a>"
+        "<p>Husic to take ‘short’ period of leave after collision on Sydney motorway on Tuesday</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/aug/06/australia-news-live-nsw-politics-icac-corruption-perrottet-ibac-victoria-daniel-andrews-royal-commission-antisemitism-labor-tax-albanese-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Labor MP Ed Husic was hospitalised this week after his car was involved in an accident with a truck travelling on Sydney’s M7 motorway.</p><p>The incident happened when the Chifley MP was travelling home from his electorate office, around 6.20pm on Tuesday, according to a spokesperson.</p> <a href=\"https://www.theguardian.com/australia-news/2026/aug/06/ed-husic-car-accident-sydney-labor-mp-ntwnfb\">Continue reading...</a>"
       ],
-      "date": "2026-08-04",
+      "date": "2026-08-05",
       "real": true
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/australia-news/2026/aug/05/did-you-send-that-report-the-icac-bombshell-that-came-late-for-damien-tudehope",
-      "title": "‘Did you send that report?’ The Icac bombshell that came late for Damien Tudehope",
-      "summary": "<p>The former Liberal finance minister was questioned by Icac counsel assisting, Peggy Dwyer, on Tuesday</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/aug/05/australia-news-live-jetstar-charge-overhead-luggage-labor-tax-coalition-economy-wednesday-ntwnfb\">Follow our Aus",
+      "link": "https://www.theguardian.com/australia-news/2026/aug/06/charleville-siege-death-man-woman-police-assault-queensland-ntwnfb",
+      "title": "Man and woman found dead in outback Queensland home after hours-long police siege",
+      "summary": "<p>A 45-year-old man and 23-year-old woman were found dead in the Charleville home after a near eight-hour siege by police</p><p>An hours-long siege has ended in tragedy after a man and woman were found dead in an outback home.</p><p>Several streets in Charleville, 600km west of Toowoomba in Queensl",
       "paragraphs": [
-        "<p>The former Liberal finance minister was questioned by Icac counsel assisting, Peggy Dwyer, on Tuesday</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/aug/05/australia-news-live-jetstar-charge-overhead-luggage-labor-tax-coalition-economy-wednesday-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The bombshell came in the last five minutes of former finance minister and rightwing powerbroker Damien Tudehope’s examination before the <a href=\"https://www.theguardian.com/australia-news/independent-commission-against-corruption\">Independent Commission Against Corruption</a> (Icac).</p><p>At 3.30pm on Tuesday, Tudehope was shown an email which he sent in February 2023, attaching a leaked draft parliamentary report into branch stacking in the Hills area by the Reformers, the shadowy group at the centre of Icac’s Operation Rosny.</p> <a href=\"https://www.theguardian.com/australia-news/2026/aug/05/did-you-send-that-report-the-icac-bombshell-that-came-late-for-damien-tudehope\">Continue reading...</a>"
+        "<p>A 45-year-old man and 23-year-old woman were found dead in the Charleville home after a near eight-hour siege by police</p><p>An hours-long siege has ended in tragedy after a man and woman were found dead in an outback home.</p><p>Several streets in Charleville, 600km west of Toowoomba in Queensland, were thrust into lockdown after police were called to investigate reports of a serious assault at the home around 6pm on Wednesday.</p> <a href=\"https://www.theguardian.com/australia-news/2026/aug/06/charleville-siege-death-man-woman-police-assault-queensland-ntwnfb\">Continue reading...</a>"
       ],
-      "date": "2026-08-04",
+      "date": "2026-08-05",
       "real": true
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/business/2026/aug/05/jetstar-to-charge-passengers-up-to-52-to-put-baggage-in-overhead-lockers",
-      "title": "Jetstar to charge fees up to $52 to put carry-on baggage in overhead lockers",
-      "summary": "<p>Airline says struggling to find room in overhead lockers on planes a ‘stressful part of the airport experience’</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/aug/05/australia-news-live-jetstar-charge-overhead-luggage-labor-tax-coalition-economy-wednesday-ntwnfb\">Foll",
+      "link": "https://www.theguardian.com/australia-news/2026/aug/06/first-home-buyers-deposit-scheme-investment-property",
+      "title": "Nearly 1,500 properties bought using Australia’s first home buyers' 5% deposit scheme converted into investments",
+      "summary": "<p>New data shows the federal government scheme has been used by high-income borrowers, including one couple earning an annual $674,000</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/aug/06/australia-news-live-nsw-politics-icac-corruption-perrottet-ibac-victoria-daniel-a",
       "paragraphs": [
-        "<p>Airline says struggling to find room in overhead lockers on planes a ‘stressful part of the airport experience’</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/aug/05/australia-news-live-jetstar-charge-overhead-luggage-labor-tax-coalition-economy-wednesday-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Jetstar<strong> </strong>will charge its passengers up to $52 to put carry-on baggage in the overhead locker, in a major change to the budget airline’s carry-on rules.</p><p>In a press release on Wednesday morning, the airline announced it would remove the 7kg weight limit for carry-on bags, beginning in February 2027. There will still be size restrictions.</p> <a href=\"https://www.theguardian.com/business/2026/aug/05/jetstar-to-charge-passengers-up-to-52-to-put-baggage-in-overhead-lockers\">Continue reading...</a>"
+        "<p>New data shows the federal government scheme has been used by high-income borrowers, including one couple earning an annual $674,000</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/aug/06/australia-news-live-nsw-politics-icac-corruption-perrottet-ibac-victoria-daniel-andrews-royal-commission-antisemitism-labor-tax-albanese-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The government’s 5% deposit scheme for first home buyers has enabled the purchase of nearly 1,500 properties that were turned into investments, new data shows.</p><p>The scheme is also helping hundreds of Australians earning more than $300,000 a year, after Labor stopped excluding high-income borrowers.</p> <a href=\"https://www.theguardian.com/australia-news/2026/aug/06/first-home-buyers-deposit-scheme-investment-property\">Continue reading...</a>"
       ],
-      "date": "2026-08-04",
+      "date": "2026-08-05",
       "real": true
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/australia-news/2026/aug/04/naplan-results-2026-reading-writing-australian-school-standards",
-      "title": "Naplan results 2026: reading and writing worsens in Australian schools as one in three students fail to meet benchmarks",
-      "summary": "<p>Education minister Jason Clare says the results showed ‘real challenges’ but numeracy scores were heartening</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/aug/04/breaking-news-icac-liberal-politics-royal-commission-antisemitism-gambling-ad-inquiry-anthony-albanese-la",
+      "link": "https://www.theguardian.com/world/2026/aug/05/drone-german-airport-dhl-cargo-plane-collides-object-leipzig",
+      "title": "Drone carrying explosives at German airport marks ‘new level of danger’, says interior minister",
+      "summary": "<p>Investigators treating incident as part of ‘professional hybrid threat scenario’, says Alexander Dobrindt</p><p><a href=\"https://www.theguardian.com/world/2026/aug/05/the-leipzig-drone-bomb-marks-a-dangerous-escalation-for-europe\">• The Leipzig drone bomb marks a dangerous escalation for Europe</",
       "paragraphs": [
-        "<p>Education minister Jason Clare says the results showed ‘real challenges’ but numeracy scores were heartening</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/aug/04/breaking-news-icac-liberal-politics-royal-commission-antisemitism-gambling-ad-inquiry-anthony-albanese-labor-angus-taylor-coalition-pauline-hanson-one-nation-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Reading and writing scores are going backwards for almost every age group in Australia’s national standardised school tests, with one in three students still failing to meet Naplan benchmarks.</p><p>This year’s tests were taken in March by 1.2 million students across years 3, 5, 7 and 9 to measure literacy and numeracy proficiency, with results released on Wednesday by the Australian Curriculum, Assessment and Reporting Authority (Acara).</p> <a href=\"https://www.theguardian.com/australia-news/2026/aug/04/naplan-results-2026-reading-writing-australian-school-standards\">Continue reading...</a>"
+        "<p>Investigators treating incident as part of ‘professional hybrid threat scenario’, says Alexander Dobrindt</p><p><a href=\"https://www.theguardian.com/world/2026/aug/05/the-leipzig-drone-bomb-marks-a-dangerous-escalation-for-europe\">• The Leipzig drone bomb marks a dangerous escalation for Europe</a></p><p>Germany’s interior minister has warned that the discovery of a drone carrying explosives at Leipzig airport marks “a new level of danger” for the country, as authorities examine whether the thwarted attack could have been planned by a foreign power.</p><p>The discovery of a small drone carrying explosives at Leipzig airport, a leading shipping and military hub, set off alarm and caused flight diversions on Wednesday morning. German police deployed a bomb disposal robot to defuse and destroy the explosive device.</p> <a href=\"https://www.theguardian.com/world/2026/aug/05/drone-german-airport-dhl-cargo-plane-collides-object-leipzig\">Continue reading...</a>"
       ],
-      "date": "2026-08-04",
+      "date": "2026-08-05",
       "real": true
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/australia-news/2026/aug/05/melbourne-anti-weapons-protest-terrorism-investigation-ntwnfb",
-      "title": "Vandalism of Melbourne defence manufacturer being investigated as terrorist act by ‘far-left extremists’",
-      "summary": "<p>Federal police say those who vandalised a defence manufacturer and torched nearby cars could face life imprisonment</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/aug/05/australia-news-live-jetstar-charge-overhead-luggage-labor-tax-coalition-economy-wednesday-ntwnfb\">",
+      "link": "https://www.theguardian.com/world/2026/aug/05/the-leipzig-drone-bomb-marks-a-dangerous-escalation-for-europe",
+      "title": "The Leipzig drone bomb marks a dangerous escalation for Europe",
+      "summary": "<p>Initial evidence suggests aerial drone, found near Ukrainian cargo planes at German airport, came from Russia</p><p>The armed drone found at Leipzig airport on Wednesday may not have exploded, but the fact that <a href=\"https://www.theguardian.com/world/2026/aug/05/drone-german-airport-dhl-cargo-",
       "paragraphs": [
-        "<p>Federal police say those who vandalised a defence manufacturer and torched nearby cars could face life imprisonment</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/aug/05/australia-news-live-jetstar-charge-overhead-luggage-labor-tax-coalition-economy-wednesday-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Anti-weapons protesters who vandalised a defence manufacturer and set nearby vehicles alight could face life imprisonment after police said the incident was being investigated as an act of terrorism by “far-left extremists”.</p><p>The Australian federal police, their Victorian counterparts and spy agency Asio are examining whether <a href=\"https://www.theguardian.com/australia-news/2025/jul/10/police-investigating-video-claiming-responsibility-for-torching-cars-at-israel-linked-weapons-business-in-melbourne\">the incident at Melbourne-based Lovitt Technologies</a> on 5 July 2025 was potentially perpetrated by “far-left extremists, motivated by anarchist and revolutionary ideologies”, a joint statement said.</p> <a href=\"https://www.theguardian.com/australia-news/2026/aug/05/melbourne-anti-weapons-protest-terrorism-investigation-ntwnfb\">Continue reading...</a>"
+        "<p>Initial evidence suggests aerial drone, found near Ukrainian cargo planes at German airport, came from Russia</p><p>The armed drone found at Leipzig airport on Wednesday may not have exploded, but the fact that <a href=\"https://www.theguardian.com/world/2026/aug/05/drone-german-airport-dhl-cargo-plane-collides-object-leipzig\">it got inside the perimeter, close to Ukrainian cargo planes</a>, raises obvious concerns for the security of international aviation.</p><p>Though the identity of the culprits is unknown, the initial evidence points firmly towards a Russian-orchestrated plot. It is the first time that a drone with explosives has been found in Europe far from the Ukrainian border.</p> <a href=\"https://www.theguardian.com/world/2026/aug/05/the-leipzig-drone-bomb-marks-a-dangerous-escalation-for-europe\">Continue reading...</a>"
       ],
-      "date": "2026-08-04",
+      "date": "2026-08-05",
       "real": true
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/uk-news/2026/aug/04/mi6-top-european-foreign-intelligence-service-peer-review",
-      "title": "MI6 is top European foreign intelligence service, peer review finds",
-      "summary": "<p>UK’s Secret Intelligence Service praised for playing long game and having ‘a taste for dirty tricks’</p><p>MI6 has been ranked as the most powerful foreign intelligence service in Europe ahead of France and the Netherlands, according to a peer review.</p><p>The British intelligence agency scored ",
+      "link": "https://www.theguardian.com/world/2026/aug/05/russia-kyiv-attack-kills-at-least-14-people-ukraine-authorities",
+      "title": "Zelenskyy calls for more air defences as Russian attack on Kyiv kills at least 17",
+      "summary": "<p>Ukraine shoots down most drones but no ballistic missiles in overnight attack that mainly targeted civilian facilities</p><p>Volodymyr Zelenskyy has blamed allies for not delivering air defences fast enough after Ukraine failed to shoot down a single Russian missile in a deadly overnight attack t",
       "paragraphs": [
-        "<p>UK’s Secret Intelligence Service praised for playing long game and having ‘a taste for dirty tricks’</p><p>MI6 has been ranked as the most powerful foreign intelligence service in Europe ahead of France and the Netherlands, according to a peer review.</p><p>The British intelligence agency scored 251 points in the research and was commended for its expertise in recruiting high-level informants and penetrating the ruling elites in Russia, China, Iran and Turkey, according to the review by 60 professionals from 25 countries.</p> <a href=\"https://www.theguardian.com/uk-news/2026/aug/04/mi6-top-european-foreign-intelligence-service-peer-review\">Continue reading...</a>"
+        "<p>Ukraine shoots down most drones but no ballistic missiles in overnight attack that mainly targeted civilian facilities</p><p>Volodymyr Zelenskyy has blamed allies for not delivering air defences fast enough after Ukraine failed to shoot down a single Russian missile in a deadly overnight attack that killed at least 17 people and ⁠injured dozens more.</p><p>Preliminary data from the Ukrainian air force showed its defences shot down 98 of the 115 drones fired by Russia overnight, but no ballistic missiles.</p> <a href=\"https://www.theguardian.com/world/2026/aug/05/russia-kyiv-attack-kills-at-least-14-people-ukraine-authorities\">Continue reading...</a>"
       ],
-      "date": "2026-08-04",
+      "date": "2026-08-05",
       "real": true
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/world/2026/aug/04/eu-criticises-spain-migrant-plan-ceuta-crisis-meeting",
-      "title": "EU chief criticises Spain’s migrant plan after Ceuta crisis meeting",
-      "summary": "<p>Migration commissioner says scheme regularising undocumented people ‘not a good signal’ for Europe</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/jul/31/ceuta-spain-eu-border-africa\">Explainer: Why is Ceuta a migration flashpoint?</a></p></li></ul><p>The EU’s top official on migrat",
+      "link": "https://www.theguardian.com/world/2026/aug/05/head-drone-manufacturer-critically-injured-car-bomb-russia-ukraine",
+      "title": "Head of drone manufacturer critically injured in car bomb in Russia",
+      "summary": "<p>Assassination attempt demonstrates Ukraine’s ability to continue clandestine operations deep inside Russian territory</p><p>The head of a leading Russian drone manufacturer has been critically injured in a car bomb near Ekaterinburg, in what appears to be the latest in <a href=\"https://www.thegua",
       "paragraphs": [
-        "<p>Migration commissioner says scheme regularising undocumented people ‘not a good signal’ for Europe</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/jul/31/ceuta-spain-eu-border-africa\">Explainer: Why is Ceuta a migration flashpoint?</a></p></li></ul><p>The EU’s top official on migration has criticised <a href=\"https://www.theguardian.com/world/2026/jan/27/spain-decree-regularise-undocumented-migrants\">Spain’s plan to regularise undocumented migrants</a> as “not a good signal” for Europe, after an emergency meeting intended to draw a line under divisions on the <a href=\"https://www.theguardian.com/world/2026/jul/31/ceuta-spain-eu-border-africa\">Ceuta crisis.</a></p><p>Magnus Brunner, the European commissioner for migration, said that while the EU could not currently see a direct link between events in Ceuta and Spain’s regularisation plan, the policy was “definitely not a good signal for the rest of Europe”.</p> <a href=\"https://www.theguardian.com/world/2026/aug/04/eu-criticises-spain-migrant-plan-ceuta-crisis-meeting\">Continue reading...</a>"
+        "<p>Assassination attempt demonstrates Ukraine’s ability to continue clandestine operations deep inside Russian territory</p><p>The head of a leading Russian drone manufacturer has been critically injured in a car bomb near Ekaterinburg, in what appears to be the latest in <a href=\"https://www.theguardian.com/world/2026/apr/30/bomb-butcher-bucha-military-town-east-russia\">a series of assassination attempts</a> targeting figures linked to the country’s war in Ukraine.</p><p>Vladimir Tkachuk, the founder of the private drone manufacturer Uraldronzavod, was rushed to intensive care on Wednesday after a bomb planted beneath his Mercedes exploded, according to Russian state media, citing emergency services. His bodyguard was killed in the explosion.</p> <a href=\"https://www.theguardian.com/world/2026/aug/05/head-drone-manufacturer-critically-injured-car-bomb-russia-ukraine\">Continue reading...</a>"
       ],
-      "date": "2026-08-04",
+      "date": "2026-08-05",
       "real": true
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/world/2026/aug/04/refuse-collectors-help-italian-woman-recover-binned-lottery-ticket",
-      "title": "Refuse collectors help Italian woman recover binned €1m lottery ticket",
-      "summary": "<p>Winner called waste management team after she realised stub showing she had hit the jackpot had been thrown away</p><p>A €1m lottery ticket has been recovered from the rubbish in Italy after the frantic winner called on refuse collectors to help her retrieve it, according to the waste management ",
+      "link": "https://www.theguardian.com/world/live/2026/aug/05/europe-ukraine-russia-kyiv-zelenskyy-heatwave-austria-hungary-poland-czech-republic-latest-news-updates",
+      "title": "Germany investigates drone carrying ‘explosive device’ near Ukrainian plane at busy cargo airport – as it happened",
+      "summary": "<p>German state prosecutors including units working on extremism and terrorism prevention take over investigation into Leipzig incident</p><p>For what it’s worth, <strong>DHL Group CEO Tobias Meyer said the German logistics firm was studying ​the overnight incident which also involved an object clas",
       "paragraphs": [
-        "<p>Winner called waste management team after she realised stub showing she had hit the jackpot had been thrown away</p><p>A €1m lottery ticket has been recovered from the rubbish in Italy after the frantic winner called on refuse collectors to help her retrieve it, according to the waste management company.</p><p>The instant win ticket was “miraculously still in one piece” after garbage workers combed through mounds of rubbish on their truck, said Roberto Nicola Toscano, the administrator of the SANB company in Italy’s southern Puglia region.</p> <a href=\"https://www.theguardian.com/world/2026/aug/04/refuse-collectors-help-italian-woman-recover-binned-lottery-ticket\">Continue reading...</a>"
+        "<p>German state prosecutors including units working on extremism and terrorism prevention take over investigation into Leipzig incident</p><p>For what it’s worth, <strong>DHL Group CEO Tobias Meyer said the German logistics firm was studying ​the overnight incident which also involved an object clashing with one of its planes near Leipzig.</strong></p><p>“We’ve ‌got plans for cases ​like this, and ​we’ll try to make sure that the influence on our customers will be as low as possible,” Meyer said during a quarterly results call earlier this morning, Reuters reported.</p> <a href=\"https://www.theguardian.com/world/live/2026/aug/05/europe-ukraine-russia-kyiv-zelenskyy-heatwave-austria-hungary-poland-czech-republic-latest-news-updates\">Continue reading...</a>"
       ],
-      "date": "2026-08-04",
-      "real": true
-    },
-    {
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/world/live/2026/aug/04/europe-drought-extreme-heat-wildfires-climate-crisis-hungary-romania-ceuta-spain-migration-eu-latest-news-updates",
-      "title": "Spain says 70,000 out of 72,000 migrants that entered Ceuta in mass border crossing have returned to Morocco – as it happened",
-      "summary": "<p>Minister tells reporters least 75 people died after EU ministers meet to discuss response to the crisis</p><p>Meanwhile, <strong>the European Commission said it was “monitoring very closely” the situation in Bulgaria, Hungary and Romania as the region faces an energy crunch caused by the ongoing ",
-      "paragraphs": [
-        "<p>Minister tells reporters least 75 people died after EU ministers meet to discuss response to the crisis</p><p>Meanwhile, <strong>the European Commission said it was “monitoring very closely” the situation in Bulgaria, Hungary and Romania as the region faces an energy crunch caused by the ongoing heatwave and drought.</strong></p><p>Energy spokesperson <strong>Anna-Kaisa Itkonen</strong> said “the low Danube levels will clearly have an impact on nuclear generation along the route,” and this “concerns several member states.”</p> <a href=\"https://www.theguardian.com/world/live/2026/aug/04/europe-drought-extreme-heat-wildfires-climate-crisis-hungary-romania-ceuta-spain-migration-eu-latest-news-updates\">Continue reading...</a>"
-      ],
-      "date": "2026-08-04",
-      "real": true
-    },
-    {
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/environment/2026/aug/04/uk-plastic-waste-colonialism-recycling-exports-contaminating-water-crops-turkey",
-      "title": "UK plastic ‘waste colonialism’ found to be polluting Turkey’s farming heartland",
-      "summary": "<p>A Guardian investigation finds irrigation canals polluted with microplastics in Turkey, a major destination for UK waste</p><p>• <a href=\"https://composer.gutools.co.uk/content/6a55460e8f08863d4dce6d72\">‘Nobody cares’: Turkish farmers bear the burden of UK’s plastic waste problem</a></p><p>High l",
-      "paragraphs": [
-        "<p>A Guardian investigation finds irrigation canals polluted with microplastics in Turkey, a major destination for UK waste</p><p>• <a href=\"https://composer.gutools.co.uk/content/6a55460e8f08863d4dce6d72\">‘Nobody cares’: Turkish farmers bear the burden of UK’s plastic waste problem</a></p><p>High levels of microplastics and other plastic contamination have been discovered in a waterway close to a major recycling hub in Turkey supplied with plastic waste by British companies.</p><p>The polluted waterway, which floods into agricultural fields after heavy rain, feeds into a larger canal used for irrigating crops on the Çukurova plain, in the city of Adana, in the south of the country. It is one of the largest and most fertile agricultural basins in Turkey.</p> <a href=\"https://www.theguardian.com/environment/2026/aug/04/uk-plastic-waste-colonialism-recycling-exports-contaminating-water-crops-turkey\">Continue reading...</a>"
-      ],
-      "date": "2026-08-04",
+      "date": "2026-08-05",
       "real": true
     }
   ]
