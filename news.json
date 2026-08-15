@@ -1,7 +1,97 @@
 {
-  "updated": "2026-08-14T23:09:40Z",
+  "updated": "2026-08-15T23:07:54Z",
   "count": 60,
   "articles": [
+    {
+      "source": "NPR",
+      "link": "https://www.npr.org/2026/08/15/nx-s1-5932552/midwest-flooding-indiana-fema",
+      "title": "The Midwest braces for more heavy flooding, as Indiana seeks federal aid",
+      "summary": "Indiana, Illinois and surrounding states are preparing for another stretch of flooding through this weekend.",
+      "paragraphs": [
+        "Indiana, Illinois and surrounding states are preparing for another stretch of flooding through this weekend.",
+        "(Image credit: Indianapolis Fire Department via AP)"
+      ],
+      "date": "2026-08-15",
+      "real": true
+    },
+    {
+      "source": "NPR",
+      "link": "https://www.npr.org/2026/08/15/nx-s1-5932539/uss-lincoln-trump-dire-conditions",
+      "title": "Families of USS Lincoln crew say Trump should be 'ashamed' of conditions on board",
+      "summary": "President Trump said the USS Abraham Lincoln deployment is \"not nearly long enough.\" A family member of a sailor on board that ship said those comments are shameful.",
+      "paragraphs": [
+        "President Trump said the USS Abraham Lincoln deployment is \"not nearly long enough.\" A family member of a sailor on board that ship said those comments are shameful."
+      ],
+      "date": "2026-08-15",
+      "real": true
+    },
+    {
+      "source": "NPR",
+      "link": "https://www.npr.org/2026/08/15/nx-s1-5930311/trump-companies-hack-foreign-cybercriminals",
+      "title": "Trump administration wants to allow companies to hack foreign cybercriminals",
+      "summary": "The White House memorandum is thin on details, but it aims to give private businesses the ability to sabotage or spy on certain foreign actors.",
+      "paragraphs": [
+        "The White House memorandum is thin on details, but it aims to give private businesses the ability to sabotage or spy on certain foreign actors."
+      ],
+      "date": "2026-08-15",
+      "real": true
+    },
+    {
+      "source": "NPR",
+      "link": "https://www.npr.org/2026/08/15/nx-s1-5932488/jason-arday-dead",
+      "title": "Jason Arday, Cambridge professor accused of plagiarism, is found dead",
+      "summary": "Arday was 37 when he became Cambridge's youngest Black professor in 2023. He was found unresponsive Friday at a home in southwest London.",
+      "paragraphs": [
+        "Arday was 37 when he became Cambridge's youngest Black professor in 2023. He was found unresponsive Friday at a home in southwest London."
+      ],
+      "date": "2026-08-15",
+      "real": true
+    },
+    {
+      "source": "NPR",
+      "link": "https://www.npr.org/2026/08/15/nx-s1-5928322/ice-detained-a-venezuelan-soccer-pro-his-case-shows-the-immigration-backlog-crisis",
+      "title": "ICE detained a Venezuelan soccer pro. His case shows the immigration backlog crisis",
+      "summary": "Homero Calderón's detention by ICE spotlights the massive backlog in the U.S. immigration system. <strong> </strong>",
+      "paragraphs": [
+        "Homero Calderón's detention by ICE spotlights the massive backlog in the U.S. immigration system."
+      ],
+      "date": "2026-08-15",
+      "real": true
+    },
+    {
+      "source": "NPR",
+      "link": "https://www.npr.org/2026/08/15/nx-s1-5930423/strength-exercises-to-relieve-prevent-pregnancy-pain",
+      "title": "5 exercises that can prevent (and relieve!) pregnancy pain",
+      "summary": "Hemorrhoids, leg cramps, sciatica — oh my! Alongside the joy of pregnancy often comes a parade of physical discomfort. Alleviate and prevent common aches with these exercises.",
+      "paragraphs": [
+        "Amy Kiefer , a certified personal trainer, and Holly Keskey-Koester , a fitness instructor, demonstrate a few movements.'/> Hemorrhoids, leg cramps, sciatica — oh my! Alongside the joy of pregnancy often comes a parade of physical discomfort. Alleviate and prevent common aches with these exercises.",
+        "(Image credit: Footage: Expecting and Empowered. Video: CJ Riculan/NPR)"
+      ],
+      "date": "2026-08-15",
+      "real": true
+    },
+    {
+      "source": "NPR",
+      "link": "https://www.npr.org/2026/08/15/nx-s1-5897606/afghanistan-visa-green-card-deport",
+      "title": "They fought for the U.S. in Afghanistan. Now they worry about losing their green cards",
+      "summary": "When the U.S. withdrew from Afghanistan five years ago, thousands of Afghans who helped U.S. troops were brought here to rebuild their lives. But now, some fear the U.S. may want to send them back.",
+      "paragraphs": [
+        "When the U.S. withdrew from Afghanistan five years ago, thousands of Afghans who helped U.S. troops were brought here to rebuild their lives. But now, some fear the U.S. may want to send them back."
+      ],
+      "date": "2026-08-15",
+      "real": true
+    },
+    {
+      "source": "NPR",
+      "link": "https://www.npr.org/2026/08/15/nx-s1-5932405/earthquake-indonesia",
+      "title": "Magnitude 7.7 earthquake strikes off Indonesia's coast, killing at least 47",
+      "summary": "A powerful earthquake struck off the coast of Indonesia early Saturday, collapsing buildings as well as causing panic in a region prone to deadly quakes.",
+      "paragraphs": [
+        "A powerful earthquake struck off the coast of Indonesia early Saturday, collapsing buildings as well as causing panic in a region prone to deadly quakes."
+      ],
+      "date": "2026-08-15",
+      "real": true
+    },
     {
       "source": "NPR",
       "link": "https://www.npr.org/2026/08/14/nx-s1-5928227/how-americans-deceive-ourselves-about-slavery",
@@ -25,366 +115,300 @@
       "real": true
     },
     {
-      "source": "NPR",
-      "link": "https://www.npr.org/2026/08/14/nx-s1-5927115/summer-vaccine-covid-19-surge",
-      "title": "Is there a summer COVID-19 surge this year? Yep, it's ramping up again",
-      "summary": "Just like all previous summers since the pandemic began, COVID-19 cases are ticking up again, even while other health threats make more headlines.",
-      "paragraphs": [
-        "Just like all previous summers since the pandemic began, COVID-19 cases are ticking up again, even while other health threats make more headlines."
-      ],
-      "date": "2026-08-14",
-      "real": true
-    },
-    {
-      "source": "NPR",
-      "link": "https://www.npr.org/2026/08/14/nx-s1-5930700/mangione-federal-charges-guilty-plea",
-      "title": "Mangione pleads guilty in federal court, leaving fate of state trial uncertain",
-      "summary": "Mangione has pleaded guilty to stalking charges in connection with the death of Brian Thompson, a health care executive. A separate judge will decide the future of Mangione's state trial.",
-      "paragraphs": [
-        "Mangione has pleaded guilty to stalking charges in connection with the death of Brian Thompson, a health care executive. A separate judge will decide the future of Mangione's state trial."
-      ],
-      "date": "2026-08-14",
-      "real": true
-    },
-    {
-      "source": "NPR",
-      "link": "https://www.npr.org/2026/08/14/nx-s1-5929422/inflation-spending-economy-groceries-gas",
-      "title": "We learned 5 important things about the economy this week",
-      "summary": "<em>From inflation, to credit card debt, to who's actually doing the spending: These are key takeaways from this week in economic news.</em>",
-      "paragraphs": [
-        "From inflation, to credit card debt, to who's actually doing the spending: These are key takeaways from this week in economic news."
-      ],
-      "date": "2026-08-14",
-      "real": true
-    },
-    {
-      "source": "NPR",
-      "link": "https://www.npr.org/2026/08/14/g-s1-138584/taliban-afghanistan-boys-girls-education-school",
-      "title": "The Taliban has taken a terrible toll on the education of girls -- and boys as well",
-      "summary": "Saturday marks the 5th anniversary of the current Taliban rule in Aghanistan. They've had a devastating impact on girls' education. A lesser told story is their impact on the education of boys.",
-      "paragraphs": [
-        "Saturday marks the 5th anniversary of the current Taliban rule in Aghanistan. They've had a devastating impact on girls' education. A lesser told story is their impact on the education of boys."
-      ],
-      "date": "2026-08-14",
-      "real": true
-    },
-    {
-      "source": "NPR",
-      "link": "https://www.npr.org/2026/08/14/nx-s1-5931225/kidnapped-us-missionary-released",
-      "title": "U.S. missionary who was kidnapped in Niger is released",
-      "summary": "Kevin Rideout \"is in good health in the care of US officials,\" SIM International said in a statement, adding he would soon be reunited with his family.",
-      "paragraphs": [
-        "Kevin Rideout \"is in good health in the care of US officials,\" SIM International said in a statement, adding he would soon be reunited with his family."
-      ],
-      "date": "2026-08-14",
-      "real": true
-    },
-    {
-      "source": "NPR",
-      "link": "https://www.npr.org/2026/08/14/g-s1-138735/up-first-newsletter-mention-markets-kalshi-pentagon-uss-lincoln-ukraine-russia-crimea-kennedy-center",
-      "title": "Feds probe 'mention markets.' And, lawmakers call for investigation into USS Lincoln",
-      "summary": "Federal regulators are reviewing 'mention markets' that allow wagers on what public figures will say. And, Democratic lawmakers call for an investigation into conditions on the long-deployed USS Lincoln.",
-      "paragraphs": [
-        "Federal regulators are reviewing 'mention markets' that allow wagers on what public figures will say. And, Democratic lawmakers call for an investigation into conditions on the long-deployed USS Lincoln."
-      ],
-      "date": "2026-08-14",
-      "real": true
-    },
-    {
-      "source": "NPR",
-      "link": "https://www.npr.org/2026/08/14/nx-s1-5930365/uss-abraham-lincoln-iran-navy-ruben-gallego",
-      "title": "Sen. Ruben Gallego on handling of USS Lincoln conditions: 'That's not proper leadership'",
-      "summary": "Lawmakers want answers from the Pentagon chief and the U.S. Navy about living conditions aboard the USS Lincoln. NPR's Michel Martin speaks with Democratic Sen. Ruben Gallego of Arizona.",
-      "paragraphs": [
-        "Lawmakers want answers from the Pentagon chief and the U.S. Navy about living conditions aboard the USS Lincoln. NPR's Michel Martin speaks with Democratic Sen. Ruben Gallego of Arizona."
-      ],
-      "date": "2026-08-14",
-      "real": true
-    },
-    {
-      "source": "NPR",
-      "link": "https://www.npr.org/2026/08/14/g-s1-138727/europe-asia-floods-heatwaves-world-weather",
-      "title": "From Europe to Asia, floods to heatwaves, world experiences weather shocks",
-      "summary": "At least eight people died in Japan as heavy rains flooded roads and disrupted traffic while firefighters from Britain to France and Croatia struggled to contain blazes in Europe's fifth heatwave this summer",
-      "paragraphs": [
-        "At least eight people died in Japan as heavy rains flooded roads and disrupted traffic while firefighters from Britain to France and Croatia struggled to contain blazes in Europe's fifth heatwave this summer"
-      ],
-      "date": "2026-08-14",
-      "real": true
-    },
-    {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/8/14/trump-says-he-will-declare-strait-of-hormuz-a-us-territory?traffic_source=rss",
-      "title": "Trump says he will declare Strait of Hormuz a US ‘territory’ amid Iran war",
+      "link": "https://www.aljazeera.com/news/2026/8/15/us-democrats-finalise-major-shakeup-to-2028-presidential-primary-calendar?traffic_source=rss",
+      "title": "US Democrats finalise major shakeup to 2028 presidential primary calendar",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/wildfires-rage-across-europe-as-heatwaves-drive-record-temperatures?traffic_source=rss",
-      "title": "Wildfires rage across Europe as heatwaves drive record temperatures",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/8/15/why-is-the-latest-ebola-outbreak-worsening?traffic_source=rss",
+      "title": "Why is the latest Ebola outbreak worsening?",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/israeli-soldiers-accused-of-supporting-terrorist-settlers-in-qusra?traffic_source=rss",
-      "title": "Israeli soldiers accused of supporting ‘terrorist’ settlers in Qusra",
+      "link": "https://www.aljazeera.com/news/2026/8/15/qatar-denies-it-is-detaining-three-iranian-bomber-pilots?traffic_source=rss",
+      "title": "Qatar denies it is detaining three Iranian bomber pilots",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/8/14/trump-dismisses-mental-health-concerns-on-uss-lincoln-aircraft-carrier?traffic_source=rss",
-      "title": "Trump dismisses mental health concerns on USS Lincoln aircraft carrier",
+      "link": "https://www.aljazeera.com/gallery/2026/8/15/california-tackles-multiple-wildfires-as-firefighter-workforce-faces-strain?traffic_source=rss",
+      "title": "California tackles multiple wildfires as firefighter workforce faces strain",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/8/14/mount-etna-eruption-and-volcanic-ash-shut-sicilys-busiest-airport?traffic_source=rss",
-      "title": "Mount Etna eruption and volcanic ash shut Sicily’s busiest airport",
+      "link": "https://www.aljazeera.com/news/2026/8/15/canadian-petition-to-expel-us-ambassador-gains-over-170000-signatures?traffic_source=rss",
+      "title": "Canadian petition to expel US ambassador gains over 170,000 signatures",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/8/14/former-cambridge-professor-accused-of-plagiarism-found-dead?traffic_source=rss",
-      "title": "Former Cambridge professor accused of plagiarism found dead",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/moroccan-police-intercept-migrants-heading-for-ceuta-enclave?traffic_source=rss",
+      "title": "Moroccan police intercept migrants heading for Ceuta enclave",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/8/14/son-of-mexicos-former-president-amlo-alleges-us-revoked-his-visa?traffic_source=rss",
-      "title": "Son of Mexico’s former president AMLO alleges US revoked his visa",
+      "link": "https://www.aljazeera.com/news/2026/8/15/moroccan-police-arrest-over-100-migrants-trying-to-reach-spanish-enclave?traffic_source=rss",
+      "title": "Moroccan police arrest over 100 migrants trying to reach Spanish enclave",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/new-aerial-video-reveals-huge-scale-of-oil-spill-off-oman?traffic_source=rss",
-      "title": "New aerial video reveals huge scale of oil spill off Oman",
+      "link": "https://www.aljazeera.com/news/2026/8/15/death-toll-from-zimbabwe-ferry-disaster-rises-to-69?traffic_source=rss",
+      "title": "Death toll from Zimbabwe ferry disaster rises to 72",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/8/14/trump-asks-us-supreme-court-to-allow-400m-ballroom-project-to-proceed?traffic_source=rss",
-      "title": "Trump asks US Supreme Court to allow $400m ballroom project to proceed",
+      "link": "https://www.aljazeera.com/sports/2026/8/15/la-liga-real-madrid-key-talking-points-heading-into-new-2026-27-season?traffic_source=rss",
+      "title": "La Liga: Real Madrid key talking points heading into new 2026-27 season",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/8/14/woman-charged-over-vandalism-of-world-war-ii-memorial-in-washington-dc?traffic_source=rss",
-      "title": "Woman charged over vandalism of World War II Memorial in Washington, DC",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/15-08-sv-oil-spill-oman-on?traffic_source=rss",
+      "title": "Cleanup underway as Russian oil spill reaches Oman’s coastline",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/features/2026/8/14/art-offers-young-gaza-survivors-solace-and-escape-from-wars-devastation?traffic_source=rss",
-      "title": "Art offers young Gaza survivors solace and escape from war’s devastation",
+      "link": "https://www.aljazeera.com/news/2026/8/15/us-aircraft-carrier-expected-to-relieve-uss-lincoln-in-middle-east?traffic_source=rss",
+      "title": "US aircraft carrier expected to relieve USS Lincoln in Middle East",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/8/14/italian-police-recover-stolen-paintings-worth-over-10m?traffic_source=rss",
-      "title": "Italian police recover stolen paintings worth over $10m",
+      "link": "https://www.aljazeera.com/sports/2026/8/15/inter-milan-sign-englands-djed-spence-from-tottenham-hotspur?traffic_source=rss",
+      "title": "Inter Milan sign England’s Djed Spence from Tottenham Hotspur",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/economy/2026/8/14/ceo-pay-skyrockets-in-2025-amid-growing-income-inequality-in-the-us?traffic_source=rss",
-      "title": "CEO pay skyrockets in 2025 amid growing income inequality in the US",
+      "link": "https://www.aljazeera.com/news/2026/8/15/tropical-storm-lala-expected-to-strengthen-as-it-nears-hawaii?traffic_source=rss",
+      "title": "Storm Lala strengthens into a Category 1 hurricane as it nears Hawaii",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/luigi-mangione-pleads-guilty-in-unitedhealthcare-ceos-killing?traffic_source=rss",
-      "title": "Luigi Mangione pleads guilty in UnitedHealthcare CEO’s killing",
+      "link": "https://www.aljazeera.com/news/2026/8/15/uk-pm-burnham-reacts-to-death-of-former-cambridge-professor?traffic_source=rss",
+      "title": "UK PM Burnham reacts to death of former Cambridge professor",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/sports/2026/8/14/british-cyclist-finlay-tarling-dies-in-tour-of-portugal-crash-aged-19?traffic_source=rss",
-      "title": "British cyclist Finlay Tarling dies in Tour of Portugal crash aged 19",
+      "link": "https://www.aljazeera.com/news/2026/8/15/erdogan-says-egypt-could-join-turkiye-saudi-pakistan-defence-pact?traffic_source=rss",
+      "title": "Erdogan says Egypt could join Turkiye-Saudi-Pakistan defence pact",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/sports/2026/8/14/liverpool-to-sell-minority-stake-to-consortium-including-jeff-bezos?traffic_source=rss",
-      "title": "Liverpool to sell minority stake to consortium including Jeff Bezos",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/one-killed-dozens-injured-after-wildfire-hits-croatian-coast?traffic_source=rss",
+      "title": "One killed, dozens injured after wildfire hits Croatian coast",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/8/14/analysis-israels-government-cant-disown-west-bank-settler-violence?traffic_source=rss",
-      "title": "Analysis: Israel’s government can’t disown West Bank settler violence",
+      "link": "https://www.aljazeera.com/news/2026/8/15/sudans-al-burhan-pledges-immunity-for-dialogue-rules-out-hemedti-return?traffic_source=rss",
+      "title": "Sudan’s al-Burhan pledges immunity for dialogue, rules out Hemedti return",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/whats-next-for-far-right-reform-uk-after-farages-by-election-win?traffic_source=rss",
-      "title": "What’s next for far-right Reform UK after Farage’s by-election win?",
+      "link": "https://www.aljazeera.com/news/2026/8/15/ukraine-hits-russian-starlink-style-network-moscow-tracks-arms-package?traffic_source=rss",
+      "title": "Ukraine hits Russian Starlink-style network, Moscow tracks arms package",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/features/2026/8/14/philippines-drug-war-victims-seek-justice-through-truth-commission?traffic_source=rss",
-      "title": "Philippines drug war victims seek justice through truth commission",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/15-08-reported-nour-west-bank-ps?traffic_source=rss",
+      "title": "Israeli settlers besiege Palestinian families in occupied West Bank",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/8/14/top-french-court-upholds-assisted-dying-law-rejects-teen-social-media-ban?traffic_source=rss",
-      "title": "Top French court upholds assisted dying law, rejects teen social media ban",
+      "link": "https://www.aljazeera.com/features/2026/8/15/sedition-to-anthem-many-lives-of-aazadi-chants-in-indias-youth-protests?traffic_source=rss",
+      "title": "Sedition to anthem: Many lives of ‘Azadi’ chants in India’s youth protests",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/8/14/mangione-pleads-guilty-to-federal-charges-in-unitedhealthcare-ceo-killing?traffic_source=rss",
-      "title": "Mangione pleads guilty to federal charges in UnitedHealthcare CEO killing",
+      "link": "https://www.aljazeera.com/news/longform/2026/8/15/how-blind-football-is-helping-women-overcome-barriers-in-mexico?traffic_source=rss",
+      "title": "How blind football is helping women overcome barriers in Mexico",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/zambia-suspends-vote-counting-in-election-citing-violence?traffic_source=rss",
-      "title": "Zambia suspends vote counting in election citing violence",
+      "link": "https://www.aljazeera.com/features/2026/8/15/the-next-yemen-war-might-be-different?traffic_source=rss",
+      "title": "The next Yemen war might be different",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/sports/2026/8/14/qatar-challenges-afc-over-open-letter-attacking-fifa-president-infantino?traffic_source=rss",
-      "title": "Qatar challenges AFC over open letter attacking FIFA President Infantino",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/afghans-mark-five-years-of-taliban-rule?traffic_source=rss",
+      "title": "Afghans mark five years of Taliban rule",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/longform/2026/8/14/the-party-of-the-cubans-how-republicans-courted-a-key-south-florida-vote?traffic_source=rss",
-      "title": "‘The party of the Cubans’: How Republicans courted a key South Florida vote",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/black-professor-at-centre-of-cambridge-plagiarism-row-found-dead?traffic_source=rss",
+      "title": "Black professor at centre of Cambridge plagiarism row found dead",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/al-jazeera-world/2026/8/14/ahmed-al-sharaa-a-new-vision-for-syria?traffic_source=rss",
-      "title": "Ahmed al-Sharaa: A New Vision for Syria",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/vienna-woman-sues-city-for-discrimination-over-toilet-fees?traffic_source=rss",
+      "title": "Vienna woman sues city for discrimination over toilet fees",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-08-14",
+      "date": "2026-08-15",
+      "real": true
+    },
+    {
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/aug/15/more-bodies-recovered-after-zimbabwe-boat-accident",
+      "title": "Zimbabwe boat accident death toll hits 68 as 22 more bodies recovered",
+      "summary": "<p>Eighteen children among the people killed after ferry capsized on Lake Kariba</p><p>Twenty-two more bodies have been recovered after a boat accident in Zimbabwe, taking the death toll to 68, police said on Saturday.</p><p>The ferry <a href=\"https://www.theguardian.com/world/2026/aug/12/zimbabwe-l",
+      "paragraphs": [
+        "<p>Eighteen children among the people killed after ferry capsized on Lake Kariba</p><p>Twenty-two more bodies have been recovered after a boat accident in Zimbabwe, taking the death toll to 68, police said on Saturday.</p><p>The ferry <a href=\"https://www.theguardian.com/world/2026/aug/12/zimbabwe-lake-kariba-ferry-capsize\">capsized on Tuesday on Lake Kariba</a>, on the border with Zambia. An investigation has suggested it was overloaded when it turned over during heavy winds.</p> <a href=\"https://www.theguardian.com/world/2026/aug/15/more-bodies-recovered-after-zimbabwe-boat-accident\">Continue reading...</a>"
+      ],
+      "date": "2026-08-15",
+      "real": true
+    },
+    {
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/aug/15/moroccan-police-arrest-more-than-100-people-as-they-attempt-to-enter-ceuta",
+      "title": "Moroccan police arrest more than 100 people as they attempt to enter Ceuta",
+      "summary": "<p>Border security tightened after social media posts call for another mass crossing into Spain’s north African territory</p><p>Moroccan police have arrested 111 people as they tried to enter Spain’s north African territory of Ceuta, amid ⁠tightened security on both sides after social media posts ​c",
+      "paragraphs": [
+        "<p>Border security tightened after social media posts call for another mass crossing into Spain’s north African territory</p><p>Moroccan police have arrested 111 people as they tried to enter Spain’s north African territory of Ceuta, amid ⁠tightened security on both sides after social media posts ​called for another mass crossing.</p><p>The attempted crossing on Saturday came two weeks after more than <a href=\"https://www.theguardian.com/world/2026/jul/31/ceuta-spain-morocco-border-deaths\">72,000 migrants surged into Ceuta</a>, causing <a href=\"https://www.theguardian.com/world/2026/aug/09/italy-condemns-spain-border-controls-ceuta-fallout-intensifies\">tensions within the EU</a> and prompting anti-immigration rhetoric among far-right parties worldwide. At least 96 people died trying to ⁠reach European soil.</p> <a href=\"https://www.theguardian.com/world/2026/aug/15/moroccan-police-arrest-more-than-100-people-as-they-attempt-to-enter-ceuta\">Continue reading...</a>"
+      ],
+      "date": "2026-08-15",
       "real": true
     },
     {
@@ -418,28 +442,6 @@
         "<p>Disciplinary proceedings under way after security concerns raised over reported visits to official residence</p><p>France has opened disciplinary proceedings against its ambassador to Central African Republic over allegations of misconduct, after claims he brought dozens of women into his official residence, raising potential security concerns.</p><p>The investigation comes as Paris seeks to rebuild relations with CAR after their sharp deterioration in recent years amid Russia’s expanding influence in the former French colony.</p> <a href=\"https://www.theguardian.com/world/2026/aug/13/france-ambassador-car-central-african-republic-investigation-bruno-foucher\">Continue reading...</a>"
       ],
       "date": "2026-08-13",
-      "real": true
-    },
-    {
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/world/2026/aug/13/zambia-elections-hakainde-hichilema-haunted-ghost-incumbent-president-arch-rival-edgar-lungu",
-      "title": "Zambia elections haunted by ghost of incumbent president’s arch-rival",
-      "summary": "<p>Hakainde Hichilema is bidding for second term, but feud between him and family of Edgar Lungu, who died in 2025, continues</p><p>As Zambians go to the polls on Thursday, the ghost of the current president’s predecessor hangs over the elections.</p><p>Hakainde Hichilema, 64, is bidding for a secon",
-      "paragraphs": [
-        "<p>Hakainde Hichilema is bidding for second term, but feud between him and family of Edgar Lungu, who died in 2025, continues</p><p>As Zambians go to the polls on Thursday, the ghost of the current president’s predecessor hangs over the elections.</p><p>Hakainde Hichilema, 64, is bidding for a second term leading the southern African country after defeating his arch-rival Edgar Lungu by a landslide in 2021.</p> <a href=\"https://www.theguardian.com/world/2026/aug/13/zambia-elections-hakainde-hichilema-haunted-ghost-incumbent-president-arch-rival-edgar-lungu\">Continue reading...</a>"
-      ],
-      "date": "2026-08-13",
-      "real": true
-    },
-    {
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/world/2026/aug/12/zimbabwe-lake-kariba-ferry-capsize",
-      "title": "At least 44 dead after overcrowded ferry capsizes on Lake Kariba in Zimbabwe",
-      "summary": "<p>Operation under way to rescue dozens missing after boat overturned by waves at world’s largest human-made lake</p><p>At least 44 people have died<strong> </strong>after an overcrowded ferry capsized on Lake Kariba in Zimbabwe, police said.</p><p>The boat had a capacity of 90 people, but was carry",
-      "paragraphs": [
-        "<p>Operation under way to rescue dozens missing after boat overturned by waves at world’s largest human-made lake</p><p>At least 44 people have died<strong> </strong>after an overcrowded ferry capsized on Lake Kariba in Zimbabwe, police said.</p><p>The boat had a capacity of 90 people, but was carrying 114 adult passengers, five crew members and an unknown number of children, Zimbabwe’s civil protection unit (CPU) said earlier on Wednesday, citing ticket sales.</p> <a href=\"https://www.theguardian.com/world/2026/aug/12/zimbabwe-lake-kariba-ferry-capsize\">Continue reading...</a>"
-      ],
-      "date": "2026-08-12",
       "real": true
     },
     {
@@ -499,6 +501,17 @@
     },
     {
       "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/aug/15/indonesia-earthquake",
+      "title": "Powerful earthquake kills dozens in eastern Indonesia",
+      "summary": "<p>Quake struck Flores region early on Saturday, prompting thousands to seek higher ground for fear of a tsunami</p><p>A 7.7-magnitude earthquake that struck eastern Indonesia has killed at least 47<strong> </strong>people, causing widespread panic and collapsing buildings and homes in a region pron",
+      "paragraphs": [
+        "<p>Quake struck Flores region early on Saturday, prompting thousands to seek higher ground for fear of a tsunami</p><p>A 7.7-magnitude earthquake that struck eastern Indonesia has killed at least 47<strong> </strong>people, causing widespread panic and collapsing buildings and homes in a region prone to deadly seismic events.</p><p>Rescuers have yet to reach Nagekeo, the area closest to the epicentre, because roads were blocked by landslides and communications disrupted.</p> <a href=\"https://www.theguardian.com/world/2026/aug/15/indonesia-earthquake\">Continue reading...</a>"
+      ],
+      "date": "2026-08-15",
+      "real": true
+    },
+    {
+      "source": "The Guardian",
       "link": "https://www.theguardian.com/world/2026/aug/14/japan-deadly-rain-evacuation-thousands-stranded-tokyo-airport-weather",
       "title": "‘Unprecedented’ rain kills five in Japan as thousands stranded at airport",
       "summary": "<p>Evacuation orders issued for 400,000 after flooding, landslide warnings and power outages in Chiba prefecture</p><p>At least five people have died in eastern Japan after “unprecedented” heavy rain that left nearly 7,000 stranded at Tokyo’s Narita airport and forced thousands to take refuge in gov",
@@ -543,79 +556,68 @@
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/world/2026/aug/12/thailand-suspends-gun-licences-teenage-shooter-grandparents-cremated",
-      "title": "Thailand suspends gun licences as teen shooter and grandparents he killed are cremated",
-      "summary": "<p>Prime minister Anutin Charnvirakul calls for tighter gun controls and ‘decisive penalties’ after nine dead in school shooting </p><p>Thailand has suspended firearms licences after <a href=\"https://www.theguardian.com/world/2026/aug/07/thailand-school-shooting-debsirin-nonthaburi-bangkok\">the dead",
+      "link": "https://www.theguardian.com/australia-news/live/2026/aug/16/politics-reactions-nsw-gun-buyback-anthony-albanese-labor-angus-taylor-coalition-pauline-hanson-one-nation-bird-flu-ntwnfb",
+      "title": "Australia news live: Pauline Hanson opposes major gun buyback agreed in wake of Bondi terror attack",
+      "summary": "<p>Legislation for plan passed parliament earlier this year and is set to commence in NSW from November. Follow live updates</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a",
       "paragraphs": [
-        "<p>Prime minister Anutin Charnvirakul calls for tighter gun controls and ‘decisive penalties’ after nine dead in school shooting </p><p>Thailand has suspended firearms licences after <a href=\"https://www.theguardian.com/world/2026/aug/07/thailand-school-shooting-debsirin-nonthaburi-bangkok\">the deadly Nonthaburi school shooting</a>, as the bodies of the teenage attacker and the grandparents he killed were cremated.</p><p>The prime minister, Anutin Charnvirakul, said he had ordered the interior ministry and police to stop issuing licences to possess, purchase and carry firearms, and called for “tighter controls and decisive penalties”. The measures are temporary until a new gun control law is in place, according to government operated news-channel NBT World.</p> <a href=\"https://www.theguardian.com/world/2026/aug/12/thailand-suspends-gun-licences-teenage-shooter-grandparents-cremated\">Continue reading...</a>"
+        "<p>Legislation for plan passed parliament earlier this year and is set to commence in NSW from November. Follow live updates</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>Hanson wants to slash international student numbers</strong></p><p>One Nation leader <strong>Pauline Hanson</strong> says she wants dramatic cuts to the number of international students allowed to come into the country.</p><p>People are using it to come to the country. Then after they get in the country, they’re only here for a few months. Then they change the courses.</p><p>Then they apply for residence here in Australia. So they’re using [it] as a back door to get into the country.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/aug/16/politics-reactions-nsw-gun-buyback-anthony-albanese-labor-angus-taylor-coalition-pauline-hanson-one-nation-bird-flu-ntwnfb\">Continue reading...</a>"
       ],
-      "date": "2026-08-12",
+      "date": "2026-08-15",
       "real": true
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/world/2026/aug/14/french-court-blocks-macron-social-media-ban-under-15s",
-      "title": "French court blocks Macron’s social media ban for under-15s",
-      "summary": "<p>Constitutional council says curbs infringe freedom of expression and privacy as president vows to rework legislation</p><p>France’s top court has blocked a ban on social media access for under-15s, ruling that it infringed freedom of expression and privacy.</p><p>The decision is a blow to Preside",
+      "link": "https://www.theguardian.com/australia-news/2026/aug/16/one-nation-tyron-whitten-comments-parents-trans-children-abuse-ntwnfb",
+      "title": "One Nation senator says parents who support their trans children are engaging in ‘child abuse’",
+      "summary": "<p>‘There’s male, there’s female, and then there’s mental illness,’ Tyron Whitten says on YouTube show</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.the",
       "paragraphs": [
-        "<p>Constitutional council says curbs infringe freedom of expression and privacy as president vows to rework legislation</p><p>France’s top court has blocked a ban on social media access for under-15s, ruling that it infringed freedom of expression and privacy.</p><p>The decision is a blow to President Emmanuel Macron as momentum builds around the world for Australian-style restrictions on children’s use of social media.</p> <a href=\"https://www.theguardian.com/world/2026/aug/14/french-court-blocks-macron-social-media-ban-under-15s\">Continue reading...</a>"
+        "<p>‘There’s male, there’s female, and then there’s mental illness,’ Tyron Whitten says on YouTube show</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>One Nation senator Tyron Whitten has claimed parents supporting their children who identify as transgender are engaging in “child abuse”, telling a fringe YouTube show: “there’s male, there’s female, and then there’s mental illness”.</p><p>Guardian Australia has unearthed several incendiary comments from Whitten and fellow One Nation senators Pauline Hanson and her longtime lieutenant Malcolm Roberts, about transgender Australians.</p> <a href=\"https://www.theguardian.com/australia-news/2026/aug/16/one-nation-tyron-whitten-comments-parents-trans-children-abuse-ntwnfb\">Continue reading...</a>"
       ],
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "real": true
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/australia-news/2026/aug/15/australia-crypto-money-investment-scam-ai-fraud-crime",
-      "title": "A Queensland man enjoyed soaring profits from a crypto trading app. Then his money started disappearing",
-      "summary": "<p>The administrative work required to run an effective investment scam has been drastically cut by using merging technology</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a",
+      "link": "https://www.theguardian.com/australia-news/2026/aug/16/naidoc-awards-2026-rhoda-roberts-first-nations-honour-ntwnfb",
+      "title": "Naidoc awards honour ‘fearless, brilliant’ promoter of First Nations culture Rhoda Roberts",
+      "summary": "<p>Proud Widjabul Wieybal woman of the Bundjalung nation recognised posthumously with the lifetime achievement award</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"h",
       "paragraphs": [
-        "<p>The administrative work required to run an effective investment scam has been drastically cut by using merging technology</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Within days of clicking on an online ad for a cryptocurrency trading app, a 29-year-old Queensland man watched his dashboard soar with profits.</p><p>Making investment gains was as simple as downloading the slick-looking app and browser extension linked to his crypto wallet. So he invested more.</p> <a href=\"https://www.theguardian.com/australia-news/2026/aug/15/australia-crypto-money-investment-scam-ai-fraud-crime\">Continue reading...</a>"
+        "<p>Proud Widjabul Wieybal woman of the Bundjalung nation recognised posthumously with the lifetime achievement award</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>One of Australia’s greatest cultural ambassadors has been recognised posthumously for dedicating her life to sharing, preserving and promoting First Nations culture through language, dance and ceremony.</p><p>Proud Widjabul Wieybal woman of the Bundjalung nation <a href=\"https://www.theguardian.com/australia-news/2026/mar/21/rhoda-roberts-indigenous-cultural-leader-who-introduced-the-term-welcome-to-country-dies-aged-66\">Rhoda Roberts died in March</a> aged 66. On Saturday night in Alice Springs, she was posthumously awarded the lifetime achievement award at the Naidoc awards.</p> <a href=\"https://www.theguardian.com/australia-news/2026/aug/16/naidoc-awards-2026-rhoda-roberts-first-nations-honour-ntwnfb\">Continue reading...</a>"
       ],
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "real": true
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/australia-news/2026/aug/14/pocock-and-crossbenchers-call-labors-ndis-overhaul-too-far-too-fast-in-scathing-senate-inquiry-report",
-      "title": "Pocock and crossbenchers call Labor’s NDIS overhaul ‘too far, too fast’ in scathing Senate inquiry report",
-      "summary": "<p>Greens say Labor’s reform set to ‘rip life-changing supports away from disabled people instead of raising additional revenue through taxing gas exports’</p><p>Cross-benchers have slammed the Albanese government’s proposed overhaul of the NDIS as going “too far, too fast” as the changes to curb th",
+      "link": "https://www.theguardian.com/world/2026/aug/15/little-penguin-found-dead-with-h5-bird-flu-on-victorias-phillip-island",
+      "title": "First Australian death of little penguin with H5 bird flu confirmed on Phillip Island",
+      "summary": "<p>Authorities confirm first Australian death of species found with virus near where it attracts crowds to a ‘penguin parade’</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <",
       "paragraphs": [
-        "<p>Greens say Labor’s reform set to ‘rip life-changing supports away from disabled people instead of raising additional revenue through taxing gas exports’</p><p>Cross-benchers have slammed the Albanese government’s proposed overhaul of the NDIS as going “too far, too fast” as the changes to curb the growth of the $52bn program appear set to pass the parliament as early as next week.</p><p>The Greens and independent ACT senator, David Pocock, delivered scathing assessments of the bill they warn will enable blunt and indiscriminate cuts to individual budgets supporting more than 770,000 Australians with disabilities in a final Senate inquiry report released on Friday afternoon.</p> <a href=\"https://www.theguardian.com/australia-news/2026/aug/14/pocock-and-crossbenchers-call-labors-ndis-overhaul-too-far-too-fast-in-scathing-senate-inquiry-report\">Continue reading...</a>"
+        "<p>Authorities confirm first Australian death of species found with virus near where it attracts crowds to a ‘penguin parade’</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Australia’s first case of the deadly H5 bird flu in a little penguin has been confirmed on Victoria’s Phillip Island, only days after the state government announced it would begin vaccinating the species.</p><p>Confirmation of the virus in the little penguin will spark a race to vaccinate thousands of birds, with the government announcing on Saturday it would begin the rollout on Monday.</p> <a href=\"https://www.theguardian.com/world/2026/aug/15/little-penguin-found-dead-with-h5-bird-flu-on-victorias-phillip-island\">Continue reading...</a>"
       ],
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "real": true
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/australia-news/2026/aug/14/lending-to-property-investors-falls-sharply-in-tiny-step-towards-fairer-housing-market-in-australia-expert-says",
-      "title": "Lending to property investors falls sharply in ‘tiny’ step towards fairer housing market in Australia, expert says",
-      "summary": "<p>ABS data shows an almost 9% slump in new lending to investors after three interest rate hikes this year</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/aug/14/australia-news-live-kpmg-inquiry-icac-alan-jones-trial-gst-treasurer-jim-chalmers-anthony-albanese-angus-taylo",
+      "link": "https://www.theguardian.com/australia-news/2026/aug/15/emotional-tributes-kumanjayi-little-baby-alice-springs-funeral-ntwnfb",
+      "title": "‘My heart breaks into a million pieces’: emotional tributes to Kumanjayi Little Baby at Alice Springs funeral",
+      "summary": "<p>Hundreds gathered with flashes of pink to farewell the five-year-old girl, who was allegedly murdered in April</p><ul><li><p><em><strong>Warning: </strong>This story contains references to Indigenous Australians who have died</em></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-",
       "paragraphs": [
-        "<p>ABS data shows an almost 9% slump in new lending to investors after three interest rate hikes this year</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/aug/14/australia-news-live-kpmg-inquiry-icac-alan-jones-trial-gst-treasurer-jim-chalmers-anthony-albanese-angus-taylor-pauline-hanson-labor-liberals-one-nation-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>In what one economist is describing as a “tiny step” toward a <a href=\"https://www.theguardian.com/australia-news/2026/aug/07/housing-property-prices-affordability-australia-avoid-major-market-crash\">fairer housing market</a> after decades of bad policy, property investors are shying away from established homes, and putting money into new builds instead, new data shows.</p><p>New lending to property investors fell sharply in the three months to June, slumping almost 9%, ABS data showed, while the number of total new home loans dropped by 5.4% in the June quarter.</p> <a href=\"https://www.theguardian.com/australia-news/2026/aug/14/lending-to-property-investors-falls-sharply-in-tiny-step-towards-fairer-housing-market-in-australia-expert-says\">Continue reading...</a>"
+        "<p>Hundreds gathered with flashes of pink to farewell the five-year-old girl, who was allegedly murdered in April</p><ul><li><p><em><strong>Warning: </strong>This story contains references to Indigenous Australians who have died</em></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>A sombre funeral service for Kumanjayi Little Baby has been attended by hundreds of people from the Alice Springs community and surrounds.</p><p>Wearing pink and some dressed in T-shirts bearing the face of the five-year-old girl, the crowd gathered under grey skies in the red centre capital on Saturday.</p> <a href=\"https://www.theguardian.com/australia-news/2026/aug/15/emotional-tributes-kumanjayi-little-baby-alice-springs-funeral-ntwnfb\">Continue reading...</a>"
       ],
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "real": true
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/australia-news/2026/aug/14/alan-jones-trial-alleged-victim-broadcaster-eggs-soldiers-ironed-underpants-court-ntwnfb",
-      "title": "Alleged victim says Alan Jones groped him at lunch and describes fear of being seen as broadcaster’s ‘toy’, court hears",
-      "summary": "<p>Former 2GB and 2UE radio broadcaster is facing 22 indecent assault and sexual touching charges. Jones, 85, has pleaded not guilty</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/aug/14/australia-news-live-kpmg-inquiry-icac-alan-jones-trial-gst-treasurer-jim-chalmers-an",
+      "link": "https://www.theguardian.com/world/2026/aug/15/body-found-in-romania-believed-to-be-missing-british-hiker-george-smyth",
+      "title": "Body found in Romania believed to be missing British hiker George Smyth",
+      "summary": "<p>Family paid tribute to Bristol University geology student, 18, after being notified by Avon and Somerset police</p><p>A body has been found in the search for an 18-year-old British man who went missing last year while hiking in Romania, UK police said.</p><p>George Smyth, a geology student at the",
       "paragraphs": [
-        "<p>Former 2GB and 2UE radio broadcaster is facing 22 indecent assault and sexual touching charges. Jones, 85, has pleaded not guilty</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/aug/14/australia-news-live-kpmg-inquiry-icac-alan-jones-trial-gst-treasurer-jim-chalmers-anthony-albanese-angus-taylor-pauline-hanson-labor-liberals-one-nation-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>A young driver for Alan Jones felt “violated” and “trapped” when the broadcaster allegedly touched him on the penis in the car and kissed him in a lift, but didn’t complain due to the “extraordinary” power dynamic between the pair, a Sydney court has been told.</p><p>Complainant C, now aged in his 40s, on Friday told Jones’s indecent assault trial that interactions between the pair escalated over time.</p> <a href=\"https://www.theguardian.com/australia-news/2026/aug/14/alan-jones-trial-alleged-victim-broadcaster-eggs-soldiers-ironed-underpants-court-ntwnfb\">Continue reading...</a>"
+        "<p>Family paid tribute to Bristol University geology student, 18, after being notified by Avon and Somerset police</p><p>A body has been found in the search for an 18-year-old British man who went missing last year while hiking in Romania, UK police said.</p><p>George Smyth, a geology student at the University of Bristol, went missing in November.</p> <a href=\"https://www.theguardian.com/world/2026/aug/15/body-found-in-romania-believed-to-be-missing-british-hiker-george-smyth\">Continue reading...</a>"
       ],
-      "date": "2026-08-14",
-      "real": true
-    },
-    {
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/media/2026/aug/14/bbc-trump-children-subpoenas-lawsuit",
-      "title": "BBC seeks to subpoena Trump children and son-in-law over defamation lawsuit",
-      "summary": "<p>Network wants to serve Jared Kushner, Ivanka Trump and Donald Trump Jr after president sues over January 6 documentary</p><p>The BBC is trying to subpoena Donald Trump’s children as it builds its defense against the president’s defamation lawsuit centered on a documentary on the January 6 insurre",
-      "paragraphs": [
-        "<p>Network wants to serve Jared Kushner, Ivanka Trump and Donald Trump Jr after president sues over January 6 documentary</p><p>The BBC is trying to subpoena Donald Trump’s children as it builds its defense against the president’s defamation lawsuit centered on a documentary on the January 6 insurrection.</p><p>In a motion filed on Friday, the BBC sought authorization to serve Trump’s two eldest children, Donald Trump Jr and Ivanka Trump, and son-in-law Jared Kushner, with subpoenas for testimony and their records on the events of 6 January 2021.</p> <a href=\"https://www.theguardian.com/media/2026/aug/14/bbc-trump-children-subpoenas-lawsuit\">Continue reading...</a>"
-      ],
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "real": true
     },
     {
@@ -626,40 +628,40 @@
       "paragraphs": [
         "<p>One person killed and hundreds evacuated in Croatia as blazes also hit Germany, Greece and Spain</p><p>Almost 500 people have been arrested on suspicion of starting wildfires in France since the start of the summer, authorities have said, as firefighters in half a dozen European countries tackle ferocious blazes amid a record-breaking heatwave.</p><p>A fire engulfed ⁠homes in a Croatian holiday resort on Friday, killing one person, injuring 40 and forcing 1,200 to evacuate, officials said, as the EU warned that pockets of “very extreme” wildfire conditions stretched across the continent.</p> <a href=\"https://www.theguardian.com/world/2026/aug/14/arrested-suspicion-starting-wildfires-europe-france\">Continue reading...</a>"
       ],
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "real": true
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/world/2026/aug/14/belgian-student-strikes-gold-worth-9m-while-digging-sewers",
-      "title": "Belgian student strikes gold worth €9m while digging a new sewer",
-      "summary": "<p>Kobe, 18, who made discovery on site of former brewery in Sint-Gillis-Dendermonde, at first thought trove was €1 coins</p><p>For a student with a summer job working on a Belgian building site, “money down the drain” has taken on a whole new meaning: excavating the trenches for a sewage system, he",
+      "link": "https://www.theguardian.com/world/2026/aug/15/irish-teenager-electrocuted-shower-greece",
+      "title": "Safety check calls after Irish teenager electrocuted taking shower in Greece",
+      "summary": "<p>Alex McKee died when picking up showerhead in ‘outdoor and rudimentary’ bathroom on Kimolos</p><p>The death of an Irish teenager, electrocuted while taking a shower in a holiday home in Greece, has led to calls for tighter checks on appliances at tourist accommodation.</p><p>Alex McKee, 17, is sa",
       "paragraphs": [
-        "<p>Kobe, 18, who made discovery on site of former brewery in Sint-Gillis-Dendermonde, at first thought trove was €1 coins</p><p>For a student with a summer job working on a Belgian building site, “money down the drain” has taken on a whole new meaning: excavating the trenches for a sewage system, he stumbled across a hidden trove of gold worth an estimated €9m (£8m).</p><p>“We suddenly saw something lying there,” 18-year-old Kobe <a href=\"https://www.hln.be/dendermonde/jobstudent-kobe-18-ontdekte-samen-met-collega-goudschat-van-9-miljoen-euro-in-dendermonde-bleek-toch-iets-meer-dan-we-dachten~acce5a9f/\">told the Belgian news network VTM</a>. “At first I thought it was €1 coins. So we started digging them up. Then we saw a gold bar. It turned out to be a bit more than we thought.”</p> <a href=\"https://www.theguardian.com/world/2026/aug/14/belgian-student-strikes-gold-worth-9m-while-digging-sewers\">Continue reading...</a>"
+        "<p>Alex McKee died when picking up showerhead in ‘outdoor and rudimentary’ bathroom on Kimolos</p><p>The death of an Irish teenager, electrocuted while taking a shower in a holiday home in Greece, has led to calls for tighter checks on appliances at tourist accommodation.</p><p>Alex McKee, 17, is said to have died instantly when picking up the showerhead in a bathroom described as “outdoor and rudimentary” on Kimolos.</p> <a href=\"https://www.theguardian.com/world/2026/aug/15/irish-teenager-electrocuted-shower-greece\">Continue reading...</a>"
       ],
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "real": true
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/world/live/2026/aug/14/fires-wildfires-extreme-heat-west-midlands-stourbridge-uk-greece-france-croatia-climate-crisis-europe-latest-news-updates",
-      "title": "One dead, dozens injured and thousands evacuated in Croatian wildfires – as it happened",
-      "summary": "<p>Firefighters discover body and say more than 40 people hurt in the Lokva Rogoznica and Omiš areas</p><p><strong>England has received just 4mm of rain so far in August, or 6% of the long-term average for the month</strong>, the Environment Agency said on Friday, as reported by PA.</p><p><strong>It",
+      "link": "https://www.theguardian.com/world/2026/aug/15/bayeux-tapestry-london-british-museum-one-aldwych-hotel",
+      "title": "Missed out on tickets to see the Bayeux tapestry in London? A £1,000 hotel stay will get you in",
+      "summary": "<p>British Museum’s £33 tickets sold out in a day but some slots have been reserved for guests at five-star One Aldwych</p><p>Those hoping to snare a glimpse of the Bayeux tapestry when it comes to the British Museum this September faced nine-hour online queues, with the £33 tickets sold out within ",
       "paragraphs": [
-        "<p>Firefighters discover body and say more than 40 people hurt in the Lokva Rogoznica and Omiš areas</p><p><strong>England has received just 4mm of rain so far in August, or 6% of the long-term average for the month</strong>, the Environment Agency said on Friday, as reported by PA.</p><p><strong>It follows the driest July on record for the country</strong>, when only 7mm of rain was measured, or 10% of the average.</p> <a href=\"https://www.theguardian.com/world/live/2026/aug/14/fires-wildfires-extreme-heat-west-midlands-stourbridge-uk-greece-france-croatia-climate-crisis-europe-latest-news-updates\">Continue reading...</a>"
+        "<p>British Museum’s £33 tickets sold out in a day but some slots have been reserved for guests at five-star One Aldwych</p><p>Those hoping to snare a glimpse of the Bayeux tapestry when it comes to the British Museum this September faced nine-hour online queues, with the £33 tickets sold out within a day.</p><p>But the monied guests of a five-star hotel in Covent Garden have not had to go to such arduous lengths to get a view of the nearly <a href=\"https://www.theguardian.com/culture/2025/jul/12/historys-most-devastating-document-of-war-the-simple-yet-graphic-details-of-the-bayeux-tapestry\">1,000-year-old depiction</a> of William the Conqueror’s victory over King Harold II of England at Hastings in 1066.</p> <a href=\"https://www.theguardian.com/world/2026/aug/15/bayeux-tapestry-london-british-museum-one-aldwych-hotel\">Continue reading...</a>"
       ],
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "real": true
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/environment/2026/aug/14/iberian-orca-known-for-ramming-boats-seen-with-suspected-gunshot-wounds",
-      "title": "Iberian orca known for ramming boats seen with suspected gunshot wounds",
-      "summary": "<p>Marine conservationist says deliberate attack would be ‘act of extreme cruelty’ against endangered population</p><p>Spanish officials have launched an investigation after the matriarch of an orca pod known for jostling and ramming boats off the Iberian Peninsula was spotted with wounds suggesting",
+      "link": "https://www.theguardian.com/politics/2026/aug/15/post-brexit-rights-british-citizens-sweden-removal-orders-analysis",
+      "title": "Post-Brexit rights for British citizens are being undermined in Sweden",
+      "summary": "<p>Apparent high level of removal orders suggests Sweden is rejecting ‘reasonable grounds’ for failing to apply to stay</p><p>Back in October 2020, the UK immigration minister stood up in parliament to reassure campaigners concerned about EU citizens who weren’t aware they had to ask the Home Office",
       "paragraphs": [
-        "<p>Marine conservationist says deliberate attack would be ‘act of extreme cruelty’ against endangered population</p><p>Spanish officials have launched an investigation after the matriarch of an orca pod known for jostling and ramming boats off the Iberian Peninsula was spotted with wounds suggesting she had been shot by a pellet gun.</p><p>On Friday, Spain’s environment ministry said Toñi, the oldest living member of the pod, <a href=\"https://www.miteco.gob.es/es/prensa/ultimas-noticias/2026/agosto/--el-miteco-abre-actuaciones-previas-de-investigacion-tras-el-av.html\">had been seen swimming</a> in the Strait of Gibraltar with markings on her dorsal fin that were “consistent with shots from a pellet gun”.</p> <a href=\"https://www.theguardian.com/environment/2026/aug/14/iberian-orca-known-for-ramming-boats-seen-with-suspected-gunshot-wounds\">Continue reading...</a>"
+        "<p>Apparent high level of removal orders suggests Sweden is rejecting ‘reasonable grounds’ for failing to apply to stay</p><p>Back in October 2020, the UK immigration minister stood up in parliament to reassure campaigners concerned about EU citizens who weren’t aware they had to ask the Home Office to stay in the country after Brexit.</p><p>Using an example of a child in foster care who might not know they were an EU citizen until they applied for their first job, the Conservative Kevin Foster said the UK would take <a href=\"https://www.theguardian.com/politics/2020/oct/15/new-brexit-law-vulnerable-eu-citizens-apply-late-to-stay-in-uk\">“a generous approach</a> as to what reasonable grounds [for failing to apply] were”.</p> <a href=\"https://www.theguardian.com/politics/2026/aug/15/post-brexit-rights-british-citizens-sweden-removal-orders-analysis\">Continue reading...</a>"
       ],
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "real": true
     }
   ]
