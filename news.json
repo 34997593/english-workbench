@@ -1,7 +1,62 @@
 {
-  "updated": "2026-08-22T23:07:49Z",
+  "updated": "2026-08-23T23:08:11Z",
   "count": 60,
   "articles": [
+    {
+      "source": "NPR",
+      "link": "https://www.npr.org/2026/08/23/nx-s1-5942292/thousands-in-northwest-indiana-still-without-power-nearly-two-weeks-after-storm",
+      "title": "Thousands in northwest Indiana still without power nearly two weeks after storm",
+      "summary": "A round of storms impacted the region on Aug. 11",
+      "paragraphs": [
+        "A round of storms impacted the region on Aug. 11"
+      ],
+      "date": "2026-08-23",
+      "real": true
+    },
+    {
+      "source": "NPR",
+      "link": "https://www.npr.org/2026/08/23/nx-s1-5901338/health-alliance-austin-musicians-texas-health-premiums-obamacare-marketplace-uninsured",
+      "title": "Nonprofits are helping musicians pay for insurance in Austin, Texas, and beyond",
+      "summary": "A nonprofit and a local public health agency are subsidizing marketplace health insurance for Austin musicians , even as rising healthcare costs make the program more expensive.",
+      "paragraphs": [
+        "A nonprofit and a local public health agency are subsidizing marketplace health insurance for Austin musicians , even as rising healthcare costs make the program more expensive."
+      ],
+      "date": "2026-08-23",
+      "real": true
+    },
+    {
+      "source": "NPR",
+      "link": "https://www.npr.org/2026/08/23/nx-s1-5941143/california-governor-xavier-becerra-health-insurance",
+      "title": "Becerra, running for governor of California, faces a health insurance problem",
+      "summary": "The nation's uninsured rate hit a historical low when Xavier Becerra was health secretary. Now he wants to be California's next governor as Trump's actions have driven people off health insurance.",
+      "paragraphs": [
+        "The nation's uninsured rate hit a historical low when Xavier Becerra was health secretary. Now he wants to be California's next governor as Trump's actions have driven people off health insurance."
+      ],
+      "date": "2026-08-23",
+      "real": true
+    },
+    {
+      "source": "NPR",
+      "link": "https://www.npr.org/2026/08/23/nx-s1-5941769/tropical-storm-moke-hawaii",
+      "title": "Tropical Storm Moke to cause more flooding as Hawaii recovers from Lala",
+      "summary": "More than a foot of rain could fall across Big Island of Hawaii, according to NOAA.",
+      "paragraphs": [
+        "More than a foot of rain could fall across Big Island of Hawaii, according to NOAA."
+      ],
+      "date": "2026-08-23",
+      "real": true
+    },
+    {
+      "source": "NPR",
+      "link": "https://www.npr.org/2026/08/23/nx-s1-5936573/memphis-task-force-shooting-video-jonah-neal",
+      "title": "Body cam shows federal agent was 'unjustified' in Memphis shooting, attorney says",
+      "summary": "The family of Jonah Neal and their attorney were recently shown video from the day that Neal was shot by a federal agent while he experienced a mental health crisis.",
+      "paragraphs": [
+        "The family of Jonah Neal and their attorney were recently shown video from the day that Neal was shot by a federal agent while he experienced a mental health crisis."
+      ],
+      "date": "2026-08-23",
+      "real": true
+    },
     {
       "source": "NPR",
       "link": "https://www.npr.org/2026/08/22/nx-s1-5941765/trump-immigration-visa-ban-75-countries",
@@ -39,10 +94,10 @@
     {
       "source": "NPR",
       "link": "https://www.npr.org/2026/08/22/nx-s1-5941584/us-canada-tariffs",
-      "title": "Hours after U.S. imposes tariffs, Canada says it'll strike back starting Sept. 8",
-      "summary": "The U.S. has now imposed 50% tariffs on $20 billion worth of Canadian products. Prime Minister Mark Carney says Canada will match those tariffs \"dollar for dollar\" next month.",
+      "title": "As Canada readies retaliatory tariffs, Mark Carney says his nation is 'at war' with U.S.",
+      "summary": "The U.S. has now imposed 50% tariffs on $20 billion worth of Canadian products. Prime Minister Mark Carney says Canada will match those tariffs \"dollar for dollar\" starting Sept. 8.",
       "paragraphs": [
-        "The U.S. has now imposed 50% tariffs on $20 billion worth of Canadian products. Prime Minister Mark Carney says Canada will match those tariffs \"dollar for dollar\" next month."
+        "The U.S. has now imposed 50% tariffs on $20 billion worth of Canadian products. Prime Minister Mark Carney says Canada will match those tariffs \"dollar for dollar\" starting Sept. 8."
       ],
       "date": "2026-08-22",
       "real": true
@@ -59,333 +114,289 @@
       "real": true
     },
     {
-      "source": "NPR",
-      "link": "https://www.npr.org/2026/08/21/nx-s1-5935417/supreme-court-allows-trumps-ballroom-construction-to-continue-for-now",
-      "title": "Supreme Court allows Trump's ballroom construction to continue for now",
-      "summary": "The ruling comes after months of back-and-forth between the Trump administration and the National Trust for Historic Preservation.",
-      "paragraphs": [
-        "The ruling comes after months of back-and-forth between the Trump administration and the National Trust for Historic Preservation."
-      ],
-      "date": "2026-08-21",
-      "real": true
-    },
-    {
-      "source": "NPR",
-      "link": "https://www.npr.org/2026/08/21/nx-s1-5940799/kennedy-center-president-trump-filing",
-      "title": "Beatty files emergency request to stop Trump's name from returning to Kennedy Center",
-      "summary": "Joyce Beatty, a Democratic representative from Ohio, asked a federal judge to stop the Kennedy Center trustees from putting President Trump's name up in three places at the arts complex.",
-      "paragraphs": [
-        "Joyce Beatty, a Democratic representative from Ohio, asked a federal judge to stop the Kennedy Center trustees from putting President Trump's name up in three places at the arts complex."
-      ],
-      "date": "2026-08-21",
-      "real": true
-    },
-    {
-      "source": "NPR",
-      "link": "https://www.npr.org/2026/08/21/nx-s1-5940610/iran-us-threat-economic-warfare",
-      "title": "Top Iran official says U.S. focus on economic warfare shows it has failed militarily",
-      "summary": "The Iranian regime has dismissed President Trump's threats to crush Iran economically, saying that years of U.S. sanctions have failed.",
-      "paragraphs": [
-        "The Iranian regime has dismissed President Trump's threats to crush Iran economically, saying that years of U.S. sanctions have failed."
-      ],
-      "date": "2026-08-21",
-      "real": true
-    },
-    {
-      "source": "NPR",
-      "link": "https://www.npr.org/2026/08/21/g-s1-139542/up-first-newsletter-trump-iran-economy-white-house-ballroom-bond-market",
-      "title": "Trump declares economic warfare on Iran. And, SCOTUS to rule on White House ballroom",
-      "summary": "President Trump has declared economic warfare on Iran in an effort to pressure the country back into negotiations. And, the Supreme Court is set to decide on the future of Trump's ballroom.",
-      "paragraphs": [
-        "President Trump has declared economic warfare on Iran in an effort to pressure the country back into negotiations. And, the Supreme Court is set to decide on the future of Trump's ballroom."
-      ],
-      "date": "2026-08-21",
-      "real": true
-    },
-    {
-      "source": "NPR",
-      "link": "https://www.npr.org/2026/08/21/nx-s1-5939443/dc-indycar-race-overview-watch-politics",
-      "title": "What to know about this weekend's IndyCar race on the National Mall",
-      "summary": "Why is the car race in this part of D.C.? Will it be streaming? Who's paying for it? Here's what to know before the Freedom 250 Grand Prix hits the National Mall this weekend.",
-      "paragraphs": [
-        "Why is the car race in this part of D.C.? Will it be streaming? Who's paying for it? Here's what to know before the Freedom 250 Grand Prix hits the National Mall this weekend."
-      ],
-      "date": "2026-08-21",
-      "real": true
-    },
-    {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/8/22/tropical-storm-moke-advances-towards-hawaii-with-heavy-rain-strong-winds?traffic_source=rss",
-      "title": "Tropical Storm Moke advances towards Hawaii with heavy rain, strong winds",
+      "link": "https://www.aljazeera.com/sports/2026/8/23/raphinha-and-lopez-score-braces-as-barcelona-trounce-elche-5-0?traffic_source=rss",
+      "title": "Raphinha and Lopez score braces as Barcelona trounce Elche 5-0",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/sports/2026/8/22/real-madrid-beat-espanyol-2-1-in-jose-mourinhos-first-game-on-return?traffic_source=rss",
-      "title": "Real Madrid beat Espanyol 2-1 in Jose Mourinho’s first game on return",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/8/23/will-donald-trumps-new-sanctions-against-iran-work?traffic_source=rss",
+      "title": "Will Donald Trump’s new sanctions against Iran work?",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/08-22-26-sudan-movie-night-sv?traffic_source=rss",
-      "title": "Open-air cinema brings movie nights back to Khartoum",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/serbia-requests-international-assistance-to-battle-wildfires?traffic_source=rss",
+      "title": "Serbia requests international assistance to battle wildfires",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/8/22/israeli-army-and-settlers-injure-several-palestinians-across-west-bank?traffic_source=rss",
-      "title": "Israeli army and settlers injure several Palestinians across West Bank",
+      "link": "https://www.aljazeera.com/news/2026/8/23/us-envoy-tom-barrack-retracts-comment-that-syrias-golan-is-occupied?traffic_source=rss",
+      "title": "US envoy Tom Barrack retracts comment that Syria’s Golan is occupied",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/8/22/us-postal-service-shares-mail-in-ballot-restrictions-despite-court-ruling?traffic_source=rss",
-      "title": "US Postal Service shares mail-in ballot restrictions despite court ruling",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/landfill-collapse-kills-30-in-guineas-capital-after-heavy-rains?traffic_source=rss",
+      "title": "Landfill collapse kills 30 in Guinea’s capital after heavy rains",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/8/22/iran-grants-permission-for-some-iraqi-oil-tankers-to-pass-through-hormuz?traffic_source=rss",
-      "title": "Iran grants permission for some Iraqi oil tankers to pass through Hormuz",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/occupied-west-bank-division-ps?traffic_source=rss",
+      "title": "Is Israel about to split the occupied West Bank in half?",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/8/22/why-is-israel-building-new-illegal-settlements?traffic_source=rss",
-      "title": "Why is Israel building new illegal settlements?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/severe-winds-toss-four-aircraft-across-italian-airport-tarmac?traffic_source=rss",
+      "title": "Severe winds toss four aircraft across Italian airport tarmac",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/more-than-200000-newly-displaced-in-sudans-kordofan-region?traffic_source=rss",
-      "title": "More than 200,000 newly displaced in Sudan’s Kordofan region",
+      "link": "https://www.aljazeera.com/gallery/2026/8/23/photos-indycars-speed-past-washington-landmarks-ahead-of-freedom-250?traffic_source=rss",
+      "title": "Photos: IndyCars speed past Washington landmarks as part of Freedom 250",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/8/22/israeli-strikes-kill-two-and-injure-others-as-gaza-attacks-continue?traffic_source=rss",
-      "title": "Israeli strikes kill two and injure others as Gaza attacks continue",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/gazas-hospitals-are-running-out-of-oxygen-as-healthcare-nears-collapse?traffic_source=rss",
+      "title": "Gaza’s hospitals are running out of oxygen as healthcare nears collapse",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/08-22-26-putin-ukraine-talks-clip?traffic_source=rss",
-      "title": "Putin warns Ukraine has opened ‘Pandora’s box’, rejects peace proposals",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/two-killed-after-giant-ganesha-statue-collapses-onto-crowd-in-mumbai?traffic_source=rss",
+      "title": "Two killed after giant Ganesha statue collapses onto crowd in Mumbai",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/8/22/envoy-says-israel-did-not-give-the-us-notice-before-strikes-on-syrian-base?traffic_source=rss",
-      "title": "Envoy says Israel did not give the US notice before strikes on Syrian base",
+      "link": "https://www.aljazeera.com/video/the-india-report/2026/8/23/zhou-bo-chinas-alternative-to-western-power?traffic_source=rss",
+      "title": "Zhou Bo: China’s alternative to Western power",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/22-08-clip-carney-tariffs-canada-ca?traffic_source=rss",
-      "title": "Canada to match US tariffs “dollar for dollar,” PM Carney says",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/23-08-sv-nablus-killing-teen-ps-fm?traffic_source=rss",
+      "title": "Palestinian teen killed in Israeli raid buried in Occupied West Bank",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/8/22/carney-canada-will-enact-retaliatory-us-tariffs-starting-september-8?traffic_source=rss",
-      "title": "Carney: Canada will enact retaliatory US tariffs starting September 8",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/video-thousands-of-families-flee-fighting-in-sudans-north-kordofan-state?traffic_source=rss",
+      "title": "Video: Thousands of families flee fighting in Sudan’s North Kordofan State",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/opinions/2026/8/22/israel-turkiye-and-the-new-regional-reordering?traffic_source=rss",
-      "title": "Israel, Turkiye and the new regional reordering",
+      "link": "https://www.aljazeera.com/video/the-bottom-line/2026/8/23/trump-has-run-out-of-options-in-iran-war-stephen-walt?traffic_source=rss",
+      "title": "Trump has ‘run out of options’ in Iran war: Stephen Walt",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/8/22/swedish-police-identify-17-year-old-girl-as-victim-in-school-sword-attack?traffic_source=rss",
-      "title": "Swedish police identify 17-year-old girl as victim in school sword attack",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/tunisia-sees-protests-after-migrant-boat-sinking-kills-eight?traffic_source=rss",
+      "title": "Tunisia sees protests after migrant boat sinking kills eight",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/8/22/armed-men-kidnap-dozens-in-attacks-on-nigerian-villages?traffic_source=rss",
-      "title": "Armed men kidnap dozens in attacks on Nigerian villages",
+      "link": "https://www.aljazeera.com/news/2026/8/23/thousands-displaced-as-wildfire-threatens-homes-in-us-state-of-nevada?traffic_source=rss",
+      "title": "Thousands displaced as wildfire threatens homes in US state of Nevada",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/08-22-26-israel-rabbi-palestinians-clip?traffic_source=rss",
-      "title": "Israel’s Chief Rabbi says Palestinians are not a people and have no rights",
+      "link": "https://www.aljazeera.com/news/2026/8/23/iran-war-top-us-lawmaker-says-republicans-can-absolutely-win-midterms?traffic_source=rss",
+      "title": "Iran war: Top US lawmaker says Republicans can ‘absolutely’ win midterms",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/8/22/trump-seeks-to-block-the-bbcs-attempt-to-subpoena-ivanka-trump-trump-jr?traffic_source=rss",
-      "title": "Trump seeks to block the BBC’s attempt to subpoena Ivanka Trump, Trump Jr",
+      "link": "https://www.aljazeera.com/news/2026/8/23/landfill-collapse-in-guinea-kills-at-least-22-people-official-says?traffic_source=rss",
+      "title": "Landfill collapse in Guinea kills at least 30 people",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/8/22/not-a-small-issue-people-deported-by-us-to-liberia-face-uncertain-future?traffic_source=rss",
-      "title": "‘Not a small issue’: People deported by US to Liberia face uncertain future",
+      "link": "https://www.aljazeera.com/gallery/2026/8/23/photos-ukraine-observes-national-flag-day?traffic_source=rss",
+      "title": "Photos: Ukraine celebrates National Flag Day",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/8/22/seven-killed-including-two-police-officers-in-uk-wrong-side-car-crash?traffic_source=rss",
-      "title": "Seven killed, including two police officers, in UK ‘wrong-side’ car crash",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/8/23/live-elche-vs-barcelona-la-liga?traffic_source=rss",
+      "title": "Elche 0-5 Barcelona: La Liga – as it happened",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/8/22/south-korea-sending-first-container-ship-through-arctic-route?traffic_source=rss",
-      "title": "South Korea sending first container ship through Arctic route",
+      "link": "https://www.aljazeera.com/economy/2026/8/23/french-president-macron-to-host-saudi-crown-prince-mbs-in-paris-for-talks?traffic_source=rss",
+      "title": "French President Macron to host Saudi Crown Prince MBS in Paris for talks",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/22-08-clip-palestinian-donkey-killed-by-setllers-ps?traffic_source=rss",
-      "title": "Sanctioned by EU, Israeli settler steals and kills Palestinian donkey",
+      "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/8/23/can-nigeria-cash-in-on-iran-war?traffic_source=rss",
+      "title": "Can Nigeria cash in on Iran war?",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/8/22/espanyol-vs-real-madrid-live-la-liga?traffic_source=rss",
-      "title": "Espanyol 1-2 Real Madrid: La Liga – as it happened",
+      "link": "https://www.aljazeera.com/news/2026/8/23/canada-us-and-tit-for-tat-tariffs-how-will-it-impact-their-economies?traffic_source=rss",
+      "title": "Canada, US and tit-for-tat tariffs: How will they impact their economies?",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/how-is-the-pro-israel-lobby-influencing-us-midterm-elections?traffic_source=rss",
-      "title": "How is the pro-Israel lobby influencing US elections?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/gaza-families-search-for-children-missing-after-years-of-war?traffic_source=rss",
+      "title": "Gaza families search for children missing after years of war",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/sports/2026/8/22/elche-vs-barcelona-la-liga-prediction-team-news-lineups?traffic_source=rss",
-      "title": "Elche vs Barcelona: La Liga – prediction, team news, lineups",
+      "link": "https://www.aljazeera.com/economy/2026/8/23/iran-government-signals-fuel-price-hike-on-eve-of-new-us-sanctions?traffic_source=rss",
+      "title": "Iran’s government signals fuel price hike on eve of new US sanctions",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-08-22",
+      "date": "2026-08-23",
+      "real": true
+    },
+    {
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/aug/23/landslide-waste-mound-conakry-guinea-kills-dozens",
+      "title": "Landslide at waste mound in Guinea capital kills 30, government says",
+      "summary": "<p>Dump site in Conakry, which minister had just promised to move, collapsed after heavy rain in west African state</p><p>A ⁠landslide at a huge waste dump in Guinea’s capital has killed 30 people, the government said on Sunday, after heavy rains overnight prompted it to ⁠collapse, engulfing nearby ",
+      "paragraphs": [
+        "<p>Dump site in Conakry, which minister had just promised to move, collapsed after heavy rain in west African state</p><p>A ⁠landslide at a huge waste dump in Guinea’s capital has killed 30 people, the government said on Sunday, after heavy rains overnight prompted it to ⁠collapse, engulfing nearby tents and shacks.</p><p>The incident occurred less than a week after the government announced plans to close the ⁠site and relocate the waste because of the threat it posed, especially during the rainy season, which causes landslides and fatal flash ⁠floods each year in crowded, underdeveloped cities across parts of West Africa.</p> <a href=\"https://www.theguardian.com/world/2026/aug/23/landslide-waste-mound-conakry-guinea-kills-dozens\">Continue reading...</a>"
+      ],
+      "date": "2026-08-23",
       "real": true
     },
     {
@@ -434,22 +445,33 @@
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/world/2026/aug/17/ebola-outbreak-drc-democratic-republic-of-congo-deadliest-in-history",
-      "title": "Ebola outbreak in Democratic Republic of the Congo now deadliest in country’s history",
-      "summary": "<p>At least 2,325 people have died from the virus, according to official data, with outbreak on track to be biggest in history</p><p>The Ebola outbreak in the Democratic Republic of the Congo is now the deadliest in the country’s history, with at least 2,325 people dead, according to government data",
+      "link": "https://www.theguardian.com/us-news/2026/aug/23/donald-trump-lashes-out-after-us-canada-talks-devolve-into-trade-war",
+      "title": "‘No more!!!’: Trump lashes out after US-Canada talks devolve into trade war",
+      "summary": "<p>PM Mark Carney says ‘we got attacked’ as tariffs come into force on items from hockey sticks to tongue depressors</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/2026/aug/23/canada-us-collapsed-trade-talks-negotiation-breakdown-analysis\">The lesson from Canada’s collapsed trade talks w",
       "paragraphs": [
-        "<p>At least 2,325 people have died from the virus, according to official data, with outbreak on track to be biggest in history</p><p>The Ebola outbreak in the Democratic Republic of the Congo is now the deadliest in the country’s history, with at least 2,325 people dead, according to government data, surpassing the toll from the 2018-20 outbreak.</p><p>The DRC’s public health institute said confirmed cases had risen to 4,945, including 101 detected in the previous 24 hours.</p> <a href=\"https://www.theguardian.com/world/2026/aug/17/ebola-outbreak-drc-democratic-republic-of-congo-deadliest-in-history\">Continue reading...</a>"
+        "<p>PM Mark Carney says ‘we got attacked’ as tariffs come into force on items from hockey sticks to tongue depressors</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/2026/aug/23/canada-us-collapsed-trade-talks-negotiation-breakdown-analysis\">The lesson from Canada’s collapsed trade talks with the US: negotiation may be futile</a></p></li></ul><p>Donald Trump has hit back at Canada after a breakdown in negotiations <a href=\"https://www.theguardian.com/world/2026/aug/22/canada-tariffs-trump-trade-deal-talks-fail\">plunged the two countries into a trade war</a>.</p><p>In his first public comments since negotiations collapsed on Friday in Washington, the US president wrote on social media: “Canada wants the benefits of being a State, without being one!!!”</p> <a href=\"https://www.theguardian.com/us-news/2026/aug/23/donald-trump-lashes-out-after-us-canada-talks-devolve-into-trade-war\">Continue reading...</a>"
       ],
-      "date": "2026-08-17",
+      "date": "2026-08-23",
+      "real": true
+    },
+    {
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/2026/aug/23/canada-us-collapsed-trade-talks-negotiation-breakdown-analysis",
+      "title": "The lesson from Canada’s collapsed trade talks with the US: negotiation may be futile",
+      "summary": "<p>Breakdown shows Washington now prioritises its own interests over any semblance of shared economic ground</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/2026/aug/23/donald-trump-lashes-out-after-us-canada-talks-devolve-into-trade-war\">‘No more!!!’: Trump lashes out after US-Canada tal",
+      "paragraphs": [
+        "<p>Breakdown shows Washington now prioritises its own interests over any semblance of shared economic ground</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/2026/aug/23/donald-trump-lashes-out-after-us-canada-talks-devolve-into-trade-war\">‘No more!!!’: Trump lashes out after US-Canada talks devolve into trade war</a></p></li></ul><p>The calamitous collapse of trade negotiations between Canada and the United States is a warning to nations worldwide that pursuing any kind of dialogue with the current US administration is doomed at the outset, according to observers who say this recent episode indicates seeking a fair deal is futile.</p><p>Andrea Lawlor, an associate professor of political science at McMaster University in Ontario, said: “No matter the closeness of the historical relationship, the American administration has signalled that it now prioritises its interests above those of some sort of global economic coordination or harmony.</p> <a href=\"https://www.theguardian.com/us-news/2026/aug/23/canada-us-collapsed-trade-talks-negotiation-breakdown-analysis\">Continue reading...</a>"
+      ],
+      "date": "2026-08-23",
       "real": true
     },
     {
       "source": "The Guardian",
       "link": "https://www.theguardian.com/world/2026/aug/22/canada-tariffs-trump-trade-deal-talks-fail",
       "title": "Canada vows ‘dollar for dollar’ response as US puts 50% tariffs on some goods",
-      "summary": "<p>Collapse of trade talks could lead to job losses, but biggest impact on traditional allies is expected to be political </p><p>The trade row is the biggest rupture in recent relations between Washington and one of its closest allies and trading partners as Donald Trump’s bellicose foreign policy a",
+      "summary": "<p>Collapse of trade talks could lead to job losses, but biggest impact on traditional allies is expected to be political </p><p>The US has imposed 50% tariffs on some goods from Canada, and Mark Carney, the country’s prime minister, has vowed to match them “dollar for dollar” after the collapse of ",
       "paragraphs": [
-        "<p>Collapse of trade talks could lead to job losses, but biggest impact on traditional allies is expected to be political </p><p>The trade row is the biggest rupture in recent relations between Washington and one of its closest allies and trading partners as Donald Trump’s bellicose foreign policy angered officials in Ottawa.</p><p>The two sides appeared close to a deal on Friday to lower tariffs on steel, aluminium and cars, but the deal was scuttled at the last minute. The two sides blamed each other for the collapse.</p> <a href=\"https://www.theguardian.com/world/2026/aug/22/canada-tariffs-trump-trade-deal-talks-fail\">Continue reading...</a>"
+        "<p>Collapse of trade talks could lead to job losses, but biggest impact on traditional allies is expected to be political </p><p>The US has imposed 50% tariffs on some goods from Canada, and Mark Carney, the country’s prime minister, has vowed to match them “dollar for dollar” after the collapse of trade talks.</p><p>The tariffs came into force on roughly $20bn (£14.6bn) of goods – ranging from hockey sticks to tongue depressors – at 04.00GMT. Trade experts said the tariffs could result in some job losses, but the largest impact is expected to be political, driving a further wedge between the traditional allies.</p> <a href=\"https://www.theguardian.com/world/2026/aug/22/canada-tariffs-trump-trade-deal-talks-fail\">Continue reading...</a>"
       ],
       "date": "2026-08-22",
       "real": true
@@ -474,28 +496,6 @@
         "<p>With plentiful jobs and community support, one Mexico City neighbourhood has become a haven for those who have lived much of their lives in the US</p><p>With its wide avenues lined with tall palm trees, its quaint cafes and old-school cantinas, as well as the mix of English and Spanish spoken on the street, the Tabacalera neighborhood in downtown Mexico City has a certain US feel – so much so that it is has become known <a href=\"https://www.wsj.com/video/in-little-la-us-deportees-adjust-to-life-in-mexico/77540AB5-7EC5-421E-8E79-C5CF52FF7F50\">as Little LA</a>.</p><p>The nickname is about more than appearances, however. In recent years, this corner of the metropolis has become a haven for many Mexicans deported from the US, particularly those who spent years or decades living across the border and for whom Mexico feels like a foreign country. In Little LA, they have found a more familiar place to belong.</p> <a href=\"https://www.theguardian.com/world/2026/aug/21/mexico-city-little-la-us-deportees\">Continue reading...</a>"
       ],
       "date": "2026-08-21",
-      "real": true
-    },
-    {
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/world/2026/aug/19/fernando-cerimedo-adviser-far-right-latin-american-leaders-arrested-allegedly-plotting-kill-girlfriend",
-      "title": "Adviser to far-right Latin American leaders arrested for allegedly plotting to kill girlfriend",
-      "summary": "<p>Fernando Cerimedo, 42, arrested on suspicion of ordering shooting of Bolivian lawyer Nadia Beller</p><p>A senior adviser to many of Latin America’s new wave of far-right leaders has been arrested for allegedly masterminding the attempted murder of his girlfriend.</p><p>The businessman and politic",
-      "paragraphs": [
-        "<p>Fernando Cerimedo, 42, arrested on suspicion of ordering shooting of Bolivian lawyer Nadia Beller</p><p>A senior adviser to many of Latin America’s new wave of far-right leaders has been arrested for allegedly masterminding the attempted murder of his girlfriend.</p><p>The businessman and political consultant Fernando Cerimedo, 42, had been working as an adviser to the Bolivian president, Rodrigo Paz Pereira, and was one of the main strategists behind Javier Milei’s campaign in Argentina’s 2023 presidential election.</p> <a href=\"https://www.theguardian.com/world/2026/aug/19/fernando-cerimedo-adviser-far-right-latin-american-leaders-arrested-allegedly-plotting-kill-girlfriend\">Continue reading...</a>"
-      ],
-      "date": "2026-08-19",
-      "real": true
-    },
-    {
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/world/2026/aug/19/activist-forced-out-of-us-after-criticising-trump-aligned-colombian-politician",
-      "title": "Activist forced out of US after criticising Trump-aligned Colombian politician",
-      "summary": "<p>Beto Coral held up banners in Florida warning fellow Colombians to not vote for Abelardo de la Espriella</p><p>In the week before Colombia’s presidential election, Beto Coral, a well-known activist living in the United States, travelled to Florida to persuade fellow Colombians not to vote for the",
-      "paragraphs": [
-        "<p>Beto Coral held up banners in Florida warning fellow Colombians to not vote for Abelardo de la Espriella</p><p>In the week before Colombia’s presidential election, Beto Coral, a well-known activist living in the United States, travelled to Florida to persuade fellow Colombians not to vote for the far-right candidate Abelardo de la Espriella.</p><p>Coral held banners outside polling stations in Miami warning that the millionaire lawyer, whose candidacy was <a href=\"https://www.theguardian.com/world/2026/jun/21/far-right-millionaire-abelardo-de-la-espriella-wins-colombia-presidential-runoff\">endorsed</a> by Donald Trump, would “help deport all of you”.</p> <a href=\"https://www.theguardian.com/world/2026/aug/19/activist-forced-out-of-us-after-criticising-trump-aligned-colombian-politician\">Continue reading...</a>"
-      ],
-      "date": "2026-08-19",
       "real": true
     },
     {
@@ -555,112 +555,112 @@
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/australia-news/2026/aug/22/victoria-labor-free-dental-care-ben-carroll-election-promise",
-      "title": "Victorian Labor promises free dental care if re-elected in Australia-first move",
-      "summary": "<p>Premier Ben Carroll says $230m would be earmarked for 10 public dental clinics to operate on a walk-in basis</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https:",
+      "link": "https://www.theguardian.com/australia-news/live/2026/aug/24/australia-news-live-shark-attack-leah-stewart-housing-rents-first-home-cost-of-living-antisemitism-royal-commission-icac-politics-economy-sydney-melbourne-ntwnfb",
+      "title": "Australia news live: shark attack victim thanks donors after ‘incredibly difficult’ recovery; second fur seal dies of suspected bird flu",
+      "summary": "<p>Leah Stewart lost her arm in a great white shark attack at Sydney’s Coogee beach. Follow today’s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://",
       "paragraphs": [
-        "<p>Premier Ben Carroll says $230m would be earmarked for 10 public dental clinics to operate on a walk-in basis</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Victorians would be able to walk into a dental clinic and receive free checkups and treatment under an Australian-first proposal the Labor government will take to the November state election.</p><p>The premier, Ben Carroll, will announce the plan – Labor’s first major election commitment – at a rally on Saturday to mark fewer than 100 days until Victorians go to the polls.</p> <a href=\"https://www.theguardian.com/australia-news/2026/aug/22/victoria-labor-free-dental-care-ben-carroll-election-promise\">Continue reading...</a>"
+        "<p>Leah Stewart lost her arm in a great white shark attack at Sydney’s Coogee beach. Follow today’s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>Thousands of little penguins being vaccinated against H5 bird flu in Victoria – video</strong></p><p><strong>Leah Stewart</strong>, the woman who was bitten by a shark at Sydney’s Coogee beach in June, issued an update on GoFundMe yesterday, thanking the community for its support during her recovery.</p><p>After what has been an incredibly difficult few months, I’m so happy that I’ve progressed enough to build some independence, and I can finally see some light after all of this.</p><p>I’m sorry we’ve been quiet on the GoFundMe recently, we’ve just been focused on my healing, and I’ve been actively trying to do everything in my power to get back to some sort of normal life. I still have a long way to go, but my recovery has been remarkable, and a huge part of that is because of the absolute army of love, support, prayers and encouragement surrounding my family and I from all over the world.</p><p>As I get better, I know I’ll make something of this second chance and aim to give back even more in generosity, care, and love. I will forever be grateful for everything, and everyone, I’ve been given.</p><p>You’ve inspired me to get better, not bitter.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/aug/24/australia-news-live-shark-attack-leah-stewart-housing-rents-first-home-cost-of-living-antisemitism-royal-commission-icac-politics-economy-sydney-melbourne-ntwnfb\">Continue reading...</a>"
       ],
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "real": true
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/australia-news/2026/aug/22/sorrow-as-community-pays-tribute-to-shining-light-lily-hooper-after-nsw-hiking-tragedy",
-      "title": "Sorrow as community pays tribute to ‘shining light’ Lily Hooper after NSW hiking tragedy",
-      "summary": "<p>The 18-year-old remembered as a talented athlete with an infectious smile and ‘one of those people who everyone simply liked’</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> o",
+      "link": "https://www.theguardian.com/games/2026/aug/24/michael-myers-halloween-video-game-banned-in-australia-drugs",
+      "title": "The new Halloween video game has been banned in Australia – and not because of the violence",
+      "summary": "<p>Academics and a former classification board director say Halloween: The Game’s ban due to ‘incentivised drug use’ highlights an incoherent set of standards</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adju",
       "paragraphs": [
-        "<p>The 18-year-old remembered as a talented athlete with an infectious smile and ‘one of those people who everyone simply liked’</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Tributes have flowed for 18-year-old Lily Hooper, remembered as an adventurous, multitalented athlete with an infectious smile, <a href=\"https://www.theguardian.com/australia-news/2026/aug/20/lily-hooper-missing-hiker-found-dead-nsw-national-park\">after her body was found</a> on Thursday afternoon, eight days after she disappeared while hiking in the New South Wales southern highlands.</p><p>The teenager was a fixture across local sporting and community groups in the Wollondilly region, training in martial arts, alongside her job as a Sydney BridgeClimb guide.</p> <a href=\"https://www.theguardian.com/australia-news/2026/aug/22/sorrow-as-community-pays-tribute-to-shining-light-lily-hooper-after-nsw-hiking-tragedy\">Continue reading...</a>"
+        "<p>Academics and a former classification board director say Halloween: The Game’s ban due to ‘incentivised drug use’ highlights an incoherent set of standards</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Halloween’s Michael Myers is one of film’s most feared boogeymen, responsible for some of the most brutal on-screen deaths in horror cinema. US video game developer Illfonic looked to reproduce those terrors in its upcoming title Halloween: The Game, with gruesome killings a major focus of the gameplay: for instance, you can stomp another player’s head through a toilet seat, or fry their brain by throwing them through a television screen.</p><p>But Australians will not be able to play Halloween: The Game, because it has been refused classification by the Classification Board, which means it is banned from sale within the country. And it’s not because of the violence or murders.</p> <a href=\"https://www.theguardian.com/games/2026/aug/24/michael-myers-halloween-video-game-banned-in-australia-drugs\">Continue reading...</a>"
       ],
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "real": true
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/australia-news/2026/aug/22/coles-website-down-after-viral-reddit-post-sees-customers-buy-cases-of-alcoholic-drinks-at-nearly-80-discount",
-      "title": "Coles website down after viral Reddit post sees customers buy cases of alcoholic drinks at nearly 80% discount",
-      "summary": "<p>Supermarket’s website and app go offline as customers save more than $100 on some 24-packs</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.",
+      "link": "https://www.theguardian.com/environment/2026/aug/24/australias-marine-parks-protect-places-no-one-goes-rather-than-fragile-coastal-zones-scientists-say",
+      "title": "Australia’s marine parks protect ‘places no one goes’ rather than fragile coastal zones, scientists say",
+      "summary": "<p>Hundreds of experts write to environment minister calling for stronger protections for ‘unique and distinct’ marine ecosystems</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/aug/24/australia-news-live-shark-attack-leah-stewart-housing-rents-first-home-cost-of-living-a",
       "paragraphs": [
-        "<p>Supermarket’s website and app go offline as customers save more than $100 on some 24-packs</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The Coles website and app have gone offline hours after a viral Reddit post highlighted a nearly 80% discount on 24-packs of premixed alcoholic drinks.</p><p>For several hours on Saturday, both the Coles website and app displayed a message advising “we’re currently offline – but not for long”. The website and app came back online, before the website went down again during the afternoon. It was back up at about 4pm AEST.</p> <a href=\"https://www.theguardian.com/australia-news/2026/aug/22/coles-website-down-after-viral-reddit-post-sees-customers-buy-cases-of-alcoholic-drinks-at-nearly-80-discount\">Continue reading...</a>"
+        "<p>Hundreds of experts write to environment minister calling for stronger protections for ‘unique and distinct’ marine ecosystems</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/aug/24/australia-news-live-shark-attack-leah-stewart-housing-rents-first-home-cost-of-living-antisemitism-royal-commission-icac-politics-economy-sydney-melbourne-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The Australian government has been accused of leaving coastal waters largely unprotected by establishing the bulk of highly protected marine parks in remote areas.</p><p>More than 270 leading marine scientists from 84 research institutes have written to the environment minister, Murray Watt, urging stronger protections for marine ecosystems, as a <a href=\"https://australianmarineparks.gov.au/management/consultations-reviews/review-2018-management-plans/consultation-open-help-shape-future-australian-marine-parks/\">once-in-a-decade</a> review of marine parks gets under way.</p> <a href=\"https://www.theguardian.com/environment/2026/aug/24/australias-marine-parks-protect-places-no-one-goes-rather-than-fragile-coastal-zones-scientists-say\">Continue reading...</a>"
       ],
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "real": true
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/world/2026/aug/21/uk-australia-canada-criticise-israel-gaza-aid-convoy-killings-decision",
-      "title": "‘Shameful’: UK, Australia and Canada criticise Israel over Gaza aid convoy killings decision",
-      "summary": "<p>Joint statement issued after IDF said it will not pursue criminal investigations into April 2024 strike that killed seven humanitarian workers</p><p>Britain, Australia and Canada have called the decision of the Israeli military authorities not to open a criminal investigation into the <a href=\"ht",
+      "link": "https://www.theguardian.com/australia-news/2026/aug/24/first-home-buyers-property-investors-mortgage-loan",
+      "title": "Australia’s first home buyers are still taking out loans as property investors step back, data shows",
+      "summary": "<p><strong>Exclusive:</strong> New entrants the only cohort making more loan applications amid interest rate rises and tax changes, mortgage broker says</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/aug/24/australia-news-live-shark-attack-leah-stewart-housing-rents-firs",
       "paragraphs": [
-        "<p>Joint statement issued after IDF said it will not pursue criminal investigations into April 2024 strike that killed seven humanitarian workers</p><p>Britain, Australia and Canada have called the decision of the Israeli military authorities not to open a criminal investigation into the <a href=\"https://www.theguardian.com/world/2024/apr/02/gaza-aid-convoy-strike-what-happened-and-who-were-the-victims\">April 2024 airstrikes</a> that hit a convoy of aid vehicles in Gaza “shameful”. The strikes killed seven humanitarian workers from the US-based World Central Kitchen (WCK) organisation.</p><p>WCK staff from the three countries were among the casualties of the attack, which prompted global outrage.</p> <a href=\"https://www.theguardian.com/world/2026/aug/21/uk-australia-canada-criticise-israel-gaza-aid-convoy-killings-decision\">Continue reading...</a>"
+        "<p><strong>Exclusive:</strong> New entrants the only cohort making more loan applications amid interest rate rises and tax changes, mortgage broker says</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/aug/24/australia-news-live-shark-attack-leah-stewart-housing-rents-first-home-cost-of-living-antisemitism-royal-commission-icac-politics-economy-sydney-melbourne-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>First home buyers are still taking out a large number of loans, with government backing, even as investors step back from Australia’s property market.</p><p>New entrants are now the only cohort applying for more loans than they were in June, according to new data from Loan Market, the mortgage broking company.</p> <a href=\"https://www.theguardian.com/australia-news/2026/aug/24/first-home-buyers-property-investors-mortgage-loan\">Continue reading...</a>"
       ],
-      "date": "2026-08-21",
+      "date": "2026-08-23",
       "real": true
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/australia-news/2026/aug/22/appeal-nsw-supreme-court-ruling-desmond-fagan-israel-antisemitism-ntwnfb",
-      "title": "NSW ‘seeking urgent advice’ on controversial court ruling that found anti-Israel vandalism was not antisemitic",
-      "summary": "<p><strong>Exclusive: </strong>Attorney general considering appeal after justice Desmond Fagan knocks back terror order request for Mohommed Farhat who wrote ‘Fuk Israel’ on cars</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a hr",
+      "link": "https://www.theguardian.com/australia-news/2026/aug/24/gambling-sport-logos-jerseys-pocock-labor",
+      "title": "‘Absurd’: children to see gambling logos on sports jerseys until 2032 in transition period condemned by Pocock",
+      "summary": "<p>Government says it hopes clubs will end jersey deals with wagering companies earlier, but calls it a commercial decision</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/aug/24/australia-news-live-shark-attack-leah-stewart-housing-rents-first-home-cost-of-living-antisem",
       "paragraphs": [
-        "<p><strong>Exclusive: </strong>Attorney general considering appeal after justice Desmond Fagan knocks back terror order request for Mohommed Farhat who wrote ‘Fuk Israel’ on cars</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The New South Wales government could appeal a supreme court judge’s controversial decision to refuse its request for a terror order over a Sydney man convicted of writing “Fuk Israel” on cars and setting another vehicle alight in late 2024.</p><p>Justice Desmond Fagan this week found disparaging Israel was “political comment” not antisemitism. He rejected the state’s application that Mohommed Farhat be subjected to a one-year extended supervision order under the Terrorism Act when released from prison.</p> <a href=\"https://www.theguardian.com/australia-news/2026/aug/22/appeal-nsw-supreme-court-ruling-desmond-fagan-israel-antisemitism-ntwnfb\">Continue reading...</a>"
+        "<p>Government says it hopes clubs will end jersey deals with wagering companies earlier, but calls it a commercial decision</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/aug/24/australia-news-live-shark-attack-leah-stewart-housing-rents-first-home-cost-of-living-antisemitism-royal-commission-icac-politics-economy-sydney-melbourne-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Children across Australia will continue to see gambling logos on professional sport jerseys until up to 2032 despite <a href=\"https://www.theguardian.com/australia-news/2026/aug/17/labor-pledges-opt-out-register-for-online-gambling-ads-australia\">the government’s pledge</a> to break the link between sport and wagering.</p><p>The Albanese government has banned gambling company logos on jerseys but legislated a five-year transition period to allow clubs and bookmakers to adjust.</p> <a href=\"https://www.theguardian.com/australia-news/2026/aug/24/gambling-sport-logos-jerseys-pocock-labor\">Continue reading...</a>"
       ],
-      "date": "2026-08-21",
+      "date": "2026-08-23",
+      "real": true
+    },
+    {
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/aug/23/russia-withdraws-ambassador-uk-kremlin-pressure-ukraine-andrey-kelin",
+      "title": "Russia withdraws ambassador to UK as Kremlin raises pressure over Ukraine support",
+      "summary": "<p>Embassy in London says Andrey Kelin left last month after seven years in diplomatic post</p><p>Russia has withdrawn its ambassador to the UK, it has emerged, as the Kremlin continues to try to put pressure on Britain over its support for Ukraine.</p><p>Andrey Kelin left last month after seven yea",
+      "paragraphs": [
+        "<p>Embassy in London says Andrey Kelin left last month after seven years in diplomatic post</p><p>Russia has withdrawn its ambassador to the UK, it has emerged, as the Kremlin continues to try to put pressure on Britain over its support for Ukraine.</p><p>Andrey Kelin left last month after seven years in the diplomatic post, according to the Russian embassy in London.</p> <a href=\"https://www.theguardian.com/world/2026/aug/23/russia-withdraws-ambassador-uk-kremlin-pressure-ukraine-andrey-kelin\">Continue reading...</a>"
+      ],
+      "date": "2026-08-23",
+      "real": true
+    },
+    {
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/aug/23/ukraine-election-wartime-risk-russia-zelenskyy",
+      "title": "Holding election in wartime would risk destroying Ukraine, says Zelenskyy",
+      "summary": "<p>President sharply criticises proposal, saying ‘elections right now are a tsunami for the state that will split Ukraine’</p><p>Volodymyr Zelenskyy has said holding elections in Ukraine during wartime would risk splitting the country at a time when Russia is amassing ballistic missiles and consider",
+      "paragraphs": [
+        "<p>President sharply criticises proposal, saying ‘elections right now are a tsunami for the state that will split Ukraine’</p><p>Volodymyr Zelenskyy has said holding elections in Ukraine during wartime would risk splitting the country at a time when Russia is amassing ballistic missiles and considering whether to mobilise an extra 300,000 soldiers.</p><p>The Ukrainian president, responding for the first time to <a href=\"https://www.theguardian.com/world/2026/aug/18/ukraines-dismissed-defence-minister-calls-for-wartime-presidential-election\">a demand made by</a> the sacked former defence minister Mykhailo Fedorov, sharply criticised an idea that he said was impractical given Russia appeared to have no interest in a ceasefire.</p> <a href=\"https://www.theguardian.com/world/2026/aug/23/ukraine-election-wartime-risk-russia-zelenskyy\">Continue reading...</a>"
+      ],
+      "date": "2026-08-23",
+      "real": true
+    },
+    {
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/aug/23/french-fires-150-years-in-the-making-visual-guide",
+      "title": "Pine-cone grenades and planet-baking carbon: the French fires 170 years in the making – a visual guide",
+      "summary": "<p>An 1857 decree to drain swamps and plant a monoculture, detritus from the trees and global heating combined to produce the conditions for the Gironde inferno</p><p>The ruinous fires that overran parts of France this summer have burned more land than ever recorded, forced more people from their ho",
+      "paragraphs": [
+        "<p>An 1857 decree to drain swamps and plant a monoculture, detritus from the trees and global heating combined to produce the conditions for the Gironde inferno</p><p>The ruinous fires that overran parts of France this summer have burned more land than ever recorded, forced more people from their homes than at any point since the second world war and caused what scientists suspect is the country’s first firestorm thundercloud. The smoke from France’s biggest inferno in nearly 80 years choked Limoges, a city 125 miles (200km) from the flames, with more toxic dust than Delhi residents inhaled on the city’s worst day of smog last year.</p><p>The blaze that tore through forests outside <a href=\"https://www.theguardian.com/world/2026/aug/01/wildfire-france-firefighters-battling-france-megafire\">Bordeaux</a> in late July took just a few weeks to reforge France’s relationship with fire, but the conditions behind it were centuries in the making.</p> <a href=\"https://www.theguardian.com/world/2026/aug/23/french-fires-150-years-in-the-making-visual-guide\">Continue reading...</a>"
+      ],
+      "date": "2026-08-23",
+      "real": true
+    },
+    {
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/aug/23/ordinary-woman-margarita-reutt-accused-assassinating-russian-commander-crimea",
+      "title": "The ‘ordinary’ woman accused of assassinating a Russian commander in Crimea",
+      "summary": "<p>Friends close to Margarita Reutt are shocked she could allegedly plant bomb that killed Ukrainian defector Robert Shageev, while others recall a stubborn grit to see any plan through</p><p>It was just after dawn in Sevastopol when a powerful explosion tore through a quiet square in a residential ",
+      "paragraphs": [
+        "<p>Friends close to Margarita Reutt are shocked she could allegedly plant bomb that killed Ukrainian defector Robert Shageev, while others recall a stubborn grit to see any plan through</p><p>It was just after dawn in Sevastopol when a powerful explosion tore through a quiet square in a residential district of the Russian-occupied Crimean port city.</p><p>Hidden inside a rubbish bin, a bomb containing the equivalent of about 500g of TNT detonated on 13 August as Robert Shageev, the deputy commander of a Russian Black Sea fleet submarine brigade, walked past in naval uniform. He was killed on the spot.</p> <a href=\"https://www.theguardian.com/world/2026/aug/23/ordinary-woman-margarita-reutt-accused-assassinating-russian-commander-crimea\">Continue reading...</a>"
+      ],
+      "date": "2026-08-23",
       "real": true
     },
     {
       "source": "The Guardian",
       "link": "https://www.theguardian.com/world/2026/aug/22/seventeen-year-old-girl-killed-in-sword-attack-at-school-in-sweden",
       "title": "Seventeen-year-old girl killed in sword attack at school in Sweden",
-      "summary": "<p>Three other people wounded after 18-year-old man wielding sword assail students in Fagersta school</p><p>A 17-year-old girl has been killed after a teenager brandishing a sword attacked students at a school in Sweden, police have confirmed.</p><p>Three other people were wounded in the incident du",
+      "summary": "<p>Three other people wounded after 18-year-old man wielding sword assailed students in Fagersta school</p><p>A 17-year-old girl has been killed after a teenager brandishing a sword attacked students at a school in Sweden, police have confirmed.</p><p>Three other people were wounded in the incident ",
       "paragraphs": [
-        "<p>Three other people wounded after 18-year-old man wielding sword assail students in Fagersta school</p><p>A 17-year-old girl has been killed after a teenager brandishing a sword attacked students at a school in Sweden, police have confirmed.</p><p>Three other people were wounded in the incident during classes in the central town of Fagersta on Friday afternoon, including two boys aged 12 and 17 who sustained minor injuries.</p> <a href=\"https://www.theguardian.com/world/2026/aug/22/seventeen-year-old-girl-killed-in-sword-attack-at-school-in-sweden\">Continue reading...</a>"
+        "<p>Three other people wounded after 18-year-old man wielding sword assailed students in Fagersta school</p><p>A 17-year-old girl has been killed after a teenager brandishing a sword attacked students at a school in Sweden, police have confirmed.</p><p>Three other people were wounded in the incident during classes in the central town of Fagersta on Friday afternoon, including two boys aged 12 and 17 who sustained minor injuries.</p> <a href=\"https://www.theguardian.com/world/2026/aug/22/seventeen-year-old-girl-killed-in-sword-attack-at-school-in-sweden\">Continue reading...</a>"
       ],
       "date": "2026-08-22",
-      "real": true
-    },
-    {
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/film/2026/aug/22/elisabeth-lost-novel-by-french-film-maker-eric-rohmer-is-republished",
-      "title": "‘Embryonic’: lost novel by French film-maker Éric Rohmer is republished",
-      "summary": "<p>English translation of Élisabeth, the New Wave director’s 1946 book about young lovers in prewar Paris, receives rave reviews as precursor to auteur’s cinematic work</p><p>In the dog days of the second world war, 24-year-old Maurice Schérer wrote a tale of young lovers in prewar small-town France",
-      "paragraphs": [
-        "<p>English translation of Élisabeth, the New Wave director’s 1946 book about young lovers in prewar Paris, receives rave reviews as precursor to auteur’s cinematic work</p><p>In the dog days of the second world war, 24-year-old Maurice Schérer wrote a tale of young lovers in prewar small-town France. He described lazy August swims in the Marne River east of Paris. He wrote about age-gap affairs and semi-incestuous flirtations. Schérer gallantly used a nom de plume, Gilbert Cordier, to shield his Catholic family from scandal, but he needn’t have bothered as his concerns were unfounded. The finished novel, Élisabeth, barely made a ripple and quickly slipped out of print. Undeterred, Scherer adopted a second pseudonym – Éric Rohmer – and decided to try his luck as a film-maker instead.</p><p>Now – eight decades on from its first publication, 16 years on from <a href=\"https://www.theguardian.com/film/filmblog/2010/jan/11/eric-rohmer-film-peter-bradshaw\">its author’s death</a> – Élisabeth belatedly returns from the cold. Republished in an English-language translation by Aaron Kerner, Rohmer’s book has been greeted with glowing reviews, hailed as a lost modernist classic and a crucial origin story for the award-winning director of Claire’s Knee, The Green Ray and My Night at Maud’s. “It would be a rewarding, exciting read even if the identity of its author were unfamiliar,” wrote Richard Brody in the New Yorker. The fact that it’s by Rohmer? That’s the icing on the cake.</p> <a href=\"https://www.theguardian.com/film/2026/aug/22/elisabeth-lost-novel-by-french-film-maker-eric-rohmer-is-republished\">Continue reading...</a>"
-      ],
-      "date": "2026-08-22",
-      "real": true
-    },
-    {
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/world/2026/aug/22/uk-france-diplomats-israel-palestine",
-      "title": "Former British and French diplomats urge action over Israel’s ‘erasure’ of Palestine",
-      "summary": "<p>In letter to Macron and Burnham, more than 100 senior figures accuse Israel of ethnic cleansing and call for measures including trade ban</p><p>More than 100 French and British former diplomats have said Palestine is being erased in front of the world’s eyes and called for urgent action including",
-      "paragraphs": [
-        "<p>In letter to Macron and Burnham, more than 100 senior figures accuse Israel of ethnic cleansing and call for measures including trade ban</p><p>More than 100 French and British former diplomats have said Palestine is being erased in front of the world’s eyes and called for urgent action including trade and arms sales bans to press Israel to accept a Palestinian state.</p><p><a href=\"https://www.lemonde.fr/en/opinion/article/2026/08/22/france-and-the-uk-should-act-together-to-uphold-international-law-in-palestine-an-open-letter-by-former-french-and-british-ambassadors_6756756_23.html\">An unprecedented joint letter</a> dispenses with diplomatic language by accusing Israel of ethnic cleansing and warning that the world no longer sees Israel as a genuine democracy.</p><p>Uphold the decisions of the international court of justice and the international criminal court.</p><p>Suspend the EU-Israel association agreement and the UK-Israel trade and partnership agreement for breach of human rights provisions.</p><p>Suspend arms transfers to and from Israel and all bilateral military cooperation.</p><p>Insist on unrestricted aid access to Gaza, led by the UN Relief and Works Agency, other UN agencies and international NGOs, with consequences for non-compliance, and access too for journalists, diplomats and parliamentarians.</p><p>Ban all trade with settlements, including goods, investment, insurance and other financial services.</p><p>Warn potential bidders for the “red line” E1 settlement or other settlement financing/construction that their interests in and with the UK and France will suffer.</p><p>Make it an offence for British and French citizens to buy property on stolen Palestinian land and remove charitable status from “charities” funding settlements.</p> <a href=\"https://www.theguardian.com/world/2026/aug/22/uk-france-diplomats-israel-palestine\">Continue reading...</a>"
-      ],
-      "date": "2026-08-22",
-      "real": true
-    },
-    {
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/world/2026/aug/22/ukraine-shopping-centre-attack-deaths-russia-terror-by-design-kaja-kallas-kryvyi-rih",
-      "title": "Attack on Ukraine shopping centre that killed 16 is ‘terror by design’, says EU foreign policy chief",
-      "summary": "<p>Kaja Kallas, the EU’s top diplomat, threatens harshest sanctions yet on Russia after strike on Kryvyi Rih, the home town of Volodymyr Zelenskyy </p><p>Russian drones have slammed into a busy shopping centre in central Ukraine, killing 16 people in an attack that Volodymyr Zelenskyy condemned as “",
-      "paragraphs": [
-        "<p>Kaja Kallas, the EU’s top diplomat, threatens harshest sanctions yet on Russia after strike on Kryvyi Rih, the home town of Volodymyr Zelenskyy </p><p>Russian drones have slammed into a busy shopping centre in central Ukraine, killing 16 people in an attack that Volodymyr Zelenskyy condemned as “cynical and despicable”.</p><p>The EU’s foreign policy chief, Kaja Kallas, condemned Friday’s attack on Kryvyi Rih – the president’s home town – as “terror by design” and said she was “putting forward the most far-reaching Russia sanctions listings since the start of the war” when ministers meet in Ireland next month.</p> <a href=\"https://www.theguardian.com/world/2026/aug/22/ukraine-shopping-centre-attack-deaths-russia-terror-by-design-kaja-kallas-kryvyi-rih\">Continue reading...</a>"
-      ],
-      "date": "2026-08-22",
-      "real": true
-    },
-    {
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/technology/2026/aug/21/netherlands-fines-uber-automated-driver-suspensions",
-      "title": "Dutch regulator fines Uber $966m for automating driver suspensions",
-      "summary": "<p>European regulators have imposed billions in penalties on US technology companies due to privacy, competition and digital market rules</p><p>The Dutch data protection authority has fined ⁠Uber €825m ($966m) for deactivating driver ⁠accounts through automated systems without ​adequately informing ",
-      "paragraphs": [
-        "<p>European regulators have imposed billions in penalties on US technology companies due to privacy, competition and digital market rules</p><p>The Dutch data protection authority has fined ⁠Uber €825m ($966m) for deactivating driver ⁠accounts through automated systems without ​adequately informing them, according to a 17 August decision.</p><p>The penalty would be the second-largest issued yet under Europe’s General Data Protection Regulation (GDPR).</p> <a href=\"https://www.theguardian.com/technology/2026/aug/21/netherlands-fines-uber-automated-driver-suspensions\">Continue reading...</a>"
-      ],
-      "date": "2026-08-21",
       "real": true
     }
   ]
