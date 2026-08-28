@@ -1,121 +1,332 @@
 {
-  "updated": "2026-08-27T04:06:17Z",
+  "updated": "2026-08-28T06:23:43Z",
   "count": 60,
   "articles": [
     {
       "source": "NPR",
-      "link": "https://www.npr.org/2026/08/26/1102916697/yayoi-kusama-high-priestess-of-polka-dots-has-died",
-      "title": "Yayoi Kusama, high priestess of polka dots, has died",
-      "summary": "The Japanese artist has died at age 97. Kusama's polka dotted pumpkins, \"Infinity Rooms,\" and other repetitive and dreamlike artworks have been shown in museums and galleries worldwide.",
+      "link": "https://www.npr.org/2026/08/28/g-s1-140849/us-south-korea-japan-drill-north-korea",
+      "title": "U.S., South Korea and Japan to hold drill as North Korea ramps up pressure on U.S.",
+      "summary": "The announcement that the three countries will go ahead with a trilateral military drill comes a day after North Korea vowed to retaliate against what it called U.S. hostilities.",
       "paragraphs": [
-        "The Japanese artist has died at age 97. Kusama's polka dotted pumpkins, \"Infinity Rooms,\" and other repetitive and dreamlike artworks have been shown in museums and galleries worldwide."
+        "The announcement that the three countries will go ahead with a trilateral military drill comes a day after North Korea vowed to retaliate against what it called U.S. hostilities.",
+        "(Image credit: South Korea Defense Ministry via)"
       ],
-      "date": "2026-08-26",
+      "date": "2026-08-28",
       "real": true
     },
     {
       "source": "NPR",
-      "link": "https://www.npr.org/2026/08/26/nx-s1-5940761/medicare-weight-loss-drugs",
-      "title": "Drugstores say Medicare's $50 obesity drug program is catching on",
-      "summary": "The Bridge program, which began July 1, makes some Medicare beneficiaries eligible for obesity drugs for $50 a month. CVS and Walgreens say they've each already filled 100,000 such prescriptions.",
+      "link": "https://www.npr.org/2026/08/28/nx-s1-5947761/judge-pentagon-anthropic-illegal",
+      "title": "Judge says Pentagon's measures against Anthropic were 'illegal and baseless'",
+      "summary": "A judge issued a written order Thursday night that the Pentagon acted illegally by punishing the AI company for its criticism of the Department of Defense's views on AI use. The government is expected to fight the ruling.",
       "paragraphs": [
-        "The Bridge program, which began July 1, makes some Medicare beneficiaries eligible for obesity drugs for $50 a month. CVS and Walgreens say they've each already filled 100,000 such prescriptions."
+        "A judge issued a written order Thursday night that the Pentagon acted illegally by punishing the AI company for its criticism of the Department of Defense's views on AI use. The government is expected to fight the ruling."
       ],
-      "date": "2026-08-26",
+      "date": "2026-08-28",
       "real": true
     },
     {
       "source": "NPR",
-      "link": "https://www.npr.org/2026/08/26/nx-s1-5945127/immigration-arrests-record",
-      "title": "Immigration arrests soar, hitting 50,000 in July",
-      "summary": "Since taking over in March, DHS Secretary Markwayne Mullin has pivoted from the confrontational style of immigration enforcement of his predecessor, Kristi Noem. The latest data is reflective of a strategy that is working",
+      "link": "https://www.npr.org/2026/08/27/nx-s1-5946703/the-role-of-climate-change-in-the-nepal-floods",
+      "title": "The role of climate change in the Nepal floods",
+      "summary": "The deadly flash floods in Nepal are not a surprise to many scientists. Glacial melt is accelerating because of climate change, putting millions of people at risk.",
       "paragraphs": [
-        "Since taking over in March, DHS Secretary Markwayne Mullin has pivoted from the confrontational style of immigration enforcement of his predecessor, Kristi Noem. The latest data is reflective of a strategy that is working"
+        "The deadly flash floods in Nepal are not a surprise to many scientists. Glacial melt is accelerating because of climate change, putting millions of people at risk."
       ],
-      "date": "2026-08-26",
+      "date": "2026-08-27",
       "real": true
     },
     {
       "source": "NPR",
-      "link": "https://www.npr.org/2026/08/26/g-s1-138982/karbala-iraq-arbaeen-shia-muslims",
-      "title": "Greetings from Karbala, Iraq, where millions gathered for a Shia pilgrimage",
-      "summary": "Pilgrims came to Iraq from all over the world in August. Many Iraqi and Iranian pilgrims walked hundreds of miles in extreme heat to mark the event. Outside the shrines, the atmosphere is almost festive.",
+      "link": "https://www.npr.org/2026/08/27/nx-s1-5946443/helicopter-pilot-describes-what-hes-seen-rescuing-people-in-nepal",
+      "title": "Helicopter pilot describes what he's seen rescuing people in Nepal",
+      "summary": "Andy Thapa is a charter and rescue pilot for a Nepali helicopter company. He's been rescuing people stranded by the catastrophic flooding, and carrying them to safety.",
       "paragraphs": [
-        "Pilgrims came to Iraq from all over the world in August. Many Iraqi and Iranian pilgrims walked hundreds of miles in extreme heat to mark the event. Outside the shrines, the atmosphere is almost festive."
+        "Andy Thapa is a charter and rescue pilot for a Nepali helicopter company. He's been rescuing people stranded by the catastrophic flooding, and carrying them to safety."
       ],
-      "date": "2026-08-26",
+      "date": "2026-08-27",
       "real": true
     },
     {
       "source": "NPR",
-      "link": "https://www.npr.org/2026/08/26/nx-s1-5939965/medical-price-hospital-healthcare-indiana",
-      "title": "States try new tactics to bring down high hospital prices",
-      "summary": "Indiana is the latest state to experiment with limiting what hospitals can charge, to try to get a handle on high health costs.",
+      "link": "https://www.npr.org/2026/08/27/g-s1-140583/trump-lake-ontario-america",
+      "title": "Trump directs federal government to rename Lake Ontario to Lake America",
+      "summary": "President Trump signed an executive order on Thursday directing the federal government to rename Lake Ontario amid an escalating trade dispute with Canada .",
       "paragraphs": [
-        "Indiana is the latest state to experiment with limiting what hospitals can charge, to try to get a handle on high health costs."
+        "President Trump signed an executive order on Thursday directing the federal government to rename Lake Ontario amid an escalating trade dispute with Canada ."
       ],
-      "date": "2026-08-26",
+      "date": "2026-08-27",
       "real": true
     },
     {
       "source": "NPR",
-      "link": "https://www.npr.org/2026/08/26/nx-s1-5945260/trump-mail-in-voting-ballots",
-      "title": "Judge clears the way for Postal Service work on Trump's mail-in voting order for now",
-      "summary": "A federal judge in Boston canceled a nationwide ruling that blocked U.S. Postal Service work on President Trump's order to limit mail-in voting for the midterm election. But a new block may come soon.",
+      "link": "https://www.npr.org/2026/08/27/nx-s1-5945044/federal-reserve-kevin-warsh-jackson-hole-wyoming-bond-markets",
+      "title": "The stakes are high as Kevin Warsh is set to give his first major speech as Fed Chair",
+      "summary": "The stakes are high as Fed Chair Kevin Warsh prepares to give a speech on Friday at the annual gathering of economists and central bankers in Jackson Hole, Wyoming.",
       "paragraphs": [
-        "A federal judge in Boston canceled a nationwide ruling that blocked U.S. Postal Service work on President Trump's order to limit mail-in voting for the midterm election. But a new block may come soon."
+        "The stakes are high as Fed Chair Kevin Warsh prepares to give a speech on Friday at the annual gathering of economists and central bankers in Jackson Hole, Wyoming."
       ],
-      "date": "2026-08-26",
+      "date": "2026-08-27",
       "real": true
     },
     {
       "source": "NPR",
-      "link": "https://www.npr.org/2026/08/26/nx-s1-5944265/ground-beef-trump-tariffs",
-      "title": "Will Trump's latest beef plan make your hamburger cheaper? Not much, experts say",
-      "summary": "The proposal comes weeks before the midterm elections, when food prices and the cost of living are expected to be major issues on voters' minds.",
+      "link": "https://www.npr.org/2026/08/27/nx-s1-5946375/ratko-mladic-dead",
+      "title": "Ratko Mladic, ex-Bosnian Serb warlord who oversaw atrocities, has died at 84",
+      "summary": "Ratko Mladic was one of the most notorious figures of a war that killed over 100,000 people in the 1990s. He commanded his troops to \"scorch the brains\" of the Bosnian Muslims and boasted of being a \"Serbian God.\"",
       "paragraphs": [
-        "The proposal comes weeks before the midterm elections, when food prices and the cost of living are expected to be major issues on voters' minds."
+        "Ratko Mladic was one of the most notorious figures of a war that killed over 100,000 people in the 1990s. He commanded his troops to \"scorch the brains\" of the Bosnian Muslims and boasted of being a \"Serbian God.\""
       ],
-      "date": "2026-08-26",
+      "date": "2026-08-27",
       "real": true
     },
     {
       "source": "NPR",
-      "link": "https://www.npr.org/2026/08/26/nx-s1-5944468/dolly-parton-legacy-songwriting",
-      "title": "How Dolly Parton wrote the story of a changing America",
-      "summary": "Parton, who died at 80 on Tuesday, had charm, depth, beauty, wit and radiant goodness. She was also a songwriter whose work told the story not just of country music but of the country itself.",
+      "link": "https://www.npr.org/2026/08/27/nx-s1-5944328/the-real-cause-of-most-wildfires-people",
+      "title": "The real cause of most wildfires? People",
+      "summary": "More than three quarters of all wildfires in the U.S. are caused by human behavior including accidents, negligence and arson.",
       "paragraphs": [
-        "Parton, who died at 80 on Tuesday, had charm, depth, beauty, wit and radiant goodness. She was also a songwriter whose work told the story not just of country music but of the country itself."
+        "More than three quarters of all wildfires in the U.S. are caused by human behavior including accidents, negligence and arson."
       ],
-      "date": "2026-08-26",
+      "date": "2026-08-27",
       "real": true
     },
     {
       "source": "NPR",
-      "link": "https://www.npr.org/2026/08/26/nx-s1-5944781/meta-settlement-child-safety-lawsuit",
-      "title": "Meta, states agree to $17 billion settlement in child safety trial",
-      "summary": "The social media giant also agreed to make sweeping changes to Instagram and Facebook.",
+      "link": "https://www.npr.org/2026/08/27/g-s1-140414/up-first-newsletter-meta-settlement-mail-in-voting-nrc-regulations-nepal-tibet-flooding",
+      "title": "Meta reaches $17B settlement. And, nuclear regulator to abandon radiation safety rule",
+      "summary": "Meta and the states that sued the company have agreed to a $17 billion settlement. And, nuclear regulators are preparing to abandon a decades-old radiation safety rule.",
       "paragraphs": [
-        "The social media giant also agreed to make sweeping changes to Instagram and Facebook."
+        "Meta and the states that sued the company have agreed to a $17 billion settlement. And, nuclear regulators are preparing to abandon a decades-old radiation safety rule.",
+        "(Image credit: Imen Ben Youssef / Hans Lucas)"
       ],
-      "date": "2026-08-26",
+      "date": "2026-08-27",
       "real": true
     },
     {
       "source": "NPR",
-      "link": "https://www.npr.org/2026/08/26/g-s1-140211/nepal-china-floods",
-      "title": "At least 98 killed and hundreds missing after flash floods in Nepal and China",
-      "summary": "The disaster is linked to climate change, with experts noting the region's vulnerability to extreme weather.",
+      "link": "https://www.npr.org/2026/08/27/g-s1-139914/milk-rwanda-milk-bar",
+      "title": "Rwandans love their milk bars. The health minister wishes they'd drink a little less",
+      "summary": "A big glass of moo juice — no, make that several glasses a day — is common in Rwanda. Is that too much of a good thing?",
       "paragraphs": [
-        "The disaster is linked to climate change, with experts noting the region's vulnerability to extreme weather."
+        "A big glass of moo juice — no, make that several glasses a day — is common in Rwanda. Is that too much of a good thing?"
       ],
-      "date": "2026-08-26",
+      "date": "2026-08-27",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/8/27/qatars-prime-minister-to-visit-tehran-seeking-to-revive-us-iran-talks?traffic_source=rss",
-      "title": "Qatar’s prime minister to visit Tehran, seeking to revive US-Iran talks",
+      "link": "https://www.aljazeera.com/news/2026/8/28/death-toll-from-nepal-tibet-flood-passes-470-as-barrier-lake-threatens?traffic_source=rss",
+      "title": "Death toll from Nepal-Tibet flood passes 470 as barrier lake threatens",
+      "summary": "",
+      "paragraphs": [
+        ""
+      ],
+      "date": "2026-08-28",
+      "real": true
+    },
+    {
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/28/record-drought-grips-europe-as-rivers-and-crops-dry-up?traffic_source=rss",
+      "title": "Record drought grips Europe as rivers and crops dry up",
+      "summary": "",
+      "paragraphs": [
+        ""
+      ],
+      "date": "2026-08-28",
+      "real": true
+    },
+    {
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/8/28/six-months-of-war-between-iran-us-leave-arab-states-facing-tough-questions?traffic_source=rss",
+      "title": "Six months of war between Iran, US leave Arab states facing tough questions",
+      "summary": "",
+      "paragraphs": [
+        ""
+      ],
+      "date": "2026-08-28",
+      "real": true
+    },
+    {
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/28/algeria-residents-mourn-neighbours-lost-in-wildfire-aftermath?traffic_source=rss",
+      "title": "Algeria residents mourn neighbours lost in wildfire aftermath",
+      "summary": "",
+      "paragraphs": [
+        ""
+      ],
+      "date": "2026-08-28",
+      "real": true
+    },
+    {
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/8/28/drc-begins-vaccinating-front-line-healthcare-workers-against-ebola?traffic_source=rss",
+      "title": "DRC begins vaccinating front-line healthcare workers against Ebola",
+      "summary": "",
+      "paragraphs": [
+        ""
+      ],
+      "date": "2026-08-28",
+      "real": true
+    },
+    {
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/28/nepals-mudslide-wiped-out-areas-of-eastern-china-army-helps-search?traffic_source=rss",
+      "title": "Nepal’s mudslide wiped out areas of eastern China, army helps search",
+      "summary": "",
+      "paragraphs": [
+        ""
+      ],
+      "date": "2026-08-28",
+      "real": true
+    },
+    {
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/8/28/indonesians-march-on-parliament-to-demand-crackdown-on-corruption?traffic_source=rss",
+      "title": "Indonesians march on parliament to demand crackdown on corruption",
+      "summary": "",
+      "paragraphs": [
+        ""
+      ],
+      "date": "2026-08-28",
+      "real": true
+    },
+    {
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/28/congo-launches-ebola-vaccination-drive-to-tackle-deadly-outbreak?traffic_source=rss",
+      "title": "Congo launches Ebola vaccination drive to tackle deadly outbreak",
+      "summary": "",
+      "paragraphs": [
+        ""
+      ],
+      "date": "2026-08-28",
+      "real": true
+    },
+    {
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/8/28/us-nears-deal-to-secure-stake-in-venezuelan-oil-fields-insiders-say?traffic_source=rss",
+      "title": "US nears deal to secure stake in Venezuelan oil fields, insiders say",
+      "summary": "",
+      "paragraphs": [
+        ""
+      ],
+      "date": "2026-08-28",
+      "real": true
+    },
+    {
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/8/28/fired-stars-and-stripes-journalists-sue-trump-administration-for-censorship?traffic_source=rss",
+      "title": "Fired Stars and Stripes journalists sue Trump administration for censorship",
+      "summary": "",
+      "paragraphs": [
+        ""
+      ],
+      "date": "2026-08-28",
+      "real": true
+    },
+    {
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/28/anti-migrant-protesters-burn-tents-in-ceuta-and-block-red-cross-aid?traffic_source=rss",
+      "title": "Anti-migrant protesters burn tents in Ceuta and block Red Cross aid",
+      "summary": "",
+      "paragraphs": [
+        ""
+      ],
+      "date": "2026-08-28",
+      "real": true
+    },
+    {
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/8/28/federal-us-judge-faces-complaint-over-staunch-pro-israel-advocacy?traffic_source=rss",
+      "title": "Federal US judge faces complaint over staunch pro-Israel advocacy",
+      "summary": "",
+      "paragraphs": [
+        ""
+      ],
+      "date": "2026-08-28",
+      "real": true
+    },
+    {
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/8/28/chad-accuses-sudan-of-deadly-air-strike-near-shared-border?traffic_source=rss",
+      "title": "Chad accuses Sudan of air strike near shared border that killed 12",
+      "summary": "",
+      "paragraphs": [
+        ""
+      ],
+      "date": "2026-08-28",
+      "real": true
+    },
+    {
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/28/fmr-us-diplomat-netanyahu-sees-political-value-in-turkiye-as-enemy?traffic_source=rss",
+      "title": "Fmr US Diplomat: Netanyahu sees ‘political value’ in Turkiye as enemy",
+      "summary": "",
+      "paragraphs": [
+        ""
+      ],
+      "date": "2026-08-28",
+      "real": true
+    },
+    {
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/economy/2026/8/28/iran-says-it-will-name-its-terms-for-reopening-strait-of-hormuz?traffic_source=rss",
+      "title": "Iran says it will name its terms for reopening Strait of Hormuz",
+      "summary": "",
+      "paragraphs": [
+        ""
+      ],
+      "date": "2026-08-28",
+      "real": true
+    },
+    {
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/8/28/malaysia-to-return-1500-rohingya-refugees-next-month-despite-safety-fears?traffic_source=rss",
+      "title": "Malaysia to return 1,500 Rohingya refugees next month, despite safety fears",
+      "summary": "",
+      "paragraphs": [
+        ""
+      ],
+      "date": "2026-08-28",
+      "real": true
+    },
+    {
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/8/28/new-israeli-roadblocks-entrench-siege-of-homes-in-west-banks-qusra?traffic_source=rss",
+      "title": "New Israeli roadblocks entrench siege of homes in West Bank’s Qusra",
+      "summary": "",
+      "paragraphs": [
+        ""
+      ],
+      "date": "2026-08-28",
+      "real": true
+    },
+    {
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/8/28/us-aid-cuts-threaten-ghanas-child-immunisation-gains?traffic_source=rss",
+      "title": "US aid cuts threaten Ghana’s child immunisation gains",
+      "summary": "",
+      "paragraphs": [
+        ""
+      ],
+      "date": "2026-08-28",
+      "real": true
+    },
+    {
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/8/28/iran-war-live-tehran-prepares-conditions-to-open-strait-of-hormuz?traffic_source=rss",
+      "title": "Iran war live: Tehran prepares conditions to open Strait of Hormuz",
+      "summary": "",
+      "paragraphs": [
+        ""
+      ],
+      "date": "2026-08-28",
+      "real": true
+    },
+    {
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/8/27/us-charges-81-in-puerto-rico-gang-case-as-trump-cartel-crackdown-continues?traffic_source=rss",
+      "title": "US charges 81 in Puerto Rico gang case, as Trump cartel crackdown continues",
       "summary": "",
       "paragraphs": [
         ""
@@ -125,8 +336,8 @@
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/27/palestinians-mourn-camel-of-hardship-artist-sliman-mansour?traffic_source=rss",
-      "title": "Palestinians mourn ‘Camel of Hardship’ artist Sliman Mansour",
+      "link": "https://www.aljazeera.com/news/2026/8/27/us-judge-questions-the-push-to-add-trumps-name-back-to-the-kennedy-center?traffic_source=rss",
+      "title": "US judge questions the push to add Trump’s name back to the Kennedy Center",
       "summary": "",
       "paragraphs": [
         ""
@@ -136,8 +347,8 @@
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/8/27/federal-reserve-governor-lisa-cook-denounces-trumps-mortgage-fraud-claims?traffic_source=rss",
-      "title": "Federal Reserve Governor Lisa Cook denounces Trump’s mortgage fraud claims",
+      "link": "https://www.aljazeera.com/news/2026/8/27/syrias-president-appoints-ex-commander-of-kurdish-led-sdf-as-advisor?traffic_source=rss",
+      "title": "Syria’s president appoints ex-commander of Kurdish-led SDF as advisor",
       "summary": "",
       "paragraphs": [
         ""
@@ -147,8 +358,8 @@
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/8/27/brazil-sues-chat-platform-discord-over-failure-to-protect-child-users?traffic_source=rss",
-      "title": "Brazil sues chat platform Discord over failure to protect child users",
+      "link": "https://www.aljazeera.com/news/2026/8/27/haiti-police-confront-public-frustration-after-deadly-gang-attack-kills-47?traffic_source=rss",
+      "title": "Haiti police confront public frustration after deadly gang attack kills 47",
       "summary": "",
       "paragraphs": [
         ""
@@ -158,8 +369,8 @@
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/27/us-labels-palestine-action-a-terror-group-founder-says-thats?traffic_source=rss",
-      "title": "US labels Palestine Action a terror group, founder says ‘that’s rich’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/27/bosnian-serb-general-ratko-mladic-has-died?traffic_source=rss",
+      "title": "Bosnian Serb General Ratko Mladic has died",
       "summary": "",
       "paragraphs": [
         ""
@@ -169,8 +380,8 @@
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/8/27/northern-nigerias-female-basketball-players-chase-bigger-dreams?traffic_source=rss",
-      "title": "Northern Nigeria’s female basketball players chase bigger dreams",
+      "link": "https://www.aljazeera.com/sports/2026/8/27/barcelona-scrap-spain-world-cup-tribute-amid-fans-catalan-flag-statement?traffic_source=rss",
+      "title": "Barcelona scraps Spain World Cup tribute amid fans’ Catalan flag support",
       "summary": "",
       "paragraphs": [
         ""
@@ -179,212 +390,25 @@
       "real": true
     },
     {
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/8/27/at-least-12-dead-54-injured-as-wildfires-ravage-northeastern-algeria?traffic_source=rss",
-      "title": "At least 12 dead, 54 injured as wildfires ravage northeastern Algeria",
-      "summary": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/technology/2026/aug/28/meta-facebook-us-lawsuit-settlement-world-impact",
+      "title": "What could Meta’s US settlement mean around the world – and what now for other claims against firm?",
+      "summary": "<p>Other governments could seek similar concessions, while separate legal action is pending in places ranging from Kenya to the Netherlands</p><p>In October 2021, Abrham Meareg’s father, a professor of chemistry in Ethiopia’s northern town of Bahir Dar, was shot at close range and died outside his f",
       "paragraphs": [
-        ""
+        "<p>Other governments could seek similar concessions, while separate legal action is pending in places ranging from Kenya to the Netherlands</p><p>In October 2021, Abrham Meareg’s father, a professor of chemistry in Ethiopia’s northern town of Bahir Dar, was shot at close range and died outside his family home. This was in the middle of the country’s civil war.</p><p>For weeks, Facebook’s algorithm had actively promoted posts calling for the academic to be murdered, according to Meareg and Foxglove, a nonprofit organisation supporting <a href=\"https://www.theguardian.com/technology/2025/apr/03/meta-faces-18bn-lawsuit-over-claims-it-inflamed-violence-in-ethiopia\">Meareg’s lawsuit against the company</a> in Kenya. These posts included photos of his father and his home address.</p> <a href=\"https://www.theguardian.com/technology/2026/aug/28/meta-facebook-us-lawsuit-settlement-world-impact\">Continue reading...</a>"
+      ],
+      "date": "2026-08-28",
+      "real": true
+    },
+    {
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/aug/27/uk-urged-to-help-free-british-egyptian-arrested-in-cairo-over-sisters-activism",
+      "title": "UK urged to help free British-Egyptian ‘arrested in Cairo over sister’s activism’",
+      "summary": "<p>Lawyers claim Eman el-Shazly, from Birmingham, was detained in effort to silence her sister, a critic of Sisi regime</p><p>The UK Foreign Office has been asked to intervene to secure the release of a British-Egyptian woman who it is claimed has been arrested in Cairo because of her sister’s polit",
+      "paragraphs": [
+        "<p>Lawyers claim Eman el-Shazly, from Birmingham, was detained in effort to silence her sister, a critic of Sisi regime</p><p>The UK Foreign Office has been asked to intervene to secure the release of a British-Egyptian woman who it is claimed has been arrested in Cairo because of her sister’s political activism.</p><p>Eman el-Shazly, a 45-year-old based in Birmingham, was arrested on 16 August while visiting Egypt. Her lawyers say she has been detained in an attempt to silence her sister Mona, a relentless and harsh critic of the Egyptian government on her UK-based YouTube channel.</p> <a href=\"https://www.theguardian.com/world/2026/aug/27/uk-urged-to-help-free-british-egyptian-arrested-in-cairo-over-sisters-activism\">Continue reading...</a>"
       ],
       "date": "2026-08-27",
-      "real": true
-    },
-    {
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/8/27/pro-israel-democrats-picked-for-top-roles-on-key-us-house-committee?traffic_source=rss",
-      "title": "Pro-Israel Democrats picked for top roles on key US House committee",
-      "summary": "",
-      "paragraphs": [
-        ""
-      ],
-      "date": "2026-08-27",
-      "real": true
-    },
-    {
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/27/is-mark-ruffalo-anti-semitic?traffic_source=rss",
-      "title": "Is Mark Ruffalo anti-Semitic?",
-      "summary": "",
-      "paragraphs": [
-        ""
-      ],
-      "date": "2026-08-27",
-      "real": true
-    },
-    {
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/27/construction-worker-documents-moment-he-survives-nepal-mudslide?traffic_source=rss",
-      "title": "Construction worker documents moment he survives Nepal mudslide",
-      "summary": "",
-      "paragraphs": [
-        ""
-      ],
-      "date": "2026-08-27",
-      "real": true
-    },
-    {
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/27/syrias-president-makes-first-visa-payment-after-sanctions-removal?traffic_source=rss",
-      "title": "Syria’s president makes first Visa payment after sanctions removal",
-      "summary": "",
-      "paragraphs": [
-        ""
-      ],
-      "date": "2026-08-27",
-      "real": true
-    },
-    {
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/8/27/tim-curry-star-of-the-rocky-horror-picture-show-dies-at-age-80?traffic_source=rss",
-      "title": "Tim Curry, star of The Rocky Horror Picture Show, dies at age 80",
-      "summary": "",
-      "paragraphs": [
-        ""
-      ],
-      "date": "2026-08-27",
-      "real": true
-    },
-    {
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/8/27/iran-war-live-trump-not-in-hurry-over-talks-tehran-defends-us-dialogue?traffic_source=rss",
-      "title": "Iran war live: Qatar PM to visit Tehran; Trump ‘not in a hurry’ over talks",
-      "summary": "",
-      "paragraphs": [
-        ""
-      ],
-      "date": "2026-08-27",
-      "real": true
-    },
-    {
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/8/26/world-health-organization-says-ebola-outbreak-in-uganda-is-over?traffic_source=rss",
-      "title": "World Health Organization says Ebola outbreak in Uganda is over",
-      "summary": "",
-      "paragraphs": [
-        ""
-      ],
-      "date": "2026-08-26",
-      "real": true
-    },
-    {
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/spains-tomato-food-fight-leaves-thousands-covered-in-pulp?traffic_source=rss",
-      "title": "Spain’s tomato food fight leaves thousands covered in pulp",
-      "summary": "",
-      "paragraphs": [
-        ""
-      ],
-      "date": "2026-08-26",
-      "real": true
-    },
-    {
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/sports/2026/8/26/barcelona-vs-athletic-club-la-liga-prediction-teams-lineups?traffic_source=rss",
-      "title": "Barcelona vs Athletic Club: La Liga – prediction, teams, lineups",
-      "summary": "",
-      "paragraphs": [
-        ""
-      ],
-      "date": "2026-08-26",
-      "real": true
-    },
-    {
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/8/26/us-judge-declines-minnesotas-effort-to-force-texas-to-extradite-ice-agent?traffic_source=rss",
-      "title": "US judge declines Minnesota’s effort to force Texas to extradite ICE agent",
-      "summary": "",
-      "paragraphs": [
-        ""
-      ],
-      "date": "2026-08-26",
-      "real": true
-    },
-    {
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/8/26/tribe-accuses-us-federal-agents-of-trespassing-on-indigenous-border-land?traffic_source=rss",
-      "title": "Tribe accuses US federal agents of ‘trespassing’ on indigenous border land",
-      "summary": "",
-      "paragraphs": [
-        ""
-      ],
-      "date": "2026-08-26",
-      "real": true
-    },
-    {
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/sports/2026/8/26/mbappe-hat-trick-fires-real-madrid-to-4-1-win-against-sociedad?traffic_source=rss",
-      "title": "Mbappe hat-trick fires Real Madrid to 4-1 win against Sociedad",
-      "summary": "",
-      "paragraphs": [
-        ""
-      ],
-      "date": "2026-08-26",
-      "real": true
-    },
-    {
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/meta-agrees-to-17b-settlement-in-landmark-child-safety-case?traffic_source=rss",
-      "title": "Meta agrees to $17B settlement in landmark child-safety case",
-      "summary": "",
-      "paragraphs": [
-        ""
-      ],
-      "date": "2026-08-26",
-      "real": true
-    },
-    {
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/video-survivors-recount-moment-flash-floods-hit-nepal?traffic_source=rss",
-      "title": "Video: Survivors recount moment flash floods hit Nepal",
-      "summary": "",
-      "paragraphs": [
-        ""
-      ],
-      "date": "2026-08-26",
-      "real": true
-    },
-    {
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/26-08-sv-unrwa-responds-to-aljazeera-fm?traffic_source=rss",
-      "title": "UNRWA chief: Israel seeks to eliminate agency and Palestinian refugee issue",
-      "summary": "",
-      "paragraphs": [
-        ""
-      ],
-      "date": "2026-08-26",
-      "real": true
-    },
-    {
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/palestinians-demand-return-of-1700-bodies-held-by-israel?traffic_source=rss",
-      "title": "Palestinians demand return of 1,700 bodies held by Israel",
-      "summary": "",
-      "paragraphs": [
-        ""
-      ],
-      "date": "2026-08-26",
-      "real": true
-    },
-    {
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/8/26/us-says-chinese-linked-hackers-attacked-nasa-senate-and-govt-agencies?traffic_source=rss",
-      "title": "US says Chinese-linked hackers attacked NASA, Senate, and gov’t agencies",
-      "summary": "",
-      "paragraphs": [
-        ""
-      ],
-      "date": "2026-08-26",
-      "real": true
-    },
-    {
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/8/26/nigeria-launches-hunt-for-hundreds-of-kidnapped-mosque-worshippers?traffic_source=rss",
-      "title": "Nigeria launches hunt for hundreds of kidnapped mosque worshippers",
-      "summary": "",
-      "paragraphs": [
-        ""
-      ],
-      "date": "2026-08-26",
       "real": true
     },
     {
@@ -422,24 +446,13 @@
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/uk-news/2026/aug/24/prince-harry-quits-board-wildlife-charity-african-parks-human-rights-abuses",
-      "title": "Prince Harry quits board of wildlife charity after rangers’ human rights abuses",
-      "summary": "<p>Spokesperson for Duke of Sussex says he remains an ‘active and avid supporter’ of African Parks’ mission</p><p>The Duke of Sussex has stepped down from the board of a major African wildlife charity that had been at the centre of a human rights controversy.</p><p>Prince Harry’s spokesperson confir",
+      "link": "https://www.theguardian.com/us-news/2026/aug/27/trump-renames-lake-ontario-america",
+      "title": "Trump signs executive order to rename Lake Ontario as Lake America",
+      "summary": "<p>Mark Carney rejects attempt to rename lake as did several US governors, with Tony Evers mocking the move</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/live/2026/aug/27/cia-moscow-nato-ratcliffe-rutte-colby-trump-paxton-voting-latest-news-updates\">US politics live – latest updates</a>",
       "paragraphs": [
-        "<p>Spokesperson for Duke of Sussex says he remains an ‘active and avid supporter’ of African Parks’ mission</p><p>The Duke of Sussex has stepped down from the board of a major African wildlife charity that had been at the centre of a human rights controversy.</p><p>Prince Harry’s spokesperson confirmed he was no longer a trustee of <a href=\"https://www.africanparks.org/\">African Parks</a>, which <a href=\"https://www.bbc.co.uk/news/articles/cq54dgv2p29o\">admitted last year </a>that human rights abuses were committed by its rangers in the Republic of the Congo.</p> <a href=\"https://www.theguardian.com/uk-news/2026/aug/24/prince-harry-quits-board-wildlife-charity-african-parks-human-rights-abuses\">Continue reading...</a>"
+        "<p>Mark Carney rejects attempt to rename lake as did several US governors, with Tony Evers mocking the move</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/live/2026/aug/27/cia-moscow-nato-ratcliffe-rutte-colby-trump-paxton-voting-latest-news-updates\">US politics live – latest updates</a></p></li></ul><p>Donald Trump signed an executive order on Thursday directing the federal government to rename Lake Ontario, making it Lake America, amid his escalating trade war with Canada.</p><p>The order directs federal agencies to adopt the name-change on US maps, documents and databases. But Trump has no authority to rename Canada’s portion of the lake, nor to compel Canada, international legal bodies, international mapmakers, or the rest of the world to adopt a new name.</p> <a href=\"https://www.theguardian.com/us-news/2026/aug/27/trump-renames-lake-ontario-america\">Continue reading...</a>"
       ],
-      "date": "2026-08-24",
-      "real": true
-    },
-    {
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/world/2026/aug/24/video-shows-hundreds-held-captive-after-nigeria-mosque-kidnapping",
-      "title": "Video shows hundreds held captive after Nigeria mosque kidnapping",
-      "summary": "<p>Gunmen ‌attacked worshippers in Dekara village on Friday taking women, children and older people</p><p>An armed group has posted a video showing what ⁠residents said were about ⁠600 women, children and ​older people abducted in an attack on a mosque in Nigeria’s north-central Niger State last wee",
-      "paragraphs": [
-        "<p>Gunmen ‌attacked worshippers in Dekara village on Friday taking women, children and older people</p><p>An armed group has posted a video showing what ⁠residents said were about ⁠600 women, children and ​older people abducted in an attack on a mosque in Nigeria’s north-central Niger State last week.</p><p>The video, posted on Facebook and WhatsApp, ⁠showed large groups of people seated in a forested area surrounded by armed men. Several children could be heard crying in the background.</p> <a href=\"https://www.theguardian.com/world/2026/aug/24/video-shows-hundreds-held-captive-after-nigeria-mosque-kidnapping\">Continue reading...</a>"
-      ],
-      "date": "2026-08-24",
+      "date": "2026-08-27",
       "real": true
     },
     {
@@ -488,178 +501,167 @@
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/us-news/2026/aug/25/first-thing-us-supreme-court-midterms-mail-in-voting-trump-plan",
-      "title": "Supreme court threatens midterms mail-in voting as it backs Trump plan | First Thing",
-      "summary": "<p>US president has been obsessed with restricting the ability to vote by mail, despite using it himself. Plus, why we are still fascinated with Meg from the White Stripes</p><ul><li><p><a href=\"https://www.theguardian.com/info/2018/sep/17/guardian-us-morning-briefing-sign-up-to-stay-informed\">Don’t",
+      "link": "https://www.theguardian.com/world/live/2026/aug/28/nepal-tibet-flash-floods-hundreds-dead-missing-day-three-live-updates",
+      "title": "Nepal-Tibet flash flood live updates: China halts rescue at epicentre over flood risk, state media reports; death toll at 469, say Nepali police",
+      "summary": "<p>Lake formed by debris is overflowing towards area rescuers were headed, broadcaster says; 1,300 people still missing amid race to find survivors</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/aug/28/flash-flood-risk-halt-rescue-tibet-nepal-death-toll-china-lake-burst\">Flood risk fo",
       "paragraphs": [
-        "<p>US president has been obsessed with restricting the ability to vote by mail, despite using it himself. Plus, why we are still fascinated with Meg from the White Stripes</p><ul><li><p><a href=\"https://www.theguardian.com/info/2018/sep/17/guardian-us-morning-briefing-sign-up-to-stay-informed\">Don’t already get First Thing in your inbox? Sign up here</a></p></li></ul><p>Good morning. The US supreme court has sided with Donald Trump in <a href=\"https://www.theguardian.com/us-news/2026/aug/24/supreme-court-trump-mail-in-voting\">his effort to crack down on mail-in voting</a>, though it is unclear whether or not his administration will be able to take action before the midterm elections in November. The court’s justices voted 6-3 along ideological lines to lift an injunction that a judge in Massachusetts had placed in June on an executive order issued by the president. But a second injunction remains in place, and the ruling leaves room for legal challenges.</p><p>Trump has repeatedly likened voting by mail to cheating, despite his own use of it and overwhelming evidence that the system is secure. In March he ordered the government to create a “state citizenship list” of eligible voters, requiring that mail-in ballots only be delivered to people on that list. He also directed the justice department to prioritise investigations and prosecutions of state and local election officials who issue ballots to people deemed ineligible to vote in federal elections.</p><p><strong>What did the dissenting judges say?</strong> In a blistering dissent, Justice Ketanji Brown Jackson wrote that the decision “needlessly injects chaos and uncertainty into the upcoming midterm elections”.</p><p><strong>How have rights organisations reacted?</strong> The president of the National Association for the Advancement of Colored People, Derrick Johnson, said: “Let this ruling be a reminder that democracy is never, ever guaranteed. We have to fight for it, we have to fight to keep it and we have to protect the rights we do have within it … they are trying to do everything they possibly can to make it difficult for you to vote.”</p><p><strong>How has Canada reacted?</strong> The country’s prime minister, Mark Carney, told reporters that Trump’s announcement was largely expected. “It’s not a surprise for us that the US would take some form of reprisal to our response to their unjustified tariff,” he said. Carney has vowed to match the American tariffs “dollar for dollar”, and said Canada could not accept any proposed trade deal <a href=\"https://www.theguardian.com/us-news/2026/aug/24/canada-trade-deal-trump-mark-carney-french-language\">that would weaken French language protections</a>.</p> <a href=\"https://www.theguardian.com/us-news/2026/aug/25/first-thing-us-supreme-court-midterms-mail-in-voting-trump-plan\">Continue reading...</a>"
+        "<p>Lake formed by debris is overflowing towards area rescuers were headed, broadcaster says; 1,300 people still missing amid race to find survivors</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/aug/28/flash-flood-risk-halt-rescue-tibet-nepal-death-toll-china-lake-burst\">Flood risk forces halt to rescues in Tibet, as Nepal death toll rises to 469</a></p></li><li><p><a href=\"https://www.theguardian.com/world/2026/aug/28/nepal-tibet-flash-flood-what-we-know-so-far-flooding-day-three\">Nepal-Tibet flash flood: what we know so far on day three</a></p></li><li><p><a href=\"https://www.theguardian.com/world/2026/aug/27/nepal-tibet-flash-flood-visual-guide-why-how-flooding-happened-floods-cause-reason-explained\">Visual guide: how the deadly flooding unfolded</a></p></li><li><p><a href=\"https://www.theguardian.com/world/2026/aug/26/tell-us-have-you-been-affected-by-the-flash-floods-on-the-nepal-tibet-border\">Tell us: have you been affected by the flash floods?</a></p></li></ul><p><strong>More now on the Nepali army’s <a href=\"https://www.theguardian.com/world/live/2026/aug/28/nepal-tibet-flash-floods-hundreds-dead-missing-day-three-live-updates?CMP=share_btn_url&amp;page=with%3Ablock-6a9107bf8f089f2cda798d55#block-6a9107bf8f089f2cda798d55\">rescue operation</a> to save about 100 people trapped in a tunnel at a hydropower project swamped by Wednesday’s flooding</strong>.</p><p>“Two helicopters have been dispatched but it is challenging because it is tough to even locate the entry points of the tunnel,” army spokesperson <strong>Raja Ram Basnet</strong> told AFP.</p><p>Relief efforts are also under way to provide the rescued people what they need.</p><p>The army is still working to safely evacuate more than 100 people trapped in the same tunnel.</p> <a href=\"https://www.theguardian.com/world/live/2026/aug/28/nepal-tibet-flash-floods-hundreds-dead-missing-day-three-live-updates\">Continue reading...</a>"
       ],
-      "date": "2026-08-25",
+      "date": "2026-08-28",
       "real": true
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/artanddesign/2026/aug/27/yayoi-kusama-dies-aged-97-artist-dead",
-      "title": "Yayoi Kusama, Japanese artist who became a global superstar, dies aged 97",
-      "summary": "<p>From the 1950s to the 2020s, Kusama produced vivid paintings, sculptures and vast installations that often drew on her experience of hallucinations</p><p>Yayoi Kusama, the Japanese outsider artist who reached superstar status after decades living in a psychiatric hospital, has died aged 97.</p><p",
+      "link": "https://www.theguardian.com/world/2026/aug/28/flash-flood-risk-halt-rescue-tibet-nepal-death-toll-china-lake-burst",
+      "title": "Flood risk forces halt to rescues in Tibet, as Nepal death toll rises to 469",
+      "summary": "<p>Lake has formed at epicentre of flood, forcing rescue teams to withdraw, Chinese state media report</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/aug/27/nepal-flash-flood-live-updates-tibet-border-death-toll-missing-himalayas-floods-flooding-latest-news#top-of-blog\"><strong>N",
       "paragraphs": [
-        "<p>From the 1950s to the 2020s, Kusama produced vivid paintings, sculptures and vast installations that often drew on her experience of hallucinations</p><p>Yayoi Kusama, the Japanese outsider artist who reached superstar status after decades living in a psychiatric hospital, has died aged 97.</p><p>Kusama died in a Tokyo hospital on 14 August, her studio announced <a href=\"https://yayoi-kusama.jp/en/news4518/\">in a statement on her website</a> on Thursday.</p> <a href=\"https://www.theguardian.com/artanddesign/2026/aug/27/yayoi-kusama-dies-aged-97-artist-dead\">Continue reading...</a>"
+        "<p>Lake has formed at epicentre of flood, forcing rescue teams to withdraw, Chinese state media report</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/aug/27/nepal-flash-flood-live-updates-tibet-border-death-toll-missing-himalayas-floods-flooding-latest-news#top-of-blog\"><strong>Nepal flash flood – latest updates</strong></a></p></li><li><p><a href=\"https://www.theguardian.com/world/2026/aug/27/what-caused-nepal-flash-flood-glacial-collapse-tibet-border\"><strong>Nearly 1,400 missing, mostly tourists, and hundreds killed</strong></a></p></li><li><p><a href=\"https://www.theguardian.com/world/2026/aug/27/nepal-tibet-flash-flood-visual-guide-why-how-flooding-happened-floods-cause-reason-explained\"><strong>Visual guide: how the deadly flooding unfolded</strong></a></p></li><li><p><a href=\"https://www.theguardian.com/world/2026/aug/26/tell-us-have-you-been-affected-by-the-flash-floods-on-the-nepal-tibet-border\"><strong>Tell us: have you been affected by the flash floods?</strong></a></p></li></ul><p>China has paused rescue work at the epicentre of the catastrophic flooding in Tibet this week amid fears that a lake ⁠formed at the ⁠site ⁠was ⁠at risk ​of ‌bursting, as the overall death toll in Nepal rose to 469 people, with more than 1,300 missing.</p><p>A lake formed by immense piles of debris has begun overflowing towards the area where rescue teams were headed, state broadcaster CCTV reported on Friday.</p> <a href=\"https://www.theguardian.com/world/2026/aug/28/flash-flood-risk-halt-rescue-tibet-nepal-death-toll-china-lake-burst\">Continue reading...</a>"
+      ],
+      "date": "2026-08-28",
+      "real": true
+    },
+    {
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/aug/28/never-tidy-paramedics-shoes-japan-custom-etiquette",
+      "title": "Please don’t rearrange our shoes when we turn up, paramedics in Japan urge",
+      "summary": "<p>It is polite to reposition a guest’s shoes when they arrive, but the emergency services in one city advise just skipping that part</p><p>Etiquette, manners and consideration for others are integral pillars of Japanese society but there are times when they might go a step too far, according to one",
+      "paragraphs": [
+        "<p>It is polite to reposition a guest’s shoes when they arrive, but the emergency services in one city advise just skipping that part</p><p>Etiquette, manners and consideration for others are integral pillars of Japanese society but there are times when they might go a step too far, according to one city’s emergency services.</p><p>The fire department in the central city of Kanazawa has urged people not to tidy up the shoes that paramedic crews have taken off when entering a house, warning it could hinder their ability to get in or out quickly, particularly when carrying someone on a stretcher.</p> <a href=\"https://www.theguardian.com/world/2026/aug/28/never-tidy-paramedics-shoes-japan-custom-etiquette\">Continue reading...</a>"
+      ],
+      "date": "2026-08-28",
+      "real": true
+    },
+    {
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/aug/28/south-korea-missing-persons-police-scandal-bodies-jeju",
+      "title": "South Korea to re-examine 310,000 missing person cases after fake record scandal",
+      "summary": "<p>Renewed scrutiny comes after police officer accused of falsifying records in order to close the cases of people who were later found dead</p><p>South Korean police will re-examine about 310,000 missing persons cases closed over the past three years, prompted by a scandal in which an officer was a",
+      "paragraphs": [
+        "<p>Renewed scrutiny comes after police officer accused of falsifying records in order to close the cases of people who were later found dead</p><p>South Korean police will re-examine about 310,000 missing persons cases closed over the past three years, prompted by a scandal in which an officer was arrested on suspicion of falsifying records to close files on two people who were later found dead.</p><p>The case has drawn national attention, with President Lee Jae Myung <a href=\"https://www.koreaherald.com/article/10851414\">ordering an investigation</a> into the police handling of it and telling the force to draw up a reform plan.</p> <a href=\"https://www.theguardian.com/world/2026/aug/28/south-korea-missing-persons-police-scandal-bodies-jeju\">Continue reading...</a>"
+      ],
+      "date": "2026-08-28",
+      "real": true
+    },
+    {
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/2026/aug/27/uss-abraham-lincoln-thailand-visit",
+      "title": "USS Abraham Lincoln to visit port in Thailand after more than 250 days at sea",
+      "summary": "<p>Thai navy says ‘routine’ visit’ will allow personnel to rest and recuperate amid reports of poor conditions onboard</p><p>The USS Abraham Lincoln aircraft carrier is set to make a temporary stop in <a href=\"https://www.theguardian.com/world/thailand\">Thailand</a> next week as it heads back to the",
+      "paragraphs": [
+        "<p>Thai navy says ‘routine’ visit’ will allow personnel to rest and recuperate amid reports of poor conditions onboard</p><p>The USS Abraham Lincoln aircraft carrier is set to make a temporary stop in <a href=\"https://www.theguardian.com/world/thailand\">Thailand</a> next week as it heads back to the United States, Thai navy officials said, after spending <a href=\"https://www.theguardian.com/us-news/2026/aug/12/uss-abraham-lincoln-overboard-extended-deployment\">more than 250</a> consecutive days at sea supporting <a href=\"https://www.theguardian.com/world/us-israel-war-on-iran\">US operations</a> against <a href=\"https://www.theguardian.com/world/iran\">Iran</a> amid recent <a href=\"https://www.theguardian.com/us-news/2026/aug/12/uss-abraham-lincoln-overboard-extended-deployment\">reports</a> of poor living conditions and low morale onboard the vessel.</p><p>The Lincoln left the Middle East several days ago after being relieved by the <a href=\"https://www.theguardian.com/us-news/2026/aug/20/uss-lincoln-washington-sailors-military\">USS George Washington</a>, and is now heading <a href=\"https://www.nytimes.com/2026/08/20/us/politics/uss-abraham-lincoln-iran.html\">home</a> to San Diego. A Thai navy official told <a href=\"https://www.reuters.com/world/asia-pacific/uss-abraham-lincoln-dock-thailand-next-week-thai-official-says-2026-08-25/\">Reuters</a> this week that the carrier was expected to make a brief port visit in Thailand next week for the crew to rest and recuperate before continuing their journey home.</p> <a href=\"https://www.theguardian.com/us-news/2026/aug/27/uss-abraham-lincoln-thailand-visit\">Continue reading...</a>"
       ],
       "date": "2026-08-27",
       "real": true
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/world/2026/aug/26/missing-british-citizens-flash-flood-nepal",
-      "title": "Girl, 13, among missing British citizens after flash flood in Nepal",
-      "summary": "<p>More than 400 travellers are said to be missing after flood on Tibet border, including 33 Britons</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/aug/27/nepal-flash-flood-live-updates-tibet-border-death-toll-missing-himalayas-floods-flooding-latest-news\">Flash floods on Nepal-T",
+      "link": "https://www.theguardian.com/australia-news/live/2026/aug/28/nepal-floods-australians-missing-penny-wong-anthony-albanese-angus-taylor-liberal-party-pauline-hanson-one-nation-ntwnfb",
+      "title": "Australia news live: Hanson tells star One Nation candidate to stop speaking Japanese",
+      "summary": "<p>Follow today’s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podc",
       "paragraphs": [
-        "<p>More than 400 travellers are said to be missing after flood on Tibet border, including 33 Britons</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/aug/27/nepal-flash-flood-live-updates-tibet-border-death-toll-missing-himalayas-floods-flooding-latest-news\">Flash floods on Nepal-Tibet border – latest updates</a></p></li></ul><p>Thirty-three British citizens including a 13-year-old girl are among more than 400 travellers missing after a flash flood on the Nepal-Tibet border, according to Nepal’s tourism board.</p><p>The sudden flood happened on the Tibetan side of the Bhote Koshi River at about 8.30am local time on Wednesday. The 33 UK citizens are among at least 341 foreign nationals unaccounted for.</p> <a href=\"https://www.theguardian.com/world/2026/aug/26/missing-british-citizens-flash-flood-nepal\">Continue reading...</a>"
+        "<p>Follow today’s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>Greens say Australia needs to ‘step up and really commit’ to aiding rebuilding in Nepal</strong></p><p><strong>David Shoebridge, </strong>the Greens’ spokesperson on foreign affairs, told RN Breakfast earlier the Australian commitment of $5m for affected communities in Nepal “won’t come close to touching the sides” of the calamity.</p><p>I think Australia needs to step up and really commit to helping rebuild. This is a country with minimal spare resources. Life is tough in Nepal at most times, but I don’t think $5 million comes close to meeting the scale. …</p><p>We also have an obligation to do what we can to meet our targets for carbon and to keep coal and gas in the ground. These things are connected, as much as we don’t want them to be. These things are connected, and unless we address that, these kinds of disasters will continue to happen at a more rapid scale.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/aug/28/nepal-floods-australians-missing-penny-wong-anthony-albanese-angus-taylor-liberal-party-pauline-hanson-one-nation-ntwnfb\">Continue reading...</a>"
       ],
-      "date": "2026-08-26",
+      "date": "2026-08-28",
       "real": true
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/world/2026/aug/26/major-casualties-feared-after-flash-floods-along-nepal-tibet-border",
-      "title": "Flash floods on Nepal-Tibet border leave scores dead and hundreds missing",
-      "summary": "<p>At least 157 people dead and hundreds of tourists among missing after roads, bridges and power plants swept away</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/aug/27/nepal-flash-flood-live-updates-tibet-border-death-toll-missing-himalayas-floods-flooding-latest-news\">Nepal-Ti",
+      "link": "https://www.theguardian.com/australia-news/2026/aug/28/icac-hears-charles-perrottet-plotted-downfall-nsw-liberal-minister-david-elliott-ntwnfb",
+      "title": "‘We execute the prick’: Charles Perrottet plotted political downfall of NSW Liberal minister, Icac hears",
+      "summary": "<p>Brother of former state premier sent message regarding plan to damage political career of then-police minister David Elliott</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/aug/28/nepal-floods-australians-missing-penny-wong-anthony-albanese-angus-taylor-liberal-party-p",
       "paragraphs": [
-        "<p>At least 157 people dead and hundreds of tourists among missing after roads, bridges and power plants swept away</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/aug/27/nepal-flash-flood-live-updates-tibet-border-death-toll-missing-himalayas-floods-flooding-latest-news\">Nepal-Tibet flash floods – live updates</a></p></li></ul><p>At least 157 people have been killed and hundreds, including large numbers of foreign tourists, are missing after flash floods ⁠hit the Himalayan border areas of ⁠Nepal and Tibet in China, police have said, with parts of India also at risk.</p><p>The disaster was caused by a torrent of mud, water and debris that burst from the banks of a river that runs between China and Nepal. Homes, roads, bridges and power plants were swept away in Nepal, ⁠while officials in Tibet said they feared “major casualties”.</p> <a href=\"https://www.theguardian.com/world/2026/aug/26/major-casualties-feared-after-flash-floods-along-nepal-tibet-border\">Continue reading...</a>"
+        "<p>Brother of former state premier sent message regarding plan to damage political career of then-police minister David Elliott</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/aug/28/nepal-floods-australians-missing-penny-wong-anthony-albanese-angus-taylor-liberal-party-pauline-hanson-one-nation-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Charles Perrottet wrote about a plan to damage a Liberal minister’s career following his brother’s accession to the New South Wales premiership in October 2021, stating “we execute the prick once party room is over”, a corruption inquiry has heard.</p><p>Anita Perrottet told the Independent Commission Against Corruption (Icac) on Friday she could not recall the meaning of messages exchanged between herself and husband Charles Perrottet in the days before Dominic Perrottet was elected premier by Liberal MPs following the resignation of Gladys Berejiklian.</p> <a href=\"https://www.theguardian.com/australia-news/2026/aug/28/icac-hears-charles-perrottet-plotted-downfall-nsw-liberal-minister-david-elliott-ntwnfb\">Continue reading...</a>"
       ],
-      "date": "2026-08-26",
+      "date": "2026-08-28",
       "real": true
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/world/2026/aug/26/typhoon-narra-floods-evacuations-china",
-      "title": "Typhoon Narra: record flood waters submerge homes and force mass evacuations in China",
-      "summary": "<p>Heavy rain expected in parts of Vietnam and southern ‌China, as another storm system, Typhoon Saudel, heads for Japan and Taiwan</p><p>Widespread flooding triggered by Typhoon Narra has submerged homes and forced mass evacuations in southern China, as another storm system tracked towards Japan an",
+      "link": "https://www.theguardian.com/environment/2026/aug/28/dolphin-dies-from-h5-bird-flu-in-sa-as-researchers-withdrawn-from-sub-antarctic-island-over-psychosocial-risk",
+      "title": "Dolphin dies from H5 bird flu in SA as researchers withdrawn from sub-Antarctic island over ‘psychosocial risk’",
+      "summary": "<p>Australian government announces 24 expeditioners based at research station on Macquarie Island will be evacuated over possible ‘prolonged psychological stress’</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.",
       "paragraphs": [
-        "<p>Heavy rain expected in parts of Vietnam and southern ‌China, as another storm system, Typhoon Saudel, heads for Japan and Taiwan</p><p>Widespread flooding triggered by Typhoon Narra has submerged homes and forced mass evacuations in southern China, as another storm system tracked towards Japan and Taiwan.</p><p>Authorities in Chongzuo, in China’s Guangxi region – famous for its giant waterfalls and karst limestone mountains – on Tuesday evacuated more than 15,000 people after water ⁠levels surpassed a record high set in 2008.</p> <a href=\"https://www.theguardian.com/world/2026/aug/26/typhoon-narra-floods-evacuations-china\">Continue reading...</a>"
+        "<p>Australian government announces 24 expeditioners based at research station on Macquarie Island will be evacuated over possible ‘prolonged psychological stress’</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>A dolphin has died from H5 bird flu in South Australia, marking the second native mammal species known to have contracted the virus.</p><p>It comes as the federal government announced it would withdraw researchers from the sub-Antarctic Macquarie Island research station due to the “psychosocial risk” of witnessing potential mass seal deaths from H5N1 during the upcoming seal breeding season.</p> <a href=\"https://www.theguardian.com/environment/2026/aug/28/dolphin-dies-from-h5-bird-flu-in-sa-as-researchers-withdrawn-from-sub-antarctic-island-over-psychosocial-risk\">Continue reading...</a>"
       ],
-      "date": "2026-08-26",
+      "date": "2026-08-28",
       "real": true
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/technology/2026/aug/25/taiwan-china-ai-smugglers",
-      "title": "Taiwan charges nine people for smuggling ‘high-end’ AI servers to China",
-      "summary": "<p>Among those charged are two Super Micro employees and one from Nvidia, marking another flashpoint in US-China AI rivalry</p><p>Taiwanese prosecutors charged nine people on Monday, including one from Nvidia and two from Super Micro, for illegally exporting “high-end AI servers” to mainland China, ",
+      "link": "https://www.theguardian.com/australia-news/2026/aug/28/identity-of-high-profile-queensland-man-drawn-into-extortion-case-to-remain-secret-after-court-ruling-ntwnfb",
+      "title": "Identity of high-profile Queensland man drawn into extortion case to remain secret after court ruling",
+      "summary": "<p>Man – referred to as MM by court – will keep his identity hidden after legal challenge against suppression dismissed</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href",
       "paragraphs": [
-        "<p>Among those charged are two Super Micro employees and one from Nvidia, marking another flashpoint in US-China AI rivalry</p><p>Taiwanese prosecutors charged nine people on Monday, including one from Nvidia and two from Super Micro, for illegally exporting “high-end AI servers” to mainland China, adding another wave of turbulence in the AI ​​rivalry between China and the United States.</p><p>Prosecutors said the servers involved were graphics processing units known as “B300”, which have been banned from sale to China.</p> <a href=\"https://www.theguardian.com/technology/2026/aug/25/taiwan-china-ai-smugglers\">Continue reading...</a>"
+        "<p>Man – referred to as MM by court – will keep his identity hidden after legal challenge against suppression dismissed</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The identity of a high-profile Queensland man drawn into a Cairns extortion case will remain secret, after the state’s supreme court threw out a legal challenge against a suppression order.</p><p>The man – referred to as MM by the court – was <a href=\"https://www.theguardian.com/australia-news/2026/jun/08/queensland-high-profile-man-extortion-case-name-suppressed-ntwnfb\">drawn into an extortion case earlier this year</a>. He is not a party to the case and is not accused of any offence.</p> <a href=\"https://www.theguardian.com/australia-news/2026/aug/28/identity-of-high-profile-queensland-man-drawn-into-extortion-case-to-remain-secret-after-court-ruling-ntwnfb\">Continue reading...</a>"
       ],
-      "date": "2026-08-25",
+      "date": "2026-08-28",
       "real": true
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/australia-news/2026/aug/27/labor-scrap-secret-public-transport-levy-suburban-loop-melbourne-victoria",
-      "title": "‘No transparency’: Labor to scrap levy secretly placed on Victorian public transport fares",
-      "summary": "<p>Premier confirms levy, which was intended to help pay for the multibillion-dollar Suburban Rail Loop and other Big Build projects, will be abolished</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/aug/27/australia-news-live-ai-datacentres-national-cabinet-renewable-ene",
+      "link": "https://www.theguardian.com/world/2026/aug/28/how-to-help-nepal-community-flood-disaster-relief-funding-australia",
+      "title": "How Nepali diaspora is responding to flood disaster and how Australians can help in relief effort",
+      "summary": "<p>Nepali and Tibetan communities plan vigils and work to raise funds for recovery in ‘devastating’ time</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.t",
       "paragraphs": [
-        "<p>Premier confirms levy, which was intended to help pay for the multibillion-dollar Suburban Rail Loop and other Big Build projects, will be abolished</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/aug/27/australia-news-live-ai-datacentres-national-cabinet-renewable-energy-icac-perrottet-alan-jones-bruce-lehrmann-qantas-sydney-melbourne-nepal-floods-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>A levy secretly slapped on Victorian public transport users – designed to help pay for the Suburban Loop and other Big Build projects – will be scrapped, the state premier has announced.</p><p>Ben Carroll announced on Thursday that he would move to abolish the levy “because there was no transparency in its creation and implementation”.</p> <a href=\"https://www.theguardian.com/australia-news/2026/aug/27/labor-scrap-secret-public-transport-levy-suburban-loop-melbourne-victoria\">Continue reading...</a>"
+        "<p>Nepali and Tibetan communities plan vigils and work to raise funds for recovery in ‘devastating’ time</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Australia’s Nepali community plan to host vigils to remember the victims of the Nepal-Tibet flood disaster to coincide with a day of mourning, as the number of people killed continues to rise.</p><p>As Australia’s Nepali diaspora wait for the full scale of the disaster to become clear, community members are desperately waiting to hear from missing relatives and friends.<br><br> Nepal police said on Friday that the death toll had risen to 469, with more than 1,300 people still missing, after massive flash floods and landslides tore through the Bhotekoshi and Trishuli river basins on Thursday.</p> <a href=\"https://www.theguardian.com/world/2026/aug/28/how-to-help-nepal-community-flood-disaster-relief-funding-australia\">Continue reading...</a>"
+      ],
+      "date": "2026-08-28",
+      "real": true
+    },
+    {
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/aug/27/britain-ukraine-war-russia",
+      "title": "Russia says UK ‘playing with fire’ amid reports CIA chief has warned Kremlin not to attack Nato",
+      "summary": "<p>Moscow threatens retaliation after Andy Burnham says UK will help Ukraine start producing long-range missiles</p><p>Russia has said it could retaliate against the UK for its support of Kyiv by striking military targets inside and outside Ukraine, amid reports that the director of the CIA warned t",
+      "paragraphs": [
+        "<p>Moscow threatens retaliation after Andy Burnham says UK will help Ukraine start producing long-range missiles</p><p>Russia has said it could retaliate against the UK for its support of Kyiv by striking military targets inside and outside Ukraine, amid reports that the director of the CIA warned the Kremlin against attacking Nato during a secretive visit this week.</p><p>Andy Burnham, Britain’s prime minister, said on Monday the UK would <a href=\"https://www.theguardian.com/politics/2026/aug/24/andy-burnham-ukraine-long-range-missile-technology-kyiv-visit\">allow Kyiv access to classified technology</a> to start ⁠its own production of Storm Shadow ​long-range ​cruise missiles. France has also agreed to supply missile technology. Maria ⁠Zakharova, Russia’s foreign ministry spokesperson, said on Thursday Britain and France were “playing ⁠with ​fire”.</p> <a href=\"https://www.theguardian.com/world/2026/aug/27/britain-ukraine-war-russia\">Continue reading...</a>"
       ],
       "date": "2026-08-27",
       "real": true
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/australia-news/live/2026/aug/27/australia-news-live-ai-datacentres-national-cabinet-renewable-energy-icac-perrottet-alan-jones-bruce-lehrmann-qantas-sydney-melbourne-nepal-floods-ntwnfb",
-      "title": "Australia news live: most banks now predict another rate hike; Ken Henry delivers warning over ‘stupid’ GST deal",
-      "summary": "<p>Fallout from Wednesday’s hotter than expected inflation number continues. Follow today’s news live</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/aug/27/nepal-flash-flood-live-updates-tibet-border-death-toll-missing-himalayas-floods-flooding-latest-news\">Nepal flash flood disa",
+      "link": "https://www.theguardian.com/music/2026/aug/27/greek-orthodox-priest-and-cult-musician-clarifies-views-on-homosexuality",
+      "title": "Greek Orthodox priest and cult musician clarifies views on homosexuality",
+      "summary": "<p>Father Dionysios Tabakis says his views are those of Orthodox church, ‘nothing more, nothing less’</p><p>A Greek Orthodox priest whose home-recorded album of drone metal and religious dubstep has made him a <a href=\"https://www.theguardian.com/music/2026/jul/02/father-tabakis-greek-priest-doom-pa",
       "paragraphs": [
-        "<p>Fallout from Wednesday’s hotter than expected inflation number continues. Follow today’s news live</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/aug/27/nepal-flash-flood-live-updates-tibet-border-death-toll-missing-himalayas-floods-flooding-latest-news\">Nepal flash flood disaster – live updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The prime minister, <strong>Anthony Albanese</strong>, says Dfat officials are ready to provide consular assistance to Australians in Nepal, after the devastating flooding in the country.</p><p>A local tourism official said they believed 34 Australians were missing in the area, among hundreds of foreign nationals. Australian officials were not confirming numbers at this stage, and were working to check on the welfare of people they know were in the affected region.</p><p>Australians in the affected area should follow the advice of local authorities. We are aware of a number of Australians in the area and Australian officials are urgently working to confirm their welfare. We are liaising with local authorities as well as tour operators.</p><p>We stand ready to provide consular assistance.</p><p>The images are very disturbing indeed. We do know that there are Australians in the area. We don’t know exactly how many.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/aug/27/australia-news-live-ai-datacentres-national-cabinet-renewable-energy-icac-perrottet-alan-jones-bruce-lehrmann-qantas-sydney-melbourne-nepal-floods-ntwnfb\">Continue reading...</a>"
+        "<p>Father Dionysios Tabakis says his views are those of Orthodox church, ‘nothing more, nothing less’</p><p>A Greek Orthodox priest whose home-recorded album of drone metal and religious dubstep has made him a <a href=\"https://www.theguardian.com/music/2026/jul/02/father-tabakis-greek-priest-doom-paradise-metal\">cult figure in experimental music</a> circles has issued a statement in which he has clarified his stance on homosexuality and the Greek radical right.</p><p>“As can be seen from my musical expression, I am in favour of unity, love, empathy and help for every needy, wronged and suffering person in life,” Father Dionysios Tabakis said in a public statement shared with the Guardian. “Whoever they are, whatever they believe, whether they are a saint or a sinner.”</p> <a href=\"https://www.theguardian.com/music/2026/aug/27/greek-orthodox-priest-and-cult-musician-clarifies-views-on-homosexuality\">Continue reading...</a>"
       ],
       "date": "2026-08-27",
       "real": true
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/australia-news/2026/aug/27/australian-tourists-reported-missing-nepal-tibet-floods",
-      "title": "Anthony Albanese says 34 Australians among hundreds of people missing in deadly Nepal flash floods",
-      "summary": "<p>Powerful floods in Himalayan border area sweep away houses, roads and bridges</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/aug/27/australia-news-live-ai-datacentres-national-cabinet-renewable-energy-icac-perrottet-alan-jones-bruce-lehrmann-qantas-sydney-melbourne-ne",
+      "link": "https://www.theguardian.com/world/2026/aug/27/ratko-mladic-the-butcher-of-bosnia-dies-aged-84",
+      "title": "Ratko Mladić, the ‘Butcher of Bosnia’, dies in The Hague",
+      "summary": "<p>Bosnian Serb commander responsible for Srebrenica massacre dies in prison while serving life sentence for genocide</p><p>From the archive: </p><ul><li><p><a href=\"https://www.theguardian.com/world/2016/jan/21/14-years-fugitive-hunt-for-ratko-mladic-butcher-of-bosnia\">Fourteen years a fugitive: th",
       "paragraphs": [
-        "<p>Powerful floods in Himalayan border area sweep away houses, roads and bridges</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/aug/27/australia-news-live-ai-datacentres-national-cabinet-renewable-energy-icac-perrottet-alan-jones-bruce-lehrmann-qantas-sydney-melbourne-nepal-floods-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Dozens of Australian tourists are reportedly missing in the <a href=\"https://www.theguardian.com/world/live/2026/aug/26/nepal-tibet-himalayas-flash-floods-missing-foreign-tourists-latest-news-updates\">deadly flash floods</a> that swept through the Nepal-Tibet border, as the Australian government says it is urgently working to confirm their welfare.</p><p>The Australian prime minister, Anthony Albanese, said on Thursday morning there were 34 Australians missing.</p> <a href=\"https://www.theguardian.com/australia-news/2026/aug/27/australian-tourists-reported-missing-nepal-tibet-floods\">Continue reading...</a>"
+        "<p>Bosnian Serb commander responsible for Srebrenica massacre dies in prison while serving life sentence for genocide</p><p>From the archive: </p><ul><li><p><a href=\"https://www.theguardian.com/world/2016/jan/21/14-years-fugitive-hunt-for-ratko-mladic-butcher-of-bosnia\">Fourteen years a fugitive: the hunt for the Butcher of Bosnia </a></p></li><li><p><a href=\"https://www.theguardian.com/commentisfree/2017/nov/22/ratko-mladic-bosnia-camps-mass-murder-torture-rape-serbian\">Ratko Mladić will die in jail. But go to Bosnia: you’ll see that he won</a></p></li></ul><p>Ratko Mladić, the infamous Serbian general who was serving a life sentence for genocide committed during the Bosnian war, has died in prison in The Hague.</p><p>Mladić had been one of the main architects of the policy of ethnic cleansing during the Bosnian war. He was <a href=\"https://www.theguardian.com/world/2017/nov/22/ratko-mladic-the-warlike-youth-turned-balkan-war-criminal\">convicted of genocide</a> for orchestrating the 1995 <a href=\"https://www.theguardian.com/world/from-the-archive-blog/2020/jul/01/the-srebrenica-massacre-archive-july-1995\">killing of at least 8,000 Muslims in the UN-designated “safe area” Srebrenica</a>, the worst massacre in Europe since the second world war.</p> <a href=\"https://www.theguardian.com/world/2026/aug/27/ratko-mladic-the-butcher-of-bosnia-dies-aged-84\">Continue reading...</a>"
       ],
       "date": "2026-08-27",
       "real": true
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/australia-news/2026/aug/27/children-among-australian-tourists-missing-feared-dead-nepal-tibet-floods",
-      "title": "Nepal floods: children as young as 11 among Australian tour group missing after flash flooding",
-      "summary": "<p>Nepali tour operator fears 15 Australians who had been on a trek near the border with China have died after devastating flood</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/aug/27/nepal-flash-flood-live-updates-tibet-border-death-toll-missing-himalayas-floods-flooding-latest-n",
+      "link": "https://www.theguardian.com/culture/2026/aug/27/thieves-steal-bronze-age-treasure-of-villena-in-four-minute-heist",
+      "title": "Bronze age treasure stolen in four-minute Spanish museum heist",
+      "summary": "<p>Gold collection known as Treasure of Villena, worth at least €1.7m, is target of ‘very well planned’ raid</p><p>Thieves in Spain have raided the Treasure of Villena – a stunning collection of bronze age gold artefacts that has been described as the most important prehistoric trove in Europe – in ",
       "paragraphs": [
-        "<p>Nepali tour operator fears 15 Australians who had been on a trek near the border with China have died after devastating flood</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/aug/27/nepal-flash-flood-live-updates-tibet-border-death-toll-missing-himalayas-floods-flooding-latest-news\">Nepal flash flood live updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>A Nepali tour operator says he fears that 15 Australians trekking with his company in a valley ravaged by flash flooding have died.</p><p>Sagar Pandey, the founder and chief executive of Himalayan Glacier Trekking, said he had lost all contact with his tour group of 47 people, which included 15 Australians.</p> <a href=\"https://www.theguardian.com/australia-news/2026/aug/27/children-among-australian-tourists-missing-feared-dead-nepal-tibet-floods\">Continue reading...</a>"
+        "<p>Gold collection known as Treasure of Villena, worth at least €1.7m, is target of ‘very well planned’ raid</p><p>Thieves in Spain have raided the Treasure of Villena – a stunning collection of bronze age gold artefacts that has been described as the most important prehistoric trove in Europe – in the latest high-profile smash-and-grab heist on the continent.</p><p>The raid on Thursday morning of the 66 mostly gold objects in the Spanish town of Villena lasted just minutes, officials said.</p> <a href=\"https://www.theguardian.com/culture/2026/aug/27/thieves-steal-bronze-age-treasure-of-villena-in-four-minute-heist\">Continue reading...</a>"
       ],
       "date": "2026-08-27",
       "real": true
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/australia-news/2026/aug/27/sydney-16yo-girl-death-suspected-sexual-choking-asphyxiation-ntwnfb",
-      "title": "Police investigate death of teenage girl two days after alleged ‘sexual choking’ act in Sydney",
-      "summary": "<p>Paramedics called to northern beaches home on Sunday evening before 16-year-old dies in hospital on Tuesday night after sexual strangulation act</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/aug/27/australia-news-live-ai-datacentres-national-cabinet-renewable-energy-",
+      "link": "https://www.theguardian.com/world/2026/aug/27/malaria-outbreak-kills-two-staff-at-frankfurt-airport-germany",
+      "title": "Officials urge calm after malaria outbreak kills two staff at Frankfurt airport",
+      "summary": "<p>Mosquito traps are set up at Germany’s biggest airport and doctors are asked to look out for symptoms of disease</p><p>German health officials are seeking to reassure the public after two workers at the country’s biggest airport died of malaria.</p><p>Mosquito traps have been set up at Frankfurt ",
       "paragraphs": [
-        "<p>Paramedics called to northern beaches home on Sunday evening before 16-year-old dies in hospital on Tuesday night after sexual strangulation act</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/aug/27/australia-news-live-ai-datacentres-national-cabinet-renewable-energy-icac-perrottet-alan-jones-bruce-lehrmann-qantas-sydney-melbourne-nepal-floods-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>New South Wales police are investigating the death of a 16-year-old girl after a suspected sexual strangulation act.</p><p>Police said emergency services were called to a home in Elanora Heights in Sydney’s northern beaches on Sunday evening in response to a welfare concern report.</p> <a href=\"https://www.theguardian.com/australia-news/2026/aug/27/sydney-16yo-girl-death-suspected-sexual-choking-asphyxiation-ntwnfb\">Continue reading...</a>"
+        "<p>Mosquito traps are set up at Germany’s biggest airport and doctors are asked to look out for symptoms of disease</p><p>German health officials are seeking to reassure the public after two workers at the country’s biggest airport died of malaria.</p><p>Mosquito traps have been set up at Frankfurt airport and a mosquito monitoring process is under way. A detailed investigation is being conducted to clarify how the workers contracted the disease.</p> <a href=\"https://www.theguardian.com/world/2026/aug/27/malaria-outbreak-kills-two-staff-at-frankfurt-airport-germany\">Continue reading...</a>"
       ],
       "date": "2026-08-27",
-      "real": true
-    },
-    {
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/world/2026/aug/27/france-cheese-production-rules-drought-comte-beaufort-abondance",
-      "title": "France to relax cheese production rules after drought takes toll on grazing land",
-      "summary": "<p>Comté, beaufort and abondance makers can temporarily supplement cows’ diets as there is ‘no grass left to eat’</p><p>Strict production rules will be loosened for some of France’s most famous cheeses after <a href=\"https://www.theguardian.com/environment/2026/jul/23/climate-crisis-heat-sucking-soi",
-      "paragraphs": [
-        "<p>Comté, beaufort and abondance makers can temporarily supplement cows’ diets as there is ‘no grass left to eat’</p><p>Strict production rules will be loosened for some of France’s most famous cheeses after <a href=\"https://www.theguardian.com/environment/2026/jul/23/climate-crisis-heat-sucking-soils-dry-extreme-drought-europe-analysis\">drought</a> and repeated heatwaves dried out grazing pastures, threatening the livelihoods of traditional dairy workers.</p><p><a href=\"https://www.theguardian.com/film/2025/apr/01/holy-cow-full-comte-quest-semi-hard-cheese-french-cinemas\">Comté</a>, a hard cheese made from raw cows’ milk in the Jura mountains, is France’s top-selling traditional cheese, with more than 62,000 tonnes produced last year. The government announced on Wednesday that its producers would be granted a temporary change to strict rules on grazing after farmers said extreme heat had scorched their pastures, putting production at risk.</p> <a href=\"https://www.theguardian.com/world/2026/aug/27/france-cheese-production-rules-drought-comte-beaufort-abondance\">Continue reading...</a>"
-      ],
-      "date": "2026-08-27",
-      "real": true
-    },
-    {
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/world/2026/aug/26/escape-wizard-albanian-fugitive-toma-taulant-arrested-spain-after-breaking-out-of-four-jails",
-      "title": "‘Escape wizard’ who has broken out of four prisons is arrested in Spain",
-      "summary": "<p>Albanian criminal has cut bars, descended sheets and even used human pyramid in escapes in Italy and Belgium</p><p>Police in Spain have arrested a dangerous Albanian criminal nicknamed the “escape wizard” who has managed to break out of four jails in Italy and Belgium by sawing through bars, clam",
-      "paragraphs": [
-        "<p>Albanian criminal has cut bars, descended sheets and even used human pyramid in escapes in Italy and Belgium</p><p>Police in Spain have arrested a dangerous Albanian criminal nicknamed the “escape wizard” who has managed to break out of four jails in Italy and Belgium by sawing through bars, clambering down knotted sheets and even using a human pyramid to breach prison walls.</p><p>The fugitive, who has not been officially named, was arrested after officers from the Policía Nacional force discovered he was living in the north-eastern Spanish city of Tarragona. He was the subject of a European arrest warrant issued by the Italian authorities.</p> <a href=\"https://www.theguardian.com/world/2026/aug/26/escape-wizard-albanian-fugitive-toma-taulant-arrested-spain-after-breaking-out-of-four-jails\">Continue reading...</a>"
-      ],
-      "date": "2026-08-26",
-      "real": true
-    },
-    {
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/world/2026/aug/26/why-are-european-leaders-staying-silent-after-our-summer-of-climate-shock",
-      "title": "​W​hy are European leaders staying silent after our summer of climate shock?",
-      "summary": "<p>Lethal temperatures ​and wildfires have exposed a widening gulf between voters demanding ​action and politicians unwilling to confront the long-term choices global heating requires</p><p><strong>•</strong><a href=\"https://www.theguardian.com/commentisfree/2018/mar/22/this-is-europe-sign-up-guardi",
-      "paragraphs": [
-        "<p>Lethal temperatures ​and wildfires have exposed a widening gulf between voters demanding ​action and politicians unwilling to confront the long-term choices global heating requires</p><p><strong>•</strong><a href=\"https://www.theguardian.com/commentisfree/2018/mar/22/this-is-europe-sign-up-guardian-email-updates\"><strong> Don’t get This Is Europe delivered to your inbox? Sign up here</strong></a></p><p>The climate crisis means “we’re going to have to change everything – the way we live, the way we produce, the way we trade,” France’s veteran radical-left firebrand, Jean-Luc Mélenchon, <a href=\"https://www.boursorama.com/actualite-economique/actualites/presidentielle-melenchon-colore-sa-rentree-en-vert-en-proposant-la-conscription-ecologique-6990bf5daa0a5200c3d3322c0ac0c857\">told the summer congress</a> of his France Insoumise party last weekend.</p><p>The term “climate change”, said Mélenchon – the most likely rival to Marine Le Pen in next year’s presidential run-off, <a href=\"https://www.reuters.com/world/french-far-left-leader-melenchon-seen-reaching-presidential-runoff-poll-shows-2026-08-24/\">according to one poll this week</a> – may sound “almost reassuring”, but its actual impact will feel like “landing on another planet whenever we leave home”.</p> <a href=\"https://www.theguardian.com/world/2026/aug/26/why-are-european-leaders-staying-silent-after-our-summer-of-climate-shock\">Continue reading...</a>"
-      ],
-      "date": "2026-08-26",
-      "real": true
-    },
-    {
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/society/2026/aug/26/flight-attendant-breast-cancer-occupational-disease",
-      "title": "Flight attendant’s breast cancer was occupational disease, court rules",
-      "summary": "<p>Sophie Lainault, who worked for Air France, wins legal case linking illness to more than 12,600 hours on flights</p><p>A flight attendant in France has succeeded in having her breast cancer recognised as an occupational disease, a first for the country’s aviation industry, her lawyer and a trade ",
-      "paragraphs": [
-        "<p>Sophie Lainault, who worked for Air France, wins legal case linking illness to more than 12,600 hours on flights</p><p>A flight attendant in France has succeeded in having her breast cancer recognised as an occupational disease, a first for the country’s aviation industry, her lawyer and a trade union said.</p><p>The ruling, which recognised that Sophie Lainault, a former flight attendant for <a href=\"https://www.theguardian.com/business/air-france-klm\">Air France</a>, had frequently worked at night and been exposed to passive smoking, could pave the way for similar claims, the lawyer and the CFDT union said.</p> <a href=\"https://www.theguardian.com/society/2026/aug/26/flight-attendant-breast-cancer-occupational-disease\">Continue reading...</a>"
-      ],
-      "date": "2026-08-26",
-      "real": true
-    },
-    {
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/aug/26/devon-man-becomes-first-person-to-swim-switzerlands-10-largest-lakes",
-      "title": "Devon man becomes first person to swim Switzerland’s 10 largest lakes",
-      "summary": "<p>Neil Gilson completes 230-mile challenge after a ‘tough’ 22-hour crossing of Lac Léman</p><p>He staggered rather than sprang out of the lake but it wasn’t surprising.</p><p><a href=\"https://neilgilson.com/\">Neil Gilson</a>, a former international athlete, could be forgiven for feeling a little wo",
-      "paragraphs": [
-        "<p>Neil Gilson completes 230-mile challenge after a ‘tough’ 22-hour crossing of Lac Léman</p><p>He staggered rather than sprang out of the lake but it wasn’t surprising.</p><p><a href=\"https://neilgilson.com/\">Neil Gilson</a>, a former international athlete, could be forgiven for feeling a little wobbly, having become the first person to swim the 10 largest lakes in Switzerland, a total of about 230 miles (370km).</p> <a href=\"https://www.theguardian.com/lifeandstyle/2026/aug/26/devon-man-becomes-first-person-to-swim-switzerlands-10-largest-lakes\">Continue reading...</a>"
-      ],
-      "date": "2026-08-26",
       "real": true
     }
   ]
