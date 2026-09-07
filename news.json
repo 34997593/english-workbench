@@ -1,7 +1,74 @@
 {
-  "updated": "2026-09-06T00:16:47Z",
+  "updated": "2026-09-07T00:23:35Z",
   "count": 60,
   "articles": [
+    {
+      "source": "NPR",
+      "link": "https://www.npr.org/2026/09/06/nx-s1-5959749/amazon-cargo-plane-crashes-at-miami-airport",
+      "title": "Five dead after Amazon cargo plane crashes at Miami airport",
+      "summary": "Video showed thick smoke rising from the plane crash of the Boeing 767 that the Federal Aviation Administration says overran the airport runway in Miami.",
+      "paragraphs": [
+        "Video showed thick smoke rising from the plane crash of the Boeing 767 that the Federal Aviation Administration says overran the airport runway in Miami."
+      ],
+      "date": "2026-09-06",
+      "real": true
+    },
+    {
+      "source": "NPR",
+      "link": "https://www.npr.org/2026/09/06/nx-s1-5955677/german-afd-far-right-exit",
+      "title": "German exit polls suggest far-right party has big lead in regional election",
+      "summary": "Exit polls show Germany's AfD taking a commanding lead in a regional election, but it remains unclear whether the far-right party can form the country's first state government since World War II.",
+      "paragraphs": [
+        "Exit polls show Germany's AfD taking a commanding lead in a regional election, but it remains unclear whether the far-right party can form the country's first state government since World War II."
+      ],
+      "date": "2026-09-06",
+      "real": true
+    },
+    {
+      "source": "NPR",
+      "link": "https://www.npr.org/2026/09/06/nx-s1-5927184/american-muslims-are-giving-texas-barbecue-a-halal-makeover",
+      "title": "American Muslims are giving Texas barbecue a halal makeover",
+      "summary": "Even as anti-Muslim rhetoric rises in Texas, Muslim pitmasters are winning over diners and reshaping one of the state's most iconic culinary traditions.",
+      "paragraphs": [
+        "Even as anti-Muslim rhetoric rises in Texas, Muslim pitmasters are winning over diners and reshaping one of the state's most iconic culinary traditions."
+      ],
+      "date": "2026-09-06",
+      "real": true
+    },
+    {
+      "source": "NPR",
+      "link": "https://www.npr.org/2026/09/06/nx-s1-5959657/us-envoys-witkoff-kushner-talks-in-kyiv-putin-moscow",
+      "title": "Witkoff and Kushner call Kyiv talks 'substantive' after Moscow Putin meeting",
+      "summary": "U.S. envoys Steve Witkoff and Jared Kushner held meetings in Kyiv with Ukraine's President Zelenskyy on Sunday, a day after lengthy conversations with Russian President Putin in Moscow.",
+      "paragraphs": [
+        "U.S. envoys Steve Witkoff and Jared Kushner held meetings in Kyiv with Ukraine's President Zelenskyy on Sunday, a day after lengthy conversations with Russian President Putin in Moscow.",
+        "(Image credit: Ukrainian Presidential Press Office)"
+      ],
+      "date": "2026-09-06",
+      "real": true
+    },
+    {
+      "source": "NPR",
+      "link": "https://www.npr.org/2026/09/06/nx-s1-5957512/quiz-ugh-ill-do-it-later-how-much-do-you-know-about-procrastination",
+      "title": "QUIZ: Ugh, I'll do it later. How much do you know about procrastination?",
+      "summary": "Learn a few surprising facts about procrastination — and helpful tools to overcome it — with this quiz. It's based on social scientist Itamar Shatz's new book, <em>Solving Procrastination</em>.",
+      "paragraphs": [
+        "Solving Procrastination . It's also a hint to one of our quiz questions below.'/> Learn a few surprising facts about procrastination — and helpful tools to overcome it — with this quiz. It's based on social scientist Itamar Shatz's new book, Solving Procrastination ."
+      ],
+      "date": "2026-09-06",
+      "real": true
+    },
+    {
+      "source": "NPR",
+      "link": "https://www.npr.org/2026/09/06/g-s1-141564/kindness-respect-feelings",
+      "title": "Whatever happened to kindness? Spoiler alert: Our readers prove it's alive and well",
+      "summary": "We asked readers to share stories about a moment of kindness involving a stranger. Here are some of their heartwarming anecdotes.",
+      "paragraphs": [
+        "We asked readers to share stories about a moment of kindness involving a stranger. Here are some of their heartwarming anecdotes."
+      ],
+      "date": "2026-09-06",
+      "real": true
+    },
     {
       "source": "NPR",
       "link": "https://www.npr.org/2026/09/05/nx-s1-5955500/saxophone-legend-john-coltranes-philadelphia-house-to-become-a-cultural-heritage-site",
@@ -16,11 +83,9 @@
     {
       "source": "NPR",
       "link": "https://www.npr.org/2026/09/05/nx-s1-5959159/us-iran-warships-targeted",
-      "title": "US military hits 3 Iranian oil tankers after saying Navy warships were targeted",
-      "summary": "The strikes come a day after President Trump appeared to downplay the war with Iran as \"small potatoes\" during an exchange with reporters in the Oval Office.",
-      "paragraphs": [
-        "The strikes come a day after President Trump appeared to downplay the war with Iran as \"small potatoes\" during an exchange with reporters in the Oval Office."
-      ],
+      "title": "U.S. and Iran trade attacks on ships as fighting flares up again",
+      "summary": "",
+      "paragraphs": [],
       "date": "2026-09-05",
       "real": true
     },
@@ -47,75 +112,20 @@
       "real": true
     },
     {
-      "source": "NPR",
-      "link": "https://www.npr.org/2026/09/05/nx-s1-5954177/venezuelan-opposition-slams-new-u-s-oil-deal-warning-it-delays-democracy",
-      "title": "U.S.-Venezuela oil deal puts opposition in a political bind",
-      "summary": "Venezuelan opposition members are uneasy with new oil deals with the U.S., worried that agreements with authoritarian regime in Caracas could undermine democratic progress.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/9/7/iran-war-live-tehran-to-announce-new-hormuz-shipping-route-in-coming-days?traffic_source=rss",
+      "title": "Iran war live: Tehran to announce new Hormuz shipping route in coming days",
+      "summary": "",
       "paragraphs": [
-        "Venezuelan opposition members are uneasy with new oil deals with the U.S., worried that agreements with authoritarian regime in Caracas could undermine democratic progress."
+        ""
       ],
-      "date": "2026-09-05",
-      "real": true
-    },
-    {
-      "source": "NPR",
-      "link": "https://www.npr.org/2026/09/05/g-s1-141464/climate-change-floating-schools-bangladesh",
-      "title": "Whatever happened to the floating schools of Bangladesh?",
-      "summary": "It was a light bulb moment: If monsoon rains keep kids from safely getting to school, let's create a floating school to pick them up! Bangladesh pioneered the idea. How's it doing?",
-      "paragraphs": [
-        "It was a light bulb moment: If monsoon rains keep kids from safely getting to school, let's create a floating school to pick them up! Bangladesh pioneered the idea. How's it doing?"
-      ],
-      "date": "2026-09-05",
-      "real": true
-    },
-    {
-      "source": "NPR",
-      "link": "https://www.npr.org/2026/09/05/nx-s1-5959114/us-envoys-in-moscow-in-new-push-for-peace",
-      "title": "U.S. envoys in Moscow in new push for peace between Russia and Ukraine",
-      "summary": "U.S. envoys Steve Witkoff and Jared Kushner have arrived in Moscow to revive efforts to end Russia's invasion of Ukraine. Ukrainian President Volodymyr Zelenskyy has called for a halt to air attacks during their visit, but Moscow has not publicly responded.",
-      "paragraphs": [
-        "U.S. envoys Steve Witkoff and Jared Kushner have arrived in Moscow to revive efforts to end Russia's invasion of Ukraine. Ukrainian President Volodymyr Zelenskyy has called for a halt to air attacks during their visit, but Moscow has not publicly responded."
-      ],
-      "date": "2026-09-05",
-      "real": true
-    },
-    {
-      "source": "NPR",
-      "link": "https://www.npr.org/2026/09/05/nx-s1-5913671/ai-data-center-campaign-spending",
-      "title": "Voters are fed up with data centers. Both parties are trying to cash in for midterms",
-      "summary": "Democrats and Republicans have found common ground in this campaign season. Both parties have poured millions into ads attacking data centers as the public continues to protest the AI facilities.",
-      "paragraphs": [
-        "Democrats and Republicans have found common ground in this campaign season. Both parties have poured millions into ads attacking data centers as the public continues to protest the AI facilities."
-      ],
-      "date": "2026-09-05",
-      "real": true
-    },
-    {
-      "source": "NPR",
-      "link": "https://www.npr.org/2026/09/05/nx-s1-5955778/flock-surveillance-camera-opposition-politics",
-      "title": "Flock cameras draw opposition from across the political spectrum",
-      "summary": "As political races heat up heading into the midterms, candidates from both parties are increasingly joining the fray to voice concerns over Flock surveillance cameras.",
-      "paragraphs": [
-        "As political races heat up heading into the midterms, candidates from both parties are increasingly joining the fray to voice concerns over Flock surveillance cameras."
-      ],
-      "date": "2026-09-05",
-      "real": true
-    },
-    {
-      "source": "NPR",
-      "link": "https://www.npr.org/2026/09/05/g-s1-142148/philippines-vice-president-posts-bail",
-      "title": "Philippines Vice President Sara Duterte posts bail after arrest",
-      "summary": "Philippines Vice President Sara Duterte has posted bail after order issued for her arrest on charges she publicly threatened to arrange assassination of President Ferdinand Marcos Jr. and two others.",
-      "paragraphs": [
-        "Philippines Vice President Sara Duterte has posted bail after order issued for her arrest on charges she publicly threatened to arrange assassination of President Ferdinand Marcos Jr. and two others."
-      ],
-      "date": "2026-09-05",
+      "date": "2026-09-07",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/9/6/iran-war-live-irgc-claims-new-attacks-on-us-warships-over-naval-blockade?traffic_source=rss",
-      "title": "Iran war live: IRGC claims new attacks on US warships over naval blockade",
+      "link": "https://www.aljazeera.com/sports/2026/9/6/alcaraz-breezes-into-last-eight-at-us-open?traffic_source=rss",
+      "title": "Alcaraz breezes into last eight at US Open",
       "summary": "",
       "paragraphs": [
         ""
@@ -125,266 +135,255 @@
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/9/5/fuel-tanker-blast-in-western-iran-kills-at-least-10?traffic_source=rss",
-      "title": "Fuel tanker blast in western Iran kills at least 10",
+      "link": "https://www.aljazeera.com/news/2026/9/6/amazon-cargo-plane-crashes-in-us-while-landing-at-miami-airport?traffic_source=rss",
+      "title": "At least five killed after Amazon cargo plane crash in Miami airport",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-09-05",
+      "date": "2026-09-06",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/9/5/trump-backed-group-announces-10m-ad-spend-for-midterm-senate-race-in-texas?traffic_source=rss",
-      "title": "Trump-backed group announces $10m ad spend for midterm Senate race in Texas",
+      "link": "https://www.aljazeera.com/news/2026/9/6/at-least-10-killed-in-central-mexico-fireworks-blast-during-festival?traffic_source=rss",
+      "title": "At least 10 killed in central Mexico fireworks blast during festival",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-09-05",
+      "date": "2026-09-06",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/us-envoys-witkoff-kushner-meet-putin-for-talks-on-ukraine-war?traffic_source=rss",
-      "title": "US envoys Witkoff, Kushner meet Putin for talks on Ukraine war",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/amazon-prime-plane-overruns-runway-at-miami-airport?traffic_source=rss",
+      "title": "Amazon Prime plane overruns runway at Miami Airport",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-09-05",
+      "date": "2026-09-06",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/09-05-sv-india-building-collapse-mp4?traffic_source=rss",
-      "title": "Building collapses after heavy rain in northern India",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/06-09-sv-germany-afd-wins-saxony-de-fm?traffic_source=rss",
+      "title": "Can AfD form Germany’s first far-right state government since World War II?",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-09-05",
+      "date": "2026-09-06",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/9/5/why-is-argentina-reigniting-the-falklands-dispute?traffic_source=rss",
-      "title": "Why is Argentina reigniting the Falklands dispute?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/susan-sarandon-says-she-still-loses-film-roles-over-support-for-palestine?traffic_source=rss",
+      "title": "Susan Sarandon says she still loses film roles over support for Palestine",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-09-05",
+      "date": "2026-09-06",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/sports/2026/9/5/everton-vs-manchester-united-premier-league-prediction-teams-lineups?traffic_source=rss",
-      "title": "Everton vs Manchester United: Premier League – prediction, teams, lineups",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/9/6/will-israelis-re-elect-benjamin-netanyahu?traffic_source=rss",
+      "title": "Will Israelis re-elect Benjamin Netanyahu?",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-09-05",
+      "date": "2026-09-06",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/9/5/colombian-government-reports-three-killed-in-rebel-attack-on-military-post?traffic_source=rss",
-      "title": "Colombian government reports three killed in rebel attack on military post",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/at-least-five-killed-in-new-delhi-building-collapse?traffic_source=rss",
+      "title": "At least five killed in New Delhi building collapse",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-09-05",
+      "date": "2026-09-06",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/al-jazeera-reporter-challenges-huckabee-over-israeli-settler-pogroms?traffic_source=rss",
-      "title": "Al Jazeera reporter challenges Huckabee over Israeli settler pogroms",
+      "link": "https://www.aljazeera.com/news/2026/9/6/abdul-el-sayed-uses-speech-to-talk-about-muslim-faith-and-american-identity?traffic_source=rss",
+      "title": "Abdul El-Sayed uses speech to talk about Muslim faith and American identity",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-09-05",
+      "date": "2026-09-06",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/9/5/france-denies-inciting-failed-niger-mutiny-calls-accusation-pure-fantasy?traffic_source=rss",
-      "title": "France denies inciting failed Niger mutiny, calls accusation ‘pure fantasy’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/indonesia-volcano-eruption-disrupts-hundreds-of-flights?traffic_source=rss",
+      "title": "Indonesia volcano eruption disrupts hundreds of flights",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-09-05",
+      "date": "2026-09-06",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/jerusalem-daily-raids-settlers-sieges?traffic_source=rss",
-      "title": "Jerusalem Daily: raids, settlers & sieges",
+      "link": "https://www.aljazeera.com/sports/2026/9/6/adidas-faces-boycott-calls-over-campaign-featuring-former-israeli-soldier?traffic_source=rss",
+      "title": "Adidas faces boycott calls over campaign featuring former Israeli soldier",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-09-05",
+      "date": "2026-09-06",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/9/5/cuban-and-afghan-immigrants-deported-from-us-under-trump-arrive-in-guyana?traffic_source=rss",
-      "title": "Cuban and Afghan immigrants deported from US under Trump arrive in Guyana",
+      "link": "https://www.aljazeera.com/news/2026/9/6/trump-administration-appeals-again-to-us-supreme-court-over-mail-in-voting?traffic_source=rss",
+      "title": "Trump administration appeals again to US Supreme Court over mail-in voting",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-09-05",
+      "date": "2026-09-06",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/5-09-sv-woman-beaten-to-death-in-gujarat-in?traffic_source=rss",
-      "title": "Woman beaten to death as bystanders watch in India’s Gujarat",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/why-is-argentina-reviving-the-falklands-dispute?traffic_source=rss",
+      "title": "Why is Argentina reviving the Falklands dispute?",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-09-05",
+      "date": "2026-09-06",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/shoppers-interact-with-hong-kongs-first-robot-shopkeeper?traffic_source=rss",
-      "title": "Shoppers interact with Hong Kong’s first robot shopkeeper",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/witkoff-says-peace-talks-have-been-very-meaningful-in-ukraine?traffic_source=rss",
+      "title": "Witkoff says peace talks have been ‘very meaningful’ in Ukraine",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-09-05",
+      "date": "2026-09-06",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/two-pilots-killed-after-greek-fighter-jet-crashes-during-an-air-show?traffic_source=rss",
-      "title": "Two pilots killed after Greek fighter jet crashes during an air show",
+      "link": "https://www.aljazeera.com/sports/2026/9/6/sabalenka-through-to-us-open-quarterfinals?traffic_source=rss",
+      "title": "Sabalenka through to US Open quarterfinals",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-09-05",
+      "date": "2026-09-06",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/9/5/thousands-protest-in-croatia-to-demand-government-clean-up-toxic-waste?traffic_source=rss",
-      "title": "Thousands protest in Croatia to demand government clean up toxic waste",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/algerian-boy-found-dead-after-four-days-trapped-in-a-well?traffic_source=rss",
+      "title": "Algerian boy found dead after four days trapped in a well",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-09-05",
+      "date": "2026-09-06",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/9/5/russias-putin-meets-us-envoys-to-discuss-trump-proposal-to-end-ukraine-war?traffic_source=rss",
-      "title": "Russia’s Putin meets US envoys to discuss Trump proposal to end Ukraine war",
+      "link": "https://www.aljazeera.com/sports/2026/9/6/arsenal-come-from-behind-to-beat-chelsea-2-1-and-maintain-perfect-start?traffic_source=rss",
+      "title": "Arsenal come from behind to beat Chelsea 2-1 and maintain perfect start",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-09-05",
+      "date": "2026-09-06",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/sports/2026/9/5/india-crush-pakistan-at-t20-asia-cup-with-record-breaking-bowling-display?traffic_source=rss",
-      "title": "India crush Pakistan at T20 Asia Cup with record-breaking bowling display",
+      "link": "https://www.aljazeera.com/gallery/2026/9/6/photos-nepal-flood-survivors-face-overwhelming-devastation?traffic_source=rss",
+      "title": "Photos: UN urges global aid after China, Nepal floods kill over 1,300",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-09-05",
+      "date": "2026-09-06",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/09-05-germany-afd-state-elections-sv?traffic_source=rss",
-      "title": "Germany’s far-right AfD eyes historic first in state election",
+      "link": "https://www.aljazeera.com/sports/2026/9/6/f1-leader-kimi-antonelli-wins-italian-gp-after-epic-charge-from-the-back?traffic_source=rss",
+      "title": "F1 leader Kimi Antonelli wins Italian GP after epic charge from the back",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-09-05",
+      "date": "2026-09-06",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/sports/2026/9/5/haaland-head-man-city-to-the-top-of-premier-league-with-win-over-coventry?traffic_source=rss",
-      "title": "Haaland heads Man City to the top of Premier League with win over Coventry",
+      "link": "https://www.aljazeera.com/features/2026/9/6/palestinian-farmers-battle-settler-sabotage-to-save-hebron-crops-livestock?traffic_source=rss",
+      "title": "Palestinian farmers battle settler sabotage to save Hebron crops, livestock",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-09-05",
+      "date": "2026-09-06",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/9/5/gaza-teams-recover-remains-of-55-people-nearly-3-years-after-israeli-strike?traffic_source=rss",
-      "title": "Gaza teams recover remains of 55 people nearly 3 years after Israeli strike",
+      "link": "https://www.aljazeera.com/news/2026/9/6/trump-official-says-there-may-not-be-a-nuclear-agreement-with-iran?traffic_source=rss",
+      "title": "Trump official says ‘there may not be a nuclear agreement’ with Iran",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-09-05",
+      "date": "2026-09-06",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/9/5/israel-claims-control-of-lebanons-key-ali-al-taher-ridge-what-that-means?traffic_source=rss",
-      "title": "Israel claims control of Lebanon’s key Ali al-Taher ridge: What that means",
+      "link": "https://www.aljazeera.com/sports/2026/9/6/lamine-yamal-and-fermin-lopez-star-as-barcelona-run-riot-at-valencia?traffic_source=rss",
+      "title": "Lamine Yamal and Fermin Lopez star as Barcelona run riot at Valencia",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-09-05",
+      "date": "2026-09-06",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/us-says-it-hit-three-iranian-oil-tankers-after-attacks-on-warships?traffic_source=rss",
-      "title": "US says it hit three Iranian oil tankers after attacks on warships",
+      "link": "https://www.aljazeera.com/news/2026/9/6/iran-touts-military-response-as-us-maintains-blockade-hits-tankers?traffic_source=rss",
+      "title": "Iran touts military response as US maintains blockade, hits tankers",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-09-05",
+      "date": "2026-09-06",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/features/2026/9/5/israeli-campaign-of-west-bank-destruction-moves-on-to-regions-food-basket?traffic_source=rss",
-      "title": "Israeli campaign of West Bank destruction moves on to region’s food basket",
+      "link": "https://www.aljazeera.com/news/2026/9/6/far-right-afd-wins-vote-in-germanys-saxony-anhalt-state-exit-polls?traffic_source=rss",
+      "title": "Far-right AfD wins vote in Germany’s Saxony-Anhalt state: Exit polls",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-09-05",
-      "real": true
-    },
-    {
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/9/5/rescuers-pull-chinese-worker-nepali-woman-from-flood-wreckage-alive?traffic_source=rss",
-      "title": "Rescuers pull Chinese worker, Nepali woman from flood wreckage alive",
-      "summary": "",
-      "paragraphs": [
-        ""
-      ],
-      "date": "2026-09-05",
+      "date": "2026-09-06",
       "real": true
     },
     {
@@ -444,6 +443,28 @@
     },
     {
       "source": "The Guardian",
+      "link": "https://www.theguardian.com/news/2026/sep/06/jamaica-slavery-reparations-petition-king-charles",
+      "title": "Jamaican delegates arrive in UK to hand slavery reparations petition to King Charles",
+      "summary": "<p>Slavery’s legacy continues ‘to deprive our country and our people’, says minister, as group prepares to appeal to Jamaica’s head of state</p><p>A landmark petition is to be handed to King Charles by Jamaica over slavery reparations, aiming to confront historical crimes that still disadvantage for",
+      "paragraphs": [
+        "<p>Slavery’s legacy continues ‘to deprive our country and our people’, says minister, as group prepares to appeal to Jamaica’s head of state</p><p>A landmark petition is to be handed to King Charles by Jamaica over slavery reparations, aiming to confront historical crimes that still disadvantage former British colonies, the Caribbean nation’s culture minister has said.</p><p>The petition will be lodged with Charles, Jamaica’s head of state, on Monday.</p> <a href=\"https://www.theguardian.com/news/2026/sep/06/jamaica-slavery-reparations-petition-king-charles\">Continue reading...</a>"
+      ],
+      "date": "2026-09-06",
+      "real": true
+    },
+    {
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/politics/2026/sep/06/falklands-row-raise-defence-spending-tan-dhesi-labour",
+      "title": "Falklands row shows urgent need to commit to 3% target, says Labour defence committee chair",
+      "summary": "<p>Exclusive: Tan Dhesi says Argentinian threats make it more crucial than ever that PM increase defence spending</p><p>Javier Milei’s threats to the Falkland Islands make it even more important that Andy Burnham increase defence spending immediately, according to the Labour chair of the defence com",
+      "paragraphs": [
+        "<p>Exclusive: Tan Dhesi says Argentinian threats make it more crucial than ever that PM increase defence spending</p><p>Javier Milei’s threats to the Falkland Islands make it even more important that Andy Burnham increase defence spending immediately, according to the Labour chair of the defence committee.</p><p>Tan Dhesi said the <a href=\"https://www.theguardian.com/world/2026/sep/04/president-javier-milei-winds-of-change-support-argentina-claim-to-falkland-islands\">comments by the Argentinian president</a> this week show why the government should raise military spending to 3% of GDP by 2030. But he said Burnham’s plans remain mired in confusion after the prime minister appeared to reassure him that the 2030 target would be hit, only for Downing Street to later retreat.</p> <a href=\"https://www.theguardian.com/politics/2026/sep/06/falklands-row-raise-defence-spending-tan-dhesi-labour\">Continue reading...</a>"
+      ],
+      "date": "2026-09-06",
+      "real": true
+    },
+    {
+      "source": "The Guardian",
       "link": "https://www.theguardian.com/us-news/2026/sep/04/trump-argentina-falklands-uk",
       "title": "Trump’s pique with UK could lead to favor to acolyte Milei over Falklands",
       "summary": "<p>US president suggests he might support his Argentinian ally’s drive to reclaim sovereignty of disputed islands</p><p><a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a> has long embraced vengeance. “I am your retribution,” he <a href=\"https://www.theguardian.com/us-news/202",
@@ -477,24 +498,35 @@
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/world/2026/sep/04/colombia-president-posts-video-guerrillas-body-bags-abelardo-de-la-espriella",
-      "title": "Colombia president provokes disgust by posing with bodies of ‘terrorists’",
-      "summary": "<p>Abelardo De La Espriella posts video of himself with rows of body bags as performative populism continues to sweep Americas</p><p>Colombia’s hardline president, Abelardo De La Espriella, has provoked outrage after posting a video on social media in which he strides through rows of white body bags",
+      "link": "https://www.theguardian.com/australia-news/ng-interactive/2026/sep/07/us-military-bases-in-australia-map-list-spy-satellite-pine-gap",
+      "title": "The US now has access to more than half Australia’s military bases – could it drag the country unwillingly into war?",
+      "summary": "<p><strong>Exclusive:</strong> US-controlled weapons corporations and forces have control or access to more than 100 facilities across the continent, which some analysts describe as a ‘colonisation’ of Australia’s military. Find a map of them here</p><ul><li><p><a href=\"https://www.theguardian.com/g",
       "paragraphs": [
-        "<p>Abelardo De La Espriella posts video of himself with rows of body bags as performative populism continues to sweep Americas</p><p>Colombia’s hardline president, Abelardo De La Espriella, has provoked outrage after posting a video on social media in which he strides through rows of white body bags that he says contained the corpses of 23 “neutralised” guerrillas.</p><p>De La Espriella took power last month vowing “all-out war” against illegal armed groups and he published <a href=\"https://x.com/ABDELAESPRIELLA/status/2095157958887809199?s=20\">the footage</a> on Thursday in an apparent attempt to show he was fulfilling that pledge.</p> <a href=\"https://www.theguardian.com/world/2026/sep/04/colombia-president-posts-video-guerrillas-body-bags-abelardo-de-la-espriella\">Continue reading...</a>"
+        "<p><strong>Exclusive:</strong> US-controlled weapons corporations and forces have control or access to more than 100 facilities across the continent, which some analysts describe as a ‘colonisation’ of Australia’s military. Find a map of them here</p><ul><li><p><a href=\"https://www.theguardian.com/global/video/2026/sep/07/us-military-presence-in-australia-mapped-video\">US military presence in Australia, mapped – video</a></p></li><li><p><a href=\"https://www.theguardian.com/australia-news/audio/2026/sep/07/why-can-the-us-access-so-many-australian-military-bases-and-could-they-drag-us-unwillingly-into-war-podcast\">Why can the US access so many Australian military bases? – podcast</a></p></li></ul><p><a href=\"https://www.theguardian.com/us-news/us-military\">US military</a> interests control or have access to more than 100 defence facilities on Australian soil, in what some analysts describe as a “saturation” – even a “colonisation” – of the Australian continent.</p><p>New data compiled by the Nautilus Institute and published by Guardian Australia maps the extent of US militarisation. The US military controls 17 facilities on mainland Australia and has access to 75 more Australian-run military installations. US defence corporations have access to an additional 18.</p><p>Gathering intelligence, accessing satellite data for targeting information and communications intercepts.</p><p>Training, including for <a href=\"https://www.defence.gov.au/news-events/news/2026-05-15/us-marines-begin-darwin-rotation\">2,500 marines on dry-season rotation</a> in the Northern Territory.</p><p>Pre-positioning warfighting assets such as Osprey aircraft.</p><p>Logistics hubs holding weapons, munitions and fuel, stored in case of a war in the Pacific.</p> <a href=\"https://www.theguardian.com/australia-news/ng-interactive/2026/sep/07/us-military-bases-in-australia-map-list-spy-satellite-pine-gap\">Continue reading...</a>"
       ],
-      "date": "2026-09-04",
+      "date": "2026-09-06",
       "real": true
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/world/2026/sep/04/president-javier-milei-winds-of-change-support-argentina-claim-to-falkland-islands",
-      "title": "Javier Milei: ‘winds of change’ support Argentina’s claim to Falkland Islands",
-      "summary": "<p>President cites Trump’s suggestion that he might reconsider US stance on British sovereignty and threatens swifter sanctions on UK oil interests</p><p>President Javier Milei has said “winds of change” favourable to Argentina’s claim to the Falkland Islands are blowing around the world in a televi",
+      "link": "https://www.theguardian.com/world/2026/sep/06/china-prepares-40bn-stimulus-for-financial-sector-amid-fears-over-sluggish-growth",
+      "title": "China prepares £40bn stimulus for financial sector amid fears over sluggish growth",
+      "summary": "<p>Beijing wants banks and insurers to bolster investment in stock market as it helps to replenish cash reserves</p><p>China will inject $54bn (£40bn) into its financial sector as Beijing attempts to shore up banks and insurers in the face of faltering economic growth.</p><p>A host of financial inst",
       "paragraphs": [
-        "<p>President cites Trump’s suggestion that he might reconsider US stance on British sovereignty and threatens swifter sanctions on UK oil interests</p><p>President Javier Milei has said “winds of change” favourable to Argentina’s claim to the Falkland Islands are blowing around the world in a televised address, citing signs that <a href=\"https://www.theguardian.com/us-news/2026/aug/31/trump-uk-sovereignty-falkland-islands\">Donald Trump may reconsider the US position</a> on the islands’ sovereignty.</p><p>“Recently, President Trump declared that the US is re-evaluating its historic position in relation to the Malvinas,” he said, using the Argentinian name for the islands.</p> <a href=\"https://www.theguardian.com/world/2026/sep/04/president-javier-milei-winds-of-change-support-argentina-claim-to-falkland-islands\">Continue reading...</a>"
+        "<p>Beijing wants banks and insurers to bolster investment in stock market as it helps to replenish cash reserves</p><p>China will inject $54bn (£40bn) into its financial sector as Beijing attempts to shore up banks and insurers in the face of faltering economic growth.</p><p>A host of financial institutions said they were due to receive billions of yuan in capital from state institutions including the ministry of finance and even the company that runs the country’s tobacco monopoly.</p> <a href=\"https://www.theguardian.com/world/2026/sep/06/china-prepares-40bn-stimulus-for-financial-sector-amid-fears-over-sluggish-growth\">Continue reading...</a>"
       ],
-      "date": "2026-09-04",
+      "date": "2026-09-06",
+      "real": true
+    },
+    {
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/sep/06/volcanic-ash-cloud-halts-flights-at-indonesias-main-international-airport",
+      "title": "Volcanic eruption halts flights at Jakarta and seven other Indonesian airports",
+      "summary": "<p>Ash cloud from Anak Krakatau affects hundreds of flights and some school and fishing activities</p><p>Indonesia halted operations at eight airports on Sunday, including from its main international hub, affecting hundreds of flights as a result of an ash cloud from the Anak Krakatau volcano.</p><p",
+      "paragraphs": [
+        "<p>Ash cloud from Anak Krakatau affects hundreds of flights and some school and fishing activities</p><p>Indonesia halted operations at eight airports on Sunday, including from its main international hub, affecting hundreds of flights as a result of an ash cloud from the Anak Krakatau volcano.</p><p>Saturday’s eruption, which produced lava and booming sounds that were heard up to 435 miles (700km) away, according to Indonesia’s geology agency, also interrupted some school activities and fishing. Two more eruptions were recorded on Sunday.</p> <a href=\"https://www.theguardian.com/world/2026/sep/06/volcanic-ash-cloud-halts-flights-at-indonesias-main-international-airport\">Continue reading...</a>"
+      ],
+      "date": "2026-09-06",
       "real": true
     },
     {
@@ -521,145 +553,112 @@
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/business/2026/sep/03/yen-soars-bank-of-japan-tipped-to-raise-interest-rates",
-      "title": "Yen soars as Bank of Japan tipped to raise interest rates",
-      "summary": "<p>Jump lifts currency to highest level against dollar in a month, while global markets remain jittery</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/sep/03/uk-mortgage-rates-set-to-rise-bond-sell-off-borrowing-costs-latest-news-updates\">Business live – latest updates</a></p><",
+      "link": "https://www.theguardian.com/australia-news/live/2026/sep/07/anthony-albanese-labor-lobbying-rules-greens-social-media-fines-ntwnfb",
+      "title": "Australia news live: Chalmers says next election to be fought on super after One Nation reveals plan; Sydney to get urban solar farm",
+      "summary": "<p>Follow the day’s news live</p><p>One Nation has come up with a plan to give people their superannuation earlier, reducing the amount they’ll have at retirement in exchange for a current cash boost.</p><p><strong>Pauline Hanson</strong> says under their plan anyone paying rent or a mortgage can ta",
       "paragraphs": [
-        "<p>Jump lifts currency to highest level against dollar in a month, while global markets remain jittery</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/sep/03/uk-mortgage-rates-set-to-rise-bond-sell-off-borrowing-costs-latest-news-updates\">Business live – latest updates</a></p></li></ul><p>The Japanese yen has soared by more than 2% against the dollar amid speculation the Bank of Japan is set to raise interest rates.</p><p>The latest jump on Thursday lifted the yen to its highest level against the dollar in a month, at 155.57, and followed a 0.9% move the previous day.</p> <a href=\"https://www.theguardian.com/business/2026/sep/03/yen-soars-bank-of-japan-tipped-to-raise-interest-rates\">Continue reading...</a>"
+        "<p>Follow the day’s news live</p><p>One Nation has come up with a plan to give people their superannuation earlier, reducing the amount they’ll have at retirement in exchange for a current cash boost.</p><p><strong>Pauline Hanson</strong> says under their plan anyone paying rent or a mortgage can take up to a quarter of their super as a “pay boost” for up to three years.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/sep/07/anthony-albanese-labor-lobbying-rules-greens-social-media-fines-ntwnfb\">Continue reading...</a>"
       ],
-      "date": "2026-09-03",
+      "date": "2026-09-07",
       "real": true
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/environment/2026/sep/03/china-co2-emissions-iran-war",
-      "title": "China’s falling emissions amid Iran war spark hope of decarbonisation watershed",
-      "summary": "<p>Oil consumption plummets and EV sales soar as analysts say demand may not fully return even if crude price falls</p><p>China’s carbon dioxide emissions fell by 1% after the outbreak of the US-Israeli war on Iran, thanks to a sharp reduction in oil consumption and a steady rise in the use of elect",
+      "link": "https://www.theguardian.com/australia-news/2026/sep/07/australian-woman-buried-in-mushroom-coffin-blue-mountains",
+      "title": "Woman laid to rest in coffin made from mushrooms in Australian first",
+      "summary": "<p>The casket, grown from mycelium and hemp fibres, takes just 45 days to break down, enriching the soil in the process</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/sep/07/anthony-albanese-labor-lobbying-rules-greens-social-media-fines-ntwnfb\">Follow our Australia news",
       "paragraphs": [
-        "<p>Oil consumption plummets and EV sales soar as analysts say demand may not fully return even if crude price falls</p><p>China’s carbon dioxide emissions fell by 1% after the outbreak of the US-Israeli war on Iran, thanks to a sharp reduction in oil consumption and a steady rise in the use of electric vehicles and public transport, analysis shows.</p><p><a href=\"https://www.carbonbrief.org/analysis-chinas-co2-emissions-fall-in-q2-2026-due-to-plummeting-oil-use\">The report</a> reveals the role of clean energy in cushioning the price shocks caused by the <a href=\"https://www.theguardian.com/world/strait-of-hormuz\">strait of Hormuz</a> crisis to the world’s biggest oil importer. It also reinforces hopes that China, which is the world’s biggest greenhouse gas emitter, may be nearing a turning point in decarbonising its economy.</p> <a href=\"https://www.theguardian.com/environment/2026/sep/03/china-co2-emissions-iran-war\">Continue reading...</a>"
-      ],
-      "date": "2026-09-02",
-      "real": true
-    },
-    {
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/world/2026/sep/02/japan-new-speed-limit-30kmh-narrow-city-streets",
-      "title": "Japan halves speed limit to 30km/h on all narrow city streets",
-      "summary": "<p>Speed limit dropped from 60km/h for around 70% of general roads in the hope of making narrow streets of crowded cities safer</p><p>Drivers on residential roads in <a href=\"https://www.theguardian.com/world/japan\">Japan</a> have been forced to take their foot off the accelerator, after the speed l",
-      "paragraphs": [
-        "<p>Speed limit dropped from 60km/h for around 70% of general roads in the hope of making narrow streets of crowded cities safer</p><p>Drivers on residential roads in <a href=\"https://www.theguardian.com/world/japan\">Japan</a> have been forced to take their foot off the accelerator, after the speed limit was slashed from 60km/h (37mph) to 30km/h in an attempt to reduce deaths and injuries among pedestrians on narrow urban streets.</p><p>The new limit, which went into effect on Tuesday, applies to residential roads with no centre line or maximum speed signs, media reports said.</p> <a href=\"https://www.theguardian.com/world/2026/sep/02/japan-new-speed-limit-30kmh-narrow-city-streets\">Continue reading...</a>"
-      ],
-      "date": "2026-09-02",
-      "real": true
-    },
-    {
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/australia-news/live/2026/sep/06/australia-news-live-albanese-labor-party-coaltion-liberal-party-nepal-floods-ntwnfb",
-      "title": "Australia news live: Taylor proposes laws against flag burning and to lock in 26 January as Australia Day",
-      "summary": "<p>Follow today’s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podc",
-      "paragraphs": [
-        "<p>Follow today’s news live</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>Duniam targets ‘frivolous’ asylum seeker claims</strong></p><p>The opposition is “very close” to “having a full migration package”, Duniam says. He says they’re willing to work with the government and that illegal overstayers must be deported.</p><p>We spend more per student per year than we ever have before and we’ve got declining standards across the board, and the problem with the curriculum is we have left foundations behind.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/sep/06/australia-news-live-albanese-labor-party-coaltion-liberal-party-nepal-floods-ntwnfb\">Continue reading...</a>"
+        "<p>The casket, grown from mycelium and hemp fibres, takes just 45 days to break down, enriching the soil in the process</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/sep/07/anthony-albanese-labor-lobbying-rules-greens-social-media-fines-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>A woman has been buried in a coffin made from mushrooms in New South Wales in an eco-friendly first for Australia.</p><p>Carolyn, whose surname was withheld for privacy reasons, was laid to rest on Friday by friends and family at Springwood Cemetery in the Blue Mountains. She was aged in her 70s.</p> <a href=\"https://www.theguardian.com/australia-news/2026/sep/07/australian-woman-buried-in-mushroom-coffin-blue-mountains\">Continue reading...</a>"
       ],
       "date": "2026-09-06",
       "real": true
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/environment/2026/sep/06/possums-in-the-roof-koalas-in-bed-study-shows-how-animals-resort-to-australian-homes-after-habitat-loss",
-      "title": "Possums in the roof, koalas in bed: study shows how animals resort to Australian homes after habitat loss",
-      "summary": "<p>Microbats and wombats among the most common species found in buildings, with some discovered in letter boxes or air conditioning systems</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/sep/06/australia-news-live-albanese-labor-party-coaltion-liberal-party-nepal-floods-",
+      "link": "https://www.theguardian.com/australia-news/2026/sep/07/zomi-frankcom-israel-gaza-idf-world-central-kitchen-ntwnfb",
+      "title": "Greens criticise Labor after former IDF officer’s ‘reprehensible’ comments on Zomi Frankcom strike",
+      "summary": "<p>David Shoebridge says ‘words are just distractions’ until government takes action</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/sep/07/anthony-albanese-labor-lobbying-rules-greens-social-media-fines-ntwnfb\">Follow our Australia news live blog for latest updates</a></",
       "paragraphs": [
-        "<p>Microbats and wombats among the most common species found in buildings, with some discovered in letter boxes or air conditioning systems</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/sep/06/australia-news-live-albanese-labor-party-coaltion-liberal-party-nepal-floods-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Possums in the roof, bats in the curtains and ducks on the balcony: new research has revealed how native animals are making themselves at home in our houses.</p><p>Researchers have analysed a decade of wildlife rescue reports and found brushtail and ringtail possums make up half of all cases of animals in buildings, followed by microbats and bare-nosed wombats.</p> <a href=\"https://www.theguardian.com/environment/2026/sep/06/possums-in-the-roof-koalas-in-bed-study-shows-how-animals-resort-to-australian-homes-after-habitat-loss\">Continue reading...</a>"
+        "<p>David Shoebridge says ‘words are just distractions’ until government takes action</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/sep/07/anthony-albanese-labor-lobbying-rules-greens-social-media-fines-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p><a href=\"https://www.theguardian.com/world/2026/sep/05/aid-workers-gaza-killed-in-israel-airstrike-investigation\">‘Guilt by association’: why seven international aid workers were killed in Israeli airstrike</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The Greens have criticised inflammatory statements from the former Israel Defense Forces officer who ordered the attack that killed Zomi Frankcom, accusing the Albanese government of weakness over its failure to halt military exports and impose new sanctions.</p><p>Australian aid worker Frankcom and <a href=\"https://www.theguardian.com/australia-news/2026/aug/21/australian-aid-worker-zomi-frankcom-idf-cleared-what-happened-ntwnfb\">six of her colleagues were killed in 2024</a> while bringing food to the people of <a href=\"https://www.theguardian.com/world/gaza\">Gaza</a>. Former IDF reserve colonel Nochi Mendel <a href=\"https://www.theguardian.com/world/2026/sep/05/aid-workers-gaza-killed-in-israel-airstrike-investigation\">has said</a> he would do “exactly the same thing” again and that those killed in the World Central Kitchen (WCK) humanitarian convoy in Gaza were “not innocent”.</p> <a href=\"https://www.theguardian.com/australia-news/2026/sep/07/zomi-frankcom-israel-gaza-idf-world-central-kitchen-ntwnfb\">Continue reading...</a>"
       ],
-      "date": "2026-09-05",
+      "date": "2026-09-06",
       "real": true
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/australia-news/2026/sep/06/fix-victoria-ai-ads-flooding-social-media-election-who-is-behind-them",
-      "title": "Alarming AI ads are flooding social media in the lead-up to Victoria’s election. But who is behind them?",
-      "summary": "<p>A machete-wielding robber, a ‘tsunami of debt’ … campaigns echoing opposition talking points outspend major parties</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/sep/06/australia-news-live-albanese-labor-party-coaltion-liberal-party-nepal-floods-ntwnfb\">Follow our Au",
+      "link": "https://www.theguardian.com/australia-news/2026/sep/06/manhunt-after-alleged-axe-attack-in-victoria-leaves-three-people-with-life-threatening-injuries-ntwnfb",
+      "title": "Victoria police hunt for man on run after allegedly attacking brother and parents with axe",
+      "summary": "<p>Police say they believe argument took place before three people critically injured in Gippsland town of Tyers on Saturday</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a",
       "paragraphs": [
-        "<p>A machete-wielding robber, a ‘tsunami of debt’ … campaigns echoing opposition talking points outspend major parties</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/sep/06/australia-news-live-albanese-labor-party-coaltion-liberal-party-nepal-floods-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>A man clad in a balaclava and brandishing a machete terrorises a worker at a petrol station before firebombing the building on the way out.</p><p>A woman gives birth on the side of the road, unable to reach a hospital due to <a href=\"https://www.theguardian.com/australia-news/2023/nov/18/how-anne-pedler-last-hours-were-spent-ramped-in-an-ambulance\">ambulance ramping</a> and crater-like potholes, which also stop a fire truck in its tracks.</p> <a href=\"https://www.theguardian.com/australia-news/2026/sep/06/fix-victoria-ai-ads-flooding-social-media-election-who-is-behind-them\">Continue reading...</a>"
+        "<p>Police say they believe argument took place before three people critically injured in Gippsland town of Tyers on Saturday</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Victoria police have urged the public to remain vigilant as they search for a man who allegedly attacked his brother and parents with an axe or tomahawk.</p><p>Police issued an arrest warrant on Sunday for Peter O’Ryan, 48, whose last known location was his family’s home in the Gippsland town of Tyers.</p> <a href=\"https://www.theguardian.com/australia-news/2026/sep/06/manhunt-after-alleged-axe-attack-in-victoria-leaves-three-people-with-life-threatening-injuries-ntwnfb\">Continue reading...</a>"
       ],
-      "date": "2026-09-05",
+      "date": "2026-09-06",
       "real": true
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/australia-news/2026/sep/05/sydney-set-to-hit-33c-in-warmest-start-to-spring-since-mid-1800s-while-snow-forecast-in-southern-nsw",
-      "title": "Sydney reaches 33C in potentially warmest start to spring since mid-1800s, while snow forecast in southern NSW",
-      "summary": "<p>A total fire ban is in place for greater Sydney with extreme fire danger exacerbated by hot and windy conditions</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"ht",
+      "link": "https://www.theguardian.com/australia-news/2026/sep/06/qantas-flight-queenstown-to-sydney-rerouted-flames-seen-by-passengers",
+      "title": "‘The engine’s on fire’: Qantas flight from Queenstown to Sydney reroutes after flames seen by passengers",
+      "summary": "<p>Passenger recalls seeing cabin lights flicker and ‘a lot of screaming’ after suspected engine issue</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.the",
       "paragraphs": [
-        "<p>A total fire ban is in place for greater Sydney with extreme fire danger exacerbated by hot and windy conditions</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Summer heat is due to arrive early across much of eastern Australia with potentially record early September temperatures predicted for Brisbane and Sydney, while snow was expected in southern New South Wales.</p><p>Maximum temperatures in Sydney during the first days of September were on track to match the city’s midsummer average of 26.4C, warmer than any other start to spring since the city’s Observatory Hill station opened in 1858.</p> <a href=\"https://www.theguardian.com/australia-news/2026/sep/05/sydney-set-to-hit-33c-in-warmest-start-to-spring-since-mid-1800s-while-snow-forecast-in-southern-nsw\">Continue reading...</a>"
+        "<p>Passenger recalls seeing cabin lights flicker and ‘a lot of screaming’ after suspected engine issue</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Liza-Jayne Loch was returning home from a business trip to New Zealand when her <a href=\"https://www.theguardian.com/business/qantas\">Qantas</a> flight ran into trouble.</p><p>The plane was climbing above the scenic South Island’s mountain ranges on Saturday afternoon, bound for Sydney, when a bang shook the cabin.</p> <a href=\"https://www.theguardian.com/australia-news/2026/sep/06/qantas-flight-queenstown-to-sydney-rerouted-flames-seen-by-passengers\">Continue reading...</a>"
       ],
-      "date": "2026-09-05",
+      "date": "2026-09-06",
       "real": true
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/australia-news/2026/sep/05/house-prices-trending-down-sydney-melbourne-brisbane-perth-darwin",
-      "title": "Australia’s housing prices are trending down. See which suburbs have had the biggest falls",
-      "summary": "<p>Cotality says prices have declined in most capital cities over winter. Search the data to see how they have changed in your area</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a",
+      "link": "https://www.theguardian.com/world/2026/sep/06/us-envoys-jared-kushner-steve-witkoff-arrive-kyiv-talks-on-ending-war",
+      "title": "US envoys Kushner and Witkoff visit Kyiv for first time after Putin talks",
+      "summary": "<p>Witkoff says he hopes trilateral talks involving the US, Ukraine and Europe will be announced ‘in short order’</p><p>The US negotiators Jared Kushner and Steve Witkoff travelled to Ukraine for the first time on Sunday for talks with Volodymyr Zelenskyy in an attempt to end the war with Russia.</p",
       "paragraphs": [
-        "<p>Cotality says prices have declined in most capital cities over winter. Search the data to see how they have changed in your area</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Australia’s property market is facing a rare price correction, as rising interest rates and <a href=\"https://www.theguardian.com/australia-news/2026/aug/13/property-investors-australia-tax-negative-gearing-rba-interest-rates\">less favourable tax settings for investors</a> accelerate a downturn.</p><p>Most capital cities recorded winter price falls, according to Cotality data, with Sydney leading the decline. That weakness is expected to continue, as higher inflation could lead to <a href=\"https://www.theguardian.com/australia-news/2026/sep/02/property-house-prices-drop-sydney-melbourne-brisbane-perth-adelaide-interest-rates\">further interest rate hikes</a>, denting demand.</p> <a href=\"https://www.theguardian.com/australia-news/2026/sep/05/house-prices-trending-down-sydney-melbourne-brisbane-perth-darwin\">Continue reading...</a>"
+        "<p>Witkoff says he hopes trilateral talks involving the US, Ukraine and Europe will be announced ‘in short order’</p><p>The US negotiators Jared Kushner and Steve Witkoff travelled to Ukraine for the first time on Sunday for talks with Volodymyr Zelenskyy in an attempt to end the war with Russia.</p><p>The Ukrainian president announced plans to widen peace discussions to include European countries in the near future, saying he wanted to do “everything to ensure that trilateral meetings take place” with Ukraine, the US and Europe.</p> <a href=\"https://www.theguardian.com/world/2026/sep/06/us-envoys-jared-kushner-steve-witkoff-arrive-kyiv-talks-on-ending-war\">Continue reading...</a>"
       ],
-      "date": "2026-09-04",
+      "date": "2026-09-06",
       "real": true
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/world/2026/sep/05/steve-witkoff-jared-kushner-russia-revive-ukraine-talks",
-      "title": "Putin begins talks with Steve Witkoff and Jared Kushner on ending war with Ukraine",
-      "summary": "<p>Moscow and Kyiv vow not to strike each other’s capitals for three days during negotiations </p><p>Russian president Vladimir Putin began talks with US envoys Jared Kushner and Steve Witkoff in the Kremlin on Saturday – aimed at ending more than four years of war in Ukraine, ahead of the pair’s fi",
+      "link": "https://www.theguardian.com/world/2026/sep/06/saxony-anhalt-germany-afd-exit-poll-ulrich-siegmund",
+      "title": "Far-right AfD wins key German state election but may fail to secure majority",
+      "summary": "<p>Projections show Alternative für Deutschland on 44.4% of vote in Saxony-Anhalt after huge turnout, with votes still being counted</p><p>The populist, far-right, anti-immigration Alternative für Deutschland (AfD) has emerged as the winner in a crucial state election in Germany, exit polls have pro",
       "paragraphs": [
-        "<p>Moscow and Kyiv vow not to strike each other’s capitals for three days during negotiations </p><p>Russian president Vladimir Putin began talks with US envoys Jared Kushner and Steve Witkoff in the Kremlin on Saturday – aimed at ending more than four years of war in Ukraine, ahead of the pair’s first visit to Kyiv expected on Sunday.</p><p>Both Russia and Ukraine vowed not to strike each other’s capitals for three days during the negotiations, as Washington tries to revive US-led talks to end Europe’s worst conflict since the second world war.</p> <a href=\"https://www.theguardian.com/world/2026/sep/05/steve-witkoff-jared-kushner-russia-revive-ukraine-talks\">Continue reading...</a>"
+        "<p>Projections show Alternative für Deutschland on 44.4% of vote in Saxony-Anhalt after huge turnout, with votes still being counted</p><p>The populist, far-right, anti-immigration Alternative für Deutschland (AfD) has emerged as the winner in a crucial state election in Germany, exit polls have projected, securing a historic result and more than doubling its support. The AfD now appear on the brink of becoming the first far-right party to gain power in Germany at state level since the second world war.<strong> </strong></p><p>Initial exit polls showed the party to have secured 44.4% of the vote, a larger share than predicted, and<strong> </strong>decisively larger than that of the Christian Democrats (CDU) of the chancellor, Friedrich Merz, in a contest that was being followed across the world. However, it still remains unclear as to how and whether the AfD will be able to form a government, having ruled out entering a coalition and being refused any form of cooperation by the mainstream parties<strong>.</strong></p> <a href=\"https://www.theguardian.com/world/2026/sep/06/saxony-anhalt-germany-afd-exit-poll-ulrich-siegmund\">Continue reading...</a>"
       ],
-      "date": "2026-09-05",
+      "date": "2026-09-06",
       "real": true
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/uk-news/2026/sep/05/prince-william-to-represent-king-charles-at-funeral-of-norways-king-harald-v",
-      "title": "Prince William to represent King Charles at funeral of Norway’s King Harald V",
-      "summary": "<p>Duty falls by precedent to William to attend service of late monarch, alongside Princess Royal, who is godmother to new king Haakon VIII </p><p>The Prince of Wales is to represent his father at the funeral of King Harald V of Norway next week, Buckingham Palace has announced.</p><p>William, the h",
+      "link": "https://www.theguardian.com/business/2026/sep/06/eu-factory-job-cuts-china-colonises-supply-chains-industry-warns",
+      "title": "EU faces 300,000 factory job cuts as China ‘colonises’ supply chains, industry warns",
+      "summary": "<p>Protest using 10 coffins to symbolise struggling manufacturing industry to take place in Brussels</p><p>Job losses in EU manufacturing will rapidly increase unless Brussels stops the “colonisation” of industry by Chinese component manufacturers, a leading industry trade body has warned.</p><p>Eur",
       "paragraphs": [
-        "<p>Duty falls by precedent to William to attend service of late monarch, alongside Princess Royal, who is godmother to new king Haakon VIII </p><p>The Prince of Wales is to represent his father at the funeral of King Harald V of Norway next week, Buckingham Palace has announced.</p><p>William, the heir to the throne, will be joined by his aunt the Princess Royal, who is attending in a private and personal capacity as godmother of the new king, Haakon VIII.</p> <a href=\"https://www.theguardian.com/uk-news/2026/sep/05/prince-william-to-represent-king-charles-at-funeral-of-norways-king-harald-v\">Continue reading...</a>"
+        "<p>Protest using 10 coffins to symbolise struggling manufacturing industry to take place in Brussels</p><p>Job losses in EU manufacturing will rapidly increase unless Brussels stops the “colonisation” of industry by Chinese component manufacturers, a leading industry trade body has warned.</p><p>Eurometal predicts 300,000 job losses in manufacturing in the rest of 2026 because of expanding competition from China, which is now enjoying a record <a href=\"https://www.theguardian.com/business/2026/jun/15/eu-trade-deficit-with-china-record-1bn-a-day\">€1bn-a-day trade surplus</a> with the bloc.</p> <a href=\"https://www.theguardian.com/business/2026/sep/06/eu-factory-job-cuts-china-colonises-supply-chains-industry-warns\">Continue reading...</a>"
       ],
-      "date": "2026-09-05",
+      "date": "2026-09-06",
       "real": true
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/world/2026/sep/05/europe-unable-sustain-war-of-attrition-russia-defence-officials-say",
-      "title": "Europe would not be able to sustain war of attrition with Russia, defence officials say",
-      "summary": "<p>Security experts fear Putin may be winning hybrid war with the west amid rise of pro-Kremlin, far-right parties</p><p>Defence planners working with Nato fear that if war broke out with Russia, Europe could not currently sustain a prolonged war of attrition owing to a public lack of war readiness,",
+      "link": "https://www.theguardian.com/business/2026/sep/06/german-startup-sends-first-commercial-rocket-into-space-from-europe",
+      "title": "German startup sends first commercial rocket into space from Europe",
+      "summary": "<p>Isar Aerospace plans rapid expansion amid race to capitalise on expanding satellite-launch market</p><p>A German startup has launched the first commercial rocket to reach orbit from continental Europe, a milestone for Europe’s efforts to secure independent access to space.</p><p>Isar Aerospace sa",
       "paragraphs": [
-        "<p>Security experts fear Putin may be winning hybrid war with the west amid rise of pro-Kremlin, far-right parties</p><p>Defence planners working with Nato fear that if war broke out with Russia, Europe could not currently sustain a prolonged war of attrition owing to a public lack of war readiness, a conference on the future of European military coordination heard this week.</p><p>The pessimism reflects concern that Russia may be winning a so-called hybrid war with Europe, weakening the options available to Nato war planners in the event of military conflict.</p> <a href=\"https://www.theguardian.com/world/2026/sep/05/europe-unable-sustain-war-of-attrition-russia-defence-officials-say\">Continue reading...</a>"
+        "<p>Isar Aerospace plans rapid expansion amid race to capitalise on expanding satellite-launch market</p><p>A German startup has launched the first commercial rocket to reach orbit from continental Europe, a milestone for Europe’s efforts to secure independent access to space.</p><p>Isar Aerospace said on Sunday that it would rapidly ⁠expand satellite deployments after the ⁠first orbital launch of ​its uncrewed Spectrum rocket from Arctic Norway, marking a ⁠breakthrough for a region where several countries are seeking a foothold in the fast-growing market for satellite launches.</p> <a href=\"https://www.theguardian.com/business/2026/sep/06/german-startup-sends-first-commercial-rocket-into-space-from-europe\">Continue reading...</a>"
       ],
-      "date": "2026-09-05",
+      "date": "2026-09-06",
       "real": true
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/politics/2026/sep/05/sweden-britons-deportations-brexit",
-      "title": "Sweden confirms 458 Britons deported or forcibly removed since Brexit",
-      "summary": "<p>Scale of deportations made public for first time amid criticism of hardline approach to UK citizens</p><p>Sweden has confirmed 458 British citizens have been deported or forcibly removed by police since Brexit.</p><p>It is the first time the scale of the deportations of citizens who failed to sec",
+      "link": "https://www.theguardian.com/sport/2026/sep/06/canadian-skyrunner-kalie-mccrystal-missing-matterhorn-alps",
+      "title": "Canadian skyrunner goes missing during training session for Matterhorn record attempt",
+      "summary": "<ul><li><p>Kalie McCrystal was hoping to break record in Alps</p></li><li><p>Athlete was last seen on Tuesday afternoon</p></li></ul><p>Canadian athlete Kalie McCrystal has gone missing during preparations for a record attempt in the Alps.</p><p>McCrystal, from Squamish in British Columbia, was on a",
       "paragraphs": [
-        "<p>Scale of deportations made public for first time amid criticism of hardline approach to UK citizens</p><p>Sweden has confirmed 458 British citizens have been deported or forcibly removed by police since Brexit.</p><p>It is the first time the scale of the deportations of citizens who failed to secure residency in Sweden post-Brexit has been made public and comes amid mounting criticism of a cruel and hardline approach to Britons who had chosen to make the country their home before Brexit.</p> <a href=\"https://www.theguardian.com/politics/2026/sep/05/sweden-britons-deportations-brexit\">Continue reading...</a>"
+        "<ul><li><p>Kalie McCrystal was hoping to break record in Alps</p></li><li><p>Athlete was last seen on Tuesday afternoon</p></li></ul><p>Canadian athlete Kalie McCrystal has gone missing during preparations for a record attempt in the Alps.</p><p>McCrystal, from Squamish in British Columbia, was on a “reconnaissance/training session” in the run-up to her attempt at ascending and descending the 14,692 ft (4,478m) Matterhorn on the Swiss-Italian border.</p> <a href=\"https://www.theguardian.com/sport/2026/sep/06/canadian-skyrunner-kalie-mccrystal-missing-matterhorn-alps\">Continue reading...</a>"
       ],
-      "date": "2026-09-05",
-      "real": true
-    },
-    {
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/world/2026/sep/05/katie-taylor-boxing-valedictory-bout-croke-park-ireland",
-      "title": "‘Every girl now wants to be a boxer’: excitement in Katie Taylor’s home town for her valedictory bout",
-      "summary": "<p>Irish boxer lauded for her tenacity and inspiration before her last fight in front of 80,000 people at Croke Park</p><p>When<a href=\"https://www.theguardian.com/sport/katie-taylor\"> </a>Katie Taylor steps into the ring on Saturday night to defend her titles and once again enthral Ireland, there w",
-      "paragraphs": [
-        "<p>Irish boxer lauded for her tenacity and inspiration before her last fight in front of 80,000 people at Croke Park</p><p>When<a href=\"https://www.theguardian.com/sport/katie-taylor\"> </a>Katie Taylor steps into the ring on Saturday night to defend her titles and once again enthral Ireland, there will be a bittersweet tinge. After a singular career that pioneered women’s boxing, the super-lightweight champion and Olympic gold medallist is bowing out. She is 40 and it is to be her final bout.</p><p>“The end of an era, isn’t it?” said Trevor McMahon, her brother-in-law and founder of a gym where she trains. “It’ll be an amazing night but it’ll also be a little bit sad. Everything she did, it might not ever be achieved again.”</p> <a href=\"https://www.theguardian.com/world/2026/sep/05/katie-taylor-boxing-valedictory-bout-croke-park-ireland\">Continue reading...</a>"
-      ],
-      "date": "2026-09-05",
+      "date": "2026-09-06",
       "real": true
     }
   ]
