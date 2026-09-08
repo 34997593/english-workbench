@@ -1,25 +1,91 @@
 {
-  "updated": "2026-09-07T00:23:35Z",
+  "updated": "2026-09-08T00:45:26Z",
   "count": 60,
   "articles": [
     {
       "source": "NPR",
-      "link": "https://www.npr.org/2026/09/06/nx-s1-5959749/amazon-cargo-plane-crashes-at-miami-airport",
-      "title": "Five dead after Amazon cargo plane crashes at Miami airport",
-      "summary": "Video showed thick smoke rising from the plane crash of the Boeing 767 that the Federal Aviation Administration says overran the airport runway in Miami.",
+      "link": "https://www.npr.org/2026/09/07/nx-s1-5960357/nepal-floods-questions-over-chinas-reporting",
+      "title": "As Nepal identifies those killed in the floods, questions grow over China's reporting",
+      "summary": "One week after the deadly floods, very little is known about China's dead or missing. China's control over media and digital censorship is in stark contrast to open reporting in Nepal.",
       "paragraphs": [
-        "Video showed thick smoke rising from the plane crash of the Boeing 767 that the Federal Aviation Administration says overran the airport runway in Miami."
+        "One week after the deadly floods, very little is known about China's dead or missing. China's control over media and digital censorship is in stark contrast to open reporting in Nepal."
+      ],
+      "date": "2026-09-07",
+      "real": true
+    },
+    {
+      "source": "NPR",
+      "link": "https://www.npr.org/2026/09/07/g-s1-142210/up-first-newsletter-miami-plane-crash-ukraine-affirmative-for-germany",
+      "title": "5 dead after crash at Miami Airport. And, Germany's far-right wins state election",
+      "summary": "A cargo plane crash at Miami International Airport has left five people dead and several others injured. And, Germany's far-right AfD party achieves an electoral victory in a key state election.",
+      "paragraphs": [
+        "A cargo plane crash at Miami International Airport has left five people dead and several others injured. And, Germany's far-right AfD party achieves an electoral victory in a key state election."
+      ],
+      "date": "2026-09-07",
+      "real": true
+    },
+    {
+      "source": "NPR",
+      "link": "https://www.npr.org/2026/09/07/nx-s1-5955552/copper-peptides-skin-aging-health-safe",
+      "title": "The copper peptide trend has gone from creams to injections — ahead of the science",
+      "summary": "The peptide is supposed to deliver flawless and firm skin, promote wound healing and other anti-aging effects. So what's the evidence behind GHK-Cu?",
+      "paragraphs": [
+        "The peptide is supposed to deliver flawless and firm skin, promote wound healing and other anti-aging effects. So what's the evidence behind GHK-Cu?"
+      ],
+      "date": "2026-09-07",
+      "real": true
+    },
+    {
+      "source": "NPR",
+      "link": "https://www.npr.org/2026/09/07/nx-s1-5887297/new-school-year-starts",
+      "title": "The first day of school: Bells, bikes, buses and big feelings",
+      "summary": "Fifth graders calm school kindergartners in Los Angeles. Kids take the \"bike bus\" in Oklahoma. High school students take in a new high school building in Oregon.",
+      "paragraphs": [
+        "Fifth graders calm school kindergartners in Los Angeles. Kids take the \"bike bus\" in Oklahoma. High school students take in a new high school building in Oregon."
+      ],
+      "date": "2026-09-07",
+      "real": true
+    },
+    {
+      "source": "NPR",
+      "link": "https://www.npr.org/2026/09/07/nx-s1-5644782/heat-deaths-manufactured-mobile-homes",
+      "title": "'Her body temperature was 106': How heat is killing Americans in their homes",
+      "summary": "Heat kills thousands of people across the U.S. every year. The risk is especially high for the millions of Americans who live in manufactured housing like mobile homes and trailers.",
+      "paragraphs": [
+        "Heat kills thousands of people across the U.S. every year. The risk is especially high for the millions of Americans who live in manufactured housing like mobile homes and trailers."
+      ],
+      "date": "2026-09-07",
+      "real": true
+    },
+    {
+      "source": "NPR",
+      "link": "https://www.npr.org/2026/09/07/nx-s1-5955374/morning-news-brief",
+      "title": "Morning news brief",
+      "summary": "Five people are dead after a cargo plane crash at Miami International Airport, Trump's top envoys go to Ukraine with hopes of restarting peace talks, Germany's far-right party wins landslide victory.",
+      "paragraphs": [
+        "Five people are dead after a cargo plane crash at Miami International Airport, Trump's top envoys go to Ukraine with hopes of restarting peace talks, Germany's far-right party wins landslide victory."
+      ],
+      "date": "2026-09-07",
+      "real": true
+    },
+    {
+      "source": "NPR",
+      "link": "https://www.npr.org/2026/09/06/nx-s1-5959749/amazon-cargo-plane-crashes-at-miami-airport",
+      "title": "Investigators seek answers after Amazon cargo plane crash kills five at Miami airport",
+      "summary": "An Amazon Prime cargo plane was landing at the airport around 2 p.m. ET on Sunday when it overran the runway, crashed and rammed into vehicles on the ground, according to FAA.",
+      "paragraphs": [
+        "An Amazon Prime cargo plane was landing at the airport around 2 p.m. ET on Sunday when it overran the runway, crashed and rammed into vehicles on the ground, according to FAA."
       ],
       "date": "2026-09-06",
       "real": true
     },
     {
       "source": "NPR",
-      "link": "https://www.npr.org/2026/09/06/nx-s1-5955677/german-afd-far-right-exit",
-      "title": "German exit polls suggest far-right party has big lead in regional election",
-      "summary": "Exit polls show Germany's AfD taking a commanding lead in a regional election, but it remains unclear whether the far-right party can form the country's first state government since World War II.",
+      "link": "https://www.npr.org/2026/09/06/nx-s1-5955677/german-afd-far-right",
+      "title": "Germany's far-right achieves an electoral breakthrough in key state election",
+      "summary": "Germany's populist, far-right Alternative for Germany party has declared victory in the state of Saxony-Anhalt after more than doubling its share of the vote in the first of several regional elections this fall.",
       "paragraphs": [
-        "Exit polls show Germany's AfD taking a commanding lead in a regional election, but it remains unclear whether the far-right party can form the country's first state government since World War II."
+        "Germany's populist, far-right Alternative for Germany party has declared victory in the state of Saxony-Anhalt after more than doubling its share of the vote in the first of several regional elections this fall."
       ],
       "date": "2026-09-06",
       "real": true
@@ -48,73 +114,20 @@
       "real": true
     },
     {
-      "source": "NPR",
-      "link": "https://www.npr.org/2026/09/06/nx-s1-5957512/quiz-ugh-ill-do-it-later-how-much-do-you-know-about-procrastination",
-      "title": "QUIZ: Ugh, I'll do it later. How much do you know about procrastination?",
-      "summary": "Learn a few surprising facts about procrastination — and helpful tools to overcome it — with this quiz. It's based on social scientist Itamar Shatz's new book, <em>Solving Procrastination</em>.",
-      "paragraphs": [
-        "Solving Procrastination . It's also a hint to one of our quiz questions below.'/> Learn a few surprising facts about procrastination — and helpful tools to overcome it — with this quiz. It's based on social scientist Itamar Shatz's new book, Solving Procrastination ."
-      ],
-      "date": "2026-09-06",
-      "real": true
-    },
-    {
-      "source": "NPR",
-      "link": "https://www.npr.org/2026/09/06/g-s1-141564/kindness-respect-feelings",
-      "title": "Whatever happened to kindness? Spoiler alert: Our readers prove it's alive and well",
-      "summary": "We asked readers to share stories about a moment of kindness involving a stranger. Here are some of their heartwarming anecdotes.",
-      "paragraphs": [
-        "We asked readers to share stories about a moment of kindness involving a stranger. Here are some of their heartwarming anecdotes."
-      ],
-      "date": "2026-09-06",
-      "real": true
-    },
-    {
-      "source": "NPR",
-      "link": "https://www.npr.org/2026/09/05/nx-s1-5955500/saxophone-legend-john-coltranes-philadelphia-house-to-become-a-cultural-heritage-site",
-      "title": "Jazz legend John Coltrane's Philadelphia house to become a cultural heritage site",
-      "summary": "On the centennial of father's birth, Ravi Coltrane talks about turning the home where the jazz legend spent a crucial period in the 1950s into a cultural heritage and community space.",
-      "paragraphs": [
-        "On the centennial of father's birth, Ravi Coltrane talks about turning the home where the jazz legend spent a crucial period in the 1950s into a cultural heritage and community space."
-      ],
-      "date": "2026-09-05",
-      "real": true
-    },
-    {
-      "source": "NPR",
-      "link": "https://www.npr.org/2026/09/05/nx-s1-5959159/us-iran-warships-targeted",
-      "title": "U.S. and Iran trade attacks on ships as fighting flares up again",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/9/8/iran-war-live-qatar-warns-of-industrial-catastrophe-if-crisis-continues?traffic_source=rss",
+      "title": "Iran war live: Qatar warns of ‘industrial catastrophe’ if crisis continues",
       "summary": "",
-      "paragraphs": [],
-      "date": "2026-09-05",
-      "real": true
-    },
-    {
-      "source": "NPR",
-      "link": "https://www.npr.org/2026/09/05/nx-s1-5948663/opinion-a-sculpture-in-perpetual-motion-removed",
-      "title": "Opinion: A sculpture in perpetual motion, removed",
-      "summary": "\"Blue,\" a statue that's been on the grounds of the Kennedy Center in Washington, D.C. for 7 years has been dismantled and removed.",
       "paragraphs": [
-        "\"Blue,\" a statue that's been on the grounds of the Kennedy Center in Washington, D.C. for 7 years has been dismantled and removed."
+        ""
       ],
-      "date": "2026-09-05",
-      "real": true
-    },
-    {
-      "source": "NPR",
-      "link": "https://www.npr.org/2026/09/05/nx-s1-5957875/trump-administration-to-dig-at-triumphal-arch-site-despite-no-final-federal-approvals",
-      "title": "Trump administration to dig at triumphal arch site despite no final federal approvals",
-      "summary": "The Trump administration says it will break ground on a 250-foot triumphal arch in Washington, D.C., without final federal approval and despite an ongoing lawsuit.",
-      "paragraphs": [
-        "The Trump administration says it will break ground on a 250-foot triumphal arch in Washington, D.C., without final federal approval and despite an ongoing lawsuit."
-      ],
-      "date": "2026-09-05",
+      "date": "2026-09-08",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/9/7/iran-war-live-tehran-to-announce-new-hormuz-shipping-route-in-coming-days?traffic_source=rss",
-      "title": "Iran war live: Tehran to announce new Hormuz shipping route in coming days",
+      "link": "https://www.aljazeera.com/news/2026/9/7/houthis-accuse-saudi-arabia-of-killing-seven-in-yemen-prison-attack?traffic_source=rss",
+      "title": "Houthis accuse Saudi Arabia of killing seven in Yemen prison air strike",
       "summary": "",
       "paragraphs": [
         ""
@@ -124,266 +137,266 @@
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/sports/2026/9/6/alcaraz-breezes-into-last-eight-at-us-open?traffic_source=rss",
-      "title": "Alcaraz breezes into last eight at US Open",
+      "link": "https://www.aljazeera.com/news/2026/9/7/rubio-heads-to-ecuador-colombia-peru-after-right-wing-victories-in-region?traffic_source=rss",
+      "title": "Rubio heads to Ecuador, Colombia, Peru after right-wing victories in region",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-09-06",
+      "date": "2026-09-07",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/9/6/amazon-cargo-plane-crashes-in-us-while-landing-at-miami-airport?traffic_source=rss",
-      "title": "At least five killed after Amazon cargo plane crash in Miami airport",
+      "link": "https://www.aljazeera.com/news/2026/9/7/hawaii-braces-for-hurricane-lowell?traffic_source=rss",
+      "title": "Hawaii braces for Hurricane Lowell",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-09-06",
+      "date": "2026-09-07",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/9/6/at-least-10-killed-in-central-mexico-fireworks-blast-during-festival?traffic_source=rss",
-      "title": "At least 10 killed in central Mexico fireworks blast during festival",
+      "link": "https://www.aljazeera.com/economy/2026/9/7/oil-prices-surge-as-us-iran-strikes-intensify-in-strait-of-hormuz?traffic_source=rss",
+      "title": "Oil prices surge as US-Iran strikes intensify in Strait of Hormuz",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-09-06",
+      "date": "2026-09-07",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/amazon-prime-plane-overruns-runway-at-miami-airport?traffic_source=rss",
-      "title": "Amazon Prime plane overruns runway at Miami Airport",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/7/indian-temple-collapses-into-ganges-as-riverbank-erodes?traffic_source=rss",
+      "title": "Indian temple collapses into Ganges as riverbank erodes",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-09-06",
+      "date": "2026-09-07",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/06-09-sv-germany-afd-wins-saxony-de-fm?traffic_source=rss",
-      "title": "Can AfD form Germany’s first far-right state government since World War II?",
+      "link": "https://www.aljazeera.com/news/2026/9/7/israels-removal-of-gaza-rubble-risk-to-war-crimes-evidence-un?traffic_source=rss",
+      "title": "Israel’s removal of Gaza rubble risk to war crimes evidence: UN",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-09-06",
+      "date": "2026-09-07",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/susan-sarandon-says-she-still-loses-film-roles-over-support-for-palestine?traffic_source=rss",
-      "title": "Susan Sarandon says she still loses film roles over support for Palestine",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/7/yemen-fighting-escalates-as-forces-battle-for-bab-al-mandeb-strait?traffic_source=rss",
+      "title": "Yemen fighting escalates as forces battle for Bab al-Mandeb Strait",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-09-06",
+      "date": "2026-09-07",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/9/6/will-israelis-re-elect-benjamin-netanyahu?traffic_source=rss",
-      "title": "Will Israelis re-elect Benjamin Netanyahu?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/7/robots-protest-in-poland-over-ai-regulation-concerns?traffic_source=rss",
+      "title": "Robots protest in Poland over AI regulation concerns",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-09-06",
+      "date": "2026-09-07",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/at-least-five-killed-in-new-delhi-building-collapse?traffic_source=rss",
-      "title": "At least five killed in New Delhi building collapse",
+      "link": "https://www.aljazeera.com/economy/2026/9/7/cuba-says-no-negotiations-with-us-despite-genocidal-blockade?traffic_source=rss",
+      "title": "Cuba says no negotiations with US despite ‘genocidal’ blockade",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-09-06",
+      "date": "2026-09-07",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/9/6/abdul-el-sayed-uses-speech-to-talk-about-muslim-faith-and-american-identity?traffic_source=rss",
-      "title": "Abdul El-Sayed uses speech to talk about Muslim faith and American identity",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/9/7/what-are-the-implications-of-afds-electoral-rise-for-germany-and-europe?traffic_source=rss",
+      "title": "What are the implications of AfD’s electoral rise for Germany and Europe?",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-09-06",
+      "date": "2026-09-07",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/indonesia-volcano-eruption-disrupts-hundreds-of-flights?traffic_source=rss",
-      "title": "Indonesia volcano eruption disrupts hundreds of flights",
+      "link": "https://www.aljazeera.com/news/2026/9/7/uk-government-refuses-slavery-reparations-as-jamaica-urges-king-to-act?traffic_source=rss",
+      "title": "UK government refuses slavery reparations as Jamaica urges king to act",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-09-06",
+      "date": "2026-09-07",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/sports/2026/9/6/adidas-faces-boycott-calls-over-campaign-featuring-former-israeli-soldier?traffic_source=rss",
-      "title": "Adidas faces boycott calls over campaign featuring former Israeli soldier",
+      "link": "https://www.aljazeera.com/news/2026/9/7/syrias-assad-era-reactor-configured-for-nuclear-weapons-iaea?traffic_source=rss",
+      "title": "Syria’s Assad-era reactor configured for nuclear weapons: IAEA",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-09-06",
+      "date": "2026-09-07",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/9/6/trump-administration-appeals-again-to-us-supreme-court-over-mail-in-voting?traffic_source=rss",
-      "title": "Trump administration appeals again to US Supreme Court over mail-in voting",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/7/moment-shop-worker-dives-into-traffic-to-save-child?traffic_source=rss",
+      "title": "Moment shop worker dives into traffic to save child",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-09-06",
+      "date": "2026-09-07",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/why-is-argentina-reviving-the-falklands-dispute?traffic_source=rss",
-      "title": "Why is Argentina reviving the Falklands dispute?",
+      "link": "https://www.aljazeera.com/news/2026/9/7/the-domestic-armed-threat-facing-iran?traffic_source=rss",
+      "title": "The domestic armed threat facing Iran",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-09-06",
+      "date": "2026-09-07",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/witkoff-says-peace-talks-have-been-very-meaningful-in-ukraine?traffic_source=rss",
-      "title": "Witkoff says peace talks have been ‘very meaningful’ in Ukraine",
+      "link": "https://www.aljazeera.com/news/2026/9/7/syria-detains-assad-era-general-accused-of-bloody-crackdown-on-protests?traffic_source=rss",
+      "title": "Syria detains Assad-era general accused of bloody crackdown on protests",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-09-06",
+      "date": "2026-09-07",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/sports/2026/9/6/sabalenka-through-to-us-open-quarterfinals?traffic_source=rss",
-      "title": "Sabalenka through to US Open quarterfinals",
+      "link": "https://www.aljazeera.com/news/2026/9/7/trump-threatens-to-block-canadas-bombardier-sales-unless-planes-made-in-us?traffic_source=rss",
+      "title": "Trump threatens to block Canada’s Bombardier sales unless planes made in US",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-09-06",
+      "date": "2026-09-07",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/algerian-boy-found-dead-after-four-days-trapped-in-a-well?traffic_source=rss",
-      "title": "Algerian boy found dead after four days trapped in a well",
+      "link": "https://www.aljazeera.com/news/2026/9/7/russia-shutters-german-consulate-as-diplomatic-freeze-deepens?traffic_source=rss",
+      "title": "Russia shutters German consulate as diplomatic freeze deepens",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-09-06",
+      "date": "2026-09-07",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/sports/2026/9/6/arsenal-come-from-behind-to-beat-chelsea-2-1-and-maintain-perfect-start?traffic_source=rss",
-      "title": "Arsenal come from behind to beat Chelsea 2-1 and maintain perfect start",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/7/israels-plan-to-split-the-west-bank?traffic_source=rss",
+      "title": "Israel’s plan to split the West Bank",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-09-06",
+      "date": "2026-09-07",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/gallery/2026/9/6/photos-nepal-flood-survivors-face-overwhelming-devastation?traffic_source=rss",
-      "title": "Photos: UN urges global aid after China, Nepal floods kill over 1,300",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/7/thousands-attend-funeral-of-war-criminal-ratko-mladic-in-serbia?traffic_source=rss",
+      "title": "Thousands attend funeral of war criminal Ratko Mladic in Serbia",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-09-06",
+      "date": "2026-09-07",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/sports/2026/9/6/f1-leader-kimi-antonelli-wins-italian-gp-after-epic-charge-from-the-back?traffic_source=rss",
-      "title": "F1 leader Kimi Antonelli wins Italian GP after epic charge from the back",
+      "link": "https://www.aljazeera.com/video/the-bottom-line/2026/9/7/board-of-peace-touts-progress-as-palestinians-situation-worsens?traffic_source=rss",
+      "title": "Board of Peace touts progress as Palestinians’ situation worsens",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-09-06",
+      "date": "2026-09-07",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/features/2026/9/6/palestinian-farmers-battle-settler-sabotage-to-save-hebron-crops-livestock?traffic_source=rss",
-      "title": "Palestinian farmers battle settler sabotage to save Hebron crops, livestock",
+      "link": "https://www.aljazeera.com/sports/2026/9/7/egypts-vanishing-wrestlers-and-a-sport-in-crisis?traffic_source=rss",
+      "title": "Egyptian wrestlers keep vanishing abroad amid a sport in crisis",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-09-06",
+      "date": "2026-09-07",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/9/6/trump-official-says-there-may-not-be-a-nuclear-agreement-with-iran?traffic_source=rss",
-      "title": "Trump official says ‘there may not be a nuclear agreement’ with Iran",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/7/nauru-opens-embassy-in-jerusalem?traffic_source=rss",
+      "title": "Nauru opens embassy in Jerusalem",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-09-06",
+      "date": "2026-09-07",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/sports/2026/9/6/lamine-yamal-and-fermin-lopez-star-as-barcelona-run-riot-at-valencia?traffic_source=rss",
-      "title": "Lamine Yamal and Fermin Lopez star as Barcelona run riot at Valencia",
+      "link": "https://www.aljazeera.com/news/2026/9/7/bolivian-military-base-blast-leaves-seven-dead-seven-missing?traffic_source=rss",
+      "title": "Bolivian blast death toll rises to 7, rescuers search for missing soldiers",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-09-06",
+      "date": "2026-09-07",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/9/6/iran-touts-military-response-as-us-maintains-blockade-hits-tankers?traffic_source=rss",
-      "title": "Iran touts military response as US maintains blockade, hits tankers",
+      "link": "https://www.aljazeera.com/video/aljazeerauntangles/2026/9/7/gaza-genocide-in-real-time?traffic_source=rss",
+      "title": "Gaza: Genocide in Real Time?",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-09-06",
+      "date": "2026-09-07",
       "real": true
     },
     {
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/9/6/far-right-afd-wins-vote-in-germanys-saxony-anhalt-state-exit-polls?traffic_source=rss",
-      "title": "Far-right AfD wins vote in Germany’s Saxony-Anhalt state: Exit polls",
-      "summary": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/sep/07/typhoon-saudel-mass-evacuations-south-east-china-weather-tracker",
+      "title": "Weather tracker: Typhoon Saudel causes mass evacuations in south-east China",
+      "summary": "<p>Torrential rain causes widespread damage; while north-west South Africa hit by thunderstorms and central-southern US faces oppressive heat</p><p>Typhoon Saudel brought days of torrential rain to Zhejiang, Jiangxi, Fujian and Guangdong provinces in south-east China last week. The city of Putian, i",
       "paragraphs": [
-        ""
+        "<p>Torrential rain causes widespread damage; while north-west South Africa hit by thunderstorms and central-southern US faces oppressive heat</p><p>Typhoon Saudel brought days of torrential rain to Zhejiang, Jiangxi, Fujian and Guangdong provinces in south-east China last week. The city of Putian, in Fujian province, recorded 416.5mm of rain in a 24-hour period between Thursday and Friday, with surrounding villages recording more than 500mm in the same period. In Fujian, authorities estimate that almost 600,000 people were evacuated from high-risk, flood-prone areas. A further 128,000 people in 53 counties were also affected across Jiangxi, with emergency evacuations affecting 9,000 people.</p><p>Flooding, landslips and infrastructure damage were reported widely in the region. More than 2,500 teachers and students were trapped in a school compound in the Zhejiang city of Wenzhou on Wednesday after extreme rainfall caused flash floods in low-lying areas. At least 1,260 people reportedly had to be rescued in Putian after a river embankment collapsed on Thursday, flattening 100 homes. On Saturday, a landslip in a village of Suichuan county, in Jiangxi province, killed three people and nine others remaining missing.</p> <a href=\"https://www.theguardian.com/world/2026/sep/07/typhoon-saudel-mass-evacuations-south-east-china-weather-tracker\">Continue reading...</a>"
       ],
-      "date": "2026-09-06",
+      "date": "2026-09-07",
       "real": true
     },
     {
@@ -432,13 +445,24 @@
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/world/2026/sep/02/guinea-bissau-voters-approve-constitution-elections",
-      "title": "New constitution in Guinea-Bissau will undermine democracy, opponents say",
-      "summary": "<p>Referendum result means fewer seats in parliament and new rules on candidates, ahead of December elections</p><p>Guinea-Bissau voters have approved a new constitution, which critics say will undermine democracy, that significantly expands presidential powers ahead of elections due in December.</p",
+      "link": "https://www.theguardian.com/world/2026/sep/07/canada-tariffs-us-trump",
+      "title": "Canada’s retaliatory US tariffs set to take effect as trade dispute grows",
+      "summary": "<p>Counter-measures covering several sectors come after Trump announced 50% tariffs on Canadian goods </p><p>Canada is set to impose retaliatory tariffs on billions of dollars’ worth of American imports early on Tuesday, escalating a <a href=\"https://www.theguardian.com/us-news/2026/aug/23/canada-us",
       "paragraphs": [
-        "<p>Referendum result means fewer seats in parliament and new rules on candidates, ahead of December elections</p><p>Guinea-Bissau voters have approved a new constitution, which critics say will undermine democracy, that significantly expands presidential powers ahead of elections due in December.</p><p>According to provisional results, 70% of voters approved sweeping changes in the tiny west African state’s first constitutional amendment since revisions that ended the one-party socialist state more than three decades ago.</p> <a href=\"https://www.theguardian.com/world/2026/sep/02/guinea-bissau-voters-approve-constitution-elections\">Continue reading...</a>"
+        "<p>Counter-measures covering several sectors come after Trump announced 50% tariffs on Canadian goods </p><p>Canada is set to impose retaliatory tariffs on billions of dollars’ worth of American imports early on Tuesday, escalating a <a href=\"https://www.theguardian.com/us-news/2026/aug/23/canada-us-collapsed-trade-talks-negotiation-breakdown-analysis\">trade fight</a> with its largest trading partner as tensions between US president Donald Trump and Canadian prime minister Mark Carney intensify.</p><p>The tariffs, which take effect at 12.01am on Tuesday, will range from 15% to 50% and apply to products covering C$27.6bn in imports from the US. The measures will target sectors including steel, dairy, appliances, agricultural equipment, pulp and paper, and electronics – industries that have been most affected by US tariffs.</p> <a href=\"https://www.theguardian.com/world/2026/sep/07/canada-tariffs-us-trump\">Continue reading...</a>"
       ],
-      "date": "2026-09-02",
+      "date": "2026-09-07",
+      "real": true
+    },
+    {
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/sep/07/alleged-killers-of-australian-surfers-and-american-friend-go-on-trial-in-mexico",
+      "title": "Alleged killers of Australian surfers and American friend go on trial in Mexico",
+      "summary": "<p>Three men on trial for killing Jake and Callum Robinson and Jack Carter Rhoad in Baja California in 2024</p><p>The alleged killers of two Australian surfers and an American at a Mexican surfing hotspot in 2024 have gone on trial in the border resort where the three were murdered.</p><p>The Austra",
+      "paragraphs": [
+        "<p>Three men on trial for killing Jake and Callum Robinson and Jack Carter Rhoad in Baja California in 2024</p><p>The alleged killers of two Australian surfers and an American at a Mexican surfing hotspot in 2024 have gone on trial in the border resort where the three were murdered.</p><p>The Australian brothers Jake and Callum Robinson, aged 30 and 33, respectively, and their 30-year-old American friend Jack Carter Rhoad were <a href=\"https://www.theguardian.com/world/article/2024/may/05/mexico-bodies-missing-men-police\">shot dead after being robbed in Mexico’s violence-hit Baja California</a>.</p> <a href=\"https://www.theguardian.com/world/2026/sep/07/alleged-killers-of-australian-surfers-and-american-friend-go-on-trial-in-mexico\">Continue reading...</a>"
+      ],
+      "date": "2026-09-07",
       "real": true
     },
     {
@@ -476,24 +500,13 @@
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/world/2026/sep/05/drone-attack-guerrillas-kills-soldiers-colombia",
-      "title": "Drone attack blamed on guerrillas kills at least three soldiers in Colombia",
-      "summary": "<p>Officials accuse National Liberation Army of launching strike followed by clash inside military compound</p><p>An attack involving explosives dropped from drones followed by a clash inside a military compound in north-eastern Colombia has killed at least three soldiers and wounded four, Colombia’",
+      "link": "https://www.theguardian.com/world/2026/sep/07/russia-north-korea-open-first-road-bridge-tumen-river",
+      "title": "Russia and North Korea open first road bridge across their shared border",
+      "summary": "<p>Connection across Tumen River is further sign of closer ties between the two countries since start of war in Ukraine</p><p></p><p>Russia and North Korea have opened <a href=\"https://www.theguardian.com/world/2026/jul/28/russia-north-korea-road-bridge\">the first road bridge across their shared bor",
       "paragraphs": [
-        "<p>Officials accuse National Liberation Army of launching strike followed by clash inside military compound</p><p>An attack involving explosives dropped from drones followed by a clash inside a military compound in north-eastern Colombia has killed at least three soldiers and wounded four, Colombia’s army said on Saturday.</p><p>Local authorities blamed the attack – which took place late on Friday – on the rebel National Liberation Army (ELN).</p> <a href=\"https://www.theguardian.com/world/2026/sep/05/drone-attack-guerrillas-kills-soldiers-colombia\">Continue reading...</a>"
+        "<p>Connection across Tumen River is further sign of closer ties between the two countries since start of war in Ukraine</p><p></p><p>Russia and North Korea have opened <a href=\"https://www.theguardian.com/world/2026/jul/28/russia-north-korea-road-bridge\">the first road bridge across their shared border</a>, in the latest sign of the rapidly deepening ties between the two countries since the start of the war in Ukraine.</p><p>The one-kilometre bridge spans the Tumen River between Khasan in Russia’s far east and Tumangang in North Korea, along a remote and sparsely populated stretch of the countries’ shared border just a few miles from the coast.</p> <a href=\"https://www.theguardian.com/world/2026/sep/07/russia-north-korea-open-first-road-bridge-tumen-river\">Continue reading...</a>"
       ],
-      "date": "2026-09-05",
-      "real": true
-    },
-    {
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/world/2026/sep/05/jair-bolsonaro-coup-plan-2022-election-brazil-air-force-baptista-junior",
-      "title": "‘It cost me many friendships’: former Brazil military chief reveals inside struggle to stop Bolsonaro’s coup",
-      "summary": "<p>Carlos de Almeida Baptista Júnior describes 2022 meeting in new book as ex-leader’s son vies with Lula for presidency</p><p>The far-right populist Jair Bolsonaro was in his final days as Brazil’s president when, six weeks after losing the election and still refusing to recognise the result, he s",
-      "paragraphs": [
-        "<p>Carlos de Almeida Baptista Júnior describes 2022 meeting in new book as ex-leader’s son vies with Lula for presidency</p><p>The far-right populist Jair Bolsonaro was in his final days as Brazil’s president when, six weeks after losing the election and still refusing to recognise the result, he summoned the heads of the armed forces to a meeting.</p><p>The defence minister, Gen Paulo Sérgio Nogueira de Oliveira, took out a document from a plastic folder and handed copies to the commanders of the navy, army and air force.</p> <a href=\"https://www.theguardian.com/world/2026/sep/05/jair-bolsonaro-coup-plan-2022-election-brazil-air-force-baptista-junior\">Continue reading...</a>"
-      ],
-      "date": "2026-09-05",
+      "date": "2026-09-07",
       "real": true
     },
     {
@@ -542,123 +555,112 @@
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/world/2026/sep/04/south-korea-pushes-back-reports-hormuz-deployment-us-pressure",
-      "title": "South Korea pushes back on reports it is readying Hormuz deployment amid US pressure",
-      "summary": "<p>Seoul reportedly seeking parliamentary approval to send military assets to Middle East but president’s office plays down claims</p><p>South Korea is reviewing a possible deployment of military assets to the strait of Hormuz amid pressure from Donald Trump over Seoul’s reluctance to provide suppor",
+      "link": "https://www.theguardian.com/australia-news/live/2026/sep/08/barnaby-joyce-one-nation-superannuation-plan-john-howard-immigration-anthony-albanese-labor-angus-taylor-coalition-pauline-hanson-ntwnfb",
+      "title": "Politics live: Chalmers accuses Liberals of ‘photocopying’ One Nation policy; Australians ‘fed up’ by alleged pork barrelling, Haines says",
+      "summary": "<p>Follow the day’s news live</p><p><strong>One Nation policy will leave people $25k worse off at retirement, Mulino says</strong></p><p>Superannuation is kicking off again today with One Nation pushing to allow people to divert 3% of their superannuation to their rent or mortgage.</p><p>It took us ",
       "paragraphs": [
-        "<p>Seoul reportedly seeking parliamentary approval to send military assets to Middle East but president’s office plays down claims</p><p>South Korea is reviewing a possible deployment of military assets to the strait of Hormuz amid pressure from Donald Trump over Seoul’s reluctance to provide support in the region, according to domestic media reports.</p><p>Citing unnamed government and military sources, the reports published on Thursday and Friday said preparations were under way and that the government intended to seek parliamentary approval for a new deployment. The reports, which appeared in major South Korean outlets, said the exact scale and timing had not been agreed.</p> <a href=\"https://www.theguardian.com/world/2026/sep/04/south-korea-pushes-back-reports-hormuz-deployment-us-pressure\">Continue reading...</a>"
+        "<p>Follow the day’s news live</p><p><strong>One Nation policy will leave people $25k worse off at retirement, Mulino says</strong></p><p>Superannuation is kicking off again today with One Nation pushing to allow people to divert 3% of their superannuation to their rent or mortgage.</p><p>It took us decades to get to 12% superannuation guarantee and that’s a level that will provide people with a high level of dignity and security in retirement.</p><p>To do what the One Nation party is suggesting will see somebody who is 30 years old, $25,000 worse off at retirement and a couple around $50,000 worse off.</p><p>I’m deeply sceptical of giving any government, whether I was in charge, or <strong>Anika Wells</strong> is in charge, I’m deeply sceptical of giving any government the power to decide what you read on your phone.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/sep/08/barnaby-joyce-one-nation-superannuation-plan-john-howard-immigration-anthony-albanese-labor-angus-taylor-coalition-pauline-hanson-ntwnfb\">Continue reading...</a>"
       ],
-      "date": "2026-09-04",
+      "date": "2026-09-08",
       "real": true
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/australia-news/live/2026/sep/07/anthony-albanese-labor-lobbying-rules-greens-social-media-fines-ntwnfb",
-      "title": "Australia news live: Chalmers says next election to be fought on super after One Nation reveals plan; Sydney to get urban solar farm",
-      "summary": "<p>Follow the day’s news live</p><p>One Nation has come up with a plan to give people their superannuation earlier, reducing the amount they’ll have at retirement in exchange for a current cash boost.</p><p><strong>Pauline Hanson</strong> says under their plan anyone paying rent or a mortgage can ta",
+      "link": "https://www.theguardian.com/australia-news/2026/sep/08/nsw-greens-mp-pleads-with-federal-colleagues-not-to-not-to-back-national-party-motion-to-block-koala-park",
+      "title": "NSW Greens MP pleads with federal colleagues not to back National party motion to block koala park deal",
+      "summary": "<p>Federal Greens partyroom split over plan for NSW to get millions of dollars’ worth in carbon credits for creating a koala national park</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/sep/08/barnaby-joyce-one-nation-superannuation-plan-john-howard-immigration-anthony-a",
       "paragraphs": [
-        "<p>Follow the day’s news live</p><p>One Nation has come up with a plan to give people their superannuation earlier, reducing the amount they’ll have at retirement in exchange for a current cash boost.</p><p><strong>Pauline Hanson</strong> says under their plan anyone paying rent or a mortgage can take up to a quarter of their super as a “pay boost” for up to three years.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/sep/07/anthony-albanese-labor-lobbying-rules-greens-social-media-fines-ntwnfb\">Continue reading...</a>"
+        "<p>Federal Greens partyroom split over plan for NSW to get millions of dollars’ worth in carbon credits for creating a koala national park</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/sep/08/barnaby-joyce-one-nation-superannuation-plan-john-howard-immigration-anthony-albanese-labor-angus-taylor-coalition-pauline-hanson-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>A New South Wales Greens MP has pleaded with her federal colleagues not to vote with the Coalition and One Nation to block a plan for the NSW government to get millions of dollars’ worth in carbon credits for creating a koala national park.</p><p>Sue Higginson, a former lawyer and forest campaigner turned NSW upper house MP, is the first member of the minor party to speak in detail about a dispute that has split the Greens and environmentalists.</p> <a href=\"https://www.theguardian.com/australia-news/2026/sep/08/nsw-greens-mp-pleads-with-federal-colleagues-not-to-not-to-back-national-party-motion-to-block-koala-park\">Continue reading...</a>"
       ],
       "date": "2026-09-07",
       "real": true
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/australia-news/2026/sep/07/australian-woman-buried-in-mushroom-coffin-blue-mountains",
-      "title": "Woman laid to rest in coffin made from mushrooms in Australian first",
-      "summary": "<p>The casket, grown from mycelium and hemp fibres, takes just 45 days to break down, enriching the soil in the process</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/sep/07/anthony-albanese-labor-lobbying-rules-greens-social-media-fines-ntwnfb\">Follow our Australia news",
+      "link": "https://www.theguardian.com/australia-news/2026/sep/08/stolen-generations-survivors-have-more-health-challenges-than-other-first-nations-people-ntwnfb",
+      "title": "Stolen Generations survivors have more health challenges than other First Nations people",
+      "summary": "<p>Indigenous Australians forcibly removed under government policies more likely to have severe or profound disability, report finds</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/sep/08/barnaby-joyce-one-nation-superannuation-plan-john-howard-immigration-anthony-albanes",
       "paragraphs": [
-        "<p>The casket, grown from mycelium and hemp fibres, takes just 45 days to break down, enriching the soil in the process</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/sep/07/anthony-albanese-labor-lobbying-rules-greens-social-media-fines-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>A woman has been buried in a coffin made from mushrooms in New South Wales in an eco-friendly first for Australia.</p><p>Carolyn, whose surname was withheld for privacy reasons, was laid to rest on Friday by friends and family at Springwood Cemetery in the Blue Mountains. She was aged in her 70s.</p> <a href=\"https://www.theguardian.com/australia-news/2026/sep/07/australian-woman-buried-in-mushroom-coffin-blue-mountains\">Continue reading...</a>"
+        "<p>Indigenous Australians forcibly removed under government policies more likely to have severe or profound disability, report finds</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/sep/08/barnaby-joyce-one-nation-superannuation-plan-john-howard-immigration-anthony-albanese-labor-angus-taylor-coalition-pauline-hanson-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The tens of thousands of Indigenous Australians and their descendants who were forcibly removed under government assimilation policies have far greater physical and health challenges when compared with the wider Indigenous and non-Indigenous populations, according to a new report.</p><p>The report by the Australian Institute of Health and Welfare (AIHW) was commissioned by peak advocacy body the Healing Foundation, which supports Stolen Generations survivors and their families, and builds on existing data released in 2023.</p> <a href=\"https://www.theguardian.com/australia-news/2026/sep/08/stolen-generations-survivors-have-more-health-challenges-than-other-first-nations-people-ntwnfb\">Continue reading...</a>"
       ],
-      "date": "2026-09-06",
+      "date": "2026-09-07",
       "real": true
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/australia-news/2026/sep/07/zomi-frankcom-israel-gaza-idf-world-central-kitchen-ntwnfb",
-      "title": "Greens criticise Labor after former IDF officer’s ‘reprehensible’ comments on Zomi Frankcom strike",
-      "summary": "<p>David Shoebridge says ‘words are just distractions’ until government takes action</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/sep/07/anthony-albanese-labor-lobbying-rules-greens-social-media-fines-ntwnfb\">Follow our Australia news live blog for latest updates</a></",
+      "link": "https://www.theguardian.com/business/2026/sep/08/record-strength-el-nino-could-mean-bigger-supermarket-bills-for-australians-experts-warn",
+      "title": "Record strength El Niño could mean bigger supermarket bills for Australians, experts warn",
+      "summary": "<p>Predicted hot and dry weather in growing areas in eastern Australia identified as ‘one of the key issues’ that will affect food prices over next 12 months</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/sep/08/barnaby-joyce-one-nation-superannuation-plan-john-howard-im",
       "paragraphs": [
-        "<p>David Shoebridge says ‘words are just distractions’ until government takes action</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/sep/07/anthony-albanese-labor-lobbying-rules-greens-social-media-fines-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p><a href=\"https://www.theguardian.com/world/2026/sep/05/aid-workers-gaza-killed-in-israel-airstrike-investigation\">‘Guilt by association’: why seven international aid workers were killed in Israeli airstrike</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The Greens have criticised inflammatory statements from the former Israel Defense Forces officer who ordered the attack that killed Zomi Frankcom, accusing the Albanese government of weakness over its failure to halt military exports and impose new sanctions.</p><p>Australian aid worker Frankcom and <a href=\"https://www.theguardian.com/australia-news/2026/aug/21/australian-aid-worker-zomi-frankcom-idf-cleared-what-happened-ntwnfb\">six of her colleagues were killed in 2024</a> while bringing food to the people of <a href=\"https://www.theguardian.com/world/gaza\">Gaza</a>. Former IDF reserve colonel Nochi Mendel <a href=\"https://www.theguardian.com/world/2026/sep/05/aid-workers-gaza-killed-in-israel-airstrike-investigation\">has said</a> he would do “exactly the same thing” again and that those killed in the World Central Kitchen (WCK) humanitarian convoy in Gaza were “not innocent”.</p> <a href=\"https://www.theguardian.com/australia-news/2026/sep/07/zomi-frankcom-israel-gaza-idf-world-central-kitchen-ntwnfb\">Continue reading...</a>"
+        "<p>Predicted hot and dry weather in growing areas in eastern Australia identified as ‘one of the key issues’ that will affect food prices over next 12 months</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/sep/08/barnaby-joyce-one-nation-superannuation-plan-john-howard-immigration-anthony-albanese-labor-angus-taylor-coalition-pauline-hanson-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The most severe El Niño weather event on record threatens to push food prices higher this year, experts say, piling pressure on households already struggling with the post-pandemic spike in grocery bills and complicating the Reserve Bank’s efforts to bring inflation back under control.</p><p><a href=\"https://www.theguardian.com/australia-news/2026/sep/04/bom-forecasts-strongest-el-nino-on-record-as-research-points-to-alarming-climate-change-influence\">The Bureau of Meteorology has forecast</a> El Niño will peak in late spring or summer and “reach levels above the warmest observed since reliable records began in 1950”.</p> <a href=\"https://www.theguardian.com/business/2026/sep/08/record-strength-el-nino-could-mean-bigger-supermarket-bills-for-australians-experts-warn\">Continue reading...</a>"
       ],
-      "date": "2026-09-06",
+      "date": "2026-09-07",
       "real": true
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/australia-news/2026/sep/06/manhunt-after-alleged-axe-attack-in-victoria-leaves-three-people-with-life-threatening-injuries-ntwnfb",
-      "title": "Victoria police hunt for man on run after allegedly attacking brother and parents with axe",
-      "summary": "<p>Police say they believe argument took place before three people critically injured in Gippsland town of Tyers on Saturday</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a",
+      "link": "https://www.theguardian.com/australia-news/2026/sep/08/grassroots-labor-pressure-group-albanese-government-us-military-war-machine",
+      "title": "Grassroots Labor group urges Albanese government to chart course away from ‘American war machine’",
+      "summary": "<p>Pressure follows revelations US military and weapons manufacturers control or have access to more than 100 bases across Australian continent</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/audio/2026/sep/07/why-can-the-us-access-so-many-australian-military-bases-and-could-they-d",
       "paragraphs": [
-        "<p>Police say they believe argument took place before three people critically injured in Gippsland town of Tyers on Saturday</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Victoria police have urged the public to remain vigilant as they search for a man who allegedly attacked his brother and parents with an axe or tomahawk.</p><p>Police issued an arrest warrant on Sunday for Peter O’Ryan, 48, whose last known location was his family’s home in the Gippsland town of Tyers.</p> <a href=\"https://www.theguardian.com/australia-news/2026/sep/06/manhunt-after-alleged-axe-attack-in-victoria-leaves-three-people-with-life-threatening-injuries-ntwnfb\">Continue reading...</a>"
+        "<p>Pressure follows revelations US military and weapons manufacturers control or have access to more than 100 bases across Australian continent</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/audio/2026/sep/07/why-can-the-us-access-so-many-australian-military-bases-and-could-they-drag-us-unwillingly-into-war-podcast\">Why can the US access so many Australian military bases? – podcast</a></p></li><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/sep/08/barnaby-joyce-one-nation-superannuation-plan-john-howard-immigration-anthony-albanese-labor-angus-taylor-coalition-pauline-hanson-ntwnfb\">Follow our Australia news live blog for latest updates</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The US has “led Australia into wars of aggression” for 50 years, internal party campaign group Labor Against War has argued, urging the government to chart a foreign policy independent “from the American war machine”.</p><p>The Australian government has defended the growing presence of the US military on the Australian continent, insisting the defence sites “are Australian bases under Australian control”, despite evidence the US military controls more than a dozen bases on Australian territory.</p> <a href=\"https://www.theguardian.com/australia-news/2026/sep/08/grassroots-labor-pressure-group-albanese-government-us-military-war-machine\">Continue reading...</a>"
       ],
-      "date": "2026-09-06",
+      "date": "2026-09-07",
       "real": true
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/australia-news/2026/sep/06/qantas-flight-queenstown-to-sydney-rerouted-flames-seen-by-passengers",
-      "title": "‘The engine’s on fire’: Qantas flight from Queenstown to Sydney reroutes after flames seen by passengers",
-      "summary": "<p>Passenger recalls seeing cabin lights flicker and ‘a lot of screaming’ after suspected engine issue</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.the",
+      "link": "https://www.theguardian.com/world/2026/sep/07/german-chancellor-friedrich-merz-cdu-afd-saxony-anhalt",
+      "title": "German chancellor vows to stay in office despite AfD triumph in state election",
+      "summary": "<p>Friedrich Merz said his conservative CDU was shaken ‘to its very foundations’ after far-right victory in Saxony-Anhalt</p><p>A “shocked” and chastened Friedrich Merz has vowed to stay in office despite <a href=\"https://www.theguardian.com/world/2026/sep/06/saxony-anhalt-germany-afd-exit-poll-ulri",
       "paragraphs": [
-        "<p>Passenger recalls seeing cabin lights flicker and ‘a lot of screaming’ after suspected engine issue</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Liza-Jayne Loch was returning home from a business trip to New Zealand when her <a href=\"https://www.theguardian.com/business/qantas\">Qantas</a> flight ran into trouble.</p><p>The plane was climbing above the scenic South Island’s mountain ranges on Saturday afternoon, bound for Sydney, when a bang shook the cabin.</p> <a href=\"https://www.theguardian.com/australia-news/2026/sep/06/qantas-flight-queenstown-to-sydney-rerouted-flames-seen-by-passengers\">Continue reading...</a>"
+        "<p>Friedrich Merz said his conservative CDU was shaken ‘to its very foundations’ after far-right victory in Saxony-Anhalt</p><p>A “shocked” and chastened Friedrich Merz has vowed to stay in office despite <a href=\"https://www.theguardian.com/world/2026/sep/06/saxony-anhalt-germany-afd-exit-poll-ulrich-siegmund\">the far right’s triumph in a state election</a> that has brought anti-immigrant, pro-Kremlin politicians within striking distance of power.</p><p>The German chancellor, appearing ashen-faced in front of reporters in Berlin, said on Monday that the landslide victory by the Alternative für Deutschland (AfD) in Saxony-Anhalt had shaken his conservative Christian Democratic Union (CDU) “to its very foundations”.</p> <a href=\"https://www.theguardian.com/world/2026/sep/07/german-chancellor-friedrich-merz-cdu-afd-saxony-anhalt\">Continue reading...</a>"
       ],
-      "date": "2026-09-06",
+      "date": "2026-09-07",
       "real": true
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/world/2026/sep/06/us-envoys-jared-kushner-steve-witkoff-arrive-kyiv-talks-on-ending-war",
-      "title": "US envoys Kushner and Witkoff visit Kyiv for first time after Putin talks",
-      "summary": "<p>Witkoff says he hopes trilateral talks involving the US, Ukraine and Europe will be announced ‘in short order’</p><p>The US negotiators Jared Kushner and Steve Witkoff travelled to Ukraine for the first time on Sunday for talks with Volodymyr Zelenskyy in an attempt to end the war with Russia.</p",
+      "link": "https://www.theguardian.com/world/2026/sep/07/afd-germany-far-right-saxony-anhalt-nationalist-wave-europe-analysis",
+      "title": "Europe’s centre fears nationalist wave after AfD victory but only has itself to blame",
+      "summary": "<p>Saxony-Anhalt win part of wider trend driven by mainstream policy failures and gradual normalisation of far right ideas</p><p>The numbers speak for themselves: Alternative für Deutschland (AfD), a party that dabbles in Nazi imagery, distinguishes between “biological” and “passport” Germans, and i",
       "paragraphs": [
-        "<p>Witkoff says he hopes trilateral talks involving the US, Ukraine and Europe will be announced ‘in short order’</p><p>The US negotiators Jared Kushner and Steve Witkoff travelled to Ukraine for the first time on Sunday for talks with Volodymyr Zelenskyy in an attempt to end the war with Russia.</p><p>The Ukrainian president announced plans to widen peace discussions to include European countries in the near future, saying he wanted to do “everything to ensure that trilateral meetings take place” with Ukraine, the US and Europe.</p> <a href=\"https://www.theguardian.com/world/2026/sep/06/us-envoys-jared-kushner-steve-witkoff-arrive-kyiv-talks-on-ending-war\">Continue reading...</a>"
+        "<p>Saxony-Anhalt win part of wider trend driven by mainstream policy failures and gradual normalisation of far right ideas</p><p>The numbers speak for themselves: Alternative für Deutschland (AfD), a party that dabbles in Nazi imagery, distinguishes between “biological” and “passport” Germans, and is too extreme even for France’s far-right leader Marine Le Pen, nearly doubled its score in Sunday’s state election in Saxony-Anhalt to 43.8% of the vote.</p><p>Meanwhile, the centre-right CDU of the chancellor, Friedrich Merz, collapsed to 17.2%, less than half its total in the same race five years ago, and the centre-left SPD – Germany’s other main party of government for the past 60-odd years – scraped 9.3%. The least that can be said is that the centre did not hold.</p> <a href=\"https://www.theguardian.com/world/2026/sep/07/afd-germany-far-right-saxony-anhalt-nationalist-wave-europe-analysis\">Continue reading...</a>"
       ],
-      "date": "2026-09-06",
+      "date": "2026-09-07",
       "real": true
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/world/2026/sep/06/saxony-anhalt-germany-afd-exit-poll-ulrich-siegmund",
-      "title": "Far-right AfD wins key German state election but may fail to secure majority",
-      "summary": "<p>Projections show Alternative für Deutschland on 44.4% of vote in Saxony-Anhalt after huge turnout, with votes still being counted</p><p>The populist, far-right, anti-immigration Alternative für Deutschland (AfD) has emerged as the winner in a crucial state election in Germany, exit polls have pro",
+      "link": "https://www.theguardian.com/world/live/2026/sep/07/germany-afd-saxony-anhalt-merz-greenland-ratko-mladic-europe-latest-news-updates",
+      "title": "Merz says ‘shock’ AfD victory in key German state ‘is an election result we cannot simply move past’ – as it happened",
+      "summary": "<p>German chancellor says vote for far-right party ‘will have repercussions’ across the country</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/sep/06/saxony-anhalt-germany-afd-exit-poll-ulrich-siegmund\">Far-right AfD wins key German state election but falls just short of majority</a><",
       "paragraphs": [
-        "<p>Projections show Alternative für Deutschland on 44.4% of vote in Saxony-Anhalt after huge turnout, with votes still being counted</p><p>The populist, far-right, anti-immigration Alternative für Deutschland (AfD) has emerged as the winner in a crucial state election in Germany, exit polls have projected, securing a historic result and more than doubling its support. The AfD now appear on the brink of becoming the first far-right party to gain power in Germany at state level since the second world war.<strong> </strong></p><p>Initial exit polls showed the party to have secured 44.4% of the vote, a larger share than predicted, and<strong> </strong>decisively larger than that of the Christian Democrats (CDU) of the chancellor, Friedrich Merz, in a contest that was being followed across the world. However, it still remains unclear as to how and whether the AfD will be able to form a government, having ruled out entering a coalition and being refused any form of cooperation by the mainstream parties<strong>.</strong></p> <a href=\"https://www.theguardian.com/world/2026/sep/06/saxony-anhalt-germany-afd-exit-poll-ulrich-siegmund\">Continue reading...</a>"
+        "<p>German chancellor says vote for far-right party ‘will have repercussions’ across the country</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/sep/06/saxony-anhalt-germany-afd-exit-poll-ulrich-siegmund\">Far-right AfD wins key German state election but falls just short of majority</a></p></li></ul><p><strong>AfD’s Chrupalla continues in this vein,</strong> saying the German public wants to see a change in direction, and specifically saying the electorate is “fed up” as the government keeps “transferring billions of our tax money to Ukraine … instead of using it for our own population.”</p><p>He says <strong>the party has “a clear mandate” to rule in Saxony-Anhalt</strong> and will hold discussions with others about what can be done.</p> <a href=\"https://www.theguardian.com/world/live/2026/sep/07/germany-afd-saxony-anhalt-merz-greenland-ratko-mladic-europe-latest-news-updates\">Continue reading...</a>"
       ],
-      "date": "2026-09-06",
+      "date": "2026-09-07",
       "real": true
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/business/2026/sep/06/eu-factory-job-cuts-china-colonises-supply-chains-industry-warns",
-      "title": "EU faces 300,000 factory job cuts as China ‘colonises’ supply chains, industry warns",
-      "summary": "<p>Protest using 10 coffins to symbolise struggling manufacturing industry to take place in Brussels</p><p>Job losses in EU manufacturing will rapidly increase unless Brussels stops the “colonisation” of industry by Chinese component manufacturers, a leading industry trade body has warned.</p><p>Eur",
+      "link": "https://www.theguardian.com/world/2026/sep/07/french-winemakers-forecast-30-year-low-harvest-after-severe-drought-and-heat",
+      "title": "French winemakers forecast 30-year low harvest after severe drought and heat",
+      "summary": "<p>Estimates suggest drop in production with vineyards also concerned ‘smoke taint’ from wildfires may affect quality</p><p>French vineyards hit by severe drought and heatwaves are expected to report a 30-year low in wine production after the country’s hottest ever recorded summer, according to the ",
       "paragraphs": [
-        "<p>Protest using 10 coffins to symbolise struggling manufacturing industry to take place in Brussels</p><p>Job losses in EU manufacturing will rapidly increase unless Brussels stops the “colonisation” of industry by Chinese component manufacturers, a leading industry trade body has warned.</p><p>Eurometal predicts 300,000 job losses in manufacturing in the rest of 2026 because of expanding competition from China, which is now enjoying a record <a href=\"https://www.theguardian.com/business/2026/jun/15/eu-trade-deficit-with-china-record-1bn-a-day\">€1bn-a-day trade surplus</a> with the bloc.</p> <a href=\"https://www.theguardian.com/business/2026/sep/06/eu-factory-job-cuts-china-colonises-supply-chains-industry-warns\">Continue reading...</a>"
+        "<p>Estimates suggest drop in production with vineyards also concerned ‘smoke taint’ from wildfires may affect quality</p><p>French vineyards hit by severe drought and heatwaves are expected to report a 30-year low in wine production after the country’s hottest ever recorded summer, according to the agriculture ministry.</p><p>Initial estimates suggest winemakers will produce just under 34m hectolitres from this year’s harvest: a drop of 6% on last year, and 17% less than ‌the 2021-2025 average.</p> <a href=\"https://www.theguardian.com/world/2026/sep/07/french-winemakers-forecast-30-year-low-harvest-after-severe-drought-and-heat\">Continue reading...</a>"
       ],
-      "date": "2026-09-06",
+      "date": "2026-09-07",
       "real": true
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/business/2026/sep/06/german-startup-sends-first-commercial-rocket-into-space-from-europe",
-      "title": "German startup sends first commercial rocket into space from Europe",
-      "summary": "<p>Isar Aerospace plans rapid expansion amid race to capitalise on expanding satellite-launch market</p><p>A German startup has launched the first commercial rocket to reach orbit from continental Europe, a milestone for Europe’s efforts to secure independent access to space.</p><p>Isar Aerospace sa",
+      "link": "https://www.theguardian.com/world/2026/sep/07/why-far-right-afd-state-victory-significant-german-politics-germany-explainer",
+      "title": "Why is the far-right AfD’s state victory significant and what might happen next in German politics?",
+      "summary": "<p>Aftershocks of party’s win in Saxony-Anhalt will ripple across Germany, with two more state elections this month</p><p>Germany is reeling from the biggest far-right victory in a state election since the Nazi period after voters in Saxony-Anhalt in the former communist east gave the anti-immigrati",
       "paragraphs": [
-        "<p>Isar Aerospace plans rapid expansion amid race to capitalise on expanding satellite-launch market</p><p>A German startup has launched the first commercial rocket to reach orbit from continental Europe, a milestone for Europe’s efforts to secure independent access to space.</p><p>Isar Aerospace said on Sunday that it would rapidly ⁠expand satellite deployments after the ⁠first orbital launch of ​its uncrewed Spectrum rocket from Arctic Norway, marking a ⁠breakthrough for a region where several countries are seeking a foothold in the fast-growing market for satellite launches.</p> <a href=\"https://www.theguardian.com/business/2026/sep/06/german-startup-sends-first-commercial-rocket-into-space-from-europe\">Continue reading...</a>"
+        "<p>Aftershocks of party’s win in Saxony-Anhalt will ripple across Germany, with two more state elections this month</p><p>Germany is reeling from the biggest far-right victory in a state election since the Nazi period after voters in Saxony-Anhalt in the former communist east gave the anti-immigration, pro-Kremlin Alternative für Deutschland (AfD) party <a href=\"https://www.theguardian.com/world/2026/sep/06/saxony-anhalt-germany-afd-exit-poll-ulrich-siegmund\">a thumping first-place finish of 44%</a>, just short of an absolute majority.</p> <a href=\"https://www.theguardian.com/world/2026/sep/07/why-far-right-afd-state-victory-significant-german-politics-germany-explainer\">Continue reading...</a>"
       ],
-      "date": "2026-09-06",
-      "real": true
-    },
-    {
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/sport/2026/sep/06/canadian-skyrunner-kalie-mccrystal-missing-matterhorn-alps",
-      "title": "Canadian skyrunner goes missing during training session for Matterhorn record attempt",
-      "summary": "<ul><li><p>Kalie McCrystal was hoping to break record in Alps</p></li><li><p>Athlete was last seen on Tuesday afternoon</p></li></ul><p>Canadian athlete Kalie McCrystal has gone missing during preparations for a record attempt in the Alps.</p><p>McCrystal, from Squamish in British Columbia, was on a",
-      "paragraphs": [
-        "<ul><li><p>Kalie McCrystal was hoping to break record in Alps</p></li><li><p>Athlete was last seen on Tuesday afternoon</p></li></ul><p>Canadian athlete Kalie McCrystal has gone missing during preparations for a record attempt in the Alps.</p><p>McCrystal, from Squamish in British Columbia, was on a “reconnaissance/training session” in the run-up to her attempt at ascending and descending the 14,692 ft (4,478m) Matterhorn on the Swiss-Italian border.</p> <a href=\"https://www.theguardian.com/sport/2026/sep/06/canadian-skyrunner-kalie-mccrystal-missing-matterhorn-alps\">Continue reading...</a>"
-      ],
-      "date": "2026-09-06",
+      "date": "2026-09-07",
       "real": true
     }
   ]
