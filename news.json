@@ -1,123 +1,133 @@
 {
-  "updated": "2026-09-26T00:58:24Z",
+  "updated": "2026-09-27T00:58:31Z",
   "count": 60,
   "articles": [
     {
       "source": "NPR",
-      "link": "https://www.npr.org/2026/09/25/nx-s1-5978875/midterms-redistricting-trump-missouri",
-      "title": "Supreme Court blocks Trump-backed Missouri congressional map",
-      "summary": "The ruling is a defeat for Republicans seeking to give their party an edge in the midterm elections for control of the House. It means voters will face a different map than the one used in the primary elections.",
+      "link": "https://www.npr.org/2026/09/26/nx-s1-5980066/trump-gave-xi-jinping-a-warm-welcome-what-did-the-talks-accomplish",
+      "title": "Trump gave Xi Jinping a warm welcome. What did the talks accomplish?",
+      "summary": "From the National Archives to the state dinner, President Trump and Xi Jinping looked comfortable together in Washington. Two former NPR China correspondents on what the visit did and didn't deliver.",
       "paragraphs": [
-        "The ruling is a defeat for Republicans seeking to give their party an edge in the midterm elections for control of the House. It means voters will face a different map than the one used in the primary elections."
+        "From the National Archives to the state dinner, President Trump and Xi Jinping looked comfortable together in Washington. Two former NPR China correspondents on what the visit did and didn't deliver."
       ],
-      "date": "2026-09-25",
+      "date": "2026-09-26",
       "real": true
     },
     {
       "source": "NPR",
-      "link": "https://www.npr.org/2026/09/25/nx-s1-5980351/hurricane-nolo-pacific-el-nino",
-      "title": "The Pacific is churning with hurricanes. The Atlantic is quiet. Blame El Niño",
-      "summary": "The Pacific Ocean has had an unusual number of storms this year, while the Atlantic hasn't recorded a single full-blown hurricane. Scientists point to an exceptionally strong El Niño.",
+      "link": "https://www.npr.org/2026/09/26/nx-s1-5981990/trump-rejects-iranian-deal-strait-of-hormuz",
+      "title": "Trump calls Iranian plan to reopen Strait of Hormuz not 'acceptable'",
+      "summary": "President Trump said he was rejecting an Iranian plan to reopen the Strait of Hormuz. The Iranian proposal is similar to a memorandum of understanding agreed upon by the U.S. and Iran back in June.",
       "paragraphs": [
-        "'/> The Pacific Ocean has had an unusual number of storms this year, while the Atlantic hasn't recorded a single full-blown hurricane. Scientists point to an exceptionally strong El Niño."
+        "President Trump said he was rejecting an Iranian plan to reopen the Strait of Hormuz. The Iranian proposal is similar to a memorandum of understanding agreed upon by the U.S. and Iran back in June."
       ],
-      "date": "2026-09-25",
+      "date": "2026-09-26",
       "real": true
     },
     {
       "source": "NPR",
-      "link": "https://www.npr.org/2026/09/25/nx-s1-5981265/takeaways-trump-xi-state-visit-pageantry-pandas",
-      "title": "Takeaways from the Trump-Xi state visit: Pageantry and pandas",
-      "summary": "The visit comes at an important time for both men.",
+      "link": "https://www.npr.org/2026/09/26/nx-s1-5981979/openai-us-government-websites-misbehavior",
+      "title": "OpenAI says its models engaged with US government websites in misbehavior disclosure",
+      "summary": "The disclosure is the latest in a string of incidents in which the AI platform has been caught going rogue. OpenAI says it is reviewing the findings.",
       "paragraphs": [
-        "The visit comes at an important time for both men."
+        "The disclosure is the latest in a string of incidents in which the AI platform has been caught going rogue. OpenAI says it is reviewing the findings."
       ],
-      "date": "2026-09-25",
+      "date": "2026-09-26",
       "real": true
     },
     {
       "source": "NPR",
-      "link": "https://www.npr.org/2026/09/25/nx-s1-5981154/jay-z-sexual-assault-accuser-claims-false",
-      "title": "Woman who accused Jay-Z of sexual assault says her claims were false",
-      "summary": "On Thursday, the woman identified as Jane Doe filed a declaration in Manhattan federal court stating that all of her original claims against the rapper were false.",
+      "link": "https://www.npr.org/2026/09/26/nx-s1-5974096/essay-09-26-26",
+      "title": "OPINION: Trump's U.N. speech, a stark contrast with past presidents",
+      "summary": "President Donald Trump mused openly before the United Nations about whether he should annihilate Iran. It's a stark contrast to how his predecessors have spoken about wielding US military power.",
       "paragraphs": [
-        "On Thursday, the woman identified as Jane Doe filed a declaration in Manhattan federal court stating that all of her original claims against the rapper were false.",
-        "(Image credit: Phillip Faraone/Getty Images)"
+        "President Donald Trump mused openly before the United Nations about whether he should annihilate Iran. It's a stark contrast to how his predecessors have spoken about wielding US military power.",
+        "(Image credit: Chip Somodevilla/Getty Images)"
       ],
-      "date": "2026-09-25",
+      "date": "2026-09-26",
       "real": true
     },
     {
       "source": "NPR",
-      "link": "https://www.npr.org/2026/09/25/g-s1-144948/pandemic-prevention-treaty-agreement-world-health-organization",
-      "title": "There's a global pandemic treaty that's signed -- and in 'limbo.' What's the holdup?",
-      "summary": "The treaty aims to help the countries of the world prepare for — and defeat — any future pandemic. Why hasn't it gone into effect?",
+      "link": "https://www.npr.org/2026/09/26/nx-s1-5981392/noreaster-east-coast-floods",
+      "title": "Windy weddings and rocky cruises: How East Coasters are braving the nor'easter this weekend",
+      "summary": "Northeast states saw rising tides and widespread power outages on Saturday as the storm ripped through the region. Forecasters expect significant winds and rain throughout the weekend.",
       "paragraphs": [
-        "The treaty aims to help the countries of the world prepare for — and defeat — any future pandemic. Why hasn't it gone into effect?"
+        "Northeast states saw rising tides and widespread power outages on Saturday as the storm ripped through the region. Forecasters expect significant winds and rain throughout the weekend."
       ],
-      "date": "2026-09-25",
+      "date": "2026-09-26",
       "real": true
     },
     {
       "source": "NPR",
-      "link": "https://www.npr.org/2026/09/25/nx-s1-5976804/supreme-court-trump-save-noncitizen-voting",
-      "title": "The Supreme Court revives a controversial data system for citizenship checks",
-      "summary": "The Supreme Court is allowing use of a data system that Trump officials overhauled. The system has erroneously flagged U.S. citizens and a lower court found it violated federal privacy protections.",
+      "link": "https://www.npr.org/2026/09/26/g-s1-144667/hiv-crystal-meth-epidemic-fiji",
+      "title": "Why this island paradise has the world's fastest-growing HIV epidemic",
+      "summary": "In mid-September, Fiji's government declared a national emergency because of a startling rise in HIV infections. The country's crystal meth epidemic is a strong contributing factor.",
       "paragraphs": [
-        "The Supreme Court is allowing use of a data system that Trump officials overhauled. The system has erroneously flagged U.S. citizens and a lower court found it violated federal privacy protections."
+        "In mid-September, Fiji's government declared a national emergency because of a startling rise in HIV infections. The country's crystal meth epidemic is a strong contributing factor."
       ],
-      "date": "2026-09-25",
+      "date": "2026-09-26",
       "real": true
     },
     {
       "source": "NPR",
-      "link": "https://www.npr.org/2026/09/25/nx-s1-5981140/pope-leo-france",
-      "title": "Pope Leo warns a 'paradise of machines' could undermine humanity on his France visit",
-      "summary": "Pope Leo XIV raised existential concerns about scientific progress, life and human rights during a speech on his first papal visit to France.",
+      "link": "https://www.npr.org/2026/09/26/nx-s1-5979085/the-ai-safety-debate-is-confusing-heres-our-guide-to-the-different-factions",
+      "title": "The AI safety debate is confusing. Here's our guide to the different factions",
+      "summary": "The battle over AI's promise and perils is not a clash between two opposing sides, but a debate among a range of competing voices and ideologies. Here is a guide to who's who in that debate.",
       "paragraphs": [
-        "Pope Leo XIV raised existential concerns about scientific progress, life and human rights during a speech on his first papal visit to France."
+        "The battle over AI's promise and perils is not a clash between two opposing sides, but a debate among a range of competing voices and ideologies. Here is a guide to who's who in that debate."
       ],
-      "date": "2026-09-25",
+      "date": "2026-09-26",
       "real": true
     },
     {
       "source": "NPR",
-      "link": "https://www.npr.org/2026/09/25/nx-s1-5981082/hurricane-nolo-hawaii",
-      "title": "Hurricane Nolo, a zig-zagging storm, threatens Hawaii with flooding rains",
-      "summary": "Nolo will slow down as it nears Hawaii's Big Island and is expected to become a major hurricane this weekend, bringing torrential rain to areas that have been flooded by big storms this summer.",
+      "link": "https://www.npr.org/2026/09/26/nx-s1-5946434/medically-tailored-meal-deliveries-medicaid-cuts",
+      "title": "Meal deliveries can save money and improve health. Will they survive Medicaid cuts?",
+      "summary": "Some states deliver meals to Medicaid patients that address their dietary needs. Evidence shows it aids recovery and saves healthcare costs, but federal budget cuts may lead some states to cancel it.",
       "paragraphs": [
-        "Nolo will slow down as it nears Hawaii's Big Island and is expected to become a major hurricane this weekend, bringing torrential rain to areas that have been flooded by big storms this summer."
+        "Some states deliver meals to Medicaid patients that address their dietary needs. Evidence shows it aids recovery and saves healthcare costs, but federal budget cuts may lead some states to cancel it."
       ],
-      "date": "2026-09-25",
+      "date": "2026-09-26",
       "real": true
     },
     {
       "source": "NPR",
-      "link": "https://www.npr.org/2026/09/25/g-s1-144994/up-first-newsletter-trump-xi-netanyahu-united-nations-mortgage-rates",
-      "title": "Trump and Xi strike cordial tone at summit. And, Netanyahu gives defiant UNGA speech",
-      "summary": "Trump and Xi's U.S. summit continues after a state dinner Thursday night. And, Netanyahu returns to Israel after giving a defensive and defiant speech at the U.N. General Assembly.",
+      "link": "https://www.npr.org/2026/09/26/nx-s1-5979047/us-thalidomide-survivors-want-recognition-government",
+      "title": "The U.S. has more thalidomide survivors than the government admits",
+      "summary": "In the 1950s and 1960s, doctors gave the drug thalidomide to pregnant patients without telling them — and without FDA approval. Now those patients' children want recognition.",
       "paragraphs": [
-        "Trump and Xi's U.S. summit continues after a state dinner Thursday night. And, Netanyahu returns to Israel after giving a defensive and defiant speech at the U.N. General Assembly."
+        "In the 1950s and 1960s, doctors gave the drug thalidomide to pregnant patients without telling them — and without FDA approval. Now those patients' children want recognition."
       ],
-      "date": "2026-09-25",
+      "date": "2026-09-26",
       "real": true
     },
     {
       "source": "NPR",
-      "link": "https://www.npr.org/sections/planet-money/2026/09/25/nx-s1-5980393/why-this-pokemon-set-is-dropping-in-value",
-      "title": "Why this Pokémon set is dropping in value",
-      "summary": "How does one price a cemetery plot? Are they using dynamic pricing to figure it out? We tackle that question and many more in this week's Indicator newsletter.",
+      "link": "https://www.npr.org/2026/09/26/g-s1-145150/pope-warns-a-paradise-of-machines-could-undermine-humanity",
+      "title": "Pope warns a 'paradise of machines' could undermine humanity as he opens France trip",
+      "summary": "Pope Leo XIV has warned that a \"paradise of machines\" could undermine humanity. He raises concerns about artificial intelligence, nuclear arms, and human rights during his visit to France.",
       "paragraphs": [
-        "Mew ex, Pokémon TCG 30th Celebration '/> How does one price a cemetery plot? Are they using dynamic pricing to figure it out? We tackle that question and many more in this week's Indicator newsletter.",
-        "(Image credit: Pokémon/Nintendo/Creatures/GAME FREAK. )"
+        "Pope Leo XIV has warned that a \"paradise of machines\" could undermine humanity. He raises concerns about artificial intelligence, nuclear arms, and human rights during his visit to France."
       ],
-      "date": "2026-09-25",
+      "date": "2026-09-26",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/pro-imran-khan-rally-delayed-amid-government-closures?traffic_source=rss",
-      "title": "Pro-Imran Khan rally delayed amid government closures",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/9/27/iran-war-live-tehran-awaits-official-response-as-trump-rejects-hormuz-plan?traffic_source=rss",
+      "title": "Iran war live: Tehran awaits official response as Trump rejects Hormuz plan",
+      "summary": "",
+      "paragraphs": [
+        ""
+      ],
+      "date": "2026-09-27",
+      "real": true
+    },
+    {
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/pezeshkian-says-iran-no-longer-trusts-talks-with?traffic_source=rss",
+      "title": "Pezeshkian says Iran ‘no longer trusts talks with Washington’",
       "summary": "",
       "paragraphs": [
         ""
@@ -127,8 +137,8 @@
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/9/26/iran-war-live-tehran-offers-us-plan-to-reopen-hormuz-within-seven-days?traffic_source=rss",
-      "title": "Iran war live: Tehran offers US plan to reopen Hormuz within seven days",
+      "link": "https://www.aljazeera.com/news/2026/9/26/four-american-tourists-among-6-killed-in-suspected-gas-leak-blast-in-athens?traffic_source=rss",
+      "title": "Four American tourists among 6 killed in suspected gas leak blast in Athens",
       "summary": "",
       "paragraphs": [
         ""
@@ -138,255 +148,244 @@
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/9/25/us-court-rules-against-kalshi-says-states-can-regulate-prediction-markets?traffic_source=rss",
-      "title": "US court rules against Kalshi, says states can regulate prediction markets",
+      "link": "https://www.aljazeera.com/news/2026/9/26/powerful-storm-brings-flooding-power-outages-to-northeastern-united-states?traffic_source=rss",
+      "title": "Powerful storm brings flooding, power outages to northeastern United States",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-09-25",
+      "date": "2026-09-26",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/9/25/iran-says-it-awaits-us-response-on-seven-day-roadmap-to-end-war?traffic_source=rss",
-      "title": "Iran says it awaits US response on seven-day roadmap to end war",
+      "link": "https://www.aljazeera.com/news/2026/9/26/deadly-shooting-hits-caribbean-islands-of-saint-vincent-and-the-grenadines?traffic_source=rss",
+      "title": "Deadly shooting hits Caribbean islands of Saint Vincent and the Grenadines",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-09-25",
+      "date": "2026-09-26",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/9/25/pope-leo-xiv-warns-ai-could-undermine-humanity-during-france-visit?traffic_source=rss",
-      "title": "Pope Leo XIV warns AI could undermine humanity during France visit",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/student-protesters-disrupt-nvidia-ai-climate-panel?traffic_source=rss",
+      "title": "Student protesters disrupt NVIDIA AI climate panel",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-09-25",
+      "date": "2026-09-26",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/iran-to-reopen-strait-of-hormuz-within-a-week-if-us-agrees-to-plan?traffic_source=rss",
-      "title": "Iran to reopen Strait of Hormuz within a week if US agrees to plan",
+      "link": "https://www.aljazeera.com/news/2026/9/26/trump-says-he-is-rolling-back-biden-era-us-fuel-economy-rules-for-cars?traffic_source=rss",
+      "title": "Trump says he is rolling back Biden-era US fuel economy rules for cars",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-09-25",
+      "date": "2026-09-26",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/9/25/dr-congos-ebola-outbreak-spreads-to-two-new-health-zones-who-says?traffic_source=rss",
-      "title": "DR Congo’s Ebola outbreak spreads to two new health zones, WHO says",
+      "link": "https://www.aljazeera.com/sports/2026/9/26/yamal-nets-in-spains-3-2-comeback-win-against-england-in-nations-league?traffic_source=rss",
+      "title": "Yamal nets in Spain’s 3-2 comeback win against England in Nations League",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-09-25",
+      "date": "2026-09-26",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/netanyahu-calls-al-jazeera-a-toxic-media?traffic_source=rss",
-      "title": "Netanyahu calls Al Jazeera a ‘toxic media outlet’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/russia-scales-up-strikes-on-ukraine-as-largest-steelmaker-halts-operations?traffic_source=rss",
+      "title": "Russia scales up strikes on Ukraine as largest steelmaker halts operations",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-09-25",
+      "date": "2026-09-26",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/sports/2026/9/25/mbappe-goal-overshadowed-by-knee-injury-to-mar-zidane-debut-france-win?traffic_source=rss",
-      "title": "Mbappe goal overshadowed by knee injury to mar Zidane debut France win",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/9/26/why-is-violence-between-pakistan-and-afghanistan-recurring?traffic_source=rss",
+      "title": "Why is violence between Pakistan and Afghanistan recurring?",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-09-25",
+      "date": "2026-09-26",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/economy/2026/9/25/what-would-a-us-diesel-export-ban-mean-for-global-fuel-prices?traffic_source=rss",
-      "title": "What would a US diesel export ban mean for global fuel prices?",
+      "link": "https://www.aljazeera.com/news/2026/9/26/hamas-slams-board-of-peace-for-refusal-to-work-with-unrwa-in-gaza?traffic_source=rss",
+      "title": "Hamas slams Board of Peace for refusal to work with UNRWA in Gaza",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-09-25",
+      "date": "2026-09-26",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/sports/2026/9/25/belgium-win-deepens-italy-crisis-as-latest-world-cup-rebuild-begins?traffic_source=rss",
-      "title": "Italy crisis deepens as Belgium’s win stalls World Cup rebuild in Rome",
+      "link": "https://www.aljazeera.com/news/2026/9/26/tens-of-thousands-attend-right-wing-protest-over-ceuta-migrant-crisis?traffic_source=rss",
+      "title": "Tens of thousands attend right-wing protest over Ceuta migrant crisis",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-09-25",
+      "date": "2026-09-26",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/9/25/houthi-attack-on-mecca-medina-would-cross-red-line-pakistan-pm-tells-un?traffic_source=rss",
-      "title": "Houthi attack on Mecca, Medina would cross ‘red line’, Pakistan PM tells UN",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/saudi-fm-accuses-iran-of-flagrant-attacks-and-condemns-houthis-at-unga?traffic_source=rss",
+      "title": "Saudi FM accuses Iran of ‘flagrant attacks’ and condemns Houthis at UNGA",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-09-25",
+      "date": "2026-09-26",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/09-25-man-city-verdict-sv?traffic_source=rss",
-      "title": "Manchester City reportedly found guilty of almost 115 financial charges",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/ireland-decide-to-play-israel-in-nations-league-after-squad-vote?traffic_source=rss",
+      "title": "Ireland decide to play Israel in Nations League after squad vote",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-09-25",
+      "date": "2026-09-26",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/huge-fire-on-vehicle-ferry-off-mykonos-prompts-mass-evacuation?traffic_source=rss",
-      "title": "Huge fire on vehicle ferry off Mykonos prompts mass evacuation",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/lavrov-russias-war-in-ukraine-will-continue-through-to-the?traffic_source=rss",
+      "title": "Lavrov: Russia’s war in Ukraine will continue ‘through to the end’",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-09-25",
+      "date": "2026-09-26",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/afghan-taxi-drivers-defy-the-talibans-music-ban?traffic_source=rss",
-      "title": "Afghan taxi drivers defy the Taliban’s music ban",
+      "link": "https://www.aljazeera.com/news/2026/9/26/colombia-extradites-leader-of-armed-group-to-us-in-shift-towards-washington?traffic_source=rss",
+      "title": "Colombia extradites leader of armed group to US in shift towards Washington",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-09-25",
+      "date": "2026-09-26",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/which-countries-walked-out-of-netanyahus-unga-speech?traffic_source=rss",
-      "title": "Which countries walked out of Netanyahu’s UNGA speech?",
+      "link": "https://www.aljazeera.com/news/2026/9/26/south-african-police-discover-body-of-10th-woman-near-johannesburg?traffic_source=rss",
+      "title": "South African police discover body of 10th woman near Johannesburg",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-09-25",
+      "date": "2026-09-26",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/jerusalem-daily-what-was-netanyahus-unga-speech-really-about?traffic_source=rss",
-      "title": "Jerusalem Daily: What was Netanyahu’s UNGA speech really about?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/trump-rejects-iranian-offer-to-reopen-strait-of-hormuz?traffic_source=rss",
+      "title": "Trump rejects Iranian offer to reopen Strait of Hormuz",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-09-25",
+      "date": "2026-09-26",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/pakistan-pm-calls-houthi-threats-to-saudi-holy-sites-a-red?traffic_source=rss",
-      "title": "Pakistan PM calls Houthi threats to Saudi holy sites a ‘red line’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/09-26-cuba-fm-unga-clip-mp4?traffic_source=rss",
+      "title": "Cuba accuses US at UN of deliberately inflicting humanitarian suffering",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-09-25",
+      "date": "2026-09-26",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/features/2026/9/25/how-israels-blue-line-team-seizes-palestinian-land-in-the-west-bank?traffic_source=rss",
-      "title": "How Israel’s ‘Blue Line’ team seizes Palestinian land in the West Bank",
+      "link": "https://www.aljazeera.com/news/2026/9/26/trump-rejects-combining-us-china-ai-efforts?traffic_source=rss",
+      "title": "Trump rejects combining US-China AI efforts",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-09-25",
+      "date": "2026-09-26",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/9/25/un-expands-list-of-firms-involved-in-illegal-israeli-settlement-activities?traffic_source=rss",
-      "title": "UN expands list of firms involved in illegal Israeli settlement activities",
+      "link": "https://www.aljazeera.com/news/2026/9/26/iraq-seeks-us-exemption-from-ban-on-iranian-flights?traffic_source=rss",
+      "title": "Iraq seeks US exemption from ban on Iranian flights",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-09-25",
+      "date": "2026-09-26",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/iran-threatens-widespread-disruption-as-iraq-halts-iran-flights?traffic_source=rss",
-      "title": "Iran threatens widespread disruption as Iraq halts Iran flights",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/stop-arming-israel-pro-palestine-protesters-march-on-labour-conference?traffic_source=rss",
+      "title": "‘Stop arming Israel’: Pro-Palestine protesters march on Labour conference",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-09-25",
+      "date": "2026-09-26",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/9/25/will-turkiye-end-its-military-presence-in-northern-iraq?traffic_source=rss",
-      "title": "Will Turkiye end its military presence in northern Iraq?",
+      "link": "https://www.aljazeera.com/news/2026/9/26/cuba-condemns-us-collective-punishment-as-trump-predicts-deal?traffic_source=rss",
+      "title": "Cuba condemns US ‘collective punishment’ as Trump predicts deal",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-09-25",
+      "date": "2026-09-26",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/9/25/iraqi-airports-halt-iranian-flights-after-new-us-aviation-sanctions?traffic_source=rss",
-      "title": "Iraqi airports halt Iranian flights after new US aviation sanctions",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/ethiopias-fano-fighters-claim-capture-of-army-vehicles-and-weapons?traffic_source=rss",
+      "title": "Ethiopia’s Fano fighters claim capture of army vehicles and weapons",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-09-25",
+      "date": "2026-09-26",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/09-25-india-election-chief-protests-sv?traffic_source=rss",
-      "title": "India’s Cockroach movement joins opposition push to oust election chief",
+      "link": "https://www.aljazeera.com/news/2026/9/26/venezuelan-government-opposition-agree-to-work-towards-reform-of-top-court?traffic_source=rss",
+      "title": "Venezuelan government, opposition agree to work towards reform of top court",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-09-25",
-      "real": true
-    },
-    {
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/families-fleeing-yemens-war-face-displacement-hunger-and-water-shortages?traffic_source=rss",
-      "title": "Families fleeing Yemen’s war face displacement, hunger and water shortages",
-      "summary": "",
-      "paragraphs": [
-        ""
-      ],
-      "date": "2026-09-25",
+      "date": "2026-09-26",
       "real": true
     },
     {
@@ -446,6 +445,28 @@
     },
     {
       "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/sep/26/us-airstrikes-ecuador-fishers",
+      "title": "US strikes on Ecuadorian fishing boats raise humanitarian concerns but Trump admin not wavering",
+      "summary": "<p>Attorney says fishers ‘losing their livelihoods’, but Marco Rubio maintains US still willing to ‘blow up ships if need be’</p><p>While the US secretary of state, <a href=\"https://www.theguardian.com/us-news/marco-rubio\">Marco Rubio</a>, was being decorated in Quito by Ecuador’s president for “hel",
+      "paragraphs": [
+        "<p>Attorney says fishers ‘losing their livelihoods’, but Marco Rubio maintains US still willing to ‘blow up ships if need be’</p><p>While the US secretary of state, <a href=\"https://www.theguardian.com/us-news/marco-rubio\">Marco Rubio</a>, was being decorated in Quito by Ecuador’s president for “helping to promote peace in the region”, 10 Ecuadorian fishers whose boat had been blown up by US forces were adrift in the eastern Pacific.</p><p>On 8 September, a day before Rubio arrived, a US patrol vessel intercepted the fishing boat Don Rufo in international waters near Ecuador.</p> <a href=\"https://www.theguardian.com/world/2026/sep/26/us-airstrikes-ecuador-fishers\">Continue reading...</a>"
+      ],
+      "date": "2026-09-26",
+      "real": true
+    },
+    {
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/sep/26/lula-bans-fixed-odds-sports-betting-a-week-before-brazilian-elections",
+      "title": "Lula bans fixed-odds sports betting a week before Brazilian elections",
+      "summary": "<p>President’s ‘hard, drastic and necessary measure’, likely to attract widespread public support, polls suggest</p><p>The Brazilian president, Luiz Inácio Lula da Silva, has signed an order banning fixed-odds sports betting just over a week before the first round of the presidential election, in a ",
+      "paragraphs": [
+        "<p>President’s ‘hard, drastic and necessary measure’, likely to attract widespread public support, polls suggest</p><p>The Brazilian president, Luiz Inácio Lula da Silva, has signed an order banning fixed-odds sports betting just over a week before the first round of the presidential election, in a move he said was designed to tackle the pervasive problem of families falling into debt.</p><p>The decision ends the operation, offering, intermediation and advertising of betting.</p> <a href=\"https://www.theguardian.com/world/2026/sep/26/lula-bans-fixed-odds-sports-betting-a-week-before-brazilian-elections\">Continue reading...</a>"
+      ],
+      "date": "2026-09-26",
+      "real": true
+    },
+    {
+      "source": "The Guardian",
       "link": "https://www.theguardian.com/us-news/2026/sep/25/michigan-ceo-loses-job-lake-america-photo",
       "title": "Michigan CEO loses job after posting AI-made image of her family in ‘Lake America’ sweaters",
       "summary": "<p>Jane Smith reportedly used ChatGPT to edit photo to show name Trump ordered US agencies to use for Lake Ontario amid trade war with Canada</p><p>The CEO of a <a href=\"https://www.theguardian.com/us-news/michigan\">Michigan</a> credit union is no longer employed there, according to the organization",
@@ -475,28 +496,6 @@
         "<p>Area’s second-most intense hurricane on record being fuelled by exceptionally warm Pacific waters</p><p>Hurricane Polo is barreling towards the Baja California region of Mexico, the latest system in a Pacific hurricane season that has been notably active in recent months. On 22 September, a measurement of 892 millibars was registered for Hurricane Polo, making it the second-most intense hurricane on record in the east Pacific. It is fuelled by exceptionally warm waters across the Pacific Ocean, providing favourable conditions for the system to maintain its considerable strength.</p><p>Polo is expected to turn towards the west-north-west, before taking a more north-westerly trajectory on Saturday. It has maximum sustained winds of around 150mph, with even stronger gusts occurring within the most intense parts of the hurricane. Hurricane-force winds extend outward for approximately 40 miles from the centre, while tropical storm-force winds reach as far as 125 miles. These powerful winds, combined with torrential rainfall and dangerous seas, could have significant impacts. Although some fluctuations in intensity are possible over the coming days, Polo is expected to remain powerful as it tracks north-westwards.</p> <a href=\"https://www.theguardian.com/world/2026/sep/25/weather-tracker-hurricane-polo-baja-california-mexico\">Continue reading...</a>"
       ],
       "date": "2026-09-25",
-      "real": true
-    },
-    {
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/world/2026/sep/25/lula-says-trump-wants-to-colonise-and-capture-brazils-resources-by-meddling-in-election",
-      "title": "Lula says Trump wants to ‘colonise’ and capture Brazil’s resources by meddling in election",
-      "summary": "<p>A TV spot claims the US president is trying to sway October’s presidential vote in favour of Lula’s far-right opponents</p><p><a href=\"https://www.theguardian.com/world/luiz-inacio-lula-da-silva\">Luiz Inácio Lula da Silva’s</a> presidential campaign has accused Donald Trump of wanting to “colonis",
-      "paragraphs": [
-        "<p>A TV spot claims the US president is trying to sway October’s presidential vote in favour of Lula’s far-right opponents</p><p><a href=\"https://www.theguardian.com/world/luiz-inacio-lula-da-silva\">Luiz Inácio Lula da Silva’s</a> presidential campaign has accused Donald Trump of wanting to “colonise” Brazil in order to capture its natural resources by meddling in next month’s presidential election.</p><p>The accusation came in <a href=\"https://x.com/LulaOficial/status/2103283189653385467?s=20\">a campaign advert</a> that was published on social media on Thursday night by Lula’s team and will air on television on Friday amid growing fears over the impact alleged US interference could have on the vote.</p> <a href=\"https://www.theguardian.com/world/2026/sep/25/lula-says-trump-wants-to-colonise-and-capture-brazils-resources-by-meddling-in-election\">Continue reading...</a>"
-      ],
-      "date": "2026-09-25",
-      "real": true
-    },
-    {
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/world/2026/sep/24/trump-brazil-election-interference",
-      "title": "Democratic lawmakers accuse Trump administration of interference in Brazilian elections",
-      "summary": "<p>Legislators sent letter to Marco Rubio saying US interference is weakening Brazil’s democratic institutions</p><p>A group of 31 Democratic members of the <a href=\"https://www.theguardian.com/us-news/us-congress\">US Congress</a> has sent a letter to the secretary of state, <a href=\"https://www.the",
-      "paragraphs": [
-        "<p>Legislators sent letter to Marco Rubio saying US interference is weakening Brazil’s democratic institutions</p><p>A group of 31 Democratic members of the <a href=\"https://www.theguardian.com/us-news/us-congress\">US Congress</a> has sent a letter to the secretary of state, <a href=\"https://www.theguardian.com/us-news/marco-rubio\">Marco Rubio</a>, criticising the <a href=\"https://www.theguardian.com/us-news/trump-administration\">Trump administration</a> over “an apparent effort to interfere with, and potentially undermine” <a href=\"https://www.theguardian.com/world/brazil\">Brazil</a>’s elections.</p><p>Latin America’s largest country will hold the first round of its presidential election on 4 October, with polls showing a <a href=\"https://www.theguardian.com/world/2026/sep/18/brazil-lula-welfare-payments-weight-loss-jabs-election\">technical tie</a> between the incumbent leftist president, <a href=\"https://www.theguardian.com/world/luiz-inacio-lula-da-silva\">Luiz Inácio Lula da Silva</a>, and the far-right senator <a href=\"https://www.theguardian.com/world/2026/sep/14/brazil-bolsonaro-far-right-minas-gerais\">Flávio Bolsonaro</a>.</p> <a href=\"https://www.theguardian.com/world/2026/sep/24/trump-brazil-election-interference\">Continue reading...</a>"
-      ],
-      "date": "2026-09-24",
       "real": true
     },
     {
@@ -556,6 +555,50 @@
     },
     {
       "source": "The Guardian",
+      "link": "https://www.theguardian.com/australia-news/live/2026/sep/27/australia-news-live-anthony-albanese-openai-medicare-hack-united-nations-richard-marles-jane-hume-liberal-coalition-one-nation-pauline-hanson-ntwnfb",
+      "title": "Australia news live: Marles said OpenAI CEO didn’t tell him about hack at meeting; flight cancellation heartbreak for AFL fans",
+      "summary": "<p>Follow live updates</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</",
+      "paragraphs": [
+        "<p>Follow live updates</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The deputy Liberal leader, <strong>Jane Hume</strong>, has expressed scepticism revelations an <strong>OpenAI</strong> agent accessed Australian government data without authorisation should have legal consequences for the company.</p><p>The hack was revealed last week, despite taking place in June. Government ministers have raised the prospect of possible referrals to the Australian federal police, but gaps in Australian law could make establishing criminal liability difficult.</p><p>But certainly the way to go about that is not to threaten criminal action against US counterparts and those trusted partners that we’re relying on now to make sure that we can bring those frontier models, that we can do frontier model training here in Australia.</p><p><strong>I don’t necessarily think that finger-wagging at our trusted partners, or trying to gazump Donald Trump, is the way to go about that.</strong></p><p>Mia loved what she did in the police. She was happy in the police, she was good at her job, and how loved she was by everyone in the community. She was the happiest girl I’ve met …</p><p>I’d ask for everyone to remember how stunning and beautiful she was. She was a kind hearted person, gave so much love to everyone that she cared about …</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/sep/27/australia-news-live-anthony-albanese-openai-medicare-hack-united-nations-richard-marles-jane-hume-liberal-coalition-one-nation-pauline-hanson-ntwnfb\">Continue reading...</a>"
+      ],
+      "date": "2026-09-27",
+      "real": true
+    },
+    {
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/australia-news/2026/sep/26/australia-datacentre-backlash",
+      "title": "Australian backlash to datacentres is faux import from US, officials say: ‘We are not the United States’",
+      "summary": "<p>Pro-datacentre officials argue scale of Australia’s buildout is smaller, more regulated and less damaging than in US</p><p>Australian politicians and business leaders are arguing that their populace’s growing resentment of AI datacentres is an inauthentic import from the United States.</p><p>Like",
+      "paragraphs": [
+        "<p>Pro-datacentre officials argue scale of Australia’s buildout is smaller, more regulated and less damaging than in US</p><p>Australian politicians and business leaders are arguing that their populace’s growing resentment of AI datacentres is an inauthentic import from the United States.</p><p>Like the US, Australia is seeing community resentment grow in response to a surge in the construction of massive AI datacentres. However, pro-datacentre officials and executives argue the scale of Australia’s buildout is smaller, more regulated and therefore less damaging than that in the US. They say the burgeoning negative reaction is being tainted and inflamed by a heated US debate that has arrived down under via social media feeds.</p> <a href=\"https://www.theguardian.com/australia-news/2026/sep/26/australia-datacentre-backlash\">Continue reading...</a>"
+      ],
+      "date": "2026-09-26",
+      "real": true
+    },
+    {
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/australia-news/2026/sep/27/australia-private-colleges-discount-deregistered-management-diploma-visa-crackdown-immigration-ntwnfb",
+      "title": "Private colleges around Australia offering last-minute discounts for diploma allegedly ‘misused by shonks’",
+      "summary": "<p>Federal government to deregister graduate diploma of management in October over fears it was being used by ‘non-genuine’ students to remain in country</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.co",
+      "paragraphs": [
+        "<p>Federal government to deregister graduate diploma of management in October over fears it was being used by ‘non-genuine’ students to remain in country</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Private colleges are offering discounts to rush students into a diploma the federal government is cancelling over concerns it is being “misused by shonks”.</p><p>The government announced in early September it would deregister the graduate diploma of management (learning) which it suspected was being used by “non-genuine” students to remain in Australia. The course is taught by close to 450 institutions, has over 15,000 students studying currently and more than 40,000 students registered for future enrolment following completion of a different vocational course.</p> <a href=\"https://www.theguardian.com/australia-news/2026/sep/27/australia-private-colleges-discount-deregistered-management-diploma-visa-crackdown-immigration-ntwnfb\">Continue reading...</a>"
+      ],
+      "date": "2026-09-26",
+      "real": true
+    },
+    {
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/australia-news/2026/sep/27/palestinian-careers-adviser-who-was-allegedly-told-to-stop-wearing-keffiyeh-at-sydney-school-sues-for-racial-discrimination-ntwnfb",
+      "title": "Palestinian careers adviser who was allegedly told to stop wearing keffiyeh at Sydney school sues for racial discrimination",
+      "summary": "<p>Wasim El-Haj alleges NSW government school ordered him to stop wearing symbolic garment as it ‘may cause discord’</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"h",
+      "paragraphs": [
+        "<p>Wasim El-Haj alleges NSW government school ordered him to stop wearing symbolic garment as it ‘may cause discord’</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>A Palestinian careers adviser who was allegedly directed to stop wearing a keffiyeh at a Sydney government school because it was a symbol that “may cause discord” has lodged a racial discrimination case in the federal court against the state of New South Wales.</p><p>Wasim El-Haj, a former careers adviser at Sydney Girls High School – an inner-city selective government school – alleges the then acting principal told him in 2024 that the keffiyeh was seen as a symbol of conflict. He alleges the state’s conduct is unlawful for breaching the Racial Discrimination Act.</p> <a href=\"https://www.theguardian.com/australia-news/2026/sep/27/palestinian-careers-adviser-who-was-allegedly-told-to-stop-wearing-keffiyeh-at-sydney-school-sues-for-racial-discrimination-ntwnfb\">Continue reading...</a>"
+      ],
+      "date": "2026-09-26",
+      "real": true
+    },
+    {
+      "source": "The Guardian",
       "link": "https://www.theguardian.com/australia-news/2026/sep/26/free-the-strip-melburnians-fight-back-against-outlawing-of-much-loved-picnic-spot",
       "title": "Free the Strip! Melburnians fight back against outlawing of much-loved picnic spot",
       "summary": "<p>A council ban on drinking on the median strip in Canning Street, Carlton, sparks a peaceful protest featuring punch bowls, chips and laughter</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3",
@@ -567,46 +610,46 @@
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/technology/2026/sep/26/openai-hack-australian-government-anxiety-global-dilemma-artificial-intelligence",
-      "title": "OpenAI hack on Australian government reveals anxiety at heart of global artificial intelligence dilemma",
-      "summary": "<p>As the UN warns traditional safeguards are ‘unravelling’, Donald Trump says he will encourage, not restrain, the AI race</p><p>When the Australian prime minister, Anthony Albanese, sat down for an interview in the heart of Silicon Valley at the weekend he had known for two days that his was the f",
+      "link": "https://www.theguardian.com/world/2026/sep/26/greek-authorities-seek-answers-after-six-killed-in-athens-apartment-block-explosion",
+      "title": "Greek authorities seek answers after six killed in Athens apartment block explosion",
+      "summary": "<p>Emergency teams discovered victims after two-storey building in historic Plaka district collapsed ‘in seconds’</p><p>Greek authorities say they are trying to discover what caused a two-storey apartment block in the heart of ancient Athens to collapse “in a matter of seconds”, killing six people.<",
       "paragraphs": [
-        "<p>As the UN warns traditional safeguards are ‘unravelling’, Donald Trump says he will encourage, not restrain, the AI race</p><p>When the Australian prime minister, Anthony Albanese, sat down for an interview in the heart of Silicon Valley at the weekend he had known for two days that his was the first government known to have been attacked by a rogue AI agent.</p><p>He didn’t reveal the attack then, but he sounded a warning about the march of AI: “the risk is that AI develops in a way in which humans are no longer in control of what AI is producing.”</p> <a href=\"https://www.theguardian.com/technology/2026/sep/26/openai-hack-australian-government-anxiety-global-dilemma-artificial-intelligence\">Continue reading...</a>"
+        "<p>Emergency teams discovered victims after two-storey building in historic Plaka district collapsed ‘in seconds’</p><p>Greek authorities say they are trying to discover what caused a two-storey apartment block in the heart of ancient Athens to collapse “in a matter of seconds”, killing six people.</p><p>Emergency teams found the victims, including four American tourists, on Saturday, more than 24 hours after the early morning explosion in the historic Plaka district.</p> <a href=\"https://www.theguardian.com/world/2026/sep/26/greek-authorities-seek-answers-after-six-killed-in-athens-apartment-block-explosion\">Continue reading...</a>"
       ],
-      "date": "2026-09-25",
+      "date": "2026-09-26",
       "real": true
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/environment/2026/sep/26/saildrone-unmanned-hurricane-proof-ship-antarctica-climate-hobart",
-      "title": "‘Robust little’ vessel begins treacherous 22,000km journey around Antarctica in the name of climate science",
-      "summary": "<p>Powered by sun and wind, the uncrewed vehicle will collect data to help Australian scientists better understand how oceans absorb emissions</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">",
+      "link": "https://www.theguardian.com/world/2026/sep/26/pope-leo-celebrates-open-air-mass-before-700000-people-in-paris",
+      "title": "Pope Leo celebrates open-air mass before 700,000 people in Paris",
+      "summary": "<p>Crowds line Place de la Concorde on second day of pontiff’s first official papal visit to France in 18 years</p><p></p><p>Hundreds of thousands of people lined the Avenue des Champs-Élysées in ⁠Paris on Saturday to attend an open-air mass with Pope Leo, on the second day of his visit to France.</",
       "paragraphs": [
-        "<p>Powered by sun and wind, the uncrewed vehicle will collect data to help Australian scientists better understand how oceans absorb emissions</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>A small uncrewed vessel has embarked on a lap around Antarctica and may not return for months.</p><p>The seven-metre craft, which looks like a large kayak in hi-vis orange, is expected to travel about 22,000km through inhospitable waters, propelled by powerful westerly winds and energy from the sun. The journey is seven times the distance between Sydney and Perth.</p> <a href=\"https://www.theguardian.com/environment/2026/sep/26/saildrone-unmanned-hurricane-proof-ship-antarctica-climate-hobart\">Continue reading...</a>"
+        "<p>Crowds line Place de la Concorde on second day of pontiff’s first official papal visit to France in 18 years</p><p></p><p>Hundreds of thousands of people lined the Avenue des Champs-Élysées in ⁠Paris on Saturday to attend an open-air mass with Pope Leo, on the second day of his visit to France.</p><p>The Vatican estimated 700,000 people turned out for the outdoor mass with the 71-year-old American pope – about 100,000 more than the number of people who had registered to attend.</p> <a href=\"https://www.theguardian.com/world/2026/sep/26/pope-leo-celebrates-open-air-mass-before-700000-people-in-paris\">Continue reading...</a>"
       ],
-      "date": "2026-09-25",
+      "date": "2026-09-26",
       "real": true
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/australia-news/2026/sep/26/nsw-crackdown-on-ai-doctored-real-estate-listings-hits-mural-covered-wall",
-      "title": "NSW crackdown on ‘AI-doctored’ real estate listings hits mural-covered wall",
-      "summary": "<p>Apartment with strange view singled out in government’s fight against deceptive ads – but real estate agent says photo is no fake</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">new political email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</",
+      "link": "https://www.theguardian.com/society/2026/sep/26/drones-could-speed-up-getting-defibrillators-to-people-having-cardiac-arrests-study-suggests",
+      "title": "Drones could speed up getting defibrillators to people having cardiac arrests, study suggests",
+      "summary": "<p>New research suggests the technology could be used to increase out-of-hospital access to life-saving devices</p><p>Drones could help cut the time it takes to get a defibrillator to people experiencing cardiac arrests when not in hospital, researchers have suggested.</p><p>In the UK alone, there a",
       "paragraphs": [
-        "<p>Apartment with strange view singled out in government’s fight against deceptive ads – but real estate agent says photo is no fake</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">new political email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The New South Wales government’s crackdown on “AI-doctored” rental listings has hit a wall, after it made an example of a supposedly manipulated ad that turned out to be a genuine photograph of a $5,000 courtyard mural of Bondi beach.</p><p>In a media release on Friday announcing protections against misleading rental ads, the state government provided a link to a property in Leichhardt, claiming it was an “AI-doctored rental listing in Sydney’s inner west”.</p> <a href=\"https://www.theguardian.com/australia-news/2026/sep/26/nsw-crackdown-on-ai-doctored-real-estate-listings-hits-mural-covered-wall\">Continue reading...</a>"
+        "<p>New research suggests the technology could be used to increase out-of-hospital access to life-saving devices</p><p>Drones could help cut the time it takes to get a defibrillator to people experiencing cardiac arrests when not in hospital, researchers have suggested.</p><p>In the UK alone, there are more than 30,000 out-of-hospital cardiac arrests a year where emergency medical services attempt to resuscitate the individual, according to the British Heart Foundation. However, fewer than one in 10 people survive such an event, and some who do are left with neurological problems.</p> <a href=\"https://www.theguardian.com/society/2026/sep/26/drones-could-speed-up-getting-defibrillators-to-people-having-cardiac-arrests-study-suggests\">Continue reading...</a>"
       ],
-      "date": "2026-09-25",
+      "date": "2026-09-26",
       "real": true
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/australia-news/live/2026/sep/25/anthony-albanese-open-ai-hack-united-nations-angus-taylor-coalition-ntwnfb",
-      "title": "Pocock calls for AI safety act after Medicare breach – as it happened",
-      "summary": "<p>This blog is now closed</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podca",
+      "link": "https://www.theguardian.com/world/2026/sep/26/british-climber-28-dies-fall-spain-torrecerredo-mountain",
+      "title": "British climber, 28, dies in fall in northern Spain",
+      "summary": "<p>Mountaineer’s body recovered about 20 metres below the summit of Torrecerredo, the highest peak of the Picos de Europa range</p><p>A British man has died after falling about 61 metres (200ft) while descending from the summit of a mountain in northern Spain, according to local law enforcement.</p>",
       "paragraphs": [
-        "<p>This blog is now closed</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>AI hack of Medicare exposes Australia’s vulnerabilities</strong></p><p>Technology experts have warned revelations an artificial intelligence agent hacked Medicare’s internal systems will not be the only dangerous breach of government data and have called for Australia to boost its protections against the growing risk.</p><p>Frontier AI now has capability to expose those vulnerabilities at a rate quicker than we can keep up, quicker than we can patch them.</p><p>What if it was a less benign breach? What if it was a less benign actor? Let’s face it, clearly, Services Australia’s cybersecurity is woefully inadequate.</p><p>I mean the irony here is that you actually need AI to fight AI. This should hasten, if anything, our move over in the US to less finger wagging and Trump one-upmanship, and <strong>more about embracing these AI companies and bringing them here so that we can have frontier models providing sovereign capability to Australia.</strong> Because AI is going to happen.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/sep/25/anthony-albanese-open-ai-hack-united-nations-angus-taylor-coalition-ntwnfb\">Continue reading...</a>"
+        "<p>Mountaineer’s body recovered about 20 metres below the summit of Torrecerredo, the highest peak of the Picos de Europa range</p><p>A British man has died after falling about 61 metres (200ft) while descending from the summit of a mountain in northern Spain, according to local law enforcement.</p><p>The 28-year-old mountaineer fell down a vertical gully on the east side of the Torrecerredo – the highest peak of the Cantabrian mountains – on Thursday afternoon, the Spanish Civil Guard for the Asturias region said.</p> <a href=\"https://www.theguardian.com/world/2026/sep/26/british-climber-28-dies-fall-spain-torrecerredo-mountain\">Continue reading...</a>"
       ],
-      "date": "2026-09-25",
+      "date": "2026-09-26",
       "real": true
     },
     {
@@ -616,50 +659,6 @@
       "summary": "<p>Thélyson Orélien had been in the running to win a top literary prize before the AI claim emerged on social media</p><p>The organisers of France’s most prestigious literary prize said they had removed a critically acclaimed novel by a Canadian-Haitian writer from the longlist after an anonymous on",
       "paragraphs": [
         "<p>Thélyson Orélien had been in the running to win a top literary prize before the AI claim emerged on social media</p><p>The organisers of France’s most prestigious literary prize said they had removed a critically acclaimed novel by a Canadian-Haitian writer from the longlist after an anonymous online account claimed the book was “almost entirely” written by AI.</p><p>The Académie Goncourt, a Paris-based literary organisation, said on Friday its decision to withdraw Thélyson Orélien’s novel C’était ça ou mourir (It Was That or Die) was “driven by the desire to preserve the integrity of the Goncourt prize and the academy itself, whose central role is to promote and honour literature written by women and men”.</p> <a href=\"https://www.theguardian.com/books/2026/sep/25/thelyson-orelien-goncourt-prize-france\">Continue reading...</a>"
-      ],
-      "date": "2026-09-25",
-      "real": true
-    },
-    {
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/world/2026/sep/25/pope-leo-ai-threat-to-humanity-three-day-france-visit",
-      "title": "Pope Leo warns of AI threat to humanity at start of three-day France visit",
-      "summary": "<p>Pontiff says artificial intelligence must remain at service of people in first official papal visit to country in 18 years</p><p><a href=\"https://www.theguardian.com/world/pope-leo-xiv\">Pope Leo</a> has warned against losing humanity in a “paradise of machines” as he addressed global concerns ove",
-      "paragraphs": [
-        "<p>Pontiff says artificial intelligence must remain at service of people in first official papal visit to country in 18 years</p><p><a href=\"https://www.theguardian.com/world/pope-leo-xiv\">Pope Leo</a> has warned against losing humanity in a “paradise of machines” as he addressed global concerns over the dangers of <a href=\"https://www.theguardian.com/technology/artificialintelligenceai\">artificial intelligence</a> at the start of a three-day visit to France.</p><p>“If we are to avoid losing our humanity amid a paradise of machines invading and conditioning our daily lives, there is an urgent need for people to be educated in ethical discernment, capable of seeing what is morally right,” he said in a speech at the Élysée.</p> <a href=\"https://www.theguardian.com/world/2026/sep/25/pope-leo-ai-threat-to-humanity-three-day-france-visit\">Continue reading...</a>"
-      ],
-      "date": "2026-09-25",
-      "real": true
-    },
-    {
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/world/live/2026/sep/25/pope-leo-france-paris-notre-dame-metz-ai-europe-latest-news-updates",
-      "title": "Pope Leo warns against AI and says technology ‘must remain at service of humans’ during first visit to France – as it happened",
-      "summary": "<p>The pope gives landmark speech on AI development and Europe’s future </p><p>Later today, <strong>Pope Leo will go to the Élysée Palace for (another) formal welcome</strong> and a meeting with authorities, civil society and the diplomatic corps, before visiting Unesco and delivering a speech on AI",
-      "paragraphs": [
-        "<p>The pope gives landmark speech on AI development and Europe’s future </p><p>Later today, <strong>Pope Leo will go to the Élysée Palace for (another) formal welcome</strong> and a meeting with authorities, civil society and the diplomatic corps, before visiting Unesco and delivering a speech on AI in mid-afternoon.</p><p>He is then <strong>expected to go on a stroll through the streets of Paris, before going to the restored Notre Dame Cathedral.</strong></p> <a href=\"https://www.theguardian.com/world/live/2026/sep/25/pope-leo-france-paris-notre-dame-metz-ai-europe-latest-news-updates\">Continue reading...</a>"
-      ],
-      "date": "2026-09-25",
-      "real": true
-    },
-    {
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/world/2026/sep/25/giorgia-meloni-italy-foreign-children-schools",
-      "title": "Meloni accused of ‘running scared’ with cap on foreign children in classrooms",
-      "summary": "<p>Critics say decree also banning burqa in schools shows Italian PM worried about losing far-right voters in next year’s elections</p><p>The Italian government has been accused of ramping up divisive rhetoric to try to court far-right voters ahead of next year’s general election after it passed a d",
-      "paragraphs": [
-        "<p>Critics say decree also banning burqa in schools shows Italian PM worried about losing far-right voters in next year’s elections</p><p>The Italian government has been accused of ramping up divisive rhetoric to try to court far-right voters ahead of next year’s general election after it passed a decree aimed at capping the number of newly arrived migrants in classrooms and banning the burqa and niqab in schools.</p><p>The prime minister, Giorgia Meloni, who leads the far-right Brothers of Italy party, said her government had approved what she called “commonsense measures that do not divide but genuinely help to integrate”.</p> <a href=\"https://www.theguardian.com/world/2026/sep/25/giorgia-meloni-italy-foreign-children-schools\">Continue reading...</a>"
-      ],
-      "date": "2026-09-25",
-      "real": true
-    },
-    {
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/world/2026/sep/25/tour-montparnasse-renovation-halted-paris",
-      "title": "Tall, dark and hated: plan to renovate ‘Paris’s ugliest building’ put on hold",
-      "summary": "<p>Tour Montparnasse modernisation project at a standstill after clashes over pricing and other issues</p><p>It has been called a carbuncle on the Paris skyline, a sombre skyscraper where visitors to its viewing platform often joke that the city looks better when you can’t see the building itself.</",
-      "paragraphs": [
-        "<p>Tour Montparnasse modernisation project at a standstill after clashes over pricing and other issues</p><p>It has been called a carbuncle on the Paris skyline, a sombre skyscraper where visitors to its viewing platform often joke that the city looks better when you can’t see the building itself.</p><p>The much-maligned Tour Montparnasse, a lone, dark monolith with tinted windows rising above a historic neighbourhood in the south of the city, is once again at the centre of controversy after its long-awaited renovation was halted this week because of disagreements between its many private co-owners.</p> <a href=\"https://www.theguardian.com/world/2026/sep/25/tour-montparnasse-renovation-halted-paris\">Continue reading...</a>"
       ],
       "date": "2026-09-25",
       "real": true
