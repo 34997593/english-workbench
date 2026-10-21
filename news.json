@@ -1,121 +1,166 @@
 {
-  "updated": "2026-10-20T01:19:03Z",
+  "updated": "2026-10-21T01:03:40Z",
   "count": 60,
   "articles": [
     {
       "source": "NPR",
-      "link": "https://www.npr.org/2026/10/19/nx-s1-6007746/golf-course-potomac-white-house-tree-removal",
-      "title": "Judge chastises Trump administration plan to push ahead overhaul of DC golf course",
-      "summary": "The Trump administration wants to turn a historic public golf course into championship links. Despite a judge's order, hundreds of trees were cut down to make way for the renovation.",
+      "link": "https://www.npr.org/2026/10/20/g-s1-148975/nigeria-confirms-ebola-case",
+      "title": "Nigeria confirms an Ebola case in Abuja as a woman arriving from Uganda tests positive",
+      "summary": "Nigeria is the latest country to report an Ebola case as the outbreak spreads across the region. Kenya confirmed its first case earlier this month and has since recorded nine infections.",
       "paragraphs": [
-        "The Trump administration wants to turn a historic public golf course into championship links. Despite a judge's order, hundreds of trees were cut down to make way for the renovation."
+        "Nigeria is the latest country to report an Ebola case as the outbreak spreads across the region. Kenya confirmed its first case earlier this month and has since recorded nine infections."
       ],
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "real": true
     },
     {
       "source": "NPR",
-      "link": "https://www.npr.org/2026/10/19/nx-s1-5991881/schools-struggle-to-measure-how-much-ai-experiments-are-helping",
-      "title": "Schools struggle to measure how much AI experiments are helping",
-      "summary": "Schools are experimenting with AI, and a lot of them are encountering the same problem: It's hard to measure whether the technology is good or bad for students.",
+      "link": "https://www.npr.org/2026/10/20/g-s1-147952/vanessa-kerry-resilience-world-health-organization",
+      "title": "Vanessa Kerry is the new WHO envoy for health resilience. What's on her to-do list?",
+      "summary": "A respected figure in the world of global health, Dr. Kerry takes on a new responsibility. She says it's challenging but not \"daunting.\"",
       "paragraphs": [
-        "Schools are experimenting with AI, and a lot of them are encountering the same problem: It's hard to measure whether the technology is good or bad for students."
+        "A respected figure in the world of global health, Dr. Kerry takes on a new responsibility. She says it's challenging but not \"daunting.\""
       ],
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "real": true
     },
     {
       "source": "NPR",
-      "link": "https://www.npr.org/2026/10/19/g-s1-148737/australia-lawmaker-critically-injured",
-      "title": "Australian prime minister says lawmaker critically injured by car is 'no accident'",
-      "summary": "A car hit an Australian federal independent lawmaker on Monday, critically injuring her in an apparent deliberate attack, Prime Minister Anthony Albanese said. The driver was arrested.",
+      "link": "https://www.npr.org/2026/10/20/g-s1-148877/up-first-newsletter-california-elections-doj-midterms-trump-tiktok",
+      "title": "DOJ charges 28 with voting crimes. And, TikTok ignored staff's child safety concerns",
+      "summary": "The Justice Department has charged 28 people in California with voting crimes as Election Day nears. And, TikTok staff raised child safety concerns with executives, who failed to act, court records show.",
       "paragraphs": [
-        "A car hit an Australian federal independent lawmaker on Monday, critically injuring her in an apparent deliberate attack, Prime Minister Anthony Albanese said. The driver was arrested."
+        "The Justice Department has charged 28 people in California with voting crimes as Election Day nears. And, TikTok staff raised child safety concerns with executives, who failed to act, court records show.",
+        "(Image credit: Imen Ben Youssef / Hans Lucas)"
       ],
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "real": true
     },
     {
       "source": "NPR",
-      "link": "https://www.npr.org/2026/10/19/g-s1-148733/up-first-newsletter-ukraine-russia-campaign-finances-france-protests",
-      "title": "2026 midterms could be the most expensive on record. And, Macron condemns protests",
-      "summary": "More than $15 billion has been raised in this year's midterm elections. And, France's president is condemning the violent protests erupting across the country.",
+      "link": "https://www.npr.org/sections/planet-money/2026/10/20/g-s1-148305/what-if-an-ai-bubble-bursts-and-that-accelerates-ai-job-losses",
+      "title": "What if an AI bubble bursts — and that accelerates AI job losses?",
+      "summary": "Research on past recessions suggests downturns can accelerate automation. That raises the specter of a double whammy for workers.",
       "paragraphs": [
-        "More than $15 billion has been raised in this year's midterm elections. And, France's president is condemning the violent protests erupting across the country."
+        "Research on past recessions suggests downturns can accelerate automation. That raises the specter of a double whammy for workers."
       ],
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "real": true
     },
     {
       "source": "NPR",
-      "link": "https://www.npr.org/2026/10/19/nx-s1-6001744/el-nino-kelvin-wave-west-coast",
-      "title": "A Kelvin wave raised sea levels on the West Coast. More are coming",
-      "summary": "A large underwater wave moved up the West Coast, raising sea levels. Scientists say it's driven by El Niño and it's going to happen again.",
+      "link": "https://www.npr.org/2026/10/20/nx-s1-5989636/grocery-prices-eggs-coffee-inflation",
+      "title": "Why these 5 everyday items fluctuate in price at the grocery store",
+      "summary": "Here's what's behind the fluctuating costs of everyday grocery items such as ground beef, eggs and chocolate chip cookies.",
       "paragraphs": [
-        "A large underwater wave moved up the West Coast, raising sea levels. Scientists say it's driven by El Niño and it's going to happen again."
+        "Here's what's behind the fluctuating costs of everyday grocery items such as ground beef, eggs and chocolate chip cookies."
       ],
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "real": true
     },
     {
       "source": "NPR",
-      "link": "https://www.npr.org/2026/10/19/nx-s1-5982027/california-vote-counting-margins",
-      "title": "The real reason it's going to take a while to know who won in some midterm races",
-      "summary": "Hint: It's not <em>only </em>because California counts slowly.",
+      "link": "https://www.npr.org/2026/10/20/nx-s1-5979065/public-school-private-school-federal-voucher-scholarship-democrats",
+      "title": "Can the new federal voucher program help public schools? Democrats are torn",
+      "summary": "The new scholarship tax credit program could help public school families pay for some educational services, but advocates worry it could do more harm than good.",
       "paragraphs": [
-        "Hint: It's not only because California counts slowly."
+        "The new scholarship tax credit program could help public school families pay for some educational services, but advocates worry it could do more harm than good."
       ],
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "real": true
     },
     {
       "source": "NPR",
-      "link": "https://www.npr.org/2026/10/19/nx-s1-6003499/morning-news-brief",
+      "link": "https://www.npr.org/2026/10/20/nx-s1-6005809/tiktok-child-safety-money-laundering",
+      "title": "TikTok staff raised child safety alarms. Court records show executives failed to act",
+      "summary": "The warnings surfaced in a trove of unreported court records. \"I have been fighting about fixing this for months with people who didn't think the harms are severe enough,\" wrote one executive.",
+      "paragraphs": [
+        "The warnings surfaced in a trove of unreported court records. \"I have been fighting about fixing this for months with people who didn't think the harms are severe enough,\" wrote one executive."
+      ],
+      "date": "2026-10-20",
+      "real": true
+    },
+    {
+      "source": "NPR",
+      "link": "https://www.npr.org/2026/10/20/nx-s1-6003501/morning-news-brief",
       "title": "Morning news brief",
-      "summary": "Ukraine and Russia exchange strikes as relations between U.S. and Ukraine deteriorate, the midterms are on track to be the most expensive on record, French president denounces violent protests.",
+      "summary": "Trump presses to find an end to the war in Ukraine while courting Russia, campaigning reaches fever pitch with Election Day two weeks away, DOJ charges 28 people in California with voting crimes.",
       "paragraphs": [
-        "Ukraine and Russia exchange strikes as relations between U.S. and Ukraine deteriorate, the midterms are on track to be the most expensive on record, French president denounces violent protests."
+        "Trump presses to find an end to the war in Ukraine while courting Russia, campaigning reaches fever pitch with Election Day two weeks away, DOJ charges 28 people in California with voting crimes."
       ],
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "real": true
     },
     {
       "source": "NPR",
-      "link": "https://www.npr.org/2026/10/19/nx-s1-6005195/michigans-democratic-senate-candidate-abdul-el-sayed-campaigns-in-gop-stronghold",
-      "title": "Michigan's Democratic Senate candidate Abdul El-Sayed campaigns in GOP stronghold",
-      "summary": "Michigan's Democratic U.S. Senate candidate Abdul El-Sayed is campaigning in the GOP stronghold of Michigan's Upper Peninsula, an area that hasn't voted for a Democrat in Congress in over a decade.",
+      "link": "https://www.npr.org/2026/10/20/nx-s1-6008836/rays-brewers-world-series",
+      "title": "Rays will face Brewers in World Series to produce a first-time champion",
+      "summary": "The Rays will face the NL champion Milwaukee Brewers in the first matchup in which both teams are seeking their first World Series title since 1980.",
       "paragraphs": [
-        "Michigan's Democratic U.S. Senate candidate Abdul El-Sayed is campaigning in the GOP stronghold of Michigan's Upper Peninsula, an area that hasn't voted for a Democrat in Congress in over a decade."
+        "The Rays will face the NL champion Milwaukee Brewers in the first matchup in which both teams are seeking their first World Series title since 1980."
       ],
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "real": true
     },
     {
       "source": "NPR",
-      "link": "https://www.npr.org/2026/10/19/nx-s1-5993523/solar-power-is-changing-agriculture-in-pakistan-but-some-fear-it-could-cause-issues",
-      "title": "Solar power is changing agriculture in Pakistan, but some fear it could cause issues",
-      "summary": "Solar power is transforming agriculture in Pakistan. But in a country already facing water scarcity and extreme weather, some fear their widespread use could cause problems.",
+      "link": "https://www.npr.org/2026/10/20/nx-s1-6008832/alberta-referendum-canada",
+      "title": "Alberta voters reject a move toward independence in referendum backing Canadian unity",
+      "summary": "Voters in Canada's oil-rich Alberta province overwhelmingly backed remaining in Canada, with early referendum results Tuesday delivering a boost to Prime Minister Carney's push for national unity.",
       "paragraphs": [
-        "Solar power is transforming agriculture in Pakistan. But in a country already facing water scarcity and extreme weather, some fear their widespread use could cause problems."
+        "Voters in Canada's oil-rich Alberta province overwhelmingly backed remaining in Canada, with early referendum results Tuesday delivering a boost to Prime Minister Carney's push for national unity."
       ],
-      "date": "2026-10-19",
-      "real": true
-    },
-    {
-      "source": "NPR",
-      "link": "https://www.npr.org/2026/10/18/nx-s1-6004877/alberta-referendum-canada-vote",
-      "title": "Alberta voters weigh future in Canada",
-      "summary": "On Monday voters in the oil-rich Canadian province of Alberta are deciding whether to take the first step toward a future referendum on independence.",
-      "paragraphs": [
-        "On Monday voters in the oil-rich Canadian province of Alberta are deciding whether to take the first step toward a future referendum on independence."
-      ],
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/release-epstein-files-protester-interrupts-jd-vances-speech?traffic_source=rss",
-      "title": "‘Release Epstein files’, protester interrupts JD Vance’s speech",
+      "link": "https://www.aljazeera.com/news/2026/10/21/why-former-fdlr-fighters-are-returning-to-rwanda?traffic_source=rss",
+      "title": "Why former FDLR fighters are returning to Rwanda",
+      "summary": "",
+      "paragraphs": [
+        ""
+      ],
+      "date": "2026-10-21",
+      "real": true
+    },
+    {
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/21/one-year-on-has-kenyas-opposition-lost-its-way-without-raila-odinga?traffic_source=rss",
+      "title": "One year on: Has Kenya’s opposition lost its way without Raila Odinga?",
+      "summary": "",
+      "paragraphs": [
+        ""
+      ],
+      "date": "2026-10-21",
+      "real": true
+    },
+    {
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/21/king-charles-welcomes-omani-sultan-hails-peace-efforts-in-uk-state-visit?traffic_source=rss",
+      "title": "King Charles welcomes Omani sultan, hails peace efforts in UK state visit",
+      "summary": "",
+      "paragraphs": [
+        ""
+      ],
+      "date": "2026-10-21",
+      "real": true
+    },
+    {
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/10/21/iran-war-live-us-warns-peace-deal-with-tehran-is-extremely-difficult?traffic_source=rss",
+      "title": "Iran war live: US warns peace deal with Tehran is extremely difficult",
+      "summary": "",
+      "paragraphs": [
+        ""
+      ],
+      "date": "2026-10-21",
+      "real": true
+    },
+    {
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/moment-plane-crashes-on-a-busy-highway-in-the-us?traffic_source=rss",
+      "title": "Moment plane crashes on a busy highway in the US",
       "summary": "",
       "paragraphs": [
         ""
@@ -125,8 +170,8 @@
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/20/rashida-tlaib-demands-arrest-of-israeli-soldier-linked-to-hind-rajab-death?traffic_source=rss",
-      "title": "Rashida Tlaib demands arrest of Israeli soldier linked to Hind Rajab death",
+      "link": "https://www.aljazeera.com/news/2026/10/20/nato-to-send-additional-patrol-planes-to-black-sea-after-drone-attacks?traffic_source=rss",
+      "title": "NATO to send additional patrol planes to Black Sea after drone attacks",
       "summary": "",
       "paragraphs": [
         ""
@@ -136,8 +181,8 @@
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/20/hegseth-meets-netanyahu-in-unannounced-israel-visit?traffic_source=rss",
-      "title": "Hegseth meets Netanyahu in unannounced Israel visit",
+      "link": "https://www.aljazeera.com/news/2026/10/20/the-gambia-to-pay-reparations-to-ex-dictators-victims-from-sale-of-us-mansion?traffic_source=rss",
+      "title": "The Gambia to pay reparations to ex-dictator’s victims from sale of US mansion",
       "summary": "",
       "paragraphs": [
         ""
@@ -147,8 +192,8 @@
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/20/exiled-critic-of-rwandan-president-found-beheaded-in-uganda?traffic_source=rss",
-      "title": "Exiled critic of Rwandan president found beheaded in Uganda",
+      "link": "https://www.aljazeera.com/news/2026/10/20/i-dont-care-how-its-done-trump-pressures-ukraine-to-cut-peace-deal?traffic_source=rss",
+      "title": "‘I don’t care how it’s done’: Trump pressures Ukraine to cut peace deal",
       "summary": "",
       "paragraphs": [
         ""
@@ -158,8 +203,8 @@
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/10/20/draft-3?traffic_source=rss",
-      "title": "Iran war live: Trump says US hits Iran hard ‘economically and militarily’",
+      "link": "https://www.aljazeera.com/news/2026/10/20/trump-commits-more-than-400m-ahead-of-high-stakes-midterm-elections?traffic_source=rss",
+      "title": "Trump commits more than $400m ahead of high-stakes midterm elections",
       "summary": "",
       "paragraphs": [
         ""
@@ -169,222 +214,200 @@
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/19/mahmoud-khalil-takes-deportation-fight-to-the-us-supreme-court?traffic_source=rss",
-      "title": "Mahmoud Khalil takes deportation fight to the US Supreme Court",
+      "link": "https://www.aljazeera.com/sports/2026/10/20/psg-sink-barcelona-4-2-for-third-champions-league-win-in-a-row?traffic_source=rss",
+      "title": "PSG score late to sink Barcelona 4-2 in Champions League blockbuster",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/19/colombia-illegal-gold-mine-collapse-kills-14-people?traffic_source=rss",
-      "title": "Colombia illegal gold mine collapse kills 14 people",
+      "link": "https://www.aljazeera.com/economy/2026/10/20/us-food-importer-sues-trump-over-50-percent-tariffs-on-canadian-goods?traffic_source=rss",
+      "title": "US food importer sues Trump over 50 percent tariffs on Canadian goods",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/19/tehran-rejects-any-role-in-plot-to-kill-leaders-of-jewish-groups?traffic_source=rss",
-      "title": "Tehran rejects any role in plot to kill leaders of German Jewish groups",
+      "link": "https://www.aljazeera.com/news/2026/10/20/why-do-the-us-midterms-matter-for-trump-and-congress?traffic_source=rss",
+      "title": "Why do the US midterms matter for Trump and Congress?",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/children-among-six-killed-in-russian-drone-strike-on-ukraine-park?traffic_source=rss",
-      "title": "Children among six killed in Russian drone strike on Ukraine park",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/psg-and-barcelona-fans-divided-over-politics-in-football-amid-paris-riots?traffic_source=rss",
+      "title": "PSG and Barcelona fans divided over politics in football amid Paris riots",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/trump-paris-is-going-to-be-a-muslim-city-very?traffic_source=rss",
-      "title": "Trump: ‘Paris is going to be a Muslim city very soon’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/trump-ilhan-omar-could-be-deported-slams-somalia-as-a-s?traffic_source=rss",
+      "title": "Trump: Ilhan Omar could be deported, slams Somalia as a ‘s—house’",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/19/egyptian-parliament-delays-vote-on-military-support-for-saudi-arabia?traffic_source=rss",
-      "title": "Egyptian parliament delays vote on military support for Saudi Arabia",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/aje-onl-nf_war-on-iran-could-strengthen-nationalism-201026?traffic_source=rss",
+      "title": "Why the war on Iran could backfire on US regime-change goals",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/19/160-reported-killed-in-escalating-drone-attacks-across-sudan?traffic_source=rss",
-      "title": "160 people reported killed in escalating drone attacks across Sudan",
+      "link": "https://www.aljazeera.com/news/2026/10/20/uk-police-re-arrest-two-men-on-suspicion-of-assisting-iranian-intelligence?traffic_source=rss",
+      "title": "UK police rearrest two men on suspicion of assisting Iran’s intelligence",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/could-your-halal-pension-be-funding-israels-military?traffic_source=rss",
-      "title": "Could your halal pension be funding Israel’s military?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/france-riots-leave-thousands-of-businesses-damaged?traffic_source=rss",
+      "title": "France riots leave thousands of businesses damaged",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/israeli-police-say-they-arrested-10-in-connection-with-settler-attacks?traffic_source=rss",
-      "title": "Israeli police say they arrested 10 in connection with settler attacks",
+      "link": "https://www.aljazeera.com/news/2026/10/20/eu-revises-arctic-strategy-as-pressure-from-russia-us-grows?traffic_source=rss",
+      "title": "EU revises Arctic strategy as pressure from Russia, US grows",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/19/trump-approval-hits-record-low-31-percent-polls-show-republican-struggles?traffic_source=rss",
-      "title": "Trump approval hits record-low 31 percent, polls show Republican struggles",
+      "link": "https://www.aljazeera.com/video/lets-focus/2026/10/20/is-money-ruining-us-elections?traffic_source=rss",
+      "title": "Is money ruining US elections?",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/aje-onl-nf_ukrainian-soldier-rescued-in-drone-evacuation-191026?traffic_source=rss",
-      "title": "Injured Ukrainian soldier rescued in first-ever drone evacuation mission",
+      "link": "https://www.aljazeera.com/sports/2026/10/20/psg-fans-divided-over-protests-in-france-as-barcelona-game-goes-ahead?traffic_source=rss",
+      "title": "PSG fans divided over protests in France as Barcelona game goes ahead",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/kenya-convicts-cult-leader-over-the-murder-of-190-children?traffic_source=rss",
-      "title": "Kenya convicts cult leader over the murder of 190 children",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/netanyahu-says-he-discussed-eliminating-irans-regime-with-trump?traffic_source=rss",
+      "title": "Netanyahu says he discussed ‘eliminating’ Iran’s regime with Trump",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/19/trump-signs-order-launching-womens-health-division-at-nih-white-house?traffic_source=rss",
-      "title": "Trump signs order launching women’s health division at NIH, White House",
+      "link": "https://www.aljazeera.com/gallery/2026/10/20/photos-qatar-holds-biennial-milipol-homeland-security-exhibition?traffic_source=rss",
+      "title": "Photos: Qatar holds biennial Milipol homeland security exhibition",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/19/finland-seeking-one-million-land-mines-as-it-eyes-russian-threat?traffic_source=rss",
-      "title": "Finland seeking one million land mines as it eyes Russian threat",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/the-political-ads-that-dont-look-like-ads?traffic_source=rss",
+      "title": "The political ads that don’t look like ads",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/19/us-federal-authorities-responding-to-shooting-at-mosque-in-columbus-ohio?traffic_source=rss",
-      "title": "One killed in US shooting near mosque in Columbus, Ohio",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/aje-onl-nf_uk-to-deploy-fighter-jets-to-defend-saudi-arabia_1-201026?traffic_source=rss",
+      "title": "UK to deploy fighter jets to defend Saudi Arabia",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/19/florida-issues-arrest-warrant-for-cuban-leader-raul-castro?traffic_source=rss",
-      "title": "Florida issues arrest warrant for Cuban leader Raul Castro",
+      "link": "https://www.aljazeera.com/news/2026/10/20/oxfam-analysis-finds-perus-richest-captured-42-percent-of-all-new-wealth?traffic_source=rss",
+      "title": "Oxfam analysis finds Peru’s richest captured 42 percent of all new wealth",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "real": true
     },
     {
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/residents-hoisted-from-rooftops-amid-spains-deadly-flooding?traffic_source=rss",
-      "title": "Residents hoisted from rooftops amid Spain’s deadly flooding",
-      "summary": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/oct/21/nigeria-first-ebola-case-africa-outbreak-latest",
+      "title": "Nigeria confirms Ebola case as outbreak spreads into western Africa",
+      "summary": "<p>Case in Africa’s most populous country was detected in a woman who had travelled from Uganda</p><p>Nigeria has confirmed an Ebola case in its capital, Abuja, after a woman who arrived from Uganda tested positive for the virus, the health ministry said.</p><p>The woman began showing symptoms on 7 ",
       "paragraphs": [
-        ""
+        "<p>Case in Africa’s most populous country was detected in a woman who had travelled from Uganda</p><p>Nigeria has confirmed an Ebola case in its capital, Abuja, after a woman who arrived from Uganda tested positive for the virus, the health ministry said.</p><p>The woman began showing symptoms on 7 October and was admitted to a hospital in Abuja four days later, where she was later diagnosed with Ebola. It is unclear when she arrived in Nigeria, Africa’s most populous country.</p> <a href=\"https://www.theguardian.com/world/2026/oct/21/nigeria-first-ebola-case-africa-outbreak-latest\">Continue reading...</a>"
       ],
-      "date": "2026-10-19",
+      "date": "2026-10-21",
       "real": true
     },
     {
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/19/indian-court-extends-detention-of-cockroach-leaders?traffic_source=rss",
-      "title": "Indian court extends detention of ‘Cockroach’ leaders",
-      "summary": "",
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/oct/20/rfk-jr-vaccine-researchers-offices-raided-guinea-bissau",
+      "title": "RFK Jr’s ‘deities of vaccine research’ raided by police in Guinea-Bissau",
+      "summary": "<p>Police seize doses of hepatitis B vaccine from people at center of dispute over research on African newborns</p><p>Controversial vaccine researchers who have been praised by Robert F Kennedy Jr, the US Department of Health and Human Services (HHS) secretary, had their offices in Guinea-Bissau rai",
       "paragraphs": [
-        ""
+        "<p>Police seize doses of hepatitis B vaccine from people at center of dispute over research on African newborns</p><p>Controversial vaccine researchers who have been praised by Robert F Kennedy Jr, the US Department of Health and Human Services (HHS) secretary, had their offices in Guinea-Bissau raided by judicial police, who seized doses of hepatitis B vaccines, officials <a href=\"https://www.facebook.com/policiajudiciariaguinebissau/posts/pfbid02x8etNUtmPjenMNZA69EHECDBcz6U4VzxTvszdthBmFmJ1aaCMwoT9brgRNYyg1Jbl\">said</a> on Facebook.</p><p>The researchers have been at the heart of an ongoing dispute over research on African newborns, supported by $1.6m from the US Centers for Disease Control and Prevention (CDC) and matched by the Pershing Square Foundation and the Bluebell Foundation for a total of $3.2m.</p> <a href=\"https://www.theguardian.com/world/2026/oct/20/rfk-jr-vaccine-researchers-offices-raided-guinea-bissau\">Continue reading...</a>"
       ],
-      "date": "2026-10-19",
-      "real": true
-    },
-    {
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/protesters-block-louvre-in-support-of-french-student-movement?traffic_source=rss",
-      "title": "Protesters block Louvre in support of French student movement",
-      "summary": "",
-      "paragraphs": [
-        ""
-      ],
-      "date": "2026-10-19",
-      "real": true
-    },
-    {
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/economy/2026/10/19/ex-openai-employee-accused-of-planting-device-has-saudi-backing-prosecutor?traffic_source=rss",
-      "title": "Ex-OpenAI employee accused of planting device has Saudi backing: Prosecutor",
-      "summary": "",
-      "paragraphs": [
-        ""
-      ],
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "real": true
     },
     {
@@ -422,24 +445,46 @@
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/world/2026/oct/19/ebola-cases-kenya-us-quarantine",
-      "title": "Ebola cases in Kenya highlight US failures amid Trump cuts to key services",
-      "summary": "<p>Opposition to US-led quarantine center in Kenya follows sweeping funding cuts and withdrawal from WHO</p><p>An eighth person in Kenya has tested positive for the Bundibugyo strain of Ebola in the country’s first-ever cluster of cases of the virus, as the second-largest outbreak in history has kil",
+      "link": "https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum",
+      "title": "Alberta voters overwhelmingly reject plan to leave Canada in referendum",
+      "summary": "<p>Result is a victory for prime minister Mark Carney and supporters of Canadian unity</p><p>Voters in Canada’s Alberta have overwhelmingly rejected a proposal to begin the process of independence, delivering a decisive victory for supporters of Canadian unity and deepening divisions within the sepa",
       "paragraphs": [
-        "<p>Opposition to US-led quarantine center in Kenya follows sweeping funding cuts and withdrawal from WHO</p><p>An eighth person in Kenya has tested positive for the Bundibugyo strain of Ebola in the country’s first-ever cluster of cases of the virus, as the second-largest outbreak in history has killed more than 4,300 and sickened more than 9,000 people in the region.</p><p>It highlights the diminished role the US has played in the worsening Ebola outbreak by building a controversial quarantine center in Kenya, pulling back health support globally, and banning travelers from certain countries. All of this has also reduced the ability to identify and respond to the outbreak and exacerbated mistrust.</p> <a href=\"https://www.theguardian.com/world/2026/oct/19/ebola-cases-kenya-us-quarantine\">Continue reading...</a>"
+        "<p>Result is a victory for prime minister Mark Carney and supporters of Canadian unity</p><p>Voters in Canada’s Alberta have overwhelmingly rejected a proposal to begin the process of independence, delivering a decisive victory for supporters of Canadian unity and deepening divisions within the separatist movement.</p><p>With nearly 1.9m votes counted, roughly 76% people supported remaining in Canada, while 24% backed beginning a process toward separation, according to unofficial results from Elections Alberta.</p> <a href=\"https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum\">Continue reading...</a>"
       ],
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "real": true
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/world/2026/oct/18/lagos-hypemen-redefining-afrobeats-music-afrohype",
-      "title": "Hilarious quips and ‘100,000-volt’ energy: the hypemen (and women) redefining Afrobeats music",
-      "summary": "<p>Style of emceeing based on high-octane, ad-libbed vocals has flourished thanks to its unique way of captivating crowds</p><p>For the 2015 freshmen cohort of the history degree programme at the University of Lagos, their classmate’s first-semester presentation was so captivating that they began ca",
+      "link": "https://www.theguardian.com/us-news/2026/oct/20/man-convicted-peachy-the-flamingo-las-vegas-hotel",
+      "title": "‘Bad decisions’: Man convicted for taking Peachy the flamingo from Las Vegas hotel",
+      "summary": "<p>Mitchell Fairbarn found guilty of animal cruelty after prosecutors say he hurt and frightened the 27-year-old bird</p><p>A Canadian man was convicted of animal cruelty charges on Monday for snatching a flamingo named Peachy from its enclosure at an iconic <a href=\"https://www.theguardian.com/us-n",
       "paragraphs": [
-        "<p>Style of emceeing based on high-octane, ad-libbed vocals has flourished thanks to its unique way of captivating crowds</p><p>For the 2015 freshmen cohort of the history degree programme at the University of Lagos, their classmate’s first-semester presentation was so captivating that they began calling him Toby Shang, after the 16th-century Chinese dynasty he had focused on.</p><p>His crowd engagement that day had been harnessed from his high school days as a ginger-man (energiser) in a three-man band and as a private tutor. By his final year at university, his viral catchphrases and infectious energy had resulted in a hit song, Shedibalabala. Today, he is one of the self-acclaimed “evangelists and pioneers” in the Afrobeats sub-genre some are now calling Afrohype or lamba.</p> <a href=\"https://www.theguardian.com/world/2026/oct/18/lagos-hypemen-redefining-afrobeats-music-afrohype\">Continue reading...</a>"
+        "<p>Mitchell Fairbarn found guilty of animal cruelty after prosecutors say he hurt and frightened the 27-year-old bird</p><p>A Canadian man was convicted of animal cruelty charges on Monday for snatching a flamingo named Peachy from its enclosure at an iconic <a href=\"https://www.theguardian.com/us-news/las-vegas\">Las Vegas</a> hotel.</p><p>Prosecutors said it was a malicious prank while a lawyer for the tourist insisted it was drunken foolishness not meant to harm the bird.</p> <a href=\"https://www.theguardian.com/us-news/2026/oct/20/man-convicted-peachy-the-flamingo-las-vegas-hotel\">Continue reading...</a>"
       ],
-      "date": "2026-10-18",
+      "date": "2026-10-20",
+      "real": true
+    },
+    {
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/oct/20/flavio-bolsonaro-corrupto-viral-meme-brazil-election-runoff",
+      "title": "Flavio Bolsonaro’s ‘corrupto’ stunt sparks viral meme before Brazil election runoff",
+      "summary": "<p>Far-right presidential candidate’s TV debate swipe at rival backfires as people take to social media to parody it</p><p>To Flávio Bolsonaro and his publicists, it must have seemed an ingenious idea that would expose his rival’s supposed crookedness on the eve of Brazil’s presidential election.</p",
+      "paragraphs": [
+        "<p>Far-right presidential candidate’s TV debate swipe at rival backfires as people take to social media to parody it</p><p>To Flávio Bolsonaro and his publicists, it must have seemed an ingenious idea that would expose his rival’s supposed crookedness on the eve of Brazil’s presidential election.</p><p>But the far-right politician’s decision to attend a primetime television debate against his leftwing opponent, Luiz Inácio Lula da Silva, with the word “corrupto” (corrupt) written on the palm of his hand has backfired.</p> <a href=\"https://www.theguardian.com/world/2026/oct/20/flavio-bolsonaro-corrupto-viral-meme-brazil-election-runoff\">Continue reading...</a>"
+      ],
+      "date": "2026-10-20",
+      "real": true
+    },
+    {
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/environment/2026/oct/20/unconditional-basic-income-amazon-rainforest-peru-study",
+      "title": "Giving £2 a day to people in the Amazon helps protect rainforest, pilot project finds",
+      "summary": "<p>Researchers say almost 90% of participants in unconditional basic income scheme in Peru adopted environmentally beneficial practices</p><p>A pioneering project to provide Indigenous people in the Peruvian Amazon with an unconditional basic income has contributed to the protection of the rainfores",
+      "paragraphs": [
+        "<p>Researchers say almost 90% of participants in unconditional basic income scheme in Peru adopted environmentally beneficial practices</p><p>A pioneering project to provide Indigenous people in the Peruvian Amazon with an unconditional basic income has contributed to the protection of the rainforest, according to a study.</p><p><a href=\"https://purehost.bath.ac.uk/ws/portalfiles/portal/396480700/Fighting_the_climate_crisis_with_reciprocity_final.pdf\">The analysis</a> from the University of Bath is expected to contribute to a growing debate about the role of direct payments to communities that maintain globally important ecosystems.</p> <a href=\"https://www.theguardian.com/environment/2026/oct/20/unconditional-basic-income-amazon-rainforest-peru-study\">Continue reading...</a>"
+      ],
+      "date": "2026-10-20",
       "real": true
     },
     {
@@ -451,50 +496,6 @@
         "<p>Trudy weakens to tropical storm after warnings of strong winds and heavy rain, while one person killed in Greece</p><p>In contrast to the quiet Atlantic hurricane season, there has been ongoing activity in the Pacific, with Trudy being the 22nd and latest named system. The <a href=\"https://www.theguardian.com/world/2026/oct/17/hurricane-trudy-mexico\">category 2 hurricane</a> remained roughly 100 miles (160km) south-west of the coast of Mexico, meaning the worst of the conditions stayed offshore. However, the US National Hurricane Center put coastal parts of the states of Jalisco, Michoacán and Colima under hurricane warnings, with sustained winds of up to 60-90mph forecast on Sunday.</p><p>Rainfall totals of 100-150mm were likely for these areas, prompting warnings of flooding and landslides. Warnings also covered the risk of a dangerous storm surge accompanied by damaging waves in areas of onshore winds across the coast of south-western Mexico. By Monday morning, Trudy had weakened and been downgraded to a tropical storm, with coastal warnings being lifted.</p> <a href=\"https://www.theguardian.com/news/2026/oct/19/hurricane-trudy-mexico-pacific-coast-greece-floods\">Continue reading...</a>"
       ],
       "date": "2026-10-19",
-      "real": true
-    },
-    {
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/world/2026/oct/19/alberta-goes-to-polls-in-referendum-divisions-separatists-canada",
-      "title": "‘This is not poker’: Alberta goes to polls in referendum that has exposed divisions, not least among separatists",
-      "summary": "<p>Voters to be asked whether province should remain part of Canada or hold a second, binding independence vote</p><p>Albertans are going to the polls to decide their place in Canada, in a referendum that has exposed deep divisions within the province, not least in the separatist movement itself.</p",
-      "paragraphs": [
-        "<p>Voters to be asked whether province should remain part of Canada or hold a second, binding independence vote</p><p>Albertans are going to the polls to decide their place in Canada, in a referendum that has exposed deep divisions within the province, not least in the separatist movement itself.</p><p>On Monday, voters will respond to the question of whether Alberta should remain in Canada, or hold a second, binding independence referendum.</p> <a href=\"https://www.theguardian.com/world/2026/oct/19/alberta-goes-to-polls-in-referendum-divisions-separatists-canada\">Continue reading...</a>"
-      ],
-      "date": "2026-10-19",
-      "real": true
-    },
-    {
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright",
-      "title": "Four people killed in ‘violent, fast-moving’ fire at Canadian military base",
-      "summary": "<p>Prime minister Mark Carney describes blaze as ‘one of the worst tragedies for the forces on Canadian soil in peacetime’</p><p>Four people have been killed and dozens more seriously injured after a “violent, fast-moving” fire tore through one of Canada’s busiest military training bases in Alberta,",
-      "paragraphs": [
-        "<p>Prime minister Mark Carney describes blaze as ‘one of the worst tragedies for the forces on Canadian soil in peacetime’</p><p>Four people have been killed and dozens more seriously injured after a “violent, fast-moving” fire tore through one of Canada’s busiest military training bases in Alberta, the country’s prime minister said on Sunday.</p><p>Mark Carney called the incident “one of the worst tragedies for the forces on Canadian soil in peacetime”.</p> <a href=\"https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright\">Continue reading...</a>"
-      ],
-      "date": "2026-10-18",
-      "real": true
-    },
-    {
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/news/ng-interactive/2026/oct/18/4000-people-minding-our-own-business-four-decades-on-falklands-again-face-a-hostile-argentina",
-      "title": "‘4,000 people minding our own business’: four decades on, Falklands again face a hostile Argentina",
-      "summary": "<p>Facing a slump in the polls, Argentina’s president is making economic attacks on the islands’ oil industry, and suggesting its key fisheries industry could be next </p><p>A dozen local people and a uniformed military police officer (“Do you mind if I sit in?”) took their seats at the back of the ",
-      "paragraphs": [
-        "<p>Facing a slump in the polls, Argentina’s president is making economic attacks on the islands’ oil industry, and suggesting its key fisheries industry could be next </p><p>A dozen local people and a uniformed military police officer (“Do you mind if I sit in?”) took their seats at the back of the handsome wood-panelled courtroom that doubles as the Falkland Islands’ legislative assembly. Outside, it was a typically blowy early evening. It may nominally be spring in the south Atlantic, but Stanley harbour, with its dark grey water speckled with historical shipwrecks, was a cauldron of swells and churn.</p><p>Six of the assembly’s eight members – five men, one woman – waited patiently at a row of desks and microphones. The heating had been turned up to just short of uncomfortable. Behind them, a portrait of King Charles. From the other walls, dusty photographs of governors peered down on the scene.</p> <a href=\"https://www.theguardian.com/news/ng-interactive/2026/oct/18/4000-people-minding-our-own-business-four-decades-on-falklands-again-face-a-hostile-argentina\">Continue reading...</a>"
-      ],
-      "date": "2026-10-18",
-      "real": true
-    },
-    {
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/australia-news/2026/oct/17/mexican-judge-sentences-three-men-to-158-years-in-prison-for-murders-of-australian-and-us-surfers-ntwnfb",
-      "title": "Mexican judge sentences three men to 158 years in prison for murders of Australian and US surfers​",
-      "summary": "<p>Australian ​brothers Jake ​and Callum Robinson, and ​their ‌American friend Carter Rhoad, were killed while on a surf trip in Baja California in 2024</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com",
-      "paragraphs": [
-        "<p>Australian ​brothers Jake ​and Callum Robinson, and ​their ‌American friend Carter Rhoad, were killed while on a surf trip in Baja California in 2024</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>A Mexican ⁠judge ⁠has sentenced ​three men to 158 years ⁠and nine months in prison each for ⁠the murder of ​two Australian ‌brothers ‌and their American friend during ‌a 2024 surf trip to the state of Baja California.</p><p>The ‌defendants <a href=\"https://www.theguardian.com/world/2026/oct/10/jake-callum-robinson-australian-surfers-carter-rhoad-mexico-murder-guilty-verdict-ntwnfb\">were declared guilty a week ​ago</a> of homicide, aggravated robbery, robbery with violence and vehicle theft ⁠with violence, crimes committed against ​Australian ​brothers Jake ​and Callum Robinson, and ​their ‌American friend ​Carter Rhoad.</p> <a href=\"https://www.theguardian.com/australia-news/2026/oct/17/mexican-judge-sentences-three-men-to-158-years-in-prison-for-murders-of-australian-and-us-surfers-ntwnfb\">Continue reading...</a>"
-      ],
-      "date": "2026-10-17",
       "real": true
     },
     {
@@ -554,112 +555,112 @@
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/australia-news/live/2026/oct/20/helen-haines-independent-mp-alleged-car-attack-wangaratta-melbourne-hospital-ntwnfb",
-      "title": "Helen Haines live updates: independent MP in critical but stable condition as Asio boss warns about ‘violent rhetoric’",
-      "summary": "<p>A joint counter-terrorism taskforce is investigating the incident, which Anthony Albanese alleged ‘wasn’t an accident’</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/2026/oct/19/mp-helen-haines-injured-incident-wangaratta-ntwnfb\">‘Deeply appalled’: politicians condemn alleged a",
+      "link": "https://www.theguardian.com/australia-news/live/2026/oct/21/helen-haines-independent-mp-alleged-attack-wangaratta-vigils-court-ntwnfb",
+      "title": "Helen Haines live updates: police charge accused Brendan Nugent with additional offence; lawyer says he has rare neurological condition",
+      "summary": "<p>Independent MP’s condition remains critical on Wednesday after surgery to save her remaining leg</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/2026/oct/19/mp-helen-haines-injured-incident-wangaratta-ntwnfb\">‘Deeply appalled’: politicians condemn alleged attack after Helen Hain",
       "paragraphs": [
-        "<p>A joint counter-terrorism taskforce is investigating the incident, which Anthony Albanese alleged ‘wasn’t an accident’</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/2026/oct/19/mp-helen-haines-injured-incident-wangaratta-ntwnfb\">‘Deeply appalled’: politicians condemn alleged attack after Helen Haines critically injured</a></p></li><li><p><a href=\"https://www.theguardian.com/australia-news/2026/oct/19/who-is-helen-haines-the-mp-allegedly-attacked-in-victoria-ntwnfb\">Helen Haines, the principled MP respected across parliament</a></p></li></ul><p><strong>‘It’s very clear that this was a deliberate act’, PM says</strong></p><p>The prime minister, <strong>Anthony Albanese</strong>, said Haines’ alleged attacker “did a U-turn in order to get back to where <strong>Helen Haines</strong> was” after passing her on the road.</p><p>It would appear that the driver of the vehicle that inflicted the damage to Helen Haines did a U-turn in order to get back to where Helen Haines was after passing where she was getting things from the boot or putting things into the boot of her car.</p><p>So it’s clear that there was a deliberate act here, this wasn’t an accident – someone, you know, just getting off the road here.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/oct/20/helen-haines-independent-mp-alleged-car-attack-wangaratta-melbourne-hospital-ntwnfb\">Continue reading...</a>"
+        "<p>Independent MP’s condition remains critical on Wednesday after surgery to save her remaining leg</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/2026/oct/19/mp-helen-haines-injured-incident-wangaratta-ntwnfb\">‘Deeply appalled’: politicians condemn alleged attack after Helen Haines critically injured</a></p></li><li><p><a href=\"https://www.theguardian.com/australia-news/2026/oct/19/who-is-helen-haines-the-mp-allegedly-attacked-in-victoria-ntwnfb\">Helen Haines, the principled MP respected across parliament</a></p></li></ul><p><strong>Anthony</strong> <strong>Albanese</strong> has described the police interview on Tuesday with <strong>Brendan</strong> <strong>Nugent</strong> as “extensive” but that the motivation of the alleged “violent” attack against <strong>Helen Haines</strong> is still unknown.</p><p>Certainly, it’s a reminder that the world is a more dangerous and divided place than it was a generation ago.</p><p>But I think that Australians do want to see their politicians be able to go about their business, to be able to get something from the back of their car, for goodness sake.</p><p>My side, every side included. We all have to recognise that politics has got more aggressive.</p><p>The particular impact on women in politics … [They] have got a different form of vilification and aggression towards them as well.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/oct/21/helen-haines-independent-mp-alleged-attack-wangaratta-vigils-court-ntwnfb\">Continue reading...</a>"
+      ],
+      "date": "2026-10-21",
+      "real": true
+    },
+    {
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/australia-news/2026/oct/21/odds-of-fifth-interest-rate-hike-this-year-likely-to-shorten-as-rba-deputy-warns-inflation-outlook-worsening",
+      "title": "Odds of fifth interest rate hike this year likely to shorten as RBA deputy warns inflation outlook ‘worsening’",
+      "summary": "<p>Andrew Hauser says central bank faces ‘hard choices’ as it looks to balance risks of entrenched inflation with desire to protect labour market</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx",
+      "paragraphs": [
+        "<p>Andrew Hauser says central bank faces ‘hard choices’ as it looks to balance risks of entrenched inflation with desire to protect labour market</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Andrew Hauser, the Reserve Bank’s deputy governor, has reignited talk of a fifth interest rate hike on Melbourne Cup day, warning of “hard choices” ahead in response to an inflation outlook that “looks materially worse” than the central bank had expected two months ago.</p><p>Hauser, speaking at an investment bank conference in Sydney on Wednesday morning, said the RBA monetary policy board members were juggling a slowing economy with fears that Australians were starting to lose faith in the central bank’s ability to bring inflation back to the 2.5% target.</p> <a href=\"https://www.theguardian.com/australia-news/2026/oct/21/odds-of-fifth-interest-rate-hike-this-year-likely-to-shorten-as-rba-deputy-warns-inflation-outlook-worsening\">Continue reading...</a>"
       ],
       "date": "2026-10-20",
       "real": true
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/australia-news/2026/oct/20/i-dont-want-to-be-known-as-a-hero-barber-who-rushed-to-help-helen-haines-praised-by-pm-ntwnfb",
-      "title": "‘I don’t want to be known as a hero’: barber who rushed to help Helen Haines praised by PM",
-      "summary": "<p>Ricky Jefferies says he had just finished cutting hair when he grabbed and held the driver who allegedly deliberately struck the Indi MP</p><ul><li><p>Follow our <a href=\"https://www.theguardian.com/australia-news/live/2026/oct/20/helen-haines-independent-mp-alleged-car-attack-wangaratta-melbourn",
+      "link": "https://www.theguardian.com/australia-news/2026/oct/21/i-forgot-to-pay-victorian-premier-ben-carroll-drove-off-with-paying-for-petrol-sparking-police-inquiries-ntwnfb",
+      "title": "‘I forgot to pay’: Victoria’s premier Ben Carroll drives off without paying for petrol, sparking police inquiries",
+      "summary": "<p>After being contacted by officers, politician says, he has paid bill and is ‘grateful for the team at the servo for their understanding’</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">fre",
       "paragraphs": [
-        "<p>Ricky Jefferies says he had just finished cutting hair when he grabbed and held the driver who allegedly deliberately struck the Indi MP</p><ul><li><p>Follow our <a href=\"https://www.theguardian.com/australia-news/live/2026/oct/20/helen-haines-independent-mp-alleged-car-attack-wangaratta-melbourne-hospital-ntwnfb\">Helen Haines live blog</a> for latest updates</p></li><li><p><a href=\"https://www.theguardian.com/australia-news/2026/oct/19/who-is-helen-haines-the-mp-allegedly-attacked-in-victoria-ntwnfb\">Who is Helen Haines, the MP allegedly attacked in Victoria?</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">new political email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The Australian prime minister has hailed him a hero for rushing out of his shop to help independent MP Helen Haines after she was allegedly run down in a deliberate attack – but barber Ricky Jefferies says he had “no choice” but to intervene.</p><p>Standing on Tuesday morning outside his shop, which is right next to Haines’ electorate office in Wangaratta, Jefferies was almost shy about the whole thing.</p> <a href=\"https://www.theguardian.com/australia-news/2026/oct/20/i-dont-want-to-be-known-as-a-hero-barber-who-rushed-to-help-helen-haines-praised-by-pm-ntwnfb\">Continue reading...</a>"
+        "<p>After being contacted by officers, politician says, he has paid bill and is ‘grateful for the team at the servo for their understanding’</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>On Tuesday night, Ben Carroll received a phone call: police were looking for him.</p><p>The Victorian premier had met with the state’s police commissioner earlier that morning – so he wasn’t exactly hard to find.</p> <a href=\"https://www.theguardian.com/australia-news/2026/oct/21/i-forgot-to-pay-victorian-premier-ben-carroll-drove-off-with-paying-for-petrol-sparking-police-inquiries-ntwnfb\">Continue reading...</a>"
       ],
-      "date": "2026-10-19",
+      "date": "2026-10-20",
+      "real": true
+    },
+    {
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/society/2026/oct/21/australian-researchers-identify-new-subtype-of-depression-linked-to-body-clock-disruptions",
+      "title": "Australian researchers identify new subtype of depression linked to body clock disruptions",
+      "summary": "<p>Study identifies ‘circadian depression’ as affecting nearly a quarter of more than 11,000 participants</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.",
+      "paragraphs": [
+        "<p>Study identifies ‘circadian depression’ as affecting nearly a quarter of more than 11,000 participants</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Australian researchers have identified a new subtype of depression – termed “circadian depression” – linked to disruptions in the body’s internal clock, which they believe is less responsive to traditional antidepressant treatments.</p><p>In a study published in British Journal of Psychiatry, involving clinical and genetic data from 11,380 Australians with mostly severe and recurrent depression, researchers identified circadian depression as affecting nearly a quarter (23%) of participants.</p> <a href=\"https://www.theguardian.com/society/2026/oct/21/australian-researchers-identify-new-subtype-of-depression-linked-to-body-clock-disruptions\">Continue reading...</a>"
+      ],
+      "date": "2026-10-20",
       "real": true
     },
     {
       "source": "The Guardian",
       "link": "https://www.theguardian.com/australia-news/2026/oct/20/helen-haines-mp-alleged-attack-wangaratta-surgery-ntwnfb",
-      "title": "Car allegedly did U-turn and struck Helen Haines twice, in what some believe was targeted attack against MP",
-      "summary": "<p>Independent MP is in critical yet stable condition, as police interview alleged attacker in Wangaratta incident</p><ul><li><p>Follow our <a href=\"https://www.theguardian.com/australia-news/live/2026/oct/20/helen-haines-independent-mp-alleged-car-attack-wangaratta-melbourne-hospital-ntwnfb\">Helen ",
+      "title": "Helen Haines loses leg as surgeons fight to save the other after alleged attack in Wangaratta",
+      "summary": "<p>Independent MP is in critical yet stable condition after man allegedly did U-turn to strike her twice with his car</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/2026/oct/20/brendan-nugent-driver-alleged-attack-helen-haines-ntwnfb\">Brendan Nugent’s family say Helen Haines has b",
       "paragraphs": [
-        "<p>Independent MP is in critical yet stable condition, as police interview alleged attacker in Wangaratta incident</p><ul><li><p>Follow our <a href=\"https://www.theguardian.com/australia-news/live/2026/oct/20/helen-haines-independent-mp-alleged-car-attack-wangaratta-melbourne-hospital-ntwnfb\">Helen Haines live blog</a> for latest updates</p></li><li><p><a href=\"https://www.theguardian.com/australia-news/2026/oct/19/who-is-helen-haines-the-mp-allegedly-attacked-in-victoria-ntwnfb\">Who is Helen Haines, the MP allegedly attacked in Victoria?</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">new political email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The man accused of attacking Helen Haines allegedly made a U-turn before ramming the independent MP twice in what some believed may be a targeted attack near her electorate office, according to eyewitnesses.</p><p>The independent MP remains in a critical condition after being airlifted from Wangaratta in northern Victoria to Melbourne’s Alfred hospital for emergency surgery on Monday night.</p> <a href=\"https://www.theguardian.com/australia-news/2026/oct/20/helen-haines-mp-alleged-attack-wangaratta-surgery-ntwnfb\">Continue reading...</a>"
-      ],
-      "date": "2026-10-19",
-      "real": true
-    },
-    {
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/australia-news/2026/oct/20/helen-haines-was-chatting-with-locals-at-a-dog-park-on-monday-morning-by-the-afternoon-she-was-fighting-for-her-life-ntwnfb",
-      "title": "Helen Haines was chatting with locals at a dog park on Monday morning. By the afternoon, she was fighting for her life",
-      "summary": "<p>Australia’s politicians have been facing increasing threats and abuse. It can no longer be dismissed as social media noise or harmless comment</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/oct/20/helen-haines-independent-mp-alleged-car-attack-wangaratta-melbourne-hos",
-      "paragraphs": [
-        "<p>Australia’s politicians have been facing increasing threats and abuse. It can no longer be dismissed as social media noise or harmless comment</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/oct/20/helen-haines-independent-mp-alleged-car-attack-wangaratta-melbourne-hospital-ntwnfb\">Follow our live blog for latest updates</a></p></li><li><p><a href=\"https://www.theguardian.com/australia-news/2026/oct/19/mp-helen-haines-injured-incident-wangaratta-ntwnfb\">Politicians condemn alleged attack after independent MP Helen Haines critically injured</a></p></li><li><p><a href=\"https://www.theguardian.com/australia-news/2026/oct/19/who-is-helen-haines-the-mp-allegedly-attacked-in-victoria-ntwnfb\">Who is Helen Haines, the MP allegedly attacked in Victoria?</a></p></li></ul><p>Victorian independent MP Helen Haines was at the opening of a dog park in Mansfield on Monday, out and about in the sprawling northern Victorian electorate, talking to locals and moving freely.</p><p>Later in the afternoon, at 3.35pm, she was unpacking a car outside her electorate office when a man understood to be known to authorities <a href=\"https://www.theguardian.com/australia-news/2026/oct/19/helen-haines-alleged-attack-wangaratta-what-we-know-so-far-ntwnfb\">struck her with his car</a>. He allegedly completed a U-turn when he saw Haines.</p> <a href=\"https://www.theguardian.com/australia-news/2026/oct/20/helen-haines-was-chatting-with-locals-at-a-dog-park-on-monday-morning-by-the-afternoon-she-was-fighting-for-her-life-ntwnfb\">Continue reading...</a>"
-      ],
-      "date": "2026-10-19",
-      "real": true
-    },
-    {
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/australia-news/2026/oct/19/tricky-time-for-lunchboxes-banana-shortage-hits-supermarket-shelves-after-cool-weather-in-queensland",
-      "title": "Tricky time for lunchboxes: banana shortage hits supermarket shelves after cool weather in Queensland",
-      "summary": "<p>Dearth of bananas coincides with poor apple harvest and lack of summer stone fruit</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/aust",
-      "paragraphs": [
-        "<p>Dearth of bananas coincides with poor apple harvest and lack of summer stone fruit</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>A shortage of Australia’s most popular fruit, bananas, has hit supermarket shelves at a tricky time for lunchboxes, right as apple season winds down after tough growing conditions and summer stone fruit is yet to arrive en masse.</p><p>Cool weather in key Queensland growing regions has severely slowed banana production, leaving major supermarkets Coles, Woolworths and Aldi with sparse displays or very green stock.</p> <a href=\"https://www.theguardian.com/australia-news/2026/oct/19/tricky-time-for-lunchboxes-banana-shortage-hits-supermarket-shelves-after-cool-weather-in-queensland\">Continue reading...</a>"
-      ],
-      "date": "2026-10-19",
-      "real": true
-    },
-    {
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/world/2026/oct/20/milan-luxury-shops-close-italy-to-deploy-troops-youth-protests-europe",
-      "title": "Milan luxury shops close as Italy prepares to deploy troops in the city after days of protests",
-      "summary": "<p>Demonstrations over poor public services and rising costs spiralled over the weekend, with shops looted and property vandalised</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/oct/18/europe-protests-france-spain-portugal-2026-explainer\">Why are people protesting across Europe?</a></",
-      "paragraphs": [
-        "<p>Demonstrations over poor public services and rising costs spiralled over the weekend, with shops looted and property vandalised</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/oct/18/europe-protests-france-spain-portugal-2026-explainer\">Why are people protesting across Europe?</a></p></li></ul><p>Italy’s government will dispatch 500 army troops to “defend Milan” after two days ⁠of unrest that saw demonstrators ⁠clash with police, ​loot shops and vandalise property, deputy prime minister Matteo Salvini said on Monday.</p><p>The deployment is expected to be included in a package of security measures to be approved at ⁠a cabinet meeting expected on Tuesday, and comes as shops in central Milan closed early and boarded up their windows, fearing a fresh outbreak of violence in Italy’s financial capital.</p> <a href=\"https://www.theguardian.com/world/2026/oct/20/milan-luxury-shops-close-italy-to-deploy-troops-youth-protests-europe\">Continue reading...</a>"
+        "<p>Independent MP is in critical yet stable condition after man allegedly did U-turn to strike her twice with his car</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/2026/oct/20/brendan-nugent-driver-alleged-attack-helen-haines-ntwnfb\">Brendan Nugent’s family say Helen Haines has been their friend for more than 20 years</a></p></li><li><p><a href=\"https://www.theguardian.com/australia-news/2026/oct/20/i-dont-want-to-be-known-as-a-hero-barber-who-rushed-to-help-helen-haines-praised-by-pm-ntwnfb\">‘I don’t want to be known as a hero’: barber who rushed to help Helen Haines praised by PM</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">new political email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The man accused of attacking Helen Haines allegedly made a U-turn before ramming the independent MP twice in an alleged targeted attack near her electorate office, causing her to lose one of her legs.</p><p>The member for Indi was airlifted from Wangaratta in northern Victoria to Melbourne’s Alfred hospital for emergency surgery on Monday night.</p> <a href=\"https://www.theguardian.com/australia-news/2026/oct/20/helen-haines-mp-alleged-attack-wangaratta-surgery-ntwnfb\">Continue reading...</a>"
       ],
       "date": "2026-10-20",
       "real": true
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/us-news/2026/oct/19/trump-france-protests",
-      "title": "Trump borrows from far right to blame unrest in France on immigration",
-      "summary": "<p>President ignores school conditions and cost of living and says he warned Macron ‘the whole world was coming in’</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/oct/18/europe-protests-france-spain-portugal-2026-explainer\">Explainer: why are people protesting across Europe?</a></p></",
+      "link": "https://www.theguardian.com/world/2026/oct/20/milan-luxury-shops-close-italy-to-deploy-troops-youth-protests-europe",
+      "title": "Italy to deploy 500 troops to Milan after days of protests and looting",
+      "summary": "<p>Government planning tougher security measures as France also says military forces will be deployed</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/oct/18/europe-protests-france-spain-portugal-2026-explainer\">Why are people protesting across Europe?</a></p></li></ul><p>Italy’s govern",
       "paragraphs": [
-        "<p>President ignores school conditions and cost of living and says he warned Macron ‘the whole world was coming in’</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/oct/18/europe-protests-france-spain-portugal-2026-explainer\">Explainer: why are people protesting across Europe?</a></p></li></ul><p>Donald Trump and JD Vance deployed a familiar US playbook on Europe, claiming that immigrants were responsible for rioting in France that began as student protests against crumbling schools and the <a href=\"https://www.theguardian.com/commentisfree/2026/oct/19/the-guardian-view-on-frances-protests-a-polarised-country-is-in-a-perilous-political-moment\">high cost of living</a>.</p><p>The nationwide protests on Saturday <a href=\"https://www.theguardian.com/world/2026/oct/02/student-protests-shut-schools-across-france\">were called over</a> rising fuel prices and falling purchasing power, and in several cities they escalated into clashes with police that left a historic town hall torched and led to 1,800 arrests. On Monday, <a href=\"https://www.theguardian.com/world/2026/oct/19/french-police-lost-control-during-riots-concedes-interior-minister\">overnight curfews were issued</a> for a number of French cities, including parts of <a href=\"https://www.theguardian.com/world/paris\">Paris</a>.</p> <a href=\"https://www.theguardian.com/us-news/2026/oct/19/trump-france-protests\">Continue reading...</a>"
+        "<p>Government planning tougher security measures as France also says military forces will be deployed</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/oct/18/europe-protests-france-spain-portugal-2026-explainer\">Why are people protesting across Europe?</a></p></li></ul><p>Italy’s government is sending 500 soldiers to Milan and vowed a “firm response from the state” after protests against the cost of living descended into clashes with police, vandalism and looting. Further demonstrations are planned on Saturday.</p><p>The government of the far-right prime minister, Giorgia Meloni, also announced new security measures, including an offence of violent participation in ⁠a demonstration, tougher penalties for ⁠rioters, and financial liability for ​parents whose children take part in vandalism and looting..</p> <a href=\"https://www.theguardian.com/world/2026/oct/20/milan-luxury-shops-close-italy-to-deploy-troops-youth-protests-europe\">Continue reading...</a>"
       ],
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "real": true
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/world/live/2026/oct/19/europe-france-protests-riots-macron-ukraine-russia-zelenskyy-sweden-latest-news-updates",
-      "title": "French authorities announce partial curfews as PM blames ‘ultra-left’ for exploiting protests – as it happened",
-      "summary": "<p>This live blog is now closed.</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/oct/18/french-government-crisis-talks-violent-unrest-policing-macron\">Macron criticises ‘unbridled violence’ after 2,400 arrests across France</a></p></li></ul><p><strong>French PM Lecornu says he has aske",
+      "link": "https://www.theguardian.com/world/2026/oct/20/us-has-resumed-sharing-intelligence-with-ukraine-about-russian-strikes-says-zelenskyy",
+      "title": "US has resumed sharing intelligence with Ukraine about Russian strikes, says Zelenskyy",
+      "summary": "<p>Advance warnings of missile attacks were seemingly suspended last week by the White House, but Ukraine’s president says: ‘Now it works’</p><p>The US has resumed sharing intelligence with Kyiv about Russian missile strikes, Volodymyr Zelenskyy said on Tuesday after a meeting with the US envoy Stev",
       "paragraphs": [
-        "<p>This live blog is now closed.</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/oct/18/french-government-crisis-talks-violent-unrest-policing-macron\">Macron criticises ‘unbridled violence’ after 2,400 arrests across France</a></p></li></ul><p><strong>French PM Lecornu says he has asked prefects to implement “a number of partial curfews” in certain “localised” urban areas to stop further disorder, </strong>which he attributes to “the extreme-left” and some criminal elements.</p><p><strong>We will no doubt hear more on this from local authorities,</strong> as in the example of Marseille (<a href=\"https://www.theguardian.com/world/live/2026/oct/19/europe-france-protests-riots-macron-ukraine-russia-zelenskyy-sweden-latest-news-updates?page=with%3Ablock-6ad5d5088f0862b813bc4c4a#block-6ad5d5088f0862b813bc4c4a\">10:32</a>).</p> <a href=\"https://www.theguardian.com/world/live/2026/oct/19/europe-france-protests-riots-macron-ukraine-russia-zelenskyy-sweden-latest-news-updates\">Continue reading...</a>"
+        "<p>Advance warnings of missile attacks were seemingly suspended last week by the White House, but Ukraine’s president says: ‘Now it works’</p><p>The US has resumed sharing intelligence with Kyiv about Russian missile strikes, Volodymyr Zelenskyy said on Tuesday after a meeting with the US envoy Steve Witkoff in Norway.</p><p>He said Ukraine was again receiving advance warnings of ballistic missile attacks, which were seemingly suspended last week by the White House. “Now it works. It’s great,” he said, adding that the US move would save lives.</p> <a href=\"https://www.theguardian.com/world/2026/oct/20/us-has-resumed-sharing-intelligence-with-ukraine-about-russian-strikes-says-zelenskyy\">Continue reading...</a>"
       ],
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "real": true
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/environment/2026/oct/19/study-europe-wild-bee-species-decline-",
-      "title": "‘Crucial opportunity to act’ as study finds most of Europe’s wild bee species in decline",
-      "summary": "<p>As Cop17 kicks off, records since 1921 show more bee species declining than increasing in all parts of Europe except the Alps </p><p>Most of Europe’s wild bee species and about half of its hover fly species have declined over the last century, a <a href=\"https://www.pnas.org/cgi/doi/10.1073/pnas.",
+      "link": "https://www.theguardian.com/world/2026/oct/20/nato-black-sea-deployment-escalating-russian-attacks-ships",
+      "title": "Nato increases Black Sea deployment amid escalating deadly Russian attacks",
+      "summary": "<p>Mounting anxiety as Russia’s war on Ukraine reaches Nato’s borders with targeting of vessels transporting agricultural cargo</p><p>Nato is deploying additional military assets to the Black Sea amid the recent deadly escalation of Russian attacks on merchant shipping, as five more vessels were att",
       "paragraphs": [
-        "<p>As Cop17 kicks off, records since 1921 show more bee species declining than increasing in all parts of Europe except the Alps </p><p>Most of Europe’s wild bee species and about half of its hover fly species have declined over the last century, a <a href=\"https://www.pnas.org/cgi/doi/10.1073/pnas.2600774123\">study</a> has found, as a UN biodiversity summit begins in Armenia.</p><p>Records since 1921 show more bee species are declining than increasing in all parts of Europe except the Alpine region. The richness of bee and hover fly species suffered a persistent drop in the Atlantic and Continental regions, the study found, though trends in other regions were mixed or even positive.</p> <a href=\"https://www.theguardian.com/environment/2026/oct/19/study-europe-wild-bee-species-decline-\">Continue reading...</a>"
+        "<p>Mounting anxiety as Russia’s war on Ukraine reaches Nato’s borders with targeting of vessels transporting agricultural cargo</p><p>Nato is deploying additional military assets to the Black Sea amid the recent deadly escalation of Russian attacks on merchant shipping, as five more vessels were attacked on Tuesday.</p><p>Russia’s military said it ⁠struck ​three cargo vessels in Ukraine’s ⁠port of Reni and two ⁠other cargo vessels en ​route ‌to ‌Odesa.</p> <a href=\"https://www.theguardian.com/world/2026/oct/20/nato-black-sea-deployment-escalating-russian-attacks-ships\">Continue reading...</a>"
       ],
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "real": true
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/world/2026/oct/19/french-police-lost-control-during-riots-concedes-interior-minister",
-      "title": "France imposes partial curfews in several cities, including parts of Paris",
-      "summary": "<p>Interior minister concedes police ‘lost control’ of weekend protests as PM vows to restore public order</p><p>Partial curfews have been issued for a number of French cities, including parts of Paris, after the government admitted police had “lost control” during violent weekend protests around th",
+      "link": "https://www.theguardian.com/world/live/2026/oct/20/france-protests-paris-curfews-italy-europe-ukraine-latest-news-updates",
+      "title": "Ukraine thankful that intelligence on missile strikes ‘works now’, says Zelenskyy – as it happened",
+      "summary": "<p>The Ukrainian leader<strong> </strong>says talks with US envoys covered security guarantees and he hopes to hear Russia’s response tomorrow</p><p><em>Nordic correspondent</em></p><p>As well as <strong>Steve Witkoff,</strong> Ukrainian president <strong>Volodymyr Zelenskyy</strong> will also meet ",
       "paragraphs": [
-        "<p>Interior minister concedes police ‘lost control’ of weekend protests as PM vows to restore public order</p><p>Partial curfews have been issued for a number of French cities, including parts of Paris, after the government admitted police had “lost control” during violent weekend protests around the country.</p><p>Sébastien Lecornu, the French prime minister, said after an emergency cabinet meeting on Monday he was “fully resolved to restore public order” and had called for “local and partial” curfews if needed. There was “no question” of imposing a full curfew on entire cities, he said.</p> <a href=\"https://www.theguardian.com/world/2026/oct/19/french-police-lost-control-during-riots-concedes-interior-minister\">Continue reading...</a>"
+        "<p>The Ukrainian leader<strong> </strong>says talks with US envoys covered security guarantees and he hopes to hear Russia’s response tomorrow</p><p><em>Nordic correspondent</em></p><p>As well as <strong>Steve Witkoff,</strong> Ukrainian president <strong>Volodymyr Zelenskyy</strong> will also meet the Norwegian prime minister, <strong>Jonas Gahr Støre</strong> and the Finnish president <strong>Alexander Stubb</strong> and Norway’s new <strong>King Haakon</strong> during his visit to Oslo.</p> <a href=\"https://www.theguardian.com/world/live/2026/oct/20/france-protests-paris-curfews-italy-europe-ukraine-latest-news-updates\">Continue reading...</a>"
       ],
-      "date": "2026-10-19",
+      "date": "2026-10-20",
+      "real": true
+    },
+    {
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/us-news/2026/oct/20/republicans-push-back-trump-ukraine-russia",
+      "title": "Republicans push back on Donald Trump’s wavering support for Ukraine",
+      "summary": "<p>GOP lawmakers threaten to pull support for president’s agenda after Russia diesel deal and sanctions pause</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/live/2026/oct/20/donald-trump-midterms-republicans-democrats-north-carolina-latest-updates\">US politics live – latest updates</a></",
+      "paragraphs": [
+        "<p>GOP lawmakers threaten to pull support for president’s agenda after Russia diesel deal and sanctions pause</p><ul><li><p><a href=\"https://www.theguardian.com/us-news/live/2026/oct/20/donald-trump-midterms-republicans-democrats-north-carolina-latest-updates\">US politics live – latest updates</a></p></li></ul><p>A handful of Republicans have spoken out against <a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a>’s <a href=\"https://www.theguardian.com/world/2026/oct/19/no-us-warning-russian-strikes-kyiv-power-plants-zelenskyy-ukraine-trump\">softening stance on Russia</a>, threatening to pull financial support for his agenda over his “embarrassing” handling of the Ukraine war.</p><p>Don Bacon, an outgoing congressman in Nebraska, condemned Trump’s actions – which include a <a href=\"https://www.theguardian.com/us-news/2026/oct/09/trump-putin-russian-diesel-ukraine\">stunning agreement to buy Russian diesel</a> and the <a href=\"https://www.theguardian.com/us-news/2026/oct/17/trump-puts-new-russia-sanctions-passed-by-congress-on-hold-amid-deepening-row-with-ukraine\">pausing of sanctions on Moscow</a> – as “absolutely disgraceful” and accused the US president of cozying up to a “war criminal” in Vladimir Putin, his Russian counterpart.</p> <a href=\"https://www.theguardian.com/us-news/2026/oct/20/republicans-push-back-trump-ukraine-russia\">Continue reading...</a>"
+      ],
+      "date": "2026-10-20",
       "real": true
     }
   ]
