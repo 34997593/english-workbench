@@ -1,121 +1,154 @@
 {
-  "updated": "2026-10-25T00:35:52Z",
+  "updated": "2026-10-26T00:46:18Z",
   "count": 60,
   "articles": [
     {
       "source": "NPR",
-      "link": "https://www.npr.org/2026/10/24/nx-s1-6015522/new-york-archdiocese-settlement-agreement",
-      "title": "Archdiocese of New York agrees to $800 million settlement over sexual abuse claims",
-      "summary": "The 1,300 survivors of sexual abuse by clergy members and lay workers have all agreed to the settlement, according to an attorney for some of the plaintiffs.",
+      "link": "https://www.npr.org/2026/10/25/nx-s1-6016299/brazil-lula-bolsonaro-election",
+      "title": "Brazil's left-wing President Lula elected for fourth term",
+      "summary": "Brazil's 80-year-old left-wing leader President Lula defeats Flávio Bolsonaro in a bitterly contested runoff.",
       "paragraphs": [
-        "The 1,300 survivors of sexual abuse by clergy members and lay workers have all agreed to the settlement, according to an attorney for some of the plaintiffs."
+        "Brazil's 80-year-old left-wing leader President Lula defeats Flávio Bolsonaro in a bitterly contested runoff."
       ],
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "real": true
     },
     {
       "source": "NPR",
-      "link": "https://www.npr.org/2026/10/24/nx-s1-6011193/trade-tariffs-cause-whiplash-at-port-milwaukee",
-      "title": "Trade tariffs cause whiplash at Port Milwaukee",
-      "summary": "Sacha Pfeiffer visits Port Milwaukee to see how President Trump's tariffs have affected the flow of goods and impacted the regional economy.",
+      "link": "https://www.npr.org/2026/10/25/nx-s1-6016205/measles-outbreak-pennsylvania",
+      "title": "U.S. measles cases more than double what they were last year as outbreak spreads",
+      "summary": "Pennsylvania is the worst hit state, with at least 1,338 cases of measles confirmed in 44 counties so far this year, according to the Pennsylvania Department of Health.",
       "paragraphs": [
-        "Sacha Pfeiffer visits Port Milwaukee to see how President Trump's tariffs have affected the flow of goods and impacted the regional economy."
+        "Pennsylvania is the worst hit state, with at least 1,338 cases of measles confirmed in 44 counties so far this year, according to the Pennsylvania Department of Health."
       ],
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "real": true
     },
     {
       "source": "NPR",
-      "link": "https://www.npr.org/2026/10/24/nx-s1-6011182/how-data-centers-became-a-bipartisan-political-issue-in-wisconsin",
-      "title": "How data centers became a bipartisan political issue in Wisconsin",
-      "summary": "Data centers are a big issue across the country. As midterms approach, many look to the swing state of Wisconsin for lessons for how that issue could play out nationally.",
+      "link": "https://www.npr.org/2026/10/25/nx-s1-6016212/blanche-defends-doj-lawsuit-blocking-alaska-senate-results-if-republican-loses",
+      "title": "Blanche defends DOJ lawsuit blocking Alaska Senate results if Republican loses",
+      "summary": "Attorney General Todd Blanche defended the Justice Department's suit over Alaska's Senate race in an interview on CNN.",
       "paragraphs": [
-        "Data centers are a big issue across the country. As midterms approach, many look to the swing state of Wisconsin for lessons for how that issue could play out nationally."
+        "Attorney General Todd Blanche defended the Justice Department's suit over Alaska's Senate race in an interview on CNN."
       ],
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "real": true
     },
     {
       "source": "NPR",
-      "link": "https://www.npr.org/2026/10/24/nx-s1-6015482/ukraine-starlink-working-after-disruptions",
-      "title": "Ukraine says Starlink is back to normal after disruptions",
-      "summary": "Ukrainian President Volodymyr Zelenskyy said that normal Starlink operating speeds were restored after more than a week of disruptions.",
+      "link": "https://www.npr.org/2026/10/25/nx-s1-6016222/venezuela-maria-corina-machado-leader-returns-exile",
+      "title": "Venezuela's opposition leader María Corina Machado returns after months in exile",
+      "summary": "Machado announced her arrival on social media, writing \"I am here. With you.\"",
       "paragraphs": [
-        "Ukrainian President Volodymyr Zelenskyy said that normal Starlink operating speeds were restored after more than a week of disruptions."
+        "Machado announced her arrival on social media, writing \"I am here. With you.\""
       ],
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "real": true
     },
     {
       "source": "NPR",
-      "link": "https://www.npr.org/2026/10/24/nx-s1-6004258/perspective-the-next-james-bond",
-      "title": "Perspective: The next James Bond",
-      "summary": "A new James Bond is nigh, to replace the last actor in the 64 year-old movie franchise. What evil forces will the new 007 face? Killer Drones? Killer AI? Killer lettuce?",
+      "link": "https://www.npr.org/2026/10/25/g-s1-149563/israel-election-war-netanyahu",
+      "title": "Israelis have changed. Will they change their leadership?",
+      "summary": "Israel is holding a general election this week after years of war. For many Israelis, shaken by the Oct. 7, 2023, attacks and years of war, it is the most consequential in decades.",
       "paragraphs": [
-        "A new James Bond is nigh, to replace the last actor in the 64 year-old movie franchise. What evil forces will the new 007 face? Killer Drones? Killer AI? Killer lettuce?"
+        "Israel is holding a general election this week after years of war. For many Israelis, shaken by the Oct. 7, 2023, attacks and years of war, it is the most consequential in decades."
       ],
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "real": true
     },
     {
       "source": "NPR",
-      "link": "https://www.npr.org/2026/10/24/nx-s1-6015414/shooting-church-jordan",
-      "title": "Gunmen open fire at a church during a funeral in Jordan, killing 7 and wounding 40",
-      "summary": "Footage broadcast on Jordanian state television showed three gunmen firing shots at a Greek Orthodox church in the city of Karak on Friday.",
+      "link": "https://www.npr.org/2026/10/25/nx-s1-6007348/what-makes-a-good-spine-tingler-stephen-graham-jones-says-its-all-in-the-ending",
+      "title": "What makes a good spine-tingler? Stephen Graham Jones says it's all in the ending",
+      "summary": "Horror writer Stephen Graham Jones says horror's current moment is powered by more than just fear.",
       "paragraphs": [
-        "Footage broadcast on Jordanian state television showed three gunmen firing shots at a Greek Orthodox church in the city of Karak on Friday."
+        "Horror writer Stephen Graham Jones says horror's current moment is powered by more than just fear."
       ],
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "real": true
     },
     {
       "source": "NPR",
-      "link": "https://www.npr.org/2026/10/24/nx-s1-6014612/medicare-advantage-open-enrollment-cancelled-plan",
-      "title": "Is your Medicare Advantage plan ending next year? Here's what to know",
-      "summary": "Medicare open enrollment runs through Dec. 7, and for as many as 5 million seniors, it will be important to log on and pick a new plan.",
+      "link": "https://www.npr.org/2026/10/25/g-s1-149089/magic-magicians-south-africa-school-students",
+      "title": "This College of Magic turns ordinary kids into cool magicians",
+      "summary": "The students, many from marginalized communities, learn to conjure up candy, do card tricks — and face the world with a confident, creative and resilient mindset.",
       "paragraphs": [
-        "Medicare open enrollment runs through Dec. 7, and for as many as 5 million seniors, it will be important to log on and pick a new plan."
+        "The students, many from marginalized communities, learn to conjure up candy, do card tricks — and face the world with a confident, creative and resilient mindset."
       ],
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "real": true
     },
     {
       "source": "NPR",
-      "link": "https://www.npr.org/2026/10/24/nx-s1-6012804/birth-rate-population-cdc",
-      "title": "U.S. birth rate drops to record low, but older women are having more babies",
-      "summary": "The U.S. birth rate fell to its lowest level ever recorded, according to a report from the Centers for Disease Control and Prevention. The drop would have been greater, but women over age 30 are having more children.",
+      "link": "https://www.npr.org/2026/10/25/nx-s1-6011190/meta-facebook-settlement-beauty-filters-ai",
+      "title": "When a teen posts a selfie, how much filter is 'too much' filter?",
+      "summary": "The recent Meta settlement includes a clause banning \"cosmetic procedure filters\" for teens. But defining what constitutes an extreme makeover isn't easy.",
       "paragraphs": [
-        "The U.S. birth rate fell to its lowest level ever recorded, according to a report from the Centers for Disease Control and Prevention. The drop would have been greater, but women over age 30 are having more children."
+        "The recent Meta settlement includes a clause banning \"cosmetic procedure filters\" for teens. But defining what constitutes an extreme makeover isn't easy."
       ],
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "real": true
     },
     {
       "source": "NPR",
-      "link": "https://www.npr.org/2026/10/24/nx-s1-6014811/midterm-election-history-house-senate",
-      "title": "This decade has been missing its big-impact midterm",
-      "summary": "Every other decade over the past hundred years has produced at least one midterm that made a big difference in Congress and in national politics more broadly.",
+      "link": "https://www.npr.org/2026/10/25/nx-s1-5977810/paid-family-bonding-leave-dads-moms-california-colorado-washington-states",
+      "title": "More dads taking paid family leave for a new baby, sometimes as much as moms are",
+      "summary": "The U.S. has no national law for paid parental leave. But in states that do, more dads are using the benefit, sometimes more than moms. The change comes as Americans say having kids is unaffordable.",
       "paragraphs": [
-        "Every other decade over the past hundred years has produced at least one midterm that made a big difference in Congress and in national politics more broadly."
+        "The U.S. has no national law for paid parental leave. But in states that do, more dads are using the benefit, sometimes more than moms. The change comes as Americans say having kids is unaffordable."
       ],
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "real": true
     },
     {
       "source": "NPR",
-      "link": "https://www.npr.org/2026/10/24/g-s1-149729/drinking-water-supplies-dwindle-in-yemeni-city-besieged-by-houthi-rebels",
-      "title": "Drinking water supplies dwindle in Yemeni city besieged by Houthi rebels",
-      "summary": "Taiz, a city in southwestern Yemen, faces a severe water crisis as Houthi rebels backed by Iran tighten their encirclement. The city has struggled with water issues for over a decade, but the situation has worsened in recent weeks.",
+      "link": "https://www.npr.org/2026/10/25/nx-s1-5995460/midterms-independent-candidates-nebraska-montana",
+      "title": "Independent candidates sense a moment. Some Democrats hope they're right.",
+      "summary": "As they look to win the Senate, Democrats are hoping that independent candidates in Nebraska and Montana can help them topple Republicans in a part of the country where their own brand is hurting.",
       "paragraphs": [
-        "Taiz, a city in southwestern Yemen, faces a severe water crisis as Houthi rebels backed by Iran tighten their encirclement. The city has struggled with water issues for over a decade, but the situation has worsened in recent weeks."
+        "As they look to win the Senate, Democrats are hoping that independent candidates in Nebraska and Montana can help them topple Republicans in a part of the country where their own brand is hurting."
       ],
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/10/25/iran-war-live-trump-hints-at-possible-sunday-iran-attack-or-deal-reached?traffic_source=rss",
-      "title": "Iran war live: Trump hints at possible Sunday Iran attack or deal reached",
+      "link": "https://www.aljazeera.com/news/2026/10/26/lula-holds-off-far-right-with-victory-in-brazil-presidential-election?traffic_source=rss",
+      "title": "Lula holds off far right with victory in Brazil presidential election",
+      "summary": "",
+      "paragraphs": [
+        ""
+      ],
+      "date": "2026-10-26",
+      "real": true
+    },
+    {
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/trump-escalates-anti-muslim-rhetoric-in-fierce-attack-on-el-sayed?traffic_source=rss",
+      "title": "Trump escalates anti-Muslim rhetoric in fierce attack on El-Sayed",
+      "summary": "",
+      "paragraphs": [
+        ""
+      ],
+      "date": "2026-10-26",
+      "real": true
+    },
+    {
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/10/26/iran-war-live-trump-rules-out-strikes-today-israeli-forces-raid-hebron?traffic_source=rss",
+      "title": "Iran war live: Trump rules out strikes ‘today’; Israeli forces raid Hebron",
+      "summary": "",
+      "paragraphs": [
+        ""
+      ],
+      "date": "2026-10-26",
+      "real": true
+    },
+    {
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/sports/2026/10/25/ballon-dor-2026-can-barcelona-phenom-lamine-yamal-become-youngest-winner?traffic_source=rss",
+      "title": "Ballon d’Or 2026: Can Barcelona phenom Lamine Yamal become youngest winner?",
       "summary": "",
       "paragraphs": [
         ""
@@ -125,266 +158,233 @@
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/trump-lauds-melania-over-russia-ukraine-localised-ceasefire-deal?traffic_source=rss",
-      "title": "Trump lauds Melania over Russia-Ukraine localised ceasefire deal",
+      "link": "https://www.aljazeera.com/news/2026/10/25/thousands-protest-in-prague-against-public-media-funding-reforms?traffic_source=rss",
+      "title": "Thousands protest in Prague against public media funding reforms",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/24/gunmen-kill-at-least-10-people-in-eastern-nigeria-police-say?traffic_source=rss",
-      "title": "Gunmen kill at least 10 people in eastern Nigeria, police say",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/venezuelas-opposition-leader-machado-returns-after-months-in-exile?traffic_source=rss",
+      "title": "Venezuela’s opposition leader Machado returns after months in exile",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/economy/2026/10/24/how-have-democrats-policies-shifted-since-the-last-major-us-election?traffic_source=rss",
-      "title": "How have Democrats’ policies shifted since the last major US election?",
+      "link": "https://www.aljazeera.com/news/2026/10/25/bulgaria-election-heads-to-a-run-off-amid-low-voter-turnout?traffic_source=rss",
+      "title": "Bulgaria election heads to a run-off amid low voter turnout",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/24/brazils-lula-bolsonaro-draw-thousands-to-election-eve-rallies?traffic_source=rss",
-      "title": "Brazil’s Lula, Bolsonaro draw thousands to election-eve rallies",
+      "link": "https://www.aljazeera.com/sports/2026/10/25/real-madrid-beat-barcelona-2-1-at-camp-nou-to-halve-gap-to-la-liga-leaders?traffic_source=rss",
+      "title": "Real Madrid beat Barcelona 2-1 at Camp Nou to halve gap to La Liga leaders",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/brazils-candidates-hold-final-rallies-before-knife-edge-run-off?traffic_source=rss",
-      "title": "Brazil’s candidates hold final rallies before knife-edge run off",
+      "link": "https://www.aljazeera.com/news/2026/10/25/marine-le-pen-vows-a-french-renaissance-as-far-right-eyes-seat-of-power?traffic_source=rss",
+      "title": "Marine Le Pen vows French ‘renaissance’ as far right eyes seat of power",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/24/iran-blames-us-for-deal-failure-urges-new-try-amid-fear-of-new-attacks?traffic_source=rss",
-      "title": "Iran blames US for deal failure, urges new try amid fear of new attacks",
+      "link": "https://www.aljazeera.com/news/2026/10/25/us-attorney-general-todd-blanche-defends-alaska-senate-election-lawsuit?traffic_source=rss",
+      "title": "US Attorney General Todd Blanche defends Alaska Senate election lawsuit",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/24/houthis-launch-attacks-on-saudi-arabia-and-yemens-aden?traffic_source=rss",
-      "title": "Houthis launch attacks on Saudi Arabia and Yemen’s Aden",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/marine-le-pen-launches-french-presidential-campaign?traffic_source=rss",
+      "title": "Marine Le Pen launches French presidential campaign",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/train-slams-into-crane-that-collapsed-onto-railway-line-in-brazil?traffic_source=rss",
-      "title": "Train slams into crane that collapsed onto railway line in Brazil",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/trump-vs-california?traffic_source=rss",
+      "title": "Trump VS California",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/severe-hunger-stalks-people-in-gaza-as-bakeries-close-down?traffic_source=rss",
-      "title": "Severe hunger stalks people in Gaza as bakeries close down",
+      "link": "https://www.aljazeera.com/news/2026/10/25/kenya-bus-crash-kills-at-least-24-as-government-vows-road-safety-crackdown?traffic_source=rss",
+      "title": "Kenya bus crash kills at least 24 as government vows road safety crackdown",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/aje-onl-nf_clashes-as-albanian-pm-cracks-down-on-protests-241026?traffic_source=rss",
-      "title": "Violent clashes as Albanian government cracks down on protests",
+      "link": "https://www.aljazeera.com/sports/2026/10/25/can-carrick-survive-man-united-slump-and-fernandes-fallout?traffic_source=rss",
+      "title": "Can Carrick survive Man United’s slump and Fernandes fallout?",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/10/24/could-israels-military-crackdown-influence-tuesdays-election?traffic_source=rss",
-      "title": "Could Israel’s military crackdown influence Tuesday’s election?",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/10/25/brazil-election-results-2026-live-polls-close-in-lula-bolsonaro-face-off?traffic_source=rss",
+      "title": "Brazil election results 2026 live: Lula beats Bolsonaro in shock upset",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/sports/2026/10/24/arsenal-join-man-city-at-premier-league-summit-spurs-shock-chelsea-2-0?traffic_source=rss",
-      "title": "Arsenal join Man City at Premier League summit, Spurs shock Chelsea 2-0",
+      "link": "https://www.aljazeera.com/video/the-listening-post/2026/10/25/the-narrative-battle-over-frances-unrest?traffic_source=rss",
+      "title": "The narrative battle over France’s unrest",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/24/thousands-of-israelis-rally-against-netanyahu-govt-days-before-election?traffic_source=rss",
-      "title": "Thousands of Israelis rally against Netanyahu gov’t days before election",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/iraqis-mark-seven-years-since-tishreen-protests-with-reform-demands?traffic_source=rss",
+      "title": "Iraqis mark seven years since Tishreen protests with reform demands",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/thousands-join-paris-protests-as-authorities-clamp-down-on-disorder?traffic_source=rss",
-      "title": "Thousands join Paris protests as authorities clamp down on disorder",
+      "link": "https://www.aljazeera.com/news/2026/10/25/serbia-voter-turnout-highest-in-decades-as-students-oppose-longtime-leader?traffic_source=rss",
+      "title": "Serbia’s Vucic concedes election defeat to student-led movement",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/24/thousands-gather-at-new-albanian-antigovernment-rally?traffic_source=rss",
-      "title": "Thousands gather at new Albanian antigovernment rally",
+      "link": "https://www.aljazeera.com/news/2026/10/25/venezuelas-opposition-leader-maria-corina-machado-returns-from-exile?traffic_source=rss",
+      "title": "Venezuela’s opposition leader Maria Corina Machado returns from exile",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/kim-jong-un-crosses-new-bridge-linking-north-korea-and-china?traffic_source=rss",
-      "title": "Kim Jong Un crosses new bridge linking North Korea and China",
+      "link": "https://www.aljazeera.com/sports/2026/10/25/when-is-the-2026-ballon-dor-who-are-the-favourites-and-how-can-you-watch-it?traffic_source=rss",
+      "title": "When is the 2026 Ballon d’Or, who are the favourites, and how can you watch it?",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/24/trump-says-he-may-move-white-house-press-corps-to-new-location?traffic_source=rss",
-      "title": "Trump says he may move White House press corps to new location",
+      "link": "https://www.aljazeera.com/sports/2026/10/25/will-michael-carrick-be-sacked-man-united-manager-says-he-doesnt-know?traffic_source=rss",
+      "title": "Will Michael Carrick be sacked? Man United manager says he doesn’t know",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/24/about-25000-rally-in-madrid-in-support-of-spains-state-pension-scheme?traffic_source=rss",
-      "title": "About 25,000 rally in Madrid in support of Spain’s state pension scheme",
+      "link": "https://www.aljazeera.com/news/2026/10/25/uganda-orders-21-day-ebola-quarantine-for-citizens-returning-from-dr-congo?traffic_source=rss",
+      "title": "Uganda orders 21-day Ebola quarantine for citizens returning from DR Congo",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/serbian-elections-a-country-where-students-may-actually-take-power?traffic_source=rss",
-      "title": "Serbian elections: A country where students may actually take power",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/israeli-air-strike-on-gaza-city-university-kills-three-people?traffic_source=rss",
+      "title": "Israeli air strike on Gaza City university kills three people",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/sports/2026/10/24/barcelona-vs-real-madrid-la-liga-el-clasico-preview-predictions-teams?traffic_source=rss",
-      "title": "Barcelona vs Real Madrid: La Liga – El Clasico preview, predictions, teams",
+      "link": "https://www.aljazeera.com/sports/2026/10/25/jordan-fa-chief-says-afc-congress-pure-politics-at-behest-of-infantino?traffic_source=rss",
+      "title": "Jordan FA chief says AFC Congress ‘pure politics’ at behest of Infantino",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/24/more-than-2000-forced-from-homes-in-hebron-amid-israels-west-bank-raids?traffic_source=rss",
-      "title": "More than 2,000 forced from homes in Hebron amid Israel’s West Bank raids",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/us-and-israel-elections-new-leaders-same-policies?traffic_source=rss",
+      "title": "US and Israel elections: New leaders, same policies?",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-10-24",
-      "real": true
-    },
-    {
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/24/brazils-lula-and-bolsonaro-about-even-ahead-of-election-run-off-poll?traffic_source=rss",
-      "title": "Brazil’s Lula and Bolsonaro about even ahead of election run-off: Poll",
-      "summary": "",
-      "paragraphs": [
-        ""
-      ],
-      "date": "2026-10-24",
-      "real": true
-    },
-    {
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/10/24/security-forces-deploy-as-milan-braces-for-another-day-of-protests?traffic_source=rss",
-      "title": "Hundreds of Italian soldiers deployed as thousands protest in Milan",
-      "summary": "",
-      "paragraphs": [
-        ""
-      ],
-      "date": "2026-10-24",
-      "real": true
-    },
-    {
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/aje-onl-nf_why-israeli-investors-are-unsettling-cypriots-241026?traffic_source=rss",
-      "title": "Why Israeli tourists and investors are unsettling Cypriots",
-      "summary": "",
-      "paragraphs": [
-        ""
-      ],
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "real": true
     },
     {
@@ -444,57 +444,68 @@
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/world/2026/oct/24/lula-da-silva-supporters-rally-eve-brazil-election-runoff-bolsonaro",
-      "title": "More than one million Lula supporters rally on eve of Brazilian election runoff",
-      "summary": "<p>Nearly 159 million people to head to polls on Sunday in battle between leftwing incumbent and Flávio Bolsonaro</p><p>More than one million supporters of Brazil’s leftwing president, Luiz Inácio Lula da Silva, have streamed on to Rio’s most famous beach for a giant protest they hope will propel hi",
+      "link": "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula",
+      "title": "Brazil runoff live updates: Lula has defeated Bolsonaro, electoral court announces",
+      "summary": "<p>Leftist president Luiz Inácio Lula da Silva defeated far-right senator Flávio Bolsonaro and was elected president of Brazil for a fourth non-consecutive term</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/oct/26/lula-wins-brazil-election\">Full report: Lula wins fourth term as Brazi",
       "paragraphs": [
-        "<p>Nearly 159 million people to head to polls on Sunday in battle between leftwing incumbent and Flávio Bolsonaro</p><p>More than one million supporters of Brazil’s leftwing president, Luiz Inácio Lula da Silva, have streamed on to Rio’s most famous beach for a giant protest they hope will propel him towards a historic election fightback against his far-right rival, <a href=\"https://www.theguardian.com/world/fl-vio-bolsonaro\">Flávio Bolsonaro</a>.</p><p>Nearly 159m Brazilians will vote in the election’s runoff on Sunday, with the pair tied in the polls after Bolsonaro <a href=\"https://www.theguardian.com/world/2026/oct/05/flavio-bolsonaro-brazilian-presidency-election-shock-first-round-victory\">won the first round on 4 October</a> by 47% to 45%.</p> <a href=\"https://www.theguardian.com/world/2026/oct/24/lula-da-silva-supporters-rally-eve-brazil-election-runoff-bolsonaro\">Continue reading...</a>"
+        "<p>Leftist president Luiz Inácio Lula da Silva defeated far-right senator Flávio Bolsonaro and was elected president of Brazil for a fourth non-consecutive term</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/oct/26/lula-wins-brazil-election\">Full report: Lula wins fourth term as Brazil’s president over Flávio Bolsonaro</a></p></li><li><p><a href=\"https://www.theguardian.com/world/ng-interactive/2026/oct/25/brazil-election-2026-live-second-round-results\">Live second round results</a></p></li></ul><p>The local electoral court ordered the immediate restoration of 100% of the bus fleet and ordered the arrest of the municipal transport secretary, Pablo Souza, on suspicion of an electoral offence and disobeying court orders. The arrest warrant could not be carried out, however, because he is in Paris on what the city government described as an “official mission”, and is not expected to return to Brazil until Monday.</p><p>Late in the afternoon, Flávio Bolsonaro also filed requests for voting to be extended by two hours in cities in the states of São Paulo, Paraná and Santa Catarina, but because of heavy rain that he said had prevented voters from turning out.</p> <a href=\"https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula\">Continue reading...</a>"
       ],
-      "date": "2026-10-24",
+      "date": "2026-10-26",
       "real": true
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/world/2026/oct/24/british-woman-dies-trying-to-save-sons-on-bahamas-snorkelling-trip",
-      "title": "British woman dies trying to save sons on Bahamas snorkelling trip",
-      "summary": "<p>Mother, 36, died after current off North Bimini reportedly swept away two boys, who were later rescued, police say</p><p>A British woman has died in the Bahamas while trying to rescue her two sons after a current swept them away as they were snorkelling.</p><p>The Royal Bahamas police force said ",
+      "link": "https://www.theguardian.com/world/2026/oct/26/lula-wins-brazil-election",
+      "title": "Lula wins fourth term as Brazil president after historic upset over far-right Flávio Bolsonaro",
+      "summary": "<p>Leftist incumbent Lula stages unprecedented comeback weeks after narrowly losing first round of election to Bolsonaro</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula\">Lula wins election in stunning comeback – live",
       "paragraphs": [
-        "<p>Mother, 36, died after current off North Bimini reportedly swept away two boys, who were later rescued, police say</p><p>A British woman has died in the Bahamas while trying to rescue her two sons after a current swept them away as they were snorkelling.</p><p>The Royal Bahamas police force said it had launched an investigation after the death of a 36-year-old woman on Tuesday.</p> <a href=\"https://www.theguardian.com/world/2026/oct/24/british-woman-dies-trying-to-save-sons-on-bahamas-snorkelling-trip\">Continue reading...</a>"
+        "<p>Leftist incumbent Lula stages unprecedented comeback weeks after narrowly losing first round of election to Bolsonaro</p><ul><li><p><a href=\"https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula\">Lula wins election in stunning comeback – live updates</a></p></li></ul><p><a href=\"https://www.theguardian.com/world/luiz-inacio-lula-da-silva\">Luiz Inácio Lula da Silva</a>, the <a href=\"https://www.theguardian.com/world/luiz-inacio-lula-da-silva\">Brazilian</a> president, has staged a dramatic <a href=\"https://www.theguardian.com/world/2026/sep/27/viscerally-dedicated-to-social-issues-behind-lulas-drive-to-win-final-term-in-brazils-crunch-election\">election fightback</a>, defeating his far-right opponent, <a href=\"https://www.theguardian.com/world/fl-vio-bolsonaro\">Flávio Bolsonaro</a>, to claim a historic fourth term in power.</p><p>With nearly 99% of votes counted the 80-year-old leftist received 51.75% of the vote to his 45-year-old rival’s 48.25%.</p> <a href=\"https://www.theguardian.com/world/2026/oct/26/lula-wins-brazil-election\">Continue reading...</a>"
       ],
-      "date": "2026-10-24",
+      "date": "2026-10-26",
       "real": true
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/us-news/2026/oct/23/marco-rubio-cuba-trump",
-      "title": "Rubio tells Cubans ‘now is the time’ to act to see political change",
-      "summary": "<p>US secretary of state makes comments after Trump tells US rally warships could intervene on return from Iran</p><p>Marco Rubio urged Cubans seeking political change in their country to act, saying “now is the time” moments after Donald Trump told a Friday rally for candidates in south Florida tha",
+      "link": "https://www.theguardian.com/world/ng-interactive/2026/oct/25/brazil-election-2026-live-second-round-results",
+      "title": "Brazil election 2026: Full second round results as Lula wins comeback against Flávio Bolsonaro",
+      "summary": "<p>After a shock defeat in the first round, the incumbent Brazilian president, Luiz Inácio Lula da Silva,<strong> </strong>has turned the election around to win the runoff.</p><p><a href=\"https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula\">Li",
       "paragraphs": [
-        "<p>US secretary of state makes comments after Trump tells US rally warships could intervene on return from Iran</p><p>Marco Rubio urged Cubans seeking political change in their country to act, saying “now is the time” moments after Donald Trump told a Friday rally for candidates in south Florida that US warships could intervene in Cuba on their way back from the Iran war.</p><p>The US secretary of state, in his <a href=\"https://x.com/SecRubio/status/2113731069518434519\">social media post</a> addressed “to those who seek to create positive change”, urged Cubans to capitalize on Trump’s plans. “The disappointment of failed promises, corruption, and the privileged lives of only a few; seize this opportunity to create the change you desire through a discrete [sic] partnership with the CIA,” Rubio said.</p> <a href=\"https://www.theguardian.com/us-news/2026/oct/23/marco-rubio-cuba-trump\">Continue reading...</a>"
+        "<p>After a shock defeat in the first round, the incumbent Brazilian president, Luiz Inácio Lula da Silva,<strong> </strong>has turned the election around to win the runoff.</p><p><a href=\"https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula\">Live blog: latest analysis and reaction</a></p><p>Brazil’s president is elected purely by the popular vote. A winning candidate needs one more vote than 50% of votes cast; there is no role for the parliament and no electoral college.</p> <a href=\"https://www.theguardian.com/world/ng-interactive/2026/oct/25/brazil-election-2026-live-second-round-results\">Continue reading...</a>"
       ],
-      "date": "2026-10-24",
+      "date": "2026-10-26",
       "real": true
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/news/audio/2026/oct/23/brazil-election-battle-for-amazon-podcast",
-      "title": "Brazil’s election and the battle for the Amazon – podcast",
-      "summary": "<p>Our Latin America correspondent, <strong>Tom Phillips, </strong>heads to Roraima to hear what’s at stake for the rainforest and the communities that live there in the Brazilian presidential runoff on Sunday. Send your comments and questions to <a href=\"mailto:tif.questions@theguardian.com\">tif.qu",
+      "link": "https://www.theguardian.com/world/2026/oct/25/exiled-venezuelan-opposition-leader-maria-corina-machado-announces-her-return",
+      "title": "Exiled opposition leader María Corina Machado returns to Venezuela",
+      "summary": "<p>Nobel peace prize winner’s return after almost a year in exile is unlikely to please interim president Delcy Rodríguez</p><p>The Venezuelan opposition leader, María Corina Machado, has announced she has returned to Venezuela almost a year after she left the country to receive the Nobel peace priz",
       "paragraphs": [
-        "<p>Our Latin America correspondent, <strong>Tom Phillips, </strong>heads to Roraima to hear what’s at stake for the rainforest and the communities that live there in the Brazilian presidential runoff on Sunday. Send your comments and questions to <a href=\"mailto:tif.questions@theguardian.com\">tif.questions@theguardian.com</a></p><p>For the Amazon and the communities who live there, the stakes in Sunday’s Brazilian presidential election runoff could scarcely be higher.</p><p>Our Latin America correspondent, <strong>Tom Phillips </strong>heads to Roraima, the country’s most northern state, to hear from voters, preachers and politicians in a region that heavily backed Flávio Bolsonaro in the first round.</p> <a href=\"https://www.theguardian.com/news/audio/2026/oct/23/brazil-election-battle-for-amazon-podcast\">Continue reading...</a>"
+        "<p>Nobel peace prize winner’s return after almost a year in exile is unlikely to please interim president Delcy Rodríguez</p><p>The Venezuelan opposition leader, María Corina Machado, has announced she has returned to Venezuela almost a year after she left the country to receive the Nobel peace prize.</p><p>“I’m here. With you,” she wrote on X on Sunday lunchtime.</p> <a href=\"https://www.theguardian.com/world/2026/oct/25/exiled-venezuelan-opposition-leader-maria-corina-machado-announces-her-return\">Continue reading...</a>"
       ],
-      "date": "2026-10-23",
+      "date": "2026-10-25",
       "real": true
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/world/2026/oct/22/canada-alberta-migrant-workers",
-      "title": "Alberta welcomed migrant workers. Now, it wants to restrict their rights",
-      "summary": "<p>‘Scapegoating non-permanent residents is not going to lower the cost of living,’ Vanesa Ortiz says</p><p>When Vanesa Ortiz came to Calgary from Mexico, she found herself in a city gripped by winter. Outside the airport, it was -15C (5F).</p><p>“I would come to understand that this was not an extr",
+      "link": "https://www.theguardian.com/world/2026/oct/25/lula-da-silva-flavio-bolsonaro-brazil-presidential-election",
+      "title": "Brazilians vote in presidential election runoff pitting leftist Lula against far-right Bolsonaro",
+      "summary": "<p>Incumbent president lost in first round to senator and son of convicted ex-president </p><p>Brazilians are going to the polls on Sunday in a highly unpredictable runoff in which the leftist president, <a href=\"https://www.theguardian.com/world/luiz-inacio-lula-da-silva\">Luiz Inácio Lula da Silva<",
       "paragraphs": [
-        "<p>‘Scapegoating non-permanent residents is not going to lower the cost of living,’ Vanesa Ortiz says</p><p>When Vanesa Ortiz came to Calgary from Mexico, she found herself in a city gripped by winter. Outside the airport, it was -15C (5F).</p><p>“I would come to understand that this was not an extreme cold,” she said. “But in the moment it was terrifying.”</p> <a href=\"https://www.theguardian.com/world/2026/oct/22/canada-alberta-migrant-workers\">Continue reading...</a>"
+        "<p>Incumbent president lost in first round to senator and son of convicted ex-president </p><p>Brazilians are going to the polls on Sunday in a highly unpredictable runoff in which the leftist president, <a href=\"https://www.theguardian.com/world/luiz-inacio-lula-da-silva\">Luiz Inácio Lula da Silva</a>, is attempting an unprecedented comeback against the far-right senator <a href=\"https://www.theguardian.com/world/fl-vio-bolsonaro\">Flávio Bolsonaro</a>, who won the first-round vote.</p><p>Bolsonaro’s surprise victory despite not leading most polls made him the favourite three weeks ago, but since then Lula’s campaign has gained ground, and the two go into the contest virtually tied.</p> <a href=\"https://www.theguardian.com/world/2026/oct/25/lula-da-silva-flavio-bolsonaro-brazil-presidential-election\">Continue reading...</a>"
       ],
-      "date": "2026-10-22",
+      "date": "2026-10-25",
+      "real": true
+    },
+    {
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/uk-news/2026/oct/25/thomas-markle-sr-philippines-investigation",
+      "title": "Signs suggest Thomas Markle Sr may be ‘sex offender of the grossest kind’, says Philippine minister",
+      "summary": "<p>Exclusive: Forensic analysis of found images continues as Meghan’s father denies possessing child sexual abuse images</p><p>All signs point to Thomas Markle Sr being a “possible sex offender of the grossest kind” although a full forensic investigation will give a “definitive picture”, the Philipp",
+      "paragraphs": [
+        "<p>Exclusive: Forensic analysis of found images continues as Meghan’s father denies possessing child sexual abuse images</p><p>All signs point to Thomas Markle Sr being a “possible sex offender of the grossest kind” although a full forensic investigation will give a “definitive picture”, the Philippine interior minister has told the Guardian.</p><p>Authorities in the south-east Asian country are analysing digital images allegedly belonging to the estranged father of the Duchess of Sussex that were said to have been found at his former home in Cebu. Meghan’s half-brother, Thomas Markle Jr, reported to authorities last week that he had apparently discovered a stash of child sexual abuse images.</p> <a href=\"https://www.theguardian.com/uk-news/2026/oct/25/thomas-markle-sr-philippines-investigation\">Continue reading...</a>"
+      ],
+      "date": "2026-10-25",
       "real": true
     },
     {
@@ -543,123 +554,112 @@
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/world/2026/oct/22/north-korea-to-restart-propaganda-loudspeakers-south-korea",
-      "title": "North Korea prepares to restart propaganda loudspeakers as ties sour with South",
-      "summary": "<p>Kim Yo-jong, sister of Kim Jong-un, issues warning after inspecting border fortifications against backdrop of rising tensions</p><p>Propaganda loudspeakers aimed at South Korea will be ready to restart within days along the entire border, Kim Yo-jong, the powerful sister of North Korean leader Ki",
+      "link": "https://www.theguardian.com/australia-news/live/2026/oct/26/australia-politics-live-helen-haines-tribute-anthony-albanese-labor-liberal-one-nation-pauline-hanson-angus-taylor-question-time-senate-estimates-ntwnfb",
+      "title": "Australia politics live: ‘Helen Haines is a fighter’: parliament hears emotional tributes to Indi MP; NSW to begin gun buyback",
+      "summary": "<p>Follow live updates</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">daily political email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast",
       "paragraphs": [
-        "<p>Kim Yo-jong, sister of Kim Jong-un, issues warning after inspecting border fortifications against backdrop of rising tensions</p><p>Propaganda loudspeakers aimed at South Korea will be ready to restart within days along the entire border, Kim Yo-jong, the powerful sister of North Korean leader Kim Jong-un, has said amid a worsening of ties between the two countries.</p><p>The statement, carried by the state news agency KCNA on Thursday, came a day after she said the loudspeakers would be in operation along the whole border from some time in October.</p> <a href=\"https://www.theguardian.com/world/2026/oct/22/north-korea-to-restart-propaganda-loudspeakers-south-korea\">Continue reading...</a>"
+        "<p>Follow live updates</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">daily political email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>Steggall calls for civility and respect</strong></p><p>Independent MP <strong>Zali Steggall</strong> has called for more respect in times of disagreement, telling ABC that leadership and words matter.</p><p><em>We absolutely need to make sure there is more civility and respect.</em></p><p><em>Social media is a platform where they can send abuse and threats through direct messages, call my electorate office, or send pretty revolting stuff</em></p><p><em>It’s just quite shocking how disconnected from manners and reality sometimes people get when they launch into their diatribes and make threats.</em></p><p><em>There’s been a lot of money and a lot of effort and a lot of thought going into security here at Parliament House.</em></p><p><em>I think the vulnerability is actually when we’re out doing our job in the community, and that’s probably where we need to put the focus.</em></p> <a href=\"https://www.theguardian.com/australia-news/live/2026/oct/26/australia-politics-live-helen-haines-tribute-anthony-albanese-labor-liberal-one-nation-pauline-hanson-angus-taylor-question-time-senate-estimates-ntwnfb\">Continue reading...</a>"
       ],
-      "date": "2026-10-22",
+      "date": "2026-10-26",
       "real": true
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/australia-news/2026/oct/25/drive-by-shooting-loganholme-four-injured-ntwnfb",
-      "title": "Four people injured after drive-by shooting outside boxing event south of Brisbane",
-      "summary": "<p>Offenders still at large after shots fired from vehicle outside licensed premises in Loganholme</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguar",
+      "link": "https://www.theguardian.com/australia-news/2026/oct/26/labor-mp-paul-edbrooke-bullet-on-car-rat-ntwnfb",
+      "title": "Bullet left on Victorian Labor minister’s car with ‘RAT’ etched on to it",
+      "summary": "<p>Paul Edbrooke says he fears for family’s safety amid heightened concerns for MPs after alleged attack on Helen Haines</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a hre",
       "paragraphs": [
-        "<p>Offenders still at large after shots fired from vehicle outside licensed premises in Loganholme</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Four people have been injured after a drive-by shooting outside a venue hosting a boxing event.</p><p>Police said they responded to reports of shots being fired from a vehicle outside a licensed premises in Loganholme, south of Brisbane, at 8.15pm.</p> <a href=\"https://www.theguardian.com/australia-news/2026/oct/25/drive-by-shooting-loganholme-four-injured-ntwnfb\">Continue reading...</a>"
+        "<p>Paul Edbrooke says he fears for family’s safety amid heightened concerns for MPs after alleged attack on Helen Haines</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Victoria’s emergency services minister says he fears for his family’s safety after a bullet, etched with the word “RAT” and his old firefighter number, was left on his car on Saturday.</p><p>The Herald Sun first reported on Monday that Paul Edbrooke had returned to his car after speaking to members of the community and found the bullet on the bonnet.</p> <a href=\"https://www.theguardian.com/australia-news/2026/oct/26/labor-mp-paul-edbrooke-bullet-on-car-rat-ntwnfb\">Continue reading...</a>"
       ],
-      "date": "2026-10-24",
+      "date": "2026-10-26",
       "real": true
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/australia-news/2026/oct/24/greens-senator-jordon-steele-john-confirms-leave-from-parliament-ntwnfb",
-      "title": "Embattled Greens senator Jordon Steele-John confirms leave from parliament after allegations against him made public",
-      "summary": "<p>WA politician says he considered attending Senate estimates virtually but was told it would be ‘unacceptable’</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">new political email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https",
+      "link": "https://www.theguardian.com/australia-news/2026/oct/26/deloitte-report-wa-university-mergers-260m-discrepancy-ai",
+      "title": "‘Extremely disappointed’: WA government seeks reimbursement from Deloitte over flawed university report",
+      "summary": "<p>State paid consultancy firm $166,000 for feasibility study on merging the three tertiary institutions</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.t",
       "paragraphs": [
-        "<p>WA politician says he considered attending Senate estimates virtually but was told it would be ‘unacceptable’</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">new political email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Jordon Steele-John has confirmed he will not attend parliament next week as the embattled Greens senator apologises for publicly releasing the letter outlining the claims against him.</p><p>On Saturday afternoon, Steele-John removed a social media post containing a three-page letter marked as “confidential” sent to the Greens leader, David Shoebridge, earlier this month. The letter urged an investigation into allegations he had acted inappropriately towards women between 2017 and 2025.</p><p><strong><a href=\"https://www.theguardian.com/australia-news/2026/aug/28/politics-really-newsletter-guardian-australia-free-best-daily-auspol-email-subscribe?CMP=copyembed\">Sign up for Guardian Australia’s Politics, really newsletter here</a></strong></p> <a href=\"https://www.theguardian.com/australia-news/2026/oct/24/greens-senator-jordon-steele-john-confirms-leave-from-parliament-ntwnfb\">Continue reading...</a>"
+        "<p>State paid consultancy firm $166,000 for feasibility study on merging the three tertiary institutions</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The Western Australian government has said it is “extremely disappointed” and is seeking an “expedited” cost recovery from Deloitte after errors were discovered in a report about a potential university merger, including AI-hallucinated references and hundreds of millions of dollars in cost discrepancies.</p><p>The government paid Deloitte $166,000 for a feasibility study on merging the University of Western Australia, Curtin University and Murdoch University.</p> <a href=\"https://www.theguardian.com/australia-news/2026/oct/26/deloitte-report-wa-university-mergers-260m-discrepancy-ai\">Continue reading...</a>"
       ],
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "real": true
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/australia-news/2026/oct/24/helen-hainess-condition-improves-days-after-losing-both-legs-from-alleged-attack-ntwnfb",
-      "title": "Helen Haines’s condition improves days after losing both legs from alleged attack",
-      "summary": "<p>Independent MP now serious but stable, according to update from Melbourne’s Alfred hospital</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian",
+      "link": "https://www.theguardian.com/australia-news/2026/oct/26/almost-two-thirds-of-australians-bulk-billed-for-all-gp-care-amid-extra-incentives-for-doctors",
+      "title": "Almost two-thirds of Australians bulk-billed for all GP care amid extra incentives for doctors",
+      "summary": "<p><strong>Exclusive:</strong> RACGP says results probably reflect Medicare investments but experts caution quality of care and outcomes also matter</p><ul><li><p>Follow our <a href=\"https://www.theguardian.com/australia-news/live/2026/oct/26/australia-politics-live-helen-haines-tribute-anthony-alba",
       "paragraphs": [
-        "<p>Independent MP now serious but stable, according to update from Melbourne’s Alfred hospital</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Independent MP Helen Haines’s condition has been downgraded to serious but stable after she lost both legs following an alleged attack near her electorate office in north-east Victoria on Monday afternoon.</p><p>The Alfred hospital in Melbourne provided an update on Haines’s condition on Saturday morning.</p> <a href=\"https://www.theguardian.com/australia-news/2026/oct/24/helen-hainess-condition-improves-days-after-losing-both-legs-from-alleged-attack-ntwnfb\">Continue reading...</a>"
+        "<p><strong>Exclusive:</strong> RACGP says results probably reflect Medicare investments but experts caution quality of care and outcomes also matter</p><ul><li><p>Follow our <a href=\"https://www.theguardian.com/australia-news/live/2026/oct/26/australia-politics-live-helen-haines-tribute-anthony-albanese-labor-liberal-one-nation-pauline-hanson-angus-taylor-question-time-senate-estimates-ntwnfb\">Australian politics live blog</a> for latest updates</p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">daily political email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The proportion of general practitioners bulk-billing all of their patients has more than doubled in a year, a report has found, after the government introduced financial incentives for doctors and practices.</p><p>And almost two-thirds (63%) of Australians are now bulk-billed for all their GP care, up from 56% in both 2024 and 2025, which the report says is “likely a reflection of the federal government’s recent investment in Medicare bulk billing incentives”.</p> <a href=\"https://www.theguardian.com/australia-news/2026/oct/26/almost-two-thirds-of-australians-bulk-billed-for-all-gp-care-amid-extra-incentives-for-doctors\">Continue reading...</a>"
       ],
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "real": true
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/australia-news/2026/oct/24/thunderstorms-heavy-rain-and-flash-flooding-predicted-for-much-of-australia",
-      "title": "Thunderstorms, heavy rain and flash flooding predicted for much of Australia",
-      "summary": "<p>Parts of Queensland, Victoria and South Australia can expect severe storms on Saturday, moving into NSW and Tasmania by Sunday</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> ",
+      "link": "https://www.theguardian.com/australia-news/2026/oct/25/unusual-multi-state-storm-causing-flood-warningd-and-severe-weather-for-australias-east",
+      "title": "‘Unusually large’ multi-state storm causing severe weather for Australia’s east – with more on the way",
+      "summary": "<p>BoM predicts hail, damaging winds, flash flooding and power outages across southern Queensland, western NSW, the ACT and eastern Victoria on Sunday afternoon</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.ad",
       "paragraphs": [
-        "<p>Parts of Queensland, Victoria and South Australia can expect severe storms on Saturday, moving into NSW and Tasmania by Sunday</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Severe thunderstorms and heavy rain will sweep across most Australian states this weekend, adding to the deluge in an already drenched Queensland.</p><p>Flash flooding in south-east Queensland this week prompted hundreds of SES callouts and the closure of multiple schools. On Saturday morning, the Bureau of Meteorology had nine flood warnings in place for south Queensland.</p> <a href=\"https://www.theguardian.com/australia-news/2026/oct/24/thunderstorms-heavy-rain-and-flash-flooding-predicted-for-much-of-australia\">Continue reading...</a>"
+        "<p>BoM predicts hail, damaging winds, flash flooding and power outages across southern Queensland, western NSW, the ACT and eastern Victoria on Sunday afternoon</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Large parts of eastern Australia were put on alert for severe thunderstorms on Sunday afternoon with more potential storms and flood risk in store for Monday.</p><p>On Sunday afternoon, the Bureau of Meteorology issued a severe thunderstorm warning for Sydney, greater Wollongong and parts of Blue Mountains, Hawkesbury, Gosford, Wyong and Wollondilly, Wingecarribee areas.</p> <a href=\"https://www.theguardian.com/australia-news/2026/oct/25/unusual-multi-state-storm-causing-flood-warningd-and-severe-weather-for-australias-east\">Continue reading...</a>"
       ],
-      "date": "2026-10-23",
+      "date": "2026-10-25",
       "real": true
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/australia-news/2026/oct/23/jordan-steele-john-in-limbo-greens-misconduct-allegations-ntwnfb",
-      "title": "Jordon Steele-John’s position remains in limbo as Greens prepare for moment in spotlight",
-      "summary": "<p>David Shoebridge’s newly-minted leadership under pressure over handling of misconduct allegations as Senate estimates looms</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">new political email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or ",
+      "link": "https://www.theguardian.com/world/2026/oct/25/serbian-leader-aleksandar-vucic-concedes-defeat-in-fiercely-contested-parliamentary-election",
+      "title": "Serbian leader Aleksandar Vučić ousted by student movement in seismic election",
+      "summary": "<p>Vučić’s 12-year reign looks to have been ended by record turnout of voters in election provoked by student-led protests</p><p>The long-serving leader of Serbia, Aleksandar Vučić, has conceded defeat, ushering in a seismic political shift after a historic election that saw ​the increasingly author",
       "paragraphs": [
-        "<p>David Shoebridge’s newly-minted leadership under pressure over handling of misconduct allegations as Senate estimates looms</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">new political email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>More than a week after allegations that Greens senator Jordon Steele-John had behaved inappropriately towards women made headlines, his position in the party remains in limbo and its new leader’s handling of the issue in question.</p><p><a href=\"https://www.theguardian.com/australia-news/2026/sep/30/im-up-for-a-red-hot-fight-polarising-new-greens-leader-david-shoebridge-is-taking-on-the-top-1-and-one-nation\">David Shoebridge</a>’s first major challenge at the helm of the federal Greens came earlier this month when the Nine newspapers reported <a href=\"https://www.theguardian.com/australia-news/2026/oct/18/greens-senator-jordon-steele-john-says-not-on-leave-blames-david-shoebridge-complaints-ntwnfb\">a three-page letter had been sent to him</a> urging an independent investigation into Steele-John.</p><p><strong><a href=\"https://www.theguardian.com/australia-news/2026/aug/28/politics-really-newsletter-guardian-australia-free-best-daily-auspol-email-subscribe?CMP=copyembed\">Sign up for Guardian Australia’s Politics, really newsletter here</a></strong></p> <a href=\"https://www.theguardian.com/australia-news/2026/oct/23/jordan-steele-john-in-limbo-greens-misconduct-allegations-ntwnfb\">Continue reading...</a>"
+        "<p>Vučić’s 12-year reign looks to have been ended by record turnout of voters in election provoked by student-led protests</p><p>The long-serving leader of Serbia, Aleksandar Vučić, has conceded defeat, ushering in a seismic political shift after a historic election that saw ​the increasingly authoritarian leader pitted against a student-led movement that had spent two years protesting against his government.</p><p>Vučić pointed to preliminary results that suggested voters had overwhelmingly backed the students, potentially giving them a majority in the country’s 250-seat parliament.</p> <a href=\"https://www.theguardian.com/world/2026/oct/25/serbian-leader-aleksandar-vucic-concedes-defeat-in-fiercely-contested-parliamentary-election\">Continue reading...</a>"
       ],
-      "date": "2026-10-23",
+      "date": "2026-10-25",
       "real": true
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/politics/2026/oct/25/andy-burnham-says-he-wants-honest-discussion-about-freedom-of-movement-with-eu",
-      "title": "Andy Burnham says he wants ‘honest discussion’ about freedom of movement with EU",
-      "summary": "<p>Prime minister is considering different options for new relationship with Brussels ahead of summit in November</p><p>Andy Burnham says he wants an “honest discussion” with the British public about the possibility of a return to free movement between the UK and the EU as part of his plans for a ne",
+      "link": "https://www.theguardian.com/world/live/2026/oct/25/europe-serbia-elections-aleksander-vucic-student-list-protests-bulgaria-latest-news-updates",
+      "title": "‘Door to EU is open’ new Serbian government told after Vučić concedes election – Europe live as it happened",
+      "summary": "<p>Student List movement projected to have 141 seats in the new parliament, well clear of the 126 required for majority</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/oct/25/serbian-leader-aleksandar-vucic-concedes-defeat-in-fiercely-contested-parliamentary-election\">Serbian leader Al",
       "paragraphs": [
-        "<p>Prime minister is considering different options for new relationship with Brussels ahead of summit in November</p><p>Andy Burnham says he wants an “honest discussion” with the British public about the possibility of a return to free movement between the UK and the EU as part of his plans for a new relationship with the bloc.</p><p>The prime minister has been open about his desire to revisit the relationship between Britain and Brussels. He has said a new deal could mean the <a href=\"https://www.theguardian.com/politics/2026/sep/30/andy-burnham-uk-could-go-all-the-way-rejoining-eu\">UK goes “all the way”</a> and rejoins the EU.</p> <a href=\"https://www.theguardian.com/politics/2026/oct/25/andy-burnham-says-he-wants-honest-discussion-about-freedom-of-movement-with-eu\">Continue reading...</a>"
+        "<p>Student List movement projected to have 141 seats in the new parliament, well clear of the 126 required for majority</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/oct/25/serbian-leader-aleksandar-vucic-concedes-defeat-in-fiercely-contested-parliamentary-election\">Serbian leader Aleksandar Vučić concedes defeat in fiercely contested parliamentary election</a></p></li></ul><p><strong>The latest turnout projection by Ipsos/Cesid suggests a turnout of 60.8% by 5pm local time (4pm UK), with three hours still to go until the polling stations close.</strong></p><p>That’s more than 13 percentage points higher than in 2023, and would be the highest turnout since mid-2000s.</p><p><em>“<strong>What hasn’t motivated me?</strong> There isn’t a single reason I could give that would keep me from showing up</em> <em>at my polling station at 6:20 in the morning.”</em></p> <a href=\"https://www.theguardian.com/world/live/2026/oct/25/europe-serbia-elections-aleksander-vucic-student-list-protests-bulgaria-latest-news-updates\">Continue reading...</a>"
       ],
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "real": true
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/world/2026/oct/24/ukraine-zelenskyy-military-starlink-satellite-connection-stable-after-restrictions",
-      "title": "Ukraine’s military says Starlink satellite connection stable after recent restrictions",
-      "summary": "<p>But Elon Musk, whose company SpaceX owns Starlink, accuses Ukrainian military of violating ⁠the company’s terms</p><p>Ukraine’s military has a “stable connection to Starlink”, the Ukrainian government said, 10 days after its ability to use the satellite communications system <a href=\"https://www.",
+      "link": "https://www.theguardian.com/world/2026/oct/25/macrons-vandals-pay-bill-puts-right-to-protest-at-risk",
+      "title": "Macron accused of putting France’s right to protest at risk with ‘vandal’s law’",
+      "summary": "<p>Making innocent protesters liable for damage would be bad for rule of law and play into far-right hands, say opponents</p><p><a href=\"https://www.theguardian.com/world/emmanuel-macron\">Emmanuel Macron</a> has been accused by trade unions of trying to curb the fundamental French right to protest a",
       "paragraphs": [
-        "<p>But Elon Musk, whose company SpaceX owns Starlink, accuses Ukrainian military of violating ⁠the company’s terms</p><p>Ukraine’s military has a “stable connection to Starlink”, the Ukrainian government said, 10 days after its ability to use the satellite communications system <a href=\"https://www.theguardian.com/world/2026/oct/14/ukraine-soldiers-combat-access-starlink-satellite-internet-restricted\">was suddenly restricted</a>.</p><p>But hours after the announcement, SpaceX CEO Elon Musk, whose company owns Starlink, <a href=\"https://x.com/elonmusk/status/2114063986744275011\">accused</a> the Ukrainian military of violating ⁠the company’s terms. Neither Musk nor the US government, which operates Starshield using Starlink technology, took responsibility for imposing the curbs.</p> <a href=\"https://www.theguardian.com/world/2026/oct/24/ukraine-zelenskyy-military-starlink-satellite-connection-stable-after-restrictions\">Continue reading...</a>"
+        "<p>Making innocent protesters liable for damage would be bad for rule of law and play into far-right hands, say opponents</p><p><a href=\"https://www.theguardian.com/world/emmanuel-macron\">Emmanuel Macron</a> has been accused by trade unions of trying to curb the fundamental French right to protest as the government fast-tracks a bill to make protesters pay for damage caused by vandalism at street demonstrations even if they did not directly cause it themselves.</p><p>The French president, who leaves office next spring, has faced more than a month of <a href=\"https://www.theguardian.com/world/2026/oct/10/school-protesters-sevran-paris-suburb-france\">protests</a> in which high-school students have <a href=\"https://www.theguardian.com/world/2026/oct/06/how-dilapidated-french-schools-inequality-education-system-protests\">blockaded schools</a> demanding a response to teacher absences, repairs to decrepit buildings and changes to the university applications platform.</p> <a href=\"https://www.theguardian.com/world/2026/oct/25/macrons-vandals-pay-bill-puts-right-to-protest-at-risk\">Continue reading...</a>"
       ],
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "real": true
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/world/live/2026/oct/24/france-demonstrations-police-macron-italy-albania-belgium-spain-ukraine-russia-europe-latest-news",
-      "title": "Hundreds of thousands march in France as protests take place across Europe – as it happened",
-      "summary": "<p>French police have made 1,000 arrests and Italian officers have raided homes in Milan, with protests also taking place in Spain and Albania</p><p>Jesse, 40, a charity worker from the north of Paris, had turned out for the street march.</p><p>She said: “I’m so angry. I’m here to support schoolchil",
+      "link": "https://www.theguardian.com/world/2026/oct/25/police-portugal-dogs-batons-dismantle-housing-protest-camps",
+      "title": "Portuguese police with dogs and batons dismantle housing protest camps",
+      "summary": "<p>More than 30 people arrested as officers clear at least 100 tents in central Lisbon and about 50 in Porto </p><p>Police in Portugal have dismantled housing protest camps in Lisbon and Porto, baton-charging campaigners in the early hours of Sunday and arresting more than 30 people.</p><p>The raids",
       "paragraphs": [
-        "<p>French police have made 1,000 arrests and Italian officers have raided homes in Milan, with protests also taking place in Spain and Albania</p><p>Jesse, 40, a charity worker from the north of Paris, had turned out for the street march.</p><p>She said: “I’m so angry. I’m here to support schoolchildren’s demands for better conditions. I’m so proud of them and we have to stand together.”</p> <a href=\"https://www.theguardian.com/world/live/2026/oct/24/france-demonstrations-police-macron-italy-albania-belgium-spain-ukraine-russia-europe-latest-news\">Continue reading...</a>"
+        "<p>More than 30 people arrested as officers clear at least 100 tents in central Lisbon and about 50 in Porto </p><p>Police in Portugal have dismantled housing protest camps in Lisbon and Porto, baton-charging campaigners in the early hours of Sunday and arresting more than 30 people.</p><p>The raids were the latest incident in days of clashes between police and campaigners who – inspired by <a href=\"https://www.theguardian.com/world/2026/sep/29/spain-madrid-tent-camp-housing-crisis\">similar camps</a> in Spain – had sought to pitch tents in central squares to protest against the country’s deepening housing crisis.</p> <a href=\"https://www.theguardian.com/world/2026/oct/25/police-portugal-dogs-batons-dismantle-housing-protest-camps\">Continue reading...</a>"
       ],
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "real": true
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/world/2026/oct/24/hundreds-of-thousands-march-across-france-in-protests-over-schools-and-policing",
-      "title": "Hundreds of thousands march across France in protests over schools and policing",
-      "summary": "<p>Almost 1,000 arrested as police charge crowd in Paris and teargas used to stop protesters reaching other city centres</p><p>Hundreds of thousands marched in cities across France on Saturday in largely peaceful protests to support <a href=\"https://www.theguardian.com/world/2026/oct/10/school-prote",
+      "link": "https://www.theguardian.com/business/2026/oct/25/volkswagen-to-build-4bn-audi-suv-factory-in-us-despite-job-cuts-at-home",
+      "title": "Volkswagen to build $4bn Audi SUV factory in US despite job cuts at home",
+      "summary": "<p>VW investment, creating 4,500 jobs in Georgia, comes amid Trump’s damaging tariffs, intense Chinese competition and costly shift towards EVs</p><p>Audi has said it will spend $4bn (£3bn) to build its first factory in the US, as its parent company, Volkswagen, struggles with the impact of steep ta",
       "paragraphs": [
-        "<p>Almost 1,000 arrested as police charge crowd in Paris and teargas used to stop protesters reaching other city centres</p><p>Hundreds of thousands marched in cities across France on Saturday in largely peaceful protests to support <a href=\"https://www.theguardian.com/world/2026/oct/10/school-protesters-sevran-paris-suburb-france\">schoolchildren’s demands</a> for more teachers and repairs to dilapidated buildings, as Emmanuel Macron faces a social and political crisis in his final months as president.</p><p>In Paris, at least 110,000 people marched along the eastern edge of the city, according to government estimates. They supported high schoolers but also complained of the high cost of living and the government’s heavy policing, saying riot police had been sent to target school protesters over the past month, instead of the government offering political solutions.</p> <a href=\"https://www.theguardian.com/world/2026/oct/24/hundreds-of-thousands-march-across-france-in-protests-over-schools-and-policing\">Continue reading...</a>"
+        "<p>VW investment, creating 4,500 jobs in Georgia, comes amid Trump’s damaging tariffs, intense Chinese competition and costly shift towards EVs</p><p>Audi has said it will spend $4bn (£3bn) to build its first factory in the US, as its parent company, Volkswagen, struggles with the impact of steep tariffs imposed by Donald Trump.</p><p>The German brand’s chief executive, Gernot Döllner, joined Trump on stage at a campaign rally on Saturday night to announce the factory in Macon, Georgia, in an unusual move by a big European brand just days before the US midterm elections.</p> <a href=\"https://www.theguardian.com/business/2026/oct/25/volkswagen-to-build-4bn-audi-suv-factory-in-us-despite-job-cuts-at-home\">Continue reading...</a>"
       ],
-      "date": "2026-10-24",
-      "real": true
-    },
-    {
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/world/2026/oct/24/blaze-engulfs-hitlers-eagles-nest-mountain-retreat-in-bavaria",
-      "title": "Suspect arrested over fire at Hitler’s ‘Eagle’s Nest’ retreat in Bavaria",
-      "summary": "<p>About 200 firefighters deployed to tackle blaze at former Nazi mountain retreat in remote part of southern Germany</p><p>Police have arrested a 33-year-old German citizen after a fire ripped through Adolf Hitler’s former mountain retreat in Bavaria, leaving the historic Nazi meeting place – known",
-      "paragraphs": [
-        "<p>About 200 firefighters deployed to tackle blaze at former Nazi mountain retreat in remote part of southern Germany</p><p>Police have arrested a 33-year-old German citizen after a fire ripped through Adolf Hitler’s former mountain retreat in Bavaria, leaving the historic Nazi meeting place – known as the Eagle’s Nest – largely destroyed.</p><p>About 200 firefighters were deployed on Friday night to tackle the blaze at the Nazi dictator’s remote, purpose-built Kehlsteinhaus residence, a protected building on the peak of Obersalzberg in southern Germany.</p> <a href=\"https://www.theguardian.com/world/2026/oct/24/blaze-engulfs-hitlers-eagles-nest-mountain-retreat-in-bavaria\">Continue reading...</a>"
-      ],
-      "date": "2026-10-24",
+      "date": "2026-10-25",
       "real": true
     }
   ]
