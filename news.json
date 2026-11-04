@@ -1,123 +1,255 @@
 {
-  "updated": "2026-11-03T03:44:48Z",
+  "updated": "2026-11-04T02:45:57Z",
   "count": 60,
   "articles": [
     {
       "source": "NPR",
-      "link": "https://www.npr.org/2026/11/02/nx-s1-6025407/chatbots-midterms-voting-advice",
-      "title": "AI chatbots are becoming political advisers. Their answers can mislead voters",
-      "summary": "Millions of Americans are turning to AI for election information, but chatbots are getting voting facts wrong and recommending candidates, raising concerns they could influence voters' decisions.",
+      "link": "https://www.npr.org/2026/11/03/g-s1-150229/melat-kiros-first-gen-z-woman-elected-to-congress",
+      "title": "Melat Kiros becomes the first Gen Z woman elected to Congress",
+      "summary": "The 29-year-old Ethiopian immigrant was one of several candidates to win with backing from the Democratic Socialists of America or its local chapters.",
       "paragraphs": [
-        "Millions of Americans are turning to AI for election information, but chatbots are getting voting facts wrong and recommending candidates, raising concerns they could influence voters' decisions."
+        "The 29-year-old Ethiopian immigrant was one of several candidates to win with backing from the Democratic Socialists of America or its local chapters."
       ],
-      "date": "2026-11-02",
+      "date": "2026-11-03",
       "real": true
     },
     {
       "source": "NPR",
-      "link": "https://www.npr.org/2026/11/02/nx-s1-6003534/us-political-polarization-research-trump",
-      "title": "Is America really that polarized? The answer might be a surprise",
-      "summary": "The U.S. has become more politically polarized, but research shows people overestimate their differences and there is 'messy middle' majority of Americans who share overlapping political views.",
+      "link": "https://www.npr.org/2026/11/03/nx-s1-6028031/former-speaker-nancy-pelosi-says-democrats-power-lies-in-their-unity",
+      "title": "Former Speaker Nancy Pelosi says Democrats' power lies in their unity",
+      "summary": "NPR's Mary Louise Kelly speaks with Former House Speaker Nancy Pelosi about the legacy of the Democratic Party.",
       "paragraphs": [
-        "The U.S. has become more politically polarized, but research shows people overestimate their differences and there is 'messy middle' majority of Americans who share overlapping political views.",
-        "(Image credit: Stephen Maturen/Getty Images)"
+        "NPR's Mary Louise Kelly speaks with Former House Speaker Nancy Pelosi about the legacy of the Democratic Party.",
+        "(Image credit: Heather Diehl/AP Photo/Heather Diehl)"
       ],
-      "date": "2026-11-02",
+      "date": "2026-11-03",
       "real": true
     },
     {
       "source": "NPR",
-      "link": "https://www.npr.org/2026/11/02/g-s1-151242/judge-tosses-case-fbi-officials-hunter-biden",
-      "title": "Judge accuses DOJ of 'weaponization,' tosses case against ex-FBI officials",
-      "summary": "The judge said he was \"deeply troubled\" by the mistakes and rushed nature of the case over the FBI's Hunter Biden probes — one of several politically charged DOJ actions ahead of the midterms.",
+      "link": "https://www.npr.org/2026/11/03/g-s1-151040/georgia-elects-the-nations-first-black-female-governor",
+      "title": "Georgia elects the nation's first Black female governor",
+      "summary": "Keisha Lance Bottoms' win marks the first time Georgia has elected a Democratic governor in more than 20 years.",
       "paragraphs": [
-        "The judge said he was \"deeply troubled\" by the mistakes and rushed nature of the case over the FBI's Hunter Biden probes — one of several politically charged DOJ actions ahead of the midterms."
+        "Keisha Lance Bottoms' win marks the first time Georgia has elected a Democratic governor in more than 20 years."
       ],
-      "date": "2026-11-02",
+      "date": "2026-11-03",
       "real": true
     },
     {
       "source": "NPR",
-      "link": "https://www.npr.org/2026/11/02/nx-s1-6023802/supreme-court-california-voting-ballots-trump",
-      "title": "The Supreme Court rejects a DOJ push to separate California ballots",
-      "summary": "The U.S. Supreme Court has denied a last-minute request from the Department of Justice to wade into its unprecedented feud with California over the state's voter rolls.",
+      "link": "https://www.npr.org/2026/11/03/g-s1-151260/florida-governor-donalds-jolly",
+      "title": "Republican Byron Donalds wins governor's race in Florida",
+      "summary": "Donalds, who was backed early by President Trump, will become the state's first Black governor.",
       "paragraphs": [
-        "The U.S. Supreme Court has denied a last-minute request from the Department of Justice to wade into its unprecedented feud with California over the state's voter rolls."
+        "Donalds, who was backed early by President Trump, will become the state's first Black governor."
       ],
-      "date": "2026-11-02",
+      "date": "2026-11-03",
       "real": true
     },
     {
       "source": "NPR",
-      "link": "https://www.npr.org/2026/11/02/g-s1-151215/up-first-newsletter-michigan-senate-iran-war-supreme-court-colorado-catholic-church",
-      "title": "Haley Stevens backs Mike Rogers. And, Gulf states brace for potential attack on Iran",
-      "summary": "Democrats in Michigan are considering their options after Haley Stevens endorsed GOP candidate Mike Rogers for Senate. And the Gulf states are bracing for a possible U.S. attack on Iran after the midterms.",
+      "link": "https://www.npr.org/2026/11/03/g-s1-150958/north-carolina-senate-results",
+      "title": "Democrat Roy Cooper wins a North Carolina Senate seat",
+      "summary": "Democrat Roy Cooper has won North Carolina's open U.S. Senate seat, according to a race call from the Associated Press, providing the party with a key Senate flip.",
       "paragraphs": [
-        "Democrats in Michigan are considering their options after Haley Stevens endorsed GOP candidate Mike Rogers for Senate. And the Gulf states are bracing for a possible U.S. attack on Iran after the midterms."
+        "Democrat Roy Cooper has won North Carolina's open U.S. Senate seat, according to a race call from the Associated Press, providing the party with a key Senate flip."
       ],
-      "date": "2026-11-02",
+      "date": "2026-11-03",
       "real": true
     },
     {
       "source": "NPR",
-      "link": "https://www.npr.org/sections/planet-money/2026/11/02/g-s1-151009/two-economists-studied-californias-billionaire-tax-they-reached-wildly-different-conclusions",
-      "title": "Two economists studied California's billionaire tax. They reached wildly different conclusions",
-      "summary": "What happens in California could shape how America taxes the superrich. But will its billionaire tax fill state coffers — or drain them?",
+      "link": "https://www.npr.org/2026/11/03/nx-s1-6028015/rep-katherine-clark-says-democrats-are-on-track-to-win-control-of-the-house-tonight",
+      "title": "Rep. Katherine Clark says Democrats are on track to win control of the House tonight",
+      "summary": "NPR's Ailsa Chang speaks with House Democratic Whip Katherine Clark of Massachusetts about tonight's midterm elections.",
       "paragraphs": [
-        "What happens in California could shape how America taxes the superrich. But will its billionaire tax fill state coffers — or drain them?",
-        "(Image credit: PATRICK T. FALLON/AFP via Getty Images)"
+        "NPR's Ailsa Chang speaks with House Democratic Whip Katherine Clark of Massachusetts about tonight's midterm elections.",
+        "(Image credit: J. Scott Applewhite/AP Photo/J. Scott Applewhite)"
       ],
-      "date": "2026-11-02",
+      "date": "2026-11-03",
       "real": true
     },
     {
       "source": "NPR",
-      "link": "https://www.npr.org/2026/11/02/nx-s1-5955806/fluoride-toothpaste-hydroxyapatite-dental-oral-health",
-      "title": "How does this fluoride-free toothpaste compare when it comes to oral health?",
-      "summary": "Many people are swapping out their fluoride dental products for ones made with a mineral called hydroxyapatite. What do dentists say about it?",
+      "link": "https://www.npr.org/2026/11/03/g-s1-150143/georgia-senate-race-jon-ossoff-mike-collins",
+      "title": "Jon Ossoff wins reelection in Georgia, easily defeating Republican Mike Collins",
+      "summary": "A year ago, the Georgia Senate race was considered one of the cycle's marquee Senate showdowns. In the end, Ossoff easily defeated Collins.",
       "paragraphs": [
-        "Many people are swapping out their fluoride dental products for ones made with a mineral called hydroxyapatite. What do dentists say about it?"
+        "A year ago, the Georgia Senate race was considered one of the cycle's marquee Senate showdowns. In the end, Ossoff easily defeated Collins."
       ],
-      "date": "2026-11-02",
+      "date": "2026-11-03",
       "real": true
     },
     {
       "source": "NPR",
-      "link": "https://www.npr.org/2026/11/02/nx-s1-6025451/midterms-what-to-watch-election-night",
-      "title": "6 things to watch for on election night",
-      "summary": "Some of the key storylines to watch will center around various voters groups that have soured on President Trump during his second turn out.",
+      "link": "https://www.npr.org/sections/the-picture-show/2026/11/03/g-s1-151528/election-day-2026-photos-from-around-the-country",
+      "title": "Election Day 2026: Photos from around the country",
+      "summary": "Voters across the country are heading to the polls today to cast their ballots in the 2026 midterm elections.",
       "paragraphs": [
-        "Some of the key storylines to watch will center around various voters groups that have soured on President Trump during his second turn out."
+        "Voters across the country are heading to the polls today to cast their ballots in the 2026 midterm elections."
       ],
-      "date": "2026-11-02",
+      "date": "2026-11-03",
       "real": true
     },
     {
       "source": "NPR",
-      "link": "https://www.npr.org/2026/11/02/nx-s1-6007855/college-admissions-change-fewer-students",
-      "title": "With students scarce, college admissions offices get friendlier, less intimidating",
-      "summary": "Colleges are trying to transform an admissions process that has often been daunting, secretive and stressful into an experience that's open, easier — and downright friendly.",
+      "link": "https://www.npr.org/2026/11/03/nx-s1-6026666/what-democrats-plan-to-prioritize-if-they-retake-the-house",
+      "title": "What Democrats plan to prioritize if they retake the House",
+      "summary": "This election will determine control of Congress. Rep. Pete Aguilar, who represents California's 33rd Congressional District, shares how Democratic Party leaders are feeling as results come in.",
       "paragraphs": [
-        "Colleges are trying to transform an admissions process that has often been daunting, secretive and stressful into an experience that's open, easier — and downright friendly."
+        "This election will determine control of Congress. Rep. Pete Aguilar, who represents California's 33rd Congressional District, shares how Democratic Party leaders are feeling as results come in."
       ],
-      "date": "2026-11-02",
+      "date": "2026-11-03",
       "real": true
     },
     {
       "source": "NPR",
-      "link": "https://www.npr.org/2026/11/02/nx-s1-5989648/midterm-voting-election-pressure",
-      "title": "When it comes to election pressure, this year's Georgia or Michigan could be anywhere",
-      "summary": "The districts that will decide control of the House and Senate next year are spread across the country. Voting officials in those places may face scrutiny and pressure they've never experienced.",
+      "link": "https://www.npr.org/2026/11/03/nx-s1-6027957/results-voter-id-citizenship-ballot-measures",
+      "title": "Results: States decide on voter ID and redistricting ballot measures",
+      "summary": "Several states — including Alaska, Arizona, California and Nevada — are voting on changes to how their elections are run, including voter ID measures. Other states decide on redistricting proposals.",
       "paragraphs": [
-        "The districts that will decide control of the House and Senate next year are spread across the country. Voting officials in those places may face scrutiny and pressure they've never experienced."
+        "Several states — including Alaska, Arizona, California and Nevada — are voting on changes to how their elections are run, including voter ID measures. Other states decide on redistricting proposals."
       ],
-      "date": "2026-11-02",
+      "date": "2026-11-03",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/3/us-urges-venezuela-to-follow-phased-plan-for-democratic-transition?traffic_source=rss",
-      "title": "US urges Venezuela to follow phased plan for democratic transition",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/ballot-shortages-reported-in-dearborn-michigan?traffic_source=rss",
+      "title": "Ballot shortages reported in Dearborn, Michigan",
+      "summary": "",
+      "paragraphs": [
+        ""
+      ],
+      "date": "2026-11-04",
+      "real": true
+    },
+    {
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/kazakhstan-releases-second-tiger-into-the-wild?traffic_source=rss",
+      "title": "Kazakhstan releases second tiger into the wild",
+      "summary": "",
+      "paragraphs": [
+        ""
+      ],
+      "date": "2026-11-04",
+      "real": true
+    },
+    {
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/4/democrat-roy-cooper-flips-north-carolina-us-senate-seat?traffic_source=rss",
+      "title": "Democrat Roy Cooper flips North Carolina US Senate seat",
+      "summary": "",
+      "paragraphs": [
+        ""
+      ],
+      "date": "2026-11-04",
+      "real": true
+    },
+    {
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/scepticism-as-trump-says-hes-ending-israels-3-8-bn-military-aid-deal?traffic_source=rss",
+      "title": "Scepticism as Trump says he’s ending Israel’s $3.8 bn military aid deal",
+      "summary": "",
+      "paragraphs": [
+        ""
+      ],
+      "date": "2026-11-04",
+      "real": true
+    },
+    {
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/4/un-elects-five-judges-to-international-court-of-justice-amid-record-cases?traffic_source=rss",
+      "title": "UN elects five judges to International Court of Justice amid record cases",
+      "summary": "",
+      "paragraphs": [
+        ""
+      ],
+      "date": "2026-11-04",
+      "real": true
+    },
+    {
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/4/democrat-jon-ossoff-wins-georgia-us-senate-race?traffic_source=rss",
+      "title": "Jon Ossoff wins Georgia Senate race, defeating Republican Mike Collins",
+      "summary": "",
+      "paragraphs": [
+        ""
+      ],
+      "date": "2026-11-04",
+      "real": true
+    },
+    {
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/4/fbi-arrests-man-for-sending-700-white-powder-letters-to-us-officials?traffic_source=rss",
+      "title": "FBI arrests man for sending over 700 threatening letters to US officials",
+      "summary": "",
+      "paragraphs": [
+        ""
+      ],
+      "date": "2026-11-04",
+      "real": true
+    },
+    {
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/4/bomb-threats-disrupt-flights-across-europe-no-explosive-devices-found?traffic_source=rss",
+      "title": "Bomb threats disrupt flights across Europe, no explosive devices found",
+      "summary": "",
+      "paragraphs": [
+        ""
+      ],
+      "date": "2026-11-04",
+      "real": true
+    },
+    {
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/4/us-department-of-justice-expands-its-probe-into-alaskas-us-senate-election?traffic_source=rss",
+      "title": "US Department of Justice expands its probe into Alaska’s US Senate election",
+      "summary": "",
+      "paragraphs": [
+        ""
+      ],
+      "date": "2026-11-04",
+      "real": true
+    },
+    {
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/stevie-wonder-endorses-abdul-el-sayed?traffic_source=rss",
+      "title": "Stevie Wonder endorses Abdul El-Sayed",
+      "summary": "",
+      "paragraphs": [
+        ""
+      ],
+      "date": "2026-11-04",
+      "real": true
+    },
+    {
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/ballot-scanner-glitch-disrupts-voting-in-new-york?traffic_source=rss",
+      "title": "Ballot scanner glitch disrupts voting in New York",
+      "summary": "",
+      "paragraphs": [
+        ""
+      ],
+      "date": "2026-11-04",
+      "real": true
+    },
+    {
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/4/iran-war-live-tehran-prepares-maximum-deterrence-plan-for-any-new-attack?traffic_source=rss",
+      "title": "Iran war live: Tehran prepares ‘maximum deterrence’ plan for any new attack",
+      "summary": "",
+      "paragraphs": [
+        ""
+      ],
+      "date": "2026-11-04",
+      "real": true
+    },
+    {
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/3/where-have-there-been-technical-issues-so-far-during-us-midterm-elections?traffic_source=rss",
+      "title": "Where have there been technical issues so far during US midterm elections?",
       "summary": "",
       "paragraphs": [
         ""
@@ -127,8 +259,8 @@
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/3/explosions-hit-irans-qeshm-island-as-us-media-report-us-strikes-in-hormuz?traffic_source=rss",
-      "title": "Explosions hit Iran’s Qeshm Island as US media report US strikes in Hormuz",
+      "link": "https://www.aljazeera.com/news/2026/11/3/first-polls-close-in-pivotal-us-midterm-elections?traffic_source=rss",
+      "title": "First polls close in pivotal US midterm elections",
       "summary": "",
       "paragraphs": [
         ""
@@ -138,8 +270,8 @@
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/thousands-displaced-as-homes-are-bulldozed-in-indias-assam-state?traffic_source=rss",
-      "title": "Thousands displaced as homes are bulldozed in India’s Assam state",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/3/us-midterm-election-results-live-polls-to-start-closing-in-some-states?traffic_source=rss",
+      "title": "US midterm election results live: Democrats up as vote count under way",
       "summary": "",
       "paragraphs": [
         ""
@@ -149,8 +281,8 @@
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/3/us-lawmakers-ask-trump-administration-to-stop-deportation-of-afghans?traffic_source=rss",
-      "title": "US lawmakers ask Trump administration to stop deportation of Afghans",
+      "link": "https://www.aljazeera.com/sports/2026/11/3/raphinha-lamal-fire-barcelona-to-3-0-champions-league-win-over-aston-villa?traffic_source=rss",
+      "title": "Raphinha, Lamal fire Barcelona to 3-0 Champions League win over Aston Villa",
       "summary": "",
       "paragraphs": [
         ""
@@ -160,8 +292,8 @@
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/multiple-russian-strikes-kill-at-least-26-at-ukraine-aid-centre?traffic_source=rss",
-      "title": "Multiple Russian strikes kill at least 26 at Ukraine aid centre",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/president-zelenskyy-says-us-elections-will-impact-war-in-ukraine?traffic_source=rss",
+      "title": "President Zelenskyy says US elections will impact war in Ukraine",
       "summary": "",
       "paragraphs": [
         ""
@@ -171,8 +303,8 @@
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/trump-makes-final-midterms-pitch-at-lincoln-memorial-reflecting-pool?traffic_source=rss",
-      "title": "Trump makes final midterms pitch at Lincoln Memorial Reflecting Pool",
+      "link": "https://www.aljazeera.com/news/2026/11/3/texans-vote-in-most-expensive-senate-race-in-us-history?traffic_source=rss",
+      "title": "Texans vote in most expensive Senate race in US history",
       "summary": "",
       "paragraphs": [
         ""
@@ -182,8 +314,8 @@
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/3/ebola-outbreak-kills-more-than-5300-people-in-dr-congo?traffic_source=rss",
-      "title": "Ebola outbreak kills more than 5,300 people in DR Congo",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/netanyahus-eight-seat-problem?traffic_source=rss",
+      "title": "Netanyahu’s eight-seat problem",
       "summary": "",
       "paragraphs": [
         ""
@@ -193,8 +325,8 @@
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/11/3/iran-war-live-vance-sees-progress-in-talks-tehran-says-ball-in-us-court?traffic_source=rss",
-      "title": "Iran war live: US carries out ‘defensive’ strikes in Strait of Hormuz",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/palestinian-families-return-home-after-israeli-siege-of-hebron?traffic_source=rss",
+      "title": "Palestinian families return home after Israeli siege of Hebron",
       "summary": "",
       "paragraphs": [
         ""
@@ -204,189 +336,57 @@
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/2/war-tariffs-and-china-what-the-us-midterms-mean-for-the-asia-pacific?traffic_source=rss",
-      "title": "War, tariffs and China: What the US midterms mean for the Asia-Pacific",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/aje-onl-nf_us-astronauts-vote-from-space-in-2026-elections-031126?traffic_source=rss",
+      "title": "US astronauts vote from space in 2026 midterm elections",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-11-02",
+      "date": "2026-11-03",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/2/trump-approval-rating-near-record-low-on-eve-of-us-midterm-elections-poll?traffic_source=rss",
-      "title": "Trump approval rating near record low on eve of US midterm elections: Poll",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/kyiv-protest-raises-suspicions-of-possible-russian-orchestration?traffic_source=rss",
+      "title": "Kyiv protest raises suspicions of possible Russian orchestration",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-11-02",
+      "date": "2026-11-03",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/2/powerful-storm-tears-through-beach-resort-on-italys-southern-coast?traffic_source=rss",
-      "title": "Powerful storm tears through beach resort on Italy’s southern coast",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/michigan-voters-face-crucial-choice-as-trumps-grip-on-congress-is-tested?traffic_source=rss",
+      "title": "Michigan voters face crucial choice as Trump’s grip on Congress is tested",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-11-02",
+      "date": "2026-11-03",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/2/us-midterms-2026-what-polls-reveal-about-democratic-republican-voters?traffic_source=rss",
-      "title": "US midterms 2026: What polls reveal about Democratic, Republican voters",
+      "link": "https://www.aljazeera.com/news/2026/11/3/michigan-us-senate-race-rogers-el-sayed-urge-turnout-for-critical-race?traffic_source=rss",
+      "title": "Michigan US Senate race: Rogers, El-Sayed urge turnout for critical race",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-11-02",
+      "date": "2026-11-03",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/2/student-protests-resume-in-france-as-pupils-return-to-school?traffic_source=rss",
-      "title": "Student protests resume in France as pupils return to school",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/aje-onl-nf_severe-weather-disrupts-election-day-across-us-031126?traffic_source=rss",
+      "title": "Severe weather disrupts election day across several US states",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-11-02",
-      "real": true
-    },
-    {
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/2/work-to-do-authorities-give-update-on-florida-private-jet-crash?traffic_source=rss",
-      "title": "‘Work to do’: Authorities give update on Florida private jet crash",
-      "summary": "",
-      "paragraphs": [
-        ""
-      ],
-      "date": "2026-11-02",
-      "real": true
-    },
-    {
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/2/mamdanis-progressive-allies-vie-for-seats-in-congress?traffic_source=rss",
-      "title": "Mamdani’s progressive allies vie for seats in Congress",
-      "summary": "",
-      "paragraphs": [
-        ""
-      ],
-      "date": "2026-11-02",
-      "real": true
-    },
-    {
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/11/2/whats-the-future-of-the-western-sahara-conflict?traffic_source=rss",
-      "title": "What’s the future of the Western Sahara conflict?",
-      "summary": "",
-      "paragraphs": [
-        ""
-      ],
-      "date": "2026-11-02",
-      "real": true
-    },
-    {
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/economy/2026/11/2/us-to-suspend-south-africa-and-rwanda-from-duty-free-trade-access?traffic_source=rss",
-      "title": "US to suspend South Africa and Rwanda from duty-free trade access",
-      "summary": "",
-      "paragraphs": [
-        ""
-      ],
-      "date": "2026-11-02",
-      "real": true
-    },
-    {
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/2/uk-bookshop-helps-meet-demand-for-sally-rooney-novels?traffic_source=rss",
-      "title": "UK bookshop helps meet demand for Sally Rooney novels",
-      "summary": "",
-      "paragraphs": [
-        ""
-      ],
-      "date": "2026-11-02",
-      "real": true
-    },
-    {
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/2/mamdani-endorsed-progressives-fight-to-join-congress?traffic_source=rss",
-      "title": "Mamdani-endorsed progressives fight to join Congress",
-      "summary": "",
-      "paragraphs": [
-        ""
-      ],
-      "date": "2026-11-02",
-      "real": true
-    },
-    {
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/2/hrw-calls-on-zambia-to-halt-post-election-crackdown?traffic_source=rss",
-      "title": "HRW calls on Zambia to halt post-election crackdown",
-      "summary": "",
-      "paragraphs": [
-        ""
-      ],
-      "date": "2026-11-02",
-      "real": true
-    },
-    {
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/2/protesters-i-support-genocide-sign-appears-to-face-no-police-action?traffic_source=rss",
-      "title": "Protester’s ‘I support genocide’ sign appears to face no police action",
-      "summary": "",
-      "paragraphs": [
-        ""
-      ],
-      "date": "2026-11-02",
-      "real": true
-    },
-    {
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/2/lindsay-clancy-in-court-to-drop-child-murder-charges-after-mistrial?traffic_source=rss",
-      "title": "Lindsay Clancy back in court seeking to have murder charges dismissed",
-      "summary": "",
-      "paragraphs": [
-        ""
-      ],
-      "date": "2026-11-02",
-      "real": true
-    },
-    {
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/2/trump-asks-supreme-court-to-block-20000-california-ballots-before-midterms?traffic_source=rss",
-      "title": "Supreme Court rejects Trump request to set aside California ballots",
-      "summary": "",
-      "paragraphs": [
-        ""
-      ],
-      "date": "2026-11-02",
-      "real": true
-    },
-    {
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/11/2/senegal-hosts-africas-first-olympics?traffic_source=rss",
-      "title": "Senegal hosts Africa’s first Olympics",
-      "summary": "",
-      "paragraphs": [
-        ""
-      ],
-      "date": "2026-11-02",
-      "real": true
-    },
-    {
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/2/iran-pushing-accelerated-plan-for-ceasefire-talks-with-us?traffic_source=rss",
-      "title": "Trump signals progress on Iran deal as Tehran pushes faster ceasefire",
-      "summary": "",
-      "paragraphs": [
-        ""
-      ],
-      "date": "2026-11-02",
+      "date": "2026-11-03",
       "real": true
     },
     {
@@ -446,6 +446,28 @@
     },
     {
       "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/nov/03/grizzly-bear-attack-canada",
+      "title": "One dead and another missing in suspected grizzly bear attack in Canada",
+      "summary": "<p>The incident took place in the same province where a grizzly attacked a group of schoolchildren last November</p><p>A mother is dead and her daughter is missing in western Canada after a suspected grizzly bear attack in the same community where a bear <a href=\"https://www.theguardian.com/world/20",
+      "paragraphs": [
+        "<p>The incident took place in the same province where a grizzly attacked a group of schoolchildren last November</p><p>A mother is dead and her daughter is missing in western Canada after a suspected grizzly bear attack in the same community where a bear <a href=\"https://www.theguardian.com/world/2025/nov/24/canada-grizzly-bear-attack-search\">attacked a group of schoolchildren</a> earlier in the year.</p><p>On Tuesday, the British Columbia conservation officer service said in a social media post that it had launched a search for the two missing people on the weekend, and that during the search on Sunday an officer found the mother’s body. The search for her 19-year-old daughter is ongoing.</p> <a href=\"https://www.theguardian.com/world/2026/nov/03/grizzly-bear-attack-canada\">Continue reading...</a>"
+      ],
+      "date": "2026-11-03",
+      "real": true
+    },
+    {
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/environment/2026/nov/03/brazil-first-global-roadmap-phasing-out-fossil-fuels",
+      "title": "Brazil publishes first global ‘roadmap’ for phasing out fossil fuels",
+      "summary": "<p>Cop30 host sets out steps to break link with coal, oil and gas as it aims to move focus from negotiating to implementing</p><p>All countries can start to break their dependence on fossil fuels now without needing to wait for new technologies or economic changes, Brazil’s government has said ahead",
+      "paragraphs": [
+        "<p>Cop30 host sets out steps to break link with coal, oil and gas as it aims to move focus from negotiating to implementing</p><p>All countries can start to break their dependence on fossil fuels now without needing to wait for new technologies or economic changes, Brazil’s government has said ahead of a global climate summit.</p><p>Brazil, the host of <a href=\"https://www.theguardian.com/environment/2025/nov/25/fossil-fuel-giants-finally-in-the-crosshairs-cop30-avoids-total-failure-with-last-ditch-deal\">last year’s UN climate conference</a>, set out the world’s first global “roadmap” for phasing out fossil fuels on Tuesday, showing that countries could boost their economies and pull people out of poverty while breaking the link with coal, oil and gas.</p> <a href=\"https://www.theguardian.com/environment/2026/nov/03/brazil-first-global-roadmap-phasing-out-fossil-fuels\">Continue reading...</a>"
+      ],
+      "date": "2026-11-03",
+      "real": true
+    },
+    {
+      "source": "The Guardian",
       "link": "https://www.theguardian.com/science/2026/nov/02/fossilised-red-blood-cells-aratasaurus-dinosaurs-bone",
       "title": "Fossilised red blood cells found in 115m-year-old dinosaur’s bone, say scientists",
       "summary": "<p>Chemical tests on Aratasaurus bone identify presence of heme, the organic compound that allows haemoglobin in blood to carry oxygen around body</p><p>It could be the opening of a Jurassic Park rip-off: scientists examining ancient dinosaur bones find what appear to be fossilised red blood cells, ",
@@ -479,24 +501,13 @@
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/world/2026/oct/30/flavio-bolsonaros-president-elect-claim-mockery-brazil",
-      "title": "‘Amateur morons’: Flávio Bolsonaro’s short-lived ‘president-elect’ claim met with mockery",
-      "summary": "<p>Brazilian media ridicule defeated candidate over ‘shameful’ absconsion to US and bizarre letter with wrong coat of arms</p><p>Flávio Bolsonaro had hoped that by Sunday night people would be calling him the next president of Brazil.</p><p>Instead, the far-right politician’s decision to flee to the",
+      "link": "https://www.theguardian.com/world/2026/nov/03/trump-iran-middle-east-china-gulf-hormuz-xi-jinping",
+      "title": "Trump’s troubles with Iran could open the door to China",
+      "summary": "<p>Beijing launches diplomatic salvo to woo Gulf leaders and bolster its influence in the region</p><p>China has held a flurry of meetings with Gulf leaders in a sign that Beijing is stepping up its diplomatic efforts in the Middle East.</p><p>The diplomatic salvo comes before a highly anticipated m",
       "paragraphs": [
-        "<p>Brazilian media ridicule defeated candidate over ‘shameful’ absconsion to US and bizarre letter with wrong coat of arms</p><p>Flávio Bolsonaro had hoped that by Sunday night people would be calling him the next president of Brazil.</p><p>Instead, the far-right politician’s decision to flee to the US after losing the election and – for 58 minutes – to <a href=\"https://www.theguardian.com/world/2026/oct/28/flavio-bolsonaro-miami-us-fleeing-brazilian-election-defeat\">declare himself “Brazil’s true president-elect”</a>, has made him a laughing stock, with Brazilian newspapers and commentators raining a barrage of scornful adjectives down on the conquered candidate.</p> <a href=\"https://www.theguardian.com/world/2026/oct/30/flavio-bolsonaros-president-elect-claim-mockery-brazil\">Continue reading...</a>"
+        "<p>Beijing launches diplomatic salvo to woo Gulf leaders and bolster its influence in the region</p><p>China has held a flurry of meetings with Gulf leaders in a sign that Beijing is stepping up its diplomatic efforts in the Middle East.</p><p>The diplomatic salvo comes before a highly anticipated meeting between Donald Trump and Xi Jinping when the US president is expected to attend the Apec conference in Shenzhen, China, on 18 and 19 November.</p> <a href=\"https://www.theguardian.com/world/2026/nov/03/trump-iran-middle-east-china-gulf-hormuz-xi-jinping\">Continue reading...</a>"
       ],
-      "date": "2026-10-30",
-      "real": true
-    },
-    {
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/environment/2026/oct/30/severe-rainfall-flood-warnings-greece-turkey",
-      "title": "Severe rainfall and flood warnings issued for central Greece and western Turkey",
-      "summary": "<p>Turkey has been hit by powerful thunderstorms and a fatal tornado this week with more heavy rain expected</p><p>Heavy rain and strong winds will continue to affect parts of south-eastern Europe and Turkey over the next few days, as an area of low pressure in the region has allowed for the formati",
-      "paragraphs": [
-        "<p>Turkey has been hit by powerful thunderstorms and a fatal tornado this week with more heavy rain expected</p><p>Heavy rain and strong winds will continue to affect parts of south-eastern Europe and Turkey over the next few days, as an area of low pressure in the region has allowed for the formation of powerful thunderstorms. During a particularly intense thunderstorm in Antalya, a coastal city in the south-west of Turkey, the formation of a tornado resulted in the deaths of four construction workers on Tuesday. Authorities in Greece and Turkey have released severe rainfall and flooding warnings, as a further 100-150mm (nearly 4-6in) of rain is expected this week in central Greece and western parts of Turkey, with locally higher totals possible.</p><p>Travelling eastwards towards south Asia, strong winds and heavy rainfall have swept across the Indian regions of Odisha and Andhra Pradesh as Cyclone Arnab made landfall. With wind gusts in excess of 85mph (140km/h) and rainfall totals in some regions exceeding 200mm, the severe storm has prompted mass evacuations of more than 180,000 people, as well as widespread disruption to energy and transport infrastructure. The cyclone will weaken as it continues to traverse northwards over the coming days, though will continue to deliver heavy rain to parts of northern and central India as it does so.</p> <a href=\"https://www.theguardian.com/environment/2026/oct/30/severe-rainfall-flood-warnings-greece-turkey\">Continue reading...</a>"
-      ],
-      "date": "2026-10-30",
+      "date": "2026-11-03",
       "real": true
     },
     {
@@ -545,123 +556,112 @@
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/world/2026/oct/30/china-expels-record-number-communist-party-xi-jinping-purges-officials-fifth-plenum",
-      "title": "China expels a record number from Communist party amid Xi’s intensified purges of top officials",
-      "summary": "<p>The unprecedented number of empty seats at the fifth plenum – a symbol of expulsions – serve as a symbol for the scale of the purges under Xi Jinping</p><p>China expelled a record number of officials from the Chinese Communist party (CCP) as it concluded a <a href=\"https://www.theguardian.com/wor",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/04/canva-layoffs-job-cuts-restructure",
+      "title": "Canva layoffs: design giant to cut or relocate more than 1,200 jobs in major restructure",
+      "summary": "<p>Chief executive Melanie Perkins describes job cuts as ‘without doubt the hardest moment in our thirteen-year history’ in email to staff</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free",
       "paragraphs": [
-        "<p>The unprecedented number of empty seats at the fifth plenum – a symbol of expulsions – serve as a symbol for the scale of the purges under Xi Jinping</p><p>China expelled a record number of officials from the Chinese Communist party (CCP) as it concluded a <a href=\"https://www.theguardian.com/world/2026/oct/26/xi-jinping-corruption-crackdown-china-fifth-plenum\">major political gathering</a>, which saw an unprecedented number of empty seats indicating the scale of the purges under Xi Jinping.</p><p>A record 33 members were expelled at this week’s fifth plenum, a gathering of top officials that takes place roughly once a year.</p> <a href=\"https://www.theguardian.com/world/2026/oct/30/china-expels-record-number-communist-party-xi-jinping-purges-officials-fifth-plenum\">Continue reading...</a>"
+        "<p>Chief executive Melanie Perkins describes job cuts as ‘without doubt the hardest moment in our thirteen-year history’ in email to staff</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Canva is cutting or relocating more than 1,200 jobs, representing 22% of its global workforce, as part of a major restructure that includes laying off staff who helped build the Australian-founded design platform.</p><p>The changes mirror a trend across the technology sector, where software companies are fighting to stay competitive against cheaper artificial intelligence disrupters while aggressively embedding AI tools themselves.</p> <a href=\"https://www.theguardian.com/australia-news/2026/nov/04/canva-layoffs-job-cuts-restructure\">Continue reading...</a>"
       ],
-      "date": "2026-10-30",
+      "date": "2026-11-04",
       "real": true
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/australia-news/2026/nov/03/beau-lamarre-condon-trial-voice-recording-alleged-murders-ntwnfb",
-      "title": "‘Trying to get back into a positive mindset’: court hears voice notes Beau Lamarre-Condon sent day after alleged murders",
-      "summary": "<p>Recordings from police officer to man he’d met on dating app include one in which Lamarre-Condon states: ‘I’m in bed … not feeling the best’ </p><p>Beau Lamarre-Condon said he was trying to “get back into a positive mindset” in voice notes he sent in the days after he allegedly killed two men in ",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/04/choice-2026-shonky-awards-virgin-ticketmaster-hisense-sony",
+      "title": "Choice Shonky awards 2026: From ticket sellers and Virgin flight credits to a 25-hour laundry cycle",
+      "summary": "<p>Australia’s worst products and services for the year have been named by consumer advocacy group Choice</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.",
       "paragraphs": [
-        "<p>Recordings from police officer to man he’d met on dating app include one in which Lamarre-Condon states: ‘I’m in bed … not feeling the best’ </p><p>Beau Lamarre-Condon said he was trying to “get back into a positive mindset” in voice notes he sent in the days after he allegedly killed two men in a Sydney terrace.</p><p>The recordings were sent to a man he had met on a dating app and played to the jury in his double murder trial on Tuesday.</p> <a href=\"https://www.theguardian.com/australia-news/2026/nov/03/beau-lamarre-condon-trial-voice-recording-alleged-murders-ntwnfb\">Continue reading...</a>"
+        "<p>Australia’s worst products and services for the year have been named by consumer advocacy group Choice</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Concert tickets that surge to $1,650, an airline pocketing $75m of unused flight credits and a washer/dryer cycle that takes 25 hours have all made the dishonour roll in consumer advocacy group Choice’s annual Shonky awards.</p><p>Now in their 21st year, the Shonkys spotlight Australia’s worst products and services as decided by Choice.</p> <a href=\"https://www.theguardian.com/australia-news/2026/nov/04/choice-2026-shonky-awards-virgin-ticketmaster-hisense-sony\">Continue reading...</a>"
       ],
       "date": "2026-11-03",
       "real": true
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/australia-news/live/2026/nov/03/rba-interest-rates-meeting-today-latest-news-australia-reserve-bank-cash-rate-announcement-decision-live-updates",
-      "title": "RBA interest rates live: Reserve Bank of Australia meeting today before cash rate decision and announcement – latest news",
-      "summary": "<p>Reserve Bank is expected to raise interest rates to an 18-year high on Tuesday, the fifth hike this year</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/2026/may/04/interest-rates-rba-rate-hike-mortgage-calculator\">Use our loan calculator to check how a rate rise may affect you<",
+      "link": "https://www.theguardian.com/world/2026/nov/04/two-australians-dead-in-spain-high-speed-train-crash-ntwnfb",
+      "title": "Two Australians confirmed dead in Spain’s high-speed train crash",
+      "summary": "<p>Legal body handling identification says three latest victims include two Australians and a Japanese citizen</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https:/",
       "paragraphs": [
-        "<p>Reserve Bank is expected to raise interest rates to an 18-year high on Tuesday, the fifth hike this year</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/2026/may/04/interest-rates-rba-rate-hike-mortgage-calculator\">Use our loan calculator to check how a rate rise may affect you</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p><strong>RBA rate decision coming at 2.30pm</strong></p><p>We’ll have news for you in about 15 minutes.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/nov/03/rba-interest-rates-meeting-today-latest-news-australia-reserve-bank-cash-rate-announcement-decision-live-updates\">Continue reading...</a>"
+        "<p>Legal body handling identification says three latest victims include two Australians and a Japanese citizen</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Two Australians are among 69 people who died in last week’s high-speed train collision after Spanish authorities confirmed the identities of three more victims.</p><p>A legal body set up to handle the identification work, made up of police and forensics experts, announced in a statement late on Monday the three latest confirmed victims – two Australians and a Japanese citizen. They have not been named.</p> <a href=\"https://www.theguardian.com/world/2026/nov/04/two-australians-dead-in-spain-high-speed-train-crash-ntwnfb\">Continue reading...</a>"
       ],
       "date": "2026-11-03",
       "real": true
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/australia-news/2026/nov/03/one-nation-volunteer-alleged-attack-assault-torquay-victoria-ntwnfb",
-      "title": "Man and boy arrested after One Nation volunteer allegedly attacked with baseball bat in Victoria",
-      "summary": "<p>Police confirm arrest of 37-year-old and 14-year-old boy over alleged assault outside Torquay home on Sunday night</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/04/cpsu-public-servants-union-refuses-to-back-labor-at-victorian-election",
+      "title": "Public service union refuses to back Labor at Victorian election, condemning job cuts and $1.2bn consultant spend",
+      "summary": "<p><strong>Exclusive: </strong>Community and Public Sector Union denounces ‘privatisation by stealth’, joining growing number of unions turning on Carroll government</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://a",
       "paragraphs": [
-        "<p>Police confirm arrest of 37-year-old and 14-year-old boy over alleged assault outside Torquay home on Sunday night</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>A man and boy have been arrested after a One Nation volunteer was allegedly attacked with a baseball bat outside his home on Victoria’s Surf Coast.</p><p>Police on Tuesday confirmed they arrested a 37-year-old Hampton Park man and a 14-year-old boy over the incident, which occurred at a Torquay home on Sunday night.</p> <a href=\"https://www.theguardian.com/australia-news/2026/nov/03/one-nation-volunteer-alleged-attack-assault-torquay-victoria-ntwnfb\">Continue reading...</a>"
+        "<p><strong>Exclusive: </strong>Community and Public Sector Union denounces ‘privatisation by stealth’, joining growing number of unions turning on Carroll government</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Victoria’s public servants union says it will not support Labor at this month’s state election, condemning the government for cutting public service jobs while spending $1.2bn on consultants.</p><p>The Community and Public Sector Union (CPSU) will announce the decision on Wednesday, <a href=\"https://www.theguardian.com/australia-news/2026/oct/31/more-unions-down-tools-in-labors-victorian-election-campaign-as-trust-broken\">joining several other unions</a> that have refused to back Labor or are actively campaigning against the government ahead of the 28 November poll.</p> <a href=\"https://www.theguardian.com/australia-news/2026/nov/04/cpsu-public-servants-union-refuses-to-back-labor-at-victorian-election\">Continue reading...</a>"
       ],
       "date": "2026-11-03",
       "real": true
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/australia-news/2026/nov/03/kate-mcclymont-evidence-alan-jones-trial-ntwnfb",
-      "title": "Investigative journalist Kate McClymont gives evidence in Alan Jones indecent assault trial",
-      "summary": "<p>Jones, a former radio broadcaster, has pleaded not guilty to 21 charges of indecent assault and sexual touching</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"htt",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/04/snowy-hydro-20-executives-awarded-bonuses-totalling-751925-despite-cost-blowout",
+      "title": "Snowy Hydro 2.0 executives awarded bonuses totalling $751,925 despite cost blowout",
+      "summary": "<p>Annual reports show NSW renewable company’s CEO opted out of cash bonus, while CSIRO’s chief received an extra $200,000</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a h",
       "paragraphs": [
-        "<p>Jones, a former radio broadcaster, has pleaded not guilty to 21 charges of indecent assault and sexual touching</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The Sydney Morning Herald’s chief investigative reporter, Kate McClymont, has told a Sydney court the alleged victims of Alan Jones she interviewed received no benefit from her or the media company for telling their stories.</p><p>McClymont, whose 2023 articles led to other alleged victims coming forward, is giving evidence in the lengthy trial of the former broadcaster, who is facing 21 charges of indecent assault and sexual touching against five men.</p> <a href=\"https://www.theguardian.com/australia-news/2026/nov/03/kate-mcclymont-evidence-alan-jones-trial-ntwnfb\">Continue reading...</a>"
+        "<p>Annual reports show NSW renewable company’s CEO opted out of cash bonus, while CSIRO’s chief received an extra $200,000</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Executives at the troubled <a href=\"https://www.theguardian.com/environment/2025/oct/03/snowy-hydro-20-flags-another-cost-blowout-with-12bn-price-tag-now-considered-unachievable\">Snowy Hydro </a>company collectively banked bonuses worth a combined $751,925 in the last financial year, despite its renewable energy project blowing out to 12 times its original cost.</p><p>But Guardian Australia can reveal chief executive, Dennis Barnes, who has a base salary of $1,845,126, opted not to accept the extra cash.</p> <a href=\"https://www.theguardian.com/australia-news/2026/nov/04/snowy-hydro-20-executives-awarded-bonuses-totalling-751925-despite-cost-blowout\">Continue reading...</a>"
       ],
       "date": "2026-11-03",
       "real": true
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/australia-news/2026/nov/03/australia-social-media-ban-high-court-challenge-reddit-digital-freedom-project",
-      "title": "Reddit and libertarian group challenge Australia’s under-16s social media ban in high court",
-      "summary": "<p>Social network and Digital Freedom Project, led by NSW state MP John Ruddick, seek to overturn ban on grounds of implied freedom of political communication</p><p>Australia’s world-leading under-16s <a href=\"https://www.theguardian.com/australia-news/2026/oct/12/greens-sarah-hanson-young-big-tech-",
+      "link": "https://www.theguardian.com/world/2026/nov/04/canada-bans-russian-players-junior-ice-hockey-championships-ukraine-war",
+      "title": "Canada joins coalition refusing to play ice hockey against Russia over Ukraine war",
+      "summary": "<p>Growing number of countries are resisting Russia’s reintegration into international hockey after a sports court lifted a ban on competition</p><p>Canada has joined a coalition of countries refusing to play ⁠ice ​hockey teams from Russia, with prime minister Mark Carney saying Russian skaters will",
       "paragraphs": [
-        "<p>Social network and Digital Freedom Project, led by NSW state MP John Ruddick, seek to overturn ban on grounds of implied freedom of political communication</p><p>Australia’s world-leading under-16s <a href=\"https://www.theguardian.com/australia-news/2026/oct/12/greens-sarah-hanson-young-big-tech-digital-duty-of-care-labor\">social media ban</a> will face its first major legal challenge on Tuesday, as Reddit and an advocacy group headed by a libertarian politician seek to overturn the law in the high court.</p><p>Nearly 11 months ago, 10 platforms – Snapchat, TikTok, YouTube, Facebook, Instagram, Reddit, Kick, X, Twitch and Threads – were required to deactivate or suspend the accounts of users they determined to be aged under 16 years.</p> <a href=\"https://www.theguardian.com/australia-news/2026/nov/03/australia-social-media-ban-high-court-challenge-reddit-digital-freedom-project\">Continue reading...</a>"
+        "<p>Growing number of countries are resisting Russia’s reintegration into international hockey after a sports court lifted a ban on competition</p><p>Canada has joined a coalition of countries refusing to play ⁠ice ​hockey teams from Russia, with prime minister Mark Carney saying Russian skaters will not be able to compete in ⁠a world junior championship next month due to the war in Ukraine.</p><p>“While Russia and Belarus are supporting this illegal, unjustified, horrific ‌war in Ukraine, as long as that’s going on, there will be none of ​those athletes competing for their countries in Canada,” Carney told reporters on Tuesday.</p> <a href=\"https://www.theguardian.com/world/2026/nov/04/canada-bans-russian-players-junior-ice-hockey-championships-ukraine-war\">Continue reading...</a>"
       ],
-      "date": "2026-11-02",
+      "date": "2026-11-04",
       "real": true
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/world/2026/nov/03/russia-bombs-ukrainian-aid-centre-komyshuvakha",
-      "title": "Russian bombing of Ukrainian aid centre kills at least 26, Kyiv says",
-      "summary": "<p>Ukrainian president Zelenskyy says attack on aid hub was ‘vile’ and shows Russia does not want to de-escalate</p><p>Russia on Monday bombed an aid distribution centre and neighbouring shelter in southern Ukraine, killing at least 26 ​people, Ukrainian president Volodymyr Zelenskyy and the country",
+      "link": "https://www.theguardian.com/world/2026/nov/03/spain-transport-minister-oscar-puente-resigns-deadly-train-crash",
+      "title": "Spanish transport minister resigns after deadly train crash",
+      "summary": "<p>Óscar Puente also announces his withdrawal from upcoming election following disaster that killed 69 people</p><p>Spain’s transport minister handed in his resignation on Tuesday after the train crash that <a href=\"https://www.theguardian.com/world/2026/nov/02/spain-train-crash-us-citizens-japan-ca",
       "paragraphs": [
-        "<p>Ukrainian president Zelenskyy says attack on aid hub was ‘vile’ and shows Russia does not want to de-escalate</p><p>Russia on Monday bombed an aid distribution centre and neighbouring shelter in southern Ukraine, killing at least 26 ​people, Ukrainian president Volodymyr Zelenskyy and the country’s emergency services said.</p><p>Emergency services said two members of a rescue crew and four police officers were among the dead in the village ⁠of Komyshuvakha, in south-eastern Zaporizhzhia region. Five people were being treated in hospital, including two rescue workers.</p> <a href=\"https://www.theguardian.com/world/2026/nov/03/russia-bombs-ukrainian-aid-centre-komyshuvakha\">Continue reading...</a>"
+        "<p>Óscar Puente also announces his withdrawal from upcoming election following disaster that killed 69 people</p><p>Spain’s transport minister handed in his resignation on Tuesday after the train crash that <a href=\"https://www.theguardian.com/world/2026/nov/02/spain-train-crash-us-citizens-japan-canada-dead\">killed 69 people</a> last week, one of the worst railway disasters in Europe this century.</p><p>Óscar Puente, who had earlier pledged to work “tirelessly” to restore confidence in the world’s second-largest high-speed rail network, also said he was withdrawing from the country’s upcoming general election.</p> <a href=\"https://www.theguardian.com/world/2026/nov/03/spain-transport-minister-oscar-puente-resigns-deadly-train-crash\">Continue reading...</a>"
       ],
       "date": "2026-11-03",
       "real": true
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/technology/2026/nov/02/europe-supermarket-fridges-freezers-who-hacking-why",
-      "title": "Who is hacking Europe’s supermarket fridges and freezers, and why?",
-      "summary": "<p>After a second apparent cyber-attack in weeks, we examine possible culprits and their motives</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack\">Shop fridges and freezers across Europe hit by fresh suspecte",
+      "link": "https://www.theguardian.com/world/live/2026/nov/03/zelenskyy-berlin-merz-europe-sweden-spain-france-belgium-poland-latest-news",
+      "title": "Seven reported bomb threats against European flights confirmed as false alarms – as it happened",
+      "summary": "<p>Bomb threats were made on routes involving a number of airlines, including Ryanair and WizzAir</p><p><strong>Back to Poland, Warsaw Modlin airport <a href=\"https://www.modlinairport.pl/aktualnosc/wznowienie-operacji-lotniczych-na-lotnisku-warszawamodlin-komunikat-nr-30311-1150\">says</a> it has re",
       "paragraphs": [
-        "<p>After a second apparent cyber-attack in weeks, we examine possible culprits and their motives</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack\">Shop fridges and freezers across Europe hit by fresh suspected cyber-attack</a></p></li></ul><p>Supermarket fridges and freezers in seven European countries <a href=\"https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack\">have malfunctioned</a>, their thermostats remotely cranked up in some cases to 50C (122F).</p><p>The EU has condemned what it said was “a deliberate attempt to disrupt our food supply chain and undermine consumers’ confidence in it”.</p> <a href=\"https://www.theguardian.com/technology/2026/nov/02/europe-supermarket-fridges-freezers-who-hacking-why\">Continue reading...</a>"
+        "<p>Bomb threats were made on routes involving a number of airlines, including Ryanair and WizzAir</p><p><strong>Back to Poland, Warsaw Modlin airport <a href=\"https://www.modlinairport.pl/aktualnosc/wznowienie-operacji-lotniczych-na-lotnisku-warszawamodlin-komunikat-nr-30311-1150\">says</a> it has resumed operations after an earlier bomb threat</strong> – but a part of the airport where the London flight was parked remain closed and is being checked by security forces.</p><p><strong>Ukraine’s</strong> <strong>Zelenskyy has said his talks with Merz and Germany’s president Steinmeier </strong>will focus on “diplomatic coordination” on air defence and energy sector.</p><p><em>“These will be the priorities of today’s talks. We all have an interest in security, stability, and protecting the rules-based international order. And we must work together to turn these principles into concrete decisions and actions.”</em></p> <a href=\"https://www.theguardian.com/world/live/2026/nov/03/zelenskyy-berlin-merz-europe-sweden-spain-france-belgium-poland-latest-news\">Continue reading...</a>"
       ],
-      "date": "2026-11-02",
+      "date": "2026-11-03",
       "real": true
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/education/2026/nov/02/franch-students-school-blockades-protests",
-      "title": "French pupils resume school blockades as country braces for more protests",
-      "summary": "<p>Minister warns weeks without lessons are putting exams at risk as unions plan nationwide strike on Thursday</p><p>Dozens of high schools across France were blockaded again on Monday as the government braced for another tense week of protests over <a href=\"https://www.theguardian.com/world/2026/oc",
+      "link": "https://www.theguardian.com/world/2026/nov/03/four-planes-flying-across-europe-targeted-by-bomb-threats",
+      "title": "Seven planes across Europe searched or diverted after ‘malicious hoax’ bomb threats",
+      "summary": "<p>Unclear if series of incidents affecting two UK departures and several Ryanair services, among others, were connected</p><p>Seven planes across Europe have been searched or diverted after a series of bomb threats were made to passenger flights, prompting questions as to whether there was any coor",
       "paragraphs": [
-        "<p>Minister warns weeks without lessons are putting exams at risk as unions plan nationwide strike on Thursday</p><p>Dozens of high schools across France were blockaded again on Monday as the government braced for another tense week of protests over <a href=\"https://www.theguardian.com/world/2026/oct/10/school-protesters-sevran-paris-suburb-france\">school conditions</a> and the high cost of living.</p><p>The protests come amid warnings that weeks without lessons are putting some pupils’ school year and final exams at risk.</p> <a href=\"https://www.theguardian.com/education/2026/nov/02/franch-students-school-blockades-protests\">Continue reading...</a>"
+        "<p>Unclear if series of incidents affecting two UK departures and several Ryanair services, among others, were connected</p><p>Seven planes across Europe have been searched or diverted after a series of bomb threats were made to passenger flights, prompting questions as to whether there was any coordination behind the warnings.</p><p>Two UK departures – one from Heathrow and one from Manchester – were among those threatened in what Downing Street called “malicious hoaxes”, though all planes landed safely and no explosives were found.</p> <a href=\"https://www.theguardian.com/world/2026/nov/03/four-planes-flying-across-europe-targeted-by-bomb-threats\">Continue reading...</a>"
       ],
-      "date": "2026-11-02",
+      "date": "2026-11-03",
       "real": true
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack",
-      "title": "Shop fridges and freezers across Europe hit by fresh suspected cyber-attack",
-      "summary": "<p>Chains in seven countries say cooling unit temperatures rose overnight in incident similar to hack of French shops</p><ul><li><p><a href=\"https://www.theguardian.com/technology/2026/nov/02/europe-supermarket-fridges-freezers-who-hacking-why\">Who is hacking Europe’s supermarket fridges and freezer",
+      "link": "https://www.theguardian.com/technology/2026/nov/03/uk-meat-processing-firms-fridges-heat-up-cyber-attacks",
+      "title": "Food suppliers in UK hit by cyber-attacks after freezers targeted in Europe",
+      "summary": "<p>Cybersecurity experts say national impact ‘minimal’ but incidents may represent the ‘foothills’ of a wider threat </p><p>Food suppliers in the UK have been hit by cyber-attacks after hackers raised the temperatures of supermarket freezers across Europe.</p><p>The UK’s National Cyber Security Cent",
       "paragraphs": [
-        "<p>Chains in seven countries say cooling unit temperatures rose overnight in incident similar to hack of French shops</p><ul><li><p><a href=\"https://www.theguardian.com/technology/2026/nov/02/europe-supermarket-fridges-freezers-who-hacking-why\">Who is hacking Europe’s supermarket fridges and freezers, and why?</a></p></li></ul><p>Supermarket chains in at least seven European countries have said the temperatures of refrigerators and freezers in some of their shops soared overnight to as high as 50C (122F), echoing a cyber-attack last month that caused millions of euros of damage in France.</p><p>Retailers in Belgium, Estonia, Ireland, Finland, Luxembourg, the Netherlands and Sweden reported problems with their refrigeration systems on Monday, and several companies confirmed they had been hacked.</p> <a href=\"https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack\">Continue reading...</a>"
+        "<p>Cybersecurity experts say national impact ‘minimal’ but incidents may represent the ‘foothills’ of a wider threat </p><p>Food suppliers in the UK have been hit by cyber-attacks after hackers raised the temperatures of supermarket freezers across Europe.</p><p>The UK’s National Cyber Security Centre (NSCS) said it was working with the affected companies but the national impact was minimal.</p> <a href=\"https://www.theguardian.com/technology/2026/nov/03/uk-meat-processing-firms-fridges-heat-up-cyber-attacks\">Continue reading...</a>"
       ],
-      "date": "2026-11-02",
-      "real": true
-    },
-    {
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/world/live/2026/nov/02/ukraine-russia-emergency-warning-systems-hack-zelenskyy-streeting-eu-latest-news-updates",
-      "title": "Ikea among shops affected by fridge cyber-hacks – Europe live",
-      "summary": "<p>Supermarkets across Europe have experienced temperature-control meddling</p><p>The fake nuclear threats to Ukraine came as <strong>Russia resumed its attacks on the southern city of Kherson</strong>, just hours after the end of a ceasefire during which hundreds of people were evacuated from the n",
-      "paragraphs": [
-        "<p>Supermarkets across Europe have experienced temperature-control meddling</p><p>The fake nuclear threats to Ukraine came as <strong>Russia resumed its attacks on the southern city of Kherson</strong>, just hours after the end of a ceasefire during which hundreds of people were evacuated from the nearby Kremlin-controlled town of Oleshky.</p><p>Kherson’s military administration said <strong>a Russian drone hit a hospital at 7.40am.</strong> Video footage showed wrecked rooms, with windows blown out, doors broken, and debris on the street. Nobody was hurt, officials said.</p> <a href=\"https://www.theguardian.com/world/live/2026/nov/02/ukraine-russia-emergency-warning-systems-hack-zelenskyy-streeting-eu-latest-news-updates\">Continue reading...</a>"
-      ],
-      "date": "2026-11-02",
+      "date": "2026-11-03",
       "real": true
     }
   ]
