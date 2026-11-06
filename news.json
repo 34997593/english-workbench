@@ -1,123 +1,190 @@
 {
-  "updated": "2026-11-05T02:55:00Z",
+  "updated": "2026-11-06T02:54:55Z",
   "count": 60,
   "articles": [
     {
       "source": "NPR",
-      "link": "https://www.npr.org/2026/11/04/nx-s1-6028833/midterms-ballot-measures-abortion-lgbtq-guns",
-      "title": "Where voters stand on state ballot measures, from abortion to LGBTQ rights to guns",
-      "summary": "Voters in dozens of states considered 146 statewide ballot measures this midterm cycle, on topics spanning LGBTQ rights, wealth taxes, abortion, redistricting, guns and more.",
+      "link": "https://www.npr.org/2026/11/05/nx-s1-6031987/stock-markets-ai-midterm-elections",
+      "title": "Fears of an AI crackdown after midterms spark $2 trillion rout in tech stocks",
+      "summary": "Shares sank, with the tech-heavy Nasdaq dropping over 5%, as investors reacted with fear that a Democratic Congress — and states across the country -— would crack down on AI and data centers.",
       "paragraphs": [
-        "Voters in dozens of states considered 146 statewide ballot measures this midterm cycle, on topics spanning LGBTQ rights, wealth taxes, abortion, redistricting, guns and more."
+        "Shares sank, with the tech-heavy Nasdaq dropping over 5%, as investors reacted with fear that a Democratic Congress — and states across the country -— would crack down on AI and data centers."
       ],
-      "date": "2026-11-04",
+      "date": "2026-11-05",
       "real": true
     },
     {
       "source": "NPR",
-      "link": "https://www.npr.org/2026/11/04/nx-s1-6029650/elon-musk-midterms-democrats-texas-congress",
-      "title": "Elon Musk will face scrutiny from Democrats after midterms",
-      "summary": "Democrats are likely to launch investigations into Musk's influence, including his leadership of DOGE and government contracts",
+      "link": "https://www.npr.org/2026/11/05/g-s1-152127/house-senate-uncalled-races",
+      "title": "These are the races in the House and Senate that haven't been called yet",
+      "summary": "Democrats are poised to have a strong majority in the upcoming Congress. The final numbers are still being determined. Here's where things stand in the races that are waiting to be called by the AP.",
       "paragraphs": [
-        "Democrats are likely to launch investigations into Musk's influence, including his leadership of DOGE and government contracts"
+        "Democrats are poised to have a strong majority in the upcoming Congress. The final numbers are still being determined. Here's where things stand in the races that are waiting to be called by the AP."
       ],
-      "date": "2026-11-04",
+      "date": "2026-11-05",
       "real": true
     },
     {
       "source": "NPR",
-      "link": "https://www.npr.org/2026/11/04/g-s1-151868/democratic-leaders-election-results-reactions-takeaways",
-      "title": "Democratic leaders reflect on midterm results and what's next for the party",
-      "summary": "Democratic party leaders and political analysts spoke with <em>Morning Edition</em> about the results of the midterm elections, the effects of mid-decade redistricting efforts, and the next steps for the party.",
+      "link": "https://www.npr.org/2026/11/05/nx-s1-6030662/melania-trump-touts-rare-agreement-she-brokered-between-russia-and-ukraine",
+      "title": "Melania Trump touts rare agreement she brokered between Russia and Ukraine",
+      "summary": "The six-day pause from the Russian-occupied city of Oleshky comes as the administration ramps up efforts to secure an agreement to end the war in Ukraine.",
       "paragraphs": [
-        "Democratic party leaders and political analysts spoke with Morning Edition about the results of the midterm elections, the effects of mid-decade redistricting efforts, and the next steps for the party.",
-        "(Image credit: Salwan Georges/Getty Images)"
+        "The six-day pause from the Russian-occupied city of Oleshky comes as the administration ramps up efforts to secure an agreement to end the war in Ukraine."
       ],
-      "date": "2026-11-04",
+      "date": "2026-11-05",
       "real": true
     },
     {
       "source": "NPR",
-      "link": "https://www.npr.org/2026/11/04/nx-s1-6017757/democrats-republicans-doctors-acton-andrews-blue-wave",
-      "title": "It was a big night for doctors to win seats in Congress, riding the blue wave",
-      "summary": "Historically, most physicians who served in the House or Senate have been Republicans. In the next Congress, physicians who are Democrats made significant gains.",
+      "link": "https://www.npr.org/2026/11/05/nx-s1-6031719/north-carolina-democrats-flip-house-seats-republican-districts",
+      "title": "How North Carolina Democrats flipped several House seats in historically GOP districts",
+      "summary": "All of these seats were in districts redrawn in 2023 to favor Republican candidates.",
       "paragraphs": [
-        "Historically, most physicians who served in the House or Senate have been Republicans. In the next Congress, physicians who are Democrats made significant gains."
+        "All of these seats were in districts redrawn in 2023 to favor Republican candidates.",
+        "(Image credit: A.M STEWART/AFP via Getty Images)"
       ],
-      "date": "2026-11-04",
+      "date": "2026-11-05",
       "real": true
     },
     {
       "source": "NPR",
-      "link": "https://www.npr.org/2026/11/04/nx-s1-6023272/navajo-voters-hop-tractors-make-extraordinary-efforts-to-vote-after-widespread-flooding",
-      "title": "Navajo voters hop tractors, make extraordinary efforts to vote after widespread flooding",
-      "summary": "Four weeks of flooding washed out roads and sent thousands fleeing their homes on the Navajo Reservation. But many worked hard to get to polling places and voting day became part of the recovery process.",
+      "link": "https://www.npr.org/2026/11/05/nx-s1-6030842/paraguay-president-impeached-bank-collapse",
+      "title": "Paraguay's president is impeached minutes after resigning following a bank collapse",
+      "summary": "Paraguayan lawmakers voted to impeach President Santiago Peña minutes after his resignation, as the collapse of a digital bank tied to his government froze millions of people's savings.",
       "paragraphs": [
-        "Four weeks of flooding washed out roads and sent thousands fleeing their homes on the Navajo Reservation. But many worked hard to get to polling places and voting day became part of the recovery process."
+        "Paraguayan lawmakers voted to impeach President Santiago Peña minutes after his resignation, as the collapse of a digital bank tied to his government froze millions of people's savings."
       ],
-      "date": "2026-11-04",
+      "date": "2026-11-05",
       "real": true
     },
     {
       "source": "NPR",
-      "link": "https://www.npr.org/2026/11/04/nx-s1-5740271/herbert-blomstedt-conductor-dead",
-      "title": "Herbert Blomstedt, conductor of great orchestras for seven decades, dies at 99",
-      "summary": "Modest in his demeanor but remarkably enduring, the American-born, Swedish conductor continually fell in love with music, leading orchestras with no-nonsense insight and integrity well into his 90s.",
+      "link": "https://www.npr.org/2026/11/05/g-s1-152080/head-of-justice-department-office-on-civil-rights-resigns",
+      "title": "Head of Justice Department office on Civil Rights resigns",
+      "summary": "The head of the Justice Department's Civil Rights Division, Harmeet Dhillon, is out after 18 tumultuous months in charge.",
       "paragraphs": [
-        "Modest in his demeanor but remarkably enduring, the American-born, Swedish conductor continually fell in love with music, leading orchestras with no-nonsense insight and integrity well into his 90s.",
-        "(Image credit: Jan Woitas/picture alliance)"
+        "The head of the Justice Department's Civil Rights Division, Harmeet Dhillon, is out after 18 tumultuous months in charge."
       ],
-      "date": "2026-11-04",
+      "date": "2026-11-05",
       "real": true
     },
     {
       "source": "NPR",
-      "link": "https://www.npr.org/2026/11/04/g-s1-151833/2026-midterms-chuck-schumer-senate-democrats",
-      "title": "Chuck Schumer heralds Democrats' 'generational remake' of Senate",
-      "summary": "In remarks the day after his party flipped control of Congress, the Senate Minority Leader said voters had spoken clearly about their priorities, and said it's up to the Democratic party to deliver.",
+      "link": "https://www.npr.org/2026/11/05/nx-s1-6029747/the-week-in-hip-hop-yung-miami-spend-dat",
+      "title": "Discursive Verses: Is 'Spend Dat' the best financial indicator of America's grift economy?",
+      "summary": "NPR Music culture critic and reporter Rodney Carmichael ruminates on the latest in rap culture. This week: How Yung Miami's summer bop became a sweeping indictment.",
       "paragraphs": [
-        "In remarks the day after his party flipped control of Congress, the Senate Minority Leader said voters had spoken clearly about their priorities, and said it's up to the Democratic party to deliver."
+        "NPR Music culture critic and reporter Rodney Carmichael ruminates on the latest in rap culture. This week: How Yung Miami's summer bop became a sweeping indictment.",
+        "(Image credit: Aaron J. Thornton/Getty Images for BET)"
       ],
-      "date": "2026-11-04",
+      "date": "2026-11-05",
       "real": true
     },
     {
       "source": "NPR",
-      "link": "https://www.npr.org/2026/11/04/g-s1-151854/2026-midterms-mike-johnson-speaker",
-      "title": "Mike Johnson will step aside as top House Republican next Congress",
-      "summary": "After Tuesday's bruising defeat for Republicans, House Speaker Mike Johnson will not stay on as minority leader come January.",
+      "link": "https://www.npr.org/2026/11/05/nx-s1-6030720/russell-brand-rape-sexual-assault-prison",
+      "title": "Russell Brand is convicted of rape, and judge says he'll get a prison term",
+      "summary": "A prosecutor described Brand as a ruthless, calculating, manipulative \"sexual predator.\" Brand, 51, denied the charges, saying he had never forced anyone to do something against their will.",
       "paragraphs": [
-        "After Tuesday's bruising defeat for Republicans, House Speaker Mike Johnson will not stay on as minority leader come January."
+        "A prosecutor described Brand as a ruthless, calculating, manipulative \"sexual predator.\" Brand, 51, denied the charges, saying he had never forced anyone to do something against their will."
       ],
-      "date": "2026-11-04",
+      "date": "2026-11-05",
       "real": true
     },
     {
       "source": "NPR",
-      "link": "https://www.npr.org/2026/11/04/g-s1-150276/2026-midterms-democrats-investigations",
-      "title": "Back in the majority, Democrats have plans for a long list of Trump investigations",
-      "summary": "Democrats will have the ability to subpoena records and compel individuals to testify. The Epstein files, Elon Musk, the Iran war and Trump's business interests may all come under the microscope.",
+      "link": "https://www.npr.org/2026/11/05/nx-s1-6022491/real-estate-all-cash-offer",
+      "title": "First-time homebuyers remain scarce, but a record share of them pay all cash",
+      "summary": "A new report finds generational wealth is widening the divide between homebuyers and those priced out. The median age of first-time buyers also remains at a record high.",
       "paragraphs": [
-        "Democrats will have the ability to subpoena records and compel individuals to testify. The Epstein files, Elon Musk, the Iran war and Trump's business interests may all come under the microscope."
+        "A new report finds generational wealth is widening the divide between homebuyers and those priced out. The median age of first-time buyers also remains at a record high.",
+        "(Image credit: Justin Sullivan/Getty Images)"
       ],
-      "date": "2026-11-04",
+      "date": "2026-11-05",
       "real": true
     },
     {
       "source": "NPR",
-      "link": "https://www.npr.org/2026/11/04/nx-s1-6028587/adam-hamilton-kansas-senate-political-divides",
-      "title": "Kansas just elected a Democrat. His message to Washington? Be decent",
-      "summary": "The Methodist pastor who flipped a Republican Senate seat says voters want more than political change. He tells NPR what he heard from Kansans about decency, faith and finding common ground.",
+      "link": "https://www.npr.org/2026/11/05/nx-s1-6027635/exercise-workout-teenagers-adolescents-gender-gap",
+      "title": "Teens worldwide aren't getting enough exercise -- especially girls",
+      "summary": "A new study looks at the recommended amount of daily exercise for adolescents — and how few are getting it.",
       "paragraphs": [
-        "The Methodist pastor who flipped a Republican Senate seat says voters want more than political change. He tells NPR what he heard from Kansans about decency, faith and finding common ground."
+        "A new study looks at the recommended amount of daily exercise for adolescents — and how few are getting it."
       ],
-      "date": "2026-11-04",
+      "date": "2026-11-05",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/5/el-salvadors-bukele-touts-military-intervention-in-haiti?traffic_source=rss",
-      "title": "El Salvador’s Bukele touts military intervention in Haiti",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/gaza-turns-discarded-cooking-pots-into-seawalls?traffic_source=rss",
+      "title": "Gaza turns discarded cooking pots into seawalls",
+      "summary": "",
+      "paragraphs": [
+        ""
+      ],
+      "date": "2026-11-06",
+      "real": true
+    },
+    {
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/6/california-governor-commutes-sentences-of-more-than-500-people-on-death-row?traffic_source=rss",
+      "title": "California governor commutes sentences of more than 500 people on death row",
+      "summary": "",
+      "paragraphs": [
+        ""
+      ],
+      "date": "2026-11-06",
+      "real": true
+    },
+    {
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/israeli-settlers-set-fire-to-palestinian-olive-grove-near-ramallah?traffic_source=rss",
+      "title": "Israeli settlers set fire to Palestinian olive grove near Ramallah",
+      "summary": "",
+      "paragraphs": [
+        ""
+      ],
+      "date": "2026-11-06",
+      "real": true
+    },
+    {
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/6/turkiyes-parliament-ratifies-mecca-defence-agreement?traffic_source=rss",
+      "title": "Turkiye’s parliament ratifies Mecca defence agreement",
+      "summary": "",
+      "paragraphs": [
+        ""
+      ],
+      "date": "2026-11-06",
+      "real": true
+    },
+    {
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/6/trump-met-russian-envoy-after-he-appeared-with-melania-trump-and-ukrainians?traffic_source=rss",
+      "title": "Trump says Russia-Ukraine deal is near after meeting Putin’s envoy",
+      "summary": "",
+      "paragraphs": [
+        ""
+      ],
+      "date": "2026-11-06",
+      "real": true
+    },
+    {
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/6/iran-war-live-trump-warns-us-may-have-to-destroy-rest-of-iran?traffic_source=rss",
+      "title": "Iran war live: Trump warns US may have to ‘destroy’ rest of Iran",
+      "summary": "",
+      "paragraphs": [
+        ""
+      ],
+      "date": "2026-11-06",
+      "real": true
+    },
+    {
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/5/nithya-raman-wins-la-mayoral-race-becoming-citys-first-south-asian-mayor?traffic_source=rss",
+      "title": "Nithya Raman wins LA mayoral race, becoming city’s first South Asian mayor",
       "summary": "",
       "paragraphs": [
         ""
@@ -127,8 +194,8 @@
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/5/election-deniers-lose-races-for-governor-in-key-us-swing-states?traffic_source=rss",
-      "title": "Election deniers lose races for governor in key US swing states",
+      "link": "https://www.aljazeera.com/news/2026/11/5/generation-z-and-diversity-redefine-us-politics-in-groundbreaking-election?traffic_source=rss",
+      "title": "Generation Z and young voters help redefine US politics after midterms",
       "summary": "",
       "paragraphs": [
         ""
@@ -138,8 +205,8 @@
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/5/israels-herzog-accepts-vote-results-opens-talks-on-forming-a-government?traffic_source=rss",
-      "title": "Israel’s Herzog accepts vote results, opens talks on forming a government",
+      "link": "https://www.aljazeera.com/news/2026/11/5/south-africas-anc-on-track-for-new-lows-in-local-polls?traffic_source=rss",
+      "title": "South Africa’s ANC on track for new lows in local polls",
       "summary": "",
       "paragraphs": [
         ""
@@ -149,8 +216,8 @@
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/africas-richest-man-launches-mega-oil-tank-farm-in-namibia?traffic_source=rss",
-      "title": "Africa’s richest man launches mega oil tank farm in Namibia",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/spanish-footballer-jesus-de-miguel-mourned-by-family-and-friends?traffic_source=rss",
+      "title": "Spanish footballer Jesus de Miguel mourned by family and friends",
       "summary": "",
       "paragraphs": [
         ""
@@ -160,8 +227,8 @@
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/ohios-voters-tell-republicans-dont-take-us-for-granted?traffic_source=rss",
-      "title": "Ohio’s voters tell Republicans: don’t take us for granted",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/aje-onl-nf_israeli-demolitions-displace-palestinians-in-biddu-051126?traffic_source=rss",
+      "title": "Israeli demolitions displace more than 100 Palestinians in Biddu",
       "summary": "",
       "paragraphs": [
         ""
@@ -171,8 +238,8 @@
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/5/democrats-won-congress-but-can-they-deliver-on-their-promises?traffic_source=rss",
-      "title": "Democrats won Congress. But can they deliver on their promises?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/hoax-bomb-threats-force-emergency-landings-evacuations-across-europe?traffic_source=rss",
+      "title": "Hoax bomb threats force emergency landings, evacuations across Europe",
       "summary": "",
       "paragraphs": [
         ""
@@ -182,8 +249,8 @@
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/historic-firsts-redraw-us-political-map-in-2026-midterm-elections?traffic_source=rss",
-      "title": "Historic firsts redraw US political map in 2026 midterm elections",
+      "link": "https://www.aljazeera.com/news/2026/11/5/saudi-coalition-intercepts-missile-fired-towards-medina?traffic_source=rss",
+      "title": "Saudi coalition intercepts missile fired towards Medina",
       "summary": "",
       "paragraphs": [
         ""
@@ -193,8 +260,8 @@
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/11/5/iran-war-live-trump-admits-war-caused-election-loss-but-had-to-do-it?traffic_source=rss",
-      "title": "Iran war live: Khamenei says US hostility will persist after midterms",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/11/5/why-are-wealthy-countries-failing-developing-nations?traffic_source=rss",
+      "title": "Why are wealthy countries failing developing nations?",
       "summary": "",
       "paragraphs": [
         ""
@@ -204,189 +271,123 @@
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/who-gets-to-vote-in-the-us?traffic_source=rss",
-      "title": "Who gets to vote in the US?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/melania-trump-hosts-russia-ukraine-meeting-after-oleshky-ceasefire?traffic_source=rss",
+      "title": "Melania Trump hosts Russia-Ukraine meeting after Oleshky ceasefire",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-11-04",
+      "date": "2026-11-05",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/4/sudan-ethiopia-order-tit-for-tat-diplomatic-expulsions?traffic_source=rss",
-      "title": "Ethiopia expels 6 Sudan diplomats, orders closure of consulate, reports say",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/mass-protests-in-france-driven-by-nationwide-strike-action?traffic_source=rss",
+      "title": "Mass protests in France driven by nationwide strike action",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-11-04",
+      "date": "2026-11-05",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/giant-banner-of-trump-vance-and-netanyahu-burnt-at-tehran-rally?traffic_source=rss",
-      "title": "Giant banner of Trump, Vance and Netanyahu burnt at Tehran rally",
+      "link": "https://www.aljazeera.com/news/2026/11/5/the-blame-game-how-the-us-midterm-shock-is-shaping-israels-race-for-pm?traffic_source=rss",
+      "title": "The blame game: How the US midterm shock is shaping Israel’s race for PM",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-11-04",
+      "date": "2026-11-05",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/trump-blames-iran-war-for-midterms-losses?traffic_source=rss",
-      "title": "Trump blames Iran war for midterms losses",
+      "link": "https://www.aljazeera.com/news/2026/11/5/top-us-civil-rights-official-resigns?traffic_source=rss",
+      "title": "Harmeet Dhillon, top US civil rights official under Trump, resigns",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-11-04",
+      "date": "2026-11-05",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/4/democratic-socialists-of-america-see-record-wins-in-us-midterm-elections?traffic_source=rss",
-      "title": "Democratic Socialists of America see record wins in US midterm elections",
+      "link": "https://www.aljazeera.com/news/2026/11/5/melania-trump-calls-for-peace-at-meeting-with-russia-ukraine-officials?traffic_source=rss",
+      "title": "Melania Trump calls for peace at meeting with Russia, Ukraine officials",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-11-04",
+      "date": "2026-11-05",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/4/sudan-factories-struggle-to-restart-after-devastating-wartime-losses?traffic_source=rss",
-      "title": "Sudan factories struggle to restart after devastating wartime losses",
+      "link": "https://www.aljazeera.com/news/2026/11/5/division-among-us-democrats-over-schumers-leadership-role?traffic_source=rss",
+      "title": "Division among US Democrats over Schumer’s leadership role",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-11-04",
+      "date": "2026-11-05",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/palestinians-israelis-react-after-democrats-sweep-us-midterms?traffic_source=rss",
-      "title": "Palestinians, Israelis react after Democrats sweep US midterms",
+      "link": "https://www.aljazeera.com/news/2026/11/5/iran-says-tankers-struck-in-hormuz-amid-fears-of-new-us-attack?traffic_source=rss",
+      "title": "Iran says tankers struck in Hormuz amid fears of new US attack",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-11-04",
+      "date": "2026-11-05",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/social-media-reacts-to-democrats-takeover-of-us-congress?traffic_source=rss",
-      "title": "Social media reacts to Democrats’ takeover of US Congress",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/arab-party-backs-eisenkot-in-bid-to-form-israels-next-government?traffic_source=rss",
+      "title": "Arab party backs Eisenkot in bid to form Israel’s next government",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-11-04",
+      "date": "2026-11-05",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/4/israel-restricting-treatment-for-1100-child-amputees-in-gaza-ngo?traffic_source=rss",
-      "title": "Israel restricting treatment for 1,100 child amputees in Gaza: NGO",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/could-football-change-after-jesus-de-miguels-death?traffic_source=rss",
+      "title": "Could Football Change After Jesus de Miguel’s Death?",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-11-04",
+      "date": "2026-11-05",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/11/4/us-midterm-election-results-live-trump-reacts-as-more-results-awaited?traffic_source=rss",
-      "title": "US midterm election results live: Trump blames Iran war after losses",
+      "link": "https://www.aljazeera.com/economy/2026/11/5/ai-stocks-plunge-after-election-driving-down-us-markets?traffic_source=rss",
+      "title": "AI stocks plunge after US election, driving down markets",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-11-04",
+      "date": "2026-11-05",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/aje-onl-nf_democrat-leaders-hail-midterm-election-success-041126?traffic_source=rss",
-      "title": "Democrat leaders hail midterm election success",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/jordanian-officer-killed-in-stabbing-attack-in-amman?traffic_source=rss",
+      "title": "Jordanian officer killed in stabbing attack in Amman",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-11-04",
-      "real": true
-    },
-    {
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/4/ukraine-raises-death-toll-from-russian-strike-on-zaporizhia-to-40-people?traffic_source=rss",
-      "title": "Ukraine raises death toll from Russian strike on Zaporizhia to 40 people",
-      "summary": "",
-      "paragraphs": [
-        ""
-      ],
-      "date": "2026-11-04",
-      "real": true
-    },
-    {
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/11/4/will-the-us-resume-its-attacks-on-iran?traffic_source=rss",
-      "title": "Will the US resume its attacks on Iran?",
-      "summary": "",
-      "paragraphs": [
-        ""
-      ],
-      "date": "2026-11-04",
-      "real": true
-    },
-    {
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/iranians-celebrate-democrat-victory-in-us-midterms?traffic_source=rss",
-      "title": "Iranians celebrate Democrat victory in US midterms",
-      "summary": "",
-      "paragraphs": [
-        ""
-      ],
-      "date": "2026-11-04",
-      "real": true
-    },
-    {
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/4/democratic-progressive-wing-notches-win-in-california-central-valley?traffic_source=rss",
-      "title": "Democratic progressive wing notches win in California Central Valley",
-      "summary": "",
-      "paragraphs": [
-        ""
-      ],
-      "date": "2026-11-04",
-      "real": true
-    },
-    {
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/4/hakeem-jeffries-promises-affordability-focus-after-democratic-midterm-win?traffic_source=rss",
-      "title": "Hakeem Jeffries promises ‘affordability’ focus after Democratic midterm win",
-      "summary": "",
-      "paragraphs": [
-        ""
-      ],
-      "date": "2026-11-04",
-      "real": true
-    },
-    {
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/4/who-approves-trials-for-two-new-ebola-vaccines?traffic_source=rss",
-      "title": "WHO approves trials for two new Ebola vaccines",
-      "summary": "",
-      "paragraphs": [
-        ""
-      ],
-      "date": "2026-11-04",
+      "date": "2026-11-05",
       "real": true
     },
     {
@@ -446,6 +447,39 @@
     },
     {
       "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/nov/06/3000-tarantulas-smuggled-inside-dirty-socks-peru",
+      "title": "Peru airport officials discover 3,000 tarantulas smuggled inside dirty socks",
+      "summary": "<p>Three suitcases’ worth of the spiders were on their way to Germany, where they could fetch an estimated €1.5m</p><p>More than 3,000 tarantulas were seized at an airport in Lima on their way to Germany, Peruvian authorities said.</p><p>The spiders were hidden inside dirty socks contained in three ",
+      "paragraphs": [
+        "<p>Three suitcases’ worth of the spiders were on their way to Germany, where they could fetch an estimated €1.5m</p><p>More than 3,000 tarantulas were seized at an airport in Lima on their way to Germany, Peruvian authorities said.</p><p>The spiders were hidden inside dirty socks contained in three suitcases carried by two Germans and a Polish citizen, the National Forestry and Wildlife Service (SERFOR) told Agence France-Presse on Thursday.</p> <a href=\"https://www.theguardian.com/world/2026/nov/06/3000-tarantulas-smuggled-inside-dirty-socks-peru\">Continue reading...</a>"
+      ],
+      "date": "2026-11-06",
+      "real": true
+    },
+    {
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/nov/05/paraguay-president-santiago-pena-resigns",
+      "title": "Paraguay’s president quits after millions of people’s savings frozen in bank crisis",
+      "summary": "<p>Santiago Peña’s rightwing administration had authorised Ueno Bank to drastically expand operations before collapse</p><p>Paraguay’s rightwing president, Santiago Peña, resigned on Thursday after a political and financial crisis collapsed the South American country’s banking system in recent days.",
+      "paragraphs": [
+        "<p>Santiago Peña’s rightwing administration had authorised Ueno Bank to drastically expand operations before collapse</p><p>Paraguay’s rightwing president, Santiago Peña, resigned on Thursday after a political and financial crisis collapsed the South American country’s banking system in recent days.</p><p>At the centre of the crisis is Ueno Bank, which in just a few years under Peña went from an obscure digital bank to one of the country’s largest lenders, claiming to have about 60% of Paraguay’s adult population as customers.</p> <a href=\"https://www.theguardian.com/world/2026/nov/05/paraguay-president-santiago-pena-resigns\">Continue reading...</a>"
+      ],
+      "date": "2026-11-05",
+      "real": true
+    },
+    {
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/nov/05/unsung-heroes-behind-lula-surprise-election-triumph-brazil-runoff-bolsonaro",
+      "title": "How elderly ‘unsung heroes’ powered Lula’s historic fightback in Brazil",
+      "summary": "<p>Older voters praised for helping tip balance in leftwing president’s favour against far-right Flávio Bolsonaro in runoff</p><p>It had been nearly a decade since Celia de Oliveira Soares last voted, and months since the 101-year-old great-grandmother last left her home.</p><p>But on 25 October, wh",
+      "paragraphs": [
+        "<p>Older voters praised for helping tip balance in leftwing president’s favour against far-right Flávio Bolsonaro in runoff</p><p>It had been nearly a decade since Celia de Oliveira Soares last voted, and months since the 101-year-old great-grandmother last left her home.</p><p>But on 25 October, when Brazil held what many considered its most <a href=\"https://www.theguardian.com/world/2026/oct/26/brazil-lula-vow-democracy-always-election-win\">important presidential election</a> in decades, relatives helped Soares into a wheelchair and drove her to a nearby school to make sure the far-right candidate, Flávio Bolsonaro, did not prevail.</p> <a href=\"https://www.theguardian.com/world/2026/nov/05/unsung-heroes-behind-lula-surprise-election-triumph-brazil-runoff-bolsonaro\">Continue reading...</a>"
+      ],
+      "date": "2026-11-05",
+      "real": true
+    },
+    {
+      "source": "The Guardian",
       "link": "https://www.theguardian.com/world/2026/nov/04/canada-bear-attack-mother-daughter-killed",
       "title": "Mother and daughter killed in grizzly bear attack, Canadian authorities confirm",
       "summary": "<p>Conservation officers say more than one bear may have been involved in attack on women near their home</p><p>Search teams in <a href=\"https://www.theguardian.com/world/canada\">Canada</a> have discovered the body of a 20-year-old woman and confirmed that both she and her mother were killed in an a",
@@ -468,200 +502,167 @@
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/environment/2026/nov/03/brazil-first-global-roadmap-phasing-out-fossil-fuels",
-      "title": "Brazil publishes first global ‘roadmap’ for phasing out fossil fuels",
-      "summary": "<p>Cop30 host sets out steps to break link with coal, oil and gas as it aims to move focus from negotiating to implementing</p><p>All countries can start to break their dependence on fossil fuels now without needing to wait for new technologies or economic changes, Brazil’s government has said ahead",
+      "link": "https://www.theguardian.com/world/2026/nov/05/meghan-sussex-thomas-markle-jr-philippines-child-sexual-abuse-inquiry",
+      "title": "Duchess of Sussex’s estranged half-brother ‘person of interest’ in child sexual abuse inquiry",
+      "summary": "<p>Philippine official says there are ‘signs that point to Thomas Markle Jr’s involvement in crime’, but he’s not yet being treated as a suspect</p><p>The Duchess of Sussex’s estranged half-brother, Thomas Markle Jr, has been named as a “person of interest” in the Philippine authorities’ inquiry int",
       "paragraphs": [
-        "<p>Cop30 host sets out steps to break link with coal, oil and gas as it aims to move focus from negotiating to implementing</p><p>All countries can start to break their dependence on fossil fuels now without needing to wait for new technologies or economic changes, Brazil’s government has said ahead of a global climate summit.</p><p>Brazil, the host of <a href=\"https://www.theguardian.com/environment/2025/nov/25/fossil-fuel-giants-finally-in-the-crosshairs-cop30-avoids-total-failure-with-last-ditch-deal\">last year’s UN climate conference</a>, set out the world’s first global “roadmap” for phasing out fossil fuels on Tuesday, showing that countries could boost their economies and pull people out of poverty while breaking the link with coal, oil and gas.</p> <a href=\"https://www.theguardian.com/environment/2026/nov/03/brazil-first-global-roadmap-phasing-out-fossil-fuels\">Continue reading...</a>"
-      ],
-      "date": "2026-11-03",
-      "real": true
-    },
-    {
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/science/2026/nov/02/fossilised-red-blood-cells-aratasaurus-dinosaurs-bone",
-      "title": "Fossilised red blood cells found in 115m-year-old dinosaur’s bone, say scientists",
-      "summary": "<p>Chemical tests on Aratasaurus bone identify presence of heme, the organic compound that allows haemoglobin in blood to carry oxygen around body</p><p>It could be the opening of a Jurassic Park rip-off: scientists examining ancient dinosaur bones find what appear to be fossilised red blood cells, ",
-      "paragraphs": [
-        "<p>Chemical tests on Aratasaurus bone identify presence of heme, the organic compound that allows haemoglobin in blood to carry oxygen around body</p><p>It could be the opening of a Jurassic Park rip-off: scientists examining ancient dinosaur bones find what appear to be fossilised red blood cells, and traces of the molecule that gives the beast’s blood its distinctive crimson hue.</p><p>But that is what researchers are claiming to have discovered after analysing the hind leg bones of a small, meat-eating dinosaur called an Aratasaurus that lived and died in what is now north-eastern Brazil 115m years ago.</p> <a href=\"https://www.theguardian.com/science/2026/nov/02/fossilised-red-blood-cells-aratasaurus-dinosaurs-bone\">Continue reading...</a>"
-      ],
-      "date": "2026-11-02",
-      "real": true
-    },
-    {
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/world/2026/nov/01/uk-was-vehement-slavery-reparations-should-not-be-on-commonwealth-summit-agenda",
-      "title": "UK was ‘vehement’ slavery reparations should not be on Commonwealth summit agenda",
-      "summary": "<p>British prime minister has now agreed to structured dialogue on reparatory justice but issue remains off formal Chogm agenda </p><p>British officials reportedly insisted that discussions of reparations for slavery should not be on the agenda of the Commonwealth leaders’ summit in Antigua and Barb",
-      "paragraphs": [
-        "<p>British prime minister has now agreed to structured dialogue on reparatory justice but issue remains off formal Chogm agenda </p><p>British officials reportedly insisted that discussions of reparations for slavery should not be on the agenda of the Commonwealth leaders’ summit in Antigua and Barbuda – and even warned that Andy Burnham would not attend the meeting if the subject was formally included, according to a leading Caribbean political figure.</p><p>Ralph Gonsalves, a former prime minister of St Vincent and the Grenadines and a senior figure in the reparatory justice movement Repair Campaign, welcomed Britain’s decision to enter structured dialogue on reparations, but said the UK had come “kicking and screaming” to the conversation.</p> <a href=\"https://www.theguardian.com/world/2026/nov/01/uk-was-vehement-slavery-reparations-should-not-be-on-commonwealth-summit-agenda\">Continue reading...</a>"
-      ],
-      "date": "2026-11-01",
-      "real": true
-    },
-    {
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/world/2026/nov/03/trump-iran-middle-east-china-gulf-hormuz-xi-jinping",
-      "title": "Trump’s troubles with Iran could open the door to China",
-      "summary": "<p>Beijing launches diplomatic salvo to woo Gulf leaders and bolster its influence in the region</p><p>China has held a flurry of meetings with Gulf leaders in a sign that Beijing is stepping up its diplomatic efforts in the Middle East.</p><p>The diplomatic salvo comes before a highly anticipated m",
-      "paragraphs": [
-        "<p>Beijing launches diplomatic salvo to woo Gulf leaders and bolster its influence in the region</p><p>China has held a flurry of meetings with Gulf leaders in a sign that Beijing is stepping up its diplomatic efforts in the Middle East.</p><p>The diplomatic salvo comes before a highly anticipated meeting between Donald Trump and Xi Jinping when the US president is expected to attend the Apec conference in Shenzhen, China, on 18 and 19 November.</p> <a href=\"https://www.theguardian.com/world/2026/nov/03/trump-iran-middle-east-china-gulf-hormuz-xi-jinping\">Continue reading...</a>"
-      ],
-      "date": "2026-11-03",
-      "real": true
-    },
-    {
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/world/2026/nov/01/us-china-trade-war-trump-xi",
-      "title": "The US-China trade war seems to have subsided – but the sense of calm is misleading",
-      "summary": "<p>A truce has cooled the trade conflict, but neither country has done anything to limit the outbreak of new hostilities</p><p><a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a>’s trade wars have largely fallen off the headlines. Fears of new tariffs flare up from time to tim",
-      "paragraphs": [
-        "<p>A truce has cooled the trade conflict, but neither country has done anything to limit the outbreak of new hostilities</p><p><a href=\"https://www.theguardian.com/us-news/donaldtrump\">Donald Trump</a>’s trade wars have largely fallen off the headlines. Fears of new tariffs flare up from time to time when the US president goes off the rails – for instance, threatening to end US trade with countries with which it has a deficit unless the <a href=\"https://www.theguardian.com/business/federal-reserve\">Federal Reserve</a> cuts interest rates. But the sense that the world’s two largest economies are plowing ahead into an overt economic conflagration has taken a back seat to other, more salient fears, about Trump ending American democracy, AI killing us all and stuff like that.</p><p>The sense of calm is misleading. Under the radar, the world is marching toward an economic war of potentially epic proportions, one that, history suggests, could well spill over into the real thing.</p> <a href=\"https://www.theguardian.com/world/2026/nov/01/us-china-trade-war-trump-xi\">Continue reading...</a>"
-      ],
-      "date": "2026-11-01",
-      "real": true
-    },
-    {
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency",
-      "title": "Binance resumes customer withdrawals after record $6.3bn hack",
-      "summary": "<p>Cryptocurrency exchange says 90% of losses covered as FBI blames North Korean state-sponsored group TraderTraitor</p><p></p><p>The cryptocurrency exchange Binance has started to allow its customers to withdraw their funds from the platform, as it recovers from a record $6.3bn (£4.7bn) hack.</p><p",
-      "paragraphs": [
-        "<p>Cryptocurrency exchange says 90% of losses covered as FBI blames North Korean state-sponsored group TraderTraitor</p><p></p><p>The cryptocurrency exchange Binance has started to allow its customers to withdraw their funds from the platform, as it recovers from a record $6.3bn (£4.7bn) hack.</p><p>The exchange was hit by the theft on Thursday, which has since been described as the biggest heist in history, with experts identifying <a href=\"https://www.theguardian.com/world/north-korea\">North Korea</a> as the likely culprit.</p> <a href=\"https://www.theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency\">Continue reading...</a>"
-      ],
-      "date": "2026-11-01",
-      "real": true
-    },
-    {
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/world/2026/oct/30/how-crypto-hacking-funds-isolated-north-korea-nuclear-programme",
-      "title": "How crypto hacking funds isolated North Korea’s nuclear programme",
-      "summary": "<p>Cryptocurrency theft is estimated to generate half of the country’s foreign currency income</p><p>North Korea plays by its own rules. The isolated, secretive and autocratic country is largely cut off from the world’s economic system – but when it comes to generating foreign earnings it relies on ",
-      "paragraphs": [
-        "<p>Cryptocurrency theft is estimated to generate half of the country’s foreign currency income</p><p>North Korea plays by its own rules. The isolated, secretive and autocratic country is largely cut off from the world’s economic system – but when it comes to generating foreign earnings it relies on some of the world’s most sophisticated hacking.</p><p>Experts, such as TRM Labs, quickly attributed the extraordinary $6.3bn (£4.7bn) Binance cryptocurrency theft to TraderTraitor, an elite North Korean hacking unit that has also been known as the Lazarus Group. Though the link may not be proven yet, the pattern of behaviour is familiar.</p> <a href=\"https://www.theguardian.com/world/2026/oct/30/how-crypto-hacking-funds-isolated-north-korea-nuclear-programme\">Continue reading...</a>"
-      ],
-      "date": "2026-10-30",
-      "real": true
-    },
-    {
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/world/2026/oct/30/beijing-queer-film-festival-cancelled-after-police-harassment",
-      "title": "Beijing Queer film festival cancelled after harassment from authorities",
-      "summary": "<p>Forums for discussion of feminist and LGBTQ+ views face growing intolerance from Chinese state, say experts</p><p>Beijing’s annual independent queer film festival has been cancelled after what is understood to have been a campaign of sustained harassment from authorities.</p><p>Beijing Queer film",
-      "paragraphs": [
-        "<p>Forums for discussion of feminist and LGBTQ+ views face growing intolerance from Chinese state, say experts</p><p>Beijing’s annual independent queer film festival has been cancelled after what is understood to have been a campaign of sustained harassment from authorities.</p><p>Beijing Queer film festival, which was due to begin on Friday in China’s capital, is one of the country’s oldest independent film festivals.</p> <a href=\"https://www.theguardian.com/world/2026/oct/30/beijing-queer-film-festival-cancelled-after-police-harassment\">Continue reading...</a>"
-      ],
-      "date": "2026-10-30",
-      "real": true
-    },
-    {
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/australia-news/live/2026/nov/05/beau-lamarre-condon-trial-former-police-accused-murder-case-jesse-baird-luke-davies-ntwnfb",
-      "title": "Beau Lamarre-Condon trial live updates: accused double murderer gives evidence in high-profile case",
-      "summary": "<p>The 31-year-old former police officer is accused of fatally shooting couple Jesse Baird and Luke Davies in Sydney in 2024</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/2026/nov/05/beau-lamarre-condon-witness-trial-ntwnfb\">Former police officer Beau Lamarre-Condon enters witnes",
-      "paragraphs": [
-        "<p>The 31-year-old former police officer is accused of fatally shooting couple Jesse Baird and Luke Davies in Sydney in 2024</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/2026/nov/05/beau-lamarre-condon-witness-trial-ntwnfb\">Former police officer Beau Lamarre-Condon enters witness box in Sydney double murder trial</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The court has adjourned for lunch. Lamarre-Condon will continue giving evidence at 2pm.</p><p><strong>Public pile in to watch Lamarre-Condon give evidence</strong></p> <a href=\"https://www.theguardian.com/australia-news/live/2026/nov/05/beau-lamarre-condon-trial-former-police-accused-murder-case-jesse-baird-luke-davies-ntwnfb\">Continue reading...</a>"
+        "<p>Philippine official says there are ‘signs that point to Thomas Markle Jr’s involvement in crime’, but he’s not yet being treated as a suspect</p><p>The Duchess of Sussex’s estranged half-brother, Thomas Markle Jr, has been named as a “person of interest” in the Philippine authorities’ inquiry into child sexual abuse image allegations made against her father, Thomas Markle Sr.</p><p>The country’s interior and local government secretary, Jonvic Remulla, told a press conference in Manila there were “signs that point that the son is involved in the crime as well”.</p> <a href=\"https://www.theguardian.com/world/2026/nov/05/meghan-sussex-thomas-markle-jr-philippines-child-sexual-abuse-inquiry\">Continue reading...</a>"
       ],
       "date": "2026-11-05",
       "real": true
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/australia-news/2026/nov/05/beau-lamarre-condon-witness-trial-ntwnfb",
-      "title": "Former police officer Beau Lamarre-Condon tells double murder trial he heard homophobic abuse at work",
-      "summary": "<p>Lamarre-Condon gives evidence in court after pleading not guilty to murdering Jesse Baird and Luke Davies in early 2024</p><ul><li><p>Live updates: <a href=\"https://www.theguardian.com/australia-news/live/2026/nov/05/beau-lamarre-condon-trial-former-police-accused-murder-case-jesse-baird-luke-dav",
+      "link": "https://www.theguardian.com/music/2026/nov/05/k-pop-group-newjeans-contract",
+      "title": "K-pop group NewJeans’s contract omitted rights to ‘sleep and free choice’ – report",
+      "summary": "<p>New report finds that record label Ador stripped child protections from group’s contracts when they were minors</p><p>The superstar K-pop group NewJeans signed restrictive record label contracts that waived their right to “sleep, rest and free choice”.</p><p>A new report from the <a href=\"https:/",
       "paragraphs": [
-        "<p>Lamarre-Condon gives evidence in court after pleading not guilty to murdering Jesse Baird and Luke Davies in early 2024</p><ul><li><p>Live updates: <a href=\"https://www.theguardian.com/australia-news/live/2026/nov/05/beau-lamarre-condon-trial-former-police-accused-murder-case-jesse-baird-luke-davies-ntwnfb\">Beau Lamarre-Condon gives evidence in murder trial</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Former officer Beau Lamarre-Condon has alleged he heard homophobic abuse when working for New South Wales police, as the 31-year-old gave evidence in his double murder trial in Sydney.</p><p>Lamarre-Condon is accused of fatally shooting couple Jesse Baird and Luke Davies with his police service weapon in Baird’s Paddington home on 19 February 2024.</p> <a href=\"https://www.theguardian.com/australia-news/2026/nov/05/beau-lamarre-condon-witness-trial-ntwnfb\">Continue reading...</a>"
+        "<p>New report finds that record label Ador stripped child protections from group’s contracts when they were minors</p><p>The superstar K-pop group NewJeans signed restrictive record label contracts that waived their right to “sleep, rest and free choice”.</p><p>A new report from the <a href=\"https://www.nytimes.com/interactive/2026/11/05/world/asia/kpop-newjeans-contract.html\">New York Times</a> found that the contracts were signed when the members of the record-breaking girl group were aged 14 to 17.</p> <a href=\"https://www.theguardian.com/music/2026/nov/05/k-pop-group-newjeans-contract\">Continue reading...</a>"
       ],
       "date": "2026-11-05",
       "real": true
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/business/2026/nov/05/david-jones-stores-closing-down-collapse-administration",
-      "title": "David Jones goes into administration, with store closures expected and thousands of jobs at risk",
-      "summary": "<p>Future of department store in jeopardy after years of steep losses, with outer suburban and regional locations vulnerable</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a",
+      "link": "https://www.theguardian.com/world/2026/nov/05/hong-kong-joshua-wong-sentenced-national-security-case",
+      "title": "Hong Kong pro-democracy activist Joshua Wong sentenced to 10 years in prison in national security case",
+      "summary": "<p>Wong, 30, in prison since 2020, is only activist in Hong Kong prosecuted twice under national security law</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/nov/05/joshua-wong-hong-kong-prison-letters-sentenced-10-years\">Exclusive: Joshua Wong laments city’s fate from inside maximum s",
       "paragraphs": [
-        "<p>Future of department store in jeopardy after years of steep losses, with outer suburban and regional locations vulnerable</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Australia’s premier upmarket department store David Jones has collapsed into voluntary administration, putting thousands of jobs at risk and leaving the future of the 188-year-old retailer hanging in the balance.</p><p>The upheaval follows years of steep losses and underperforming stores that left the heritage retailer falling behind on rent, culminating in a <a href=\"https://www.theguardian.com/business/2026/nov/04/david-jones-expected-to-fall-into-administration-rent\">breakdown of negotiations </a>with its primary landlord, Westfield owner Scentre Group.</p> <a href=\"https://www.theguardian.com/business/2026/nov/05/david-jones-stores-closing-down-collapse-administration\">Continue reading...</a>"
-      ],
-      "date": "2026-11-04",
-      "real": true
-    },
-    {
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/business/2026/nov/05/telstra-customers-false-missed-call-notifications-apology",
-      "title": "Telstra apologises after customers mystified by phantom missed call notifications",
-      "summary": "<p>Telco blames its MessageBank service and apologises for customer confusion</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-ne",
-      "paragraphs": [
-        "<p>Telco blames its MessageBank service and apologises for customer confusion</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Thousands of Telstra users have reported phantom missed-call notifications on their mobile devices with some messages arriving days after the actual phone calls.</p><p>The company acknowledged an issue with its MessageBank service on Wednesday but said the issue had been fixed. Telstra was investigating the cause, which was linked to a technical issue.</p> <a href=\"https://www.theguardian.com/business/2026/nov/05/telstra-customers-false-missed-call-notifications-apology\">Continue reading...</a>"
-      ],
-      "date": "2026-11-04",
-      "real": true
-    },
-    {
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/australia-news/2026/nov/04/food-grown-in-settlements-west-bank-sold-in-australia-produce-of-israel-ntwnfb",
-      "title": "Food grown in illegal West Bank settlements being sold in Australia as ‘produce of Israel’",
-      "summary": "<p>Analysis by human rights organisation Global Echo shows 85 of 132 shipments over eight years contained more than US$5m of organic dates grown in settlements</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adj",
-      "paragraphs": [
-        "<p>Analysis by human rights organisation Global Echo shows 85 of 132 shipments over eight years contained more than US$5m of organic dates grown in settlements</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Millions of dollars of food grown in illegal Israeli settlements in the occupied West Bank has been shipped to Australia labelled as “produce of Israel”, a new analysis of trade data has shown.</p><p>The human rights legal organisation Global Echo has analysed commercial documents and official trade data from the Israeli government and the Australian Bureau of Statistics, showing at least US$5m (A$7.2m) of organic dates grown in illegal settlements across the West Bank have been shipped to Australia over the past eight years.</p> <a href=\"https://www.theguardian.com/australia-news/2026/nov/04/food-grown-in-settlements-west-bank-sold-in-australia-produce-of-israel-ntwnfb\">Continue reading...</a>"
-      ],
-      "date": "2026-11-04",
-      "real": true
-    },
-    {
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/world/2026/nov/05/hubert-aiwanger-dead-german-politician-berlin-hotel",
-      "title": "Hubert Aiwanger, prominent German politician, found dead in Berlin hotel",
-      "summary": "<p>Police and prosecutors open investigation into death of the 55-year-old Bavarian state deputy leader</p><p>A prominent German politician was found dead in a Berlin hotel on Wednesday, police said, adding they had launched an investigation.</p><p>The cause of death of Hubert Aiwanger, 55, who was ",
-      "paragraphs": [
-        "<p>Police and prosecutors open investigation into death of the 55-year-old Bavarian state deputy leader</p><p>A prominent German politician was found dead in a Berlin hotel on Wednesday, police said, adding they had launched an investigation.</p><p>The cause of death of Hubert Aiwanger, 55, who was deputy leader of southern Bavaria state, was not immediately clear.</p> <a href=\"https://www.theguardian.com/world/2026/nov/05/hubert-aiwanger-dead-german-politician-berlin-hotel\">Continue reading...</a>"
+        "<p>Wong, 30, in prison since 2020, is only activist in Hong Kong prosecuted twice under national security law</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/nov/05/joshua-wong-hong-kong-prison-letters-sentenced-10-years\">Exclusive: Joshua Wong laments city’s fate from inside maximum security prison</a></p></li></ul><p>The Hong Kong activist <a href=\"https://www.theguardian.com/profile/joshua-wong\">Joshua Wong</a> has been sentenced to 10 years in prison after earlier pleading guilty to “foreign collusion”, his second conviction under a national security law critics say has been used to silence political opposition in the city.</p><p>Wong, who <a href=\"https://www.theguardian.com/world/2017/may/14/joshua-wong-the-student-who-risked-the-wrath-of-beijing-its-about-turning-the-impossible-into-the-possible\">rose to prominence</a> as the teenage face of Hong Kong’s 2014 pro-democracy demonstrations, <a href=\"https://www.theguardian.com/world/2026/sep/02/hong-kong-pro-democracy-activist-joshua-wong-pleads-guilty-collusion-china\">submitted his guilty plea</a> in September. He had been accused of working with the exiled Hong Kong activist <a href=\"https://www.theguardian.com/profile/nathan-law\">Nathan Law</a> to urge foreign powers to impose sanctions, blockades or other hostile measures against China.</p> <a href=\"https://www.theguardian.com/world/2026/nov/05/hong-kong-joshua-wong-sentenced-national-security-case\">Continue reading...</a>"
       ],
       "date": "2026-11-05",
       "real": true
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/world/2026/nov/04/serbia-officers-protesters",
-      "title": "Serbia detains police officers over alleged use of force against protesters",
-      "summary": "<p>Interior ministry claims suspects tortured and intimidated protesters detained in garage of government compound</p><p>Serbian authorities detained nine active police officers and one former officer on Wednesday for ⁠allegedly using excessive force against detainees during anti-corruption protests",
+      "link": "https://www.theguardian.com/world/2026/nov/05/uk-dangerously-reliant-on-china-critical-minerals-military-ai-renewable-energy",
+      "title": "UK found to be ‘dangerously’ reliant on China for critical minerals needed for defence and AI",
+      "summary": "<p>Delivering net zero also at risk, say MPs as they call for centralised policy and funding for mines and diversification </p><p>The UK is “dangerously” dependent on China for critical raw materials needed for the military, renewable energy infrastructure and AI, a parliamentary investigation has f",
       "paragraphs": [
-        "<p>Interior ministry claims suspects tortured and intimidated protesters detained in garage of government compound</p><p>Serbian authorities detained nine active police officers and one former officer on Wednesday for ⁠allegedly using excessive force against detainees during anti-corruption protests last year in Belgrade, the country’s interior ministry ⁠said.</p><p>Anti-corruption protests swept ⁠across Serbia, ​a candidate for European Union membership, in 2025 and 2026 after 16 people died when a concrete canopy ⁠on a renovated railway station in the city of Novi Sad collapsed on 1 November 2024.</p> <a href=\"https://www.theguardian.com/world/2026/nov/04/serbia-officers-protesters\">Continue reading...</a>"
+        "<p>Delivering net zero also at risk, say MPs as they call for centralised policy and funding for mines and diversification </p><p>The UK is “dangerously” dependent on China for critical raw materials needed for the military, renewable energy infrastructure and AI, a parliamentary investigation has found.</p><p>MPs on the business select committee called for an urgent centralised policy and the creation of a “critical minerals finance facility” to help fund rare earth and other critical mineral mines, and deploy grants, equity and debt to accelerate a diversification programme.</p> <a href=\"https://www.theguardian.com/world/2026/nov/05/uk-dangerously-reliant-on-china-critical-minerals-military-ai-renewable-energy\">Continue reading...</a>"
       ],
-      "date": "2026-11-04",
+      "date": "2026-11-05",
       "real": true
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/film/2026/nov/04/tinto-brass-director-of-caligula-erotic-cinema-dies-aged-93",
-      "title": "Tinto Brass, director of Caligula and maestro of Euro erotica, dies aged 93",
-      "summary": "<p>The cult Italian film-maker began as an assistant to Roberto Rossellini but moved into sex films, believing ‘eroticism to be a fundamental key to human expression’</p><p>Italian film director Tinto Brass, who was once hailed as the “Antonioni of the 70s” but came to be better known for bringing I",
+      "link": "https://www.theguardian.com/world/2026/nov/05/south-korea-to-expand-anti-piracy-unit-strait-of-hormuz",
+      "title": "South Korea says it will expand naval operations closer to strait of Hormuz",
+      "summary": "<p>Seoul to seek parliamentary approval to extend anti-piracy Cheonghae unit’s area to about 650km from the vital strait after criticism from Donald Trump on Iran war support</p><p>South Korea plans to expand the operations ⁠of its anti-piracy unit to waters closer to the strait of Hormuz, its defen",
       "paragraphs": [
-        "<p>The cult Italian film-maker began as an assistant to Roberto Rossellini but moved into sex films, believing ‘eroticism to be a fundamental key to human expression’</p><p>Italian film director Tinto Brass, who was once hailed as the “Antonioni of the 70s” but came to be better known for bringing Italian erotic cinema to a wider audience with films such as Caligula and Salon Kitty, has died aged 93.</p><p>His wife Caterina Varzi and children Bonifacio and Beatrice Brass announced the news of the director’s death to Italian press agency Ansa on Wednesday.</p> <a href=\"https://www.theguardian.com/film/2026/nov/04/tinto-brass-director-of-caligula-erotic-cinema-dies-aged-93\">Continue reading...</a>"
+        "<p>Seoul to seek parliamentary approval to extend anti-piracy Cheonghae unit’s area to about 650km from the vital strait after criticism from Donald Trump on Iran war support</p><p>South Korea plans to expand the operations ⁠of its anti-piracy unit to waters closer to the strait of Hormuz, its defence ministry has said, after <a href=\"https://www.theguardian.com/world/2026/sep/04/south-korea-pushes-back-reports-hormuz-deployment-us-pressure\">pressure from Donald Trump</a> to ⁠provide support for his war in Iran.</p><p>The government is to submit a motion to parliament that would expand the Cheonghae unit’s area of operation to waters near the port of Duqm in Oman, which ​is about 650km (403 miles) away from the strait. The motion also needs to be approved by ‌President Lee Jae Myung and the cabinet.</p> <a href=\"https://www.theguardian.com/world/2026/nov/05/south-korea-to-expand-anti-piracy-unit-strait-of-hormuz\">Continue reading...</a>"
       ],
-      "date": "2026-11-04",
+      "date": "2026-11-05",
       "real": true
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/world/live/2026/nov/04/eu-ukraine-russia-france-germany-us-nato-europe-latest-news",
-      "title": "Zelenskyy says 40 now confirmed dead after ‘insane’ Russian attack on school – as it happened",
-      "summary": "<p> School in Komyshuvakha in the Zaporizhzhia region was struck on Monday</p><p>Meanwhile, <strong>the Kremlin said that ⁠it ​hopes that the ⁠results of the US ⁠midterm ​elections ‌will not impact ‌what it ‌said were president Donald Trump’s “peacemaking efforts\" on Ukraine,</strong> Reuters said.<",
+      "link": "https://www.theguardian.com/australia-news/live/2026/nov/06/beau-lamarre-condon-trial-former-police-accused-murder-case-jesse-baird-luke-davies-ntwnfb",
+      "title": "Beau Lamarre-Condon trial live updates: prosecution begins cross-examination of double murder accused",
+      "summary": "<p>Lamarre-Condon returns to witness box for day two of his evidence. He has pleaded not guilty to murdering the couple in Sydney in 2024</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/2026/nov/06/beau-lamarre-condon-trial-witness-box-evidence-case-ntwnfb\">Beau Lamarre-Condon tell",
       "paragraphs": [
-        "<p> School in Komyshuvakha in the Zaporizhzhia region was struck on Monday</p><p>Meanwhile, <strong>the Kremlin said that ⁠it ​hopes that the ⁠results of the US ⁠midterm ​elections ‌will not impact ‌what it ‌said were president Donald Trump’s “peacemaking efforts\" on Ukraine,</strong> Reuters said.</p><p>In comments ‌broadcast by Russian state ​media, Kremlin spokesperson <strong>Dmitry Peskov</strong> said:</p><p><em>“We ⁠are sincerely ​counting on [Trump] ​continuing ​his peacemaking ​efforts.“</em></p><p><em>“Governing in the United States will be almost impossible in the coming years given the level of internal division and polarisation. As a European politician I will mainly look of course to trade policies, ⁠support to Ukraine and Nato.”</em></p> <a href=\"https://www.theguardian.com/world/live/2026/nov/04/eu-ukraine-russia-france-germany-us-nato-europe-latest-news\">Continue reading...</a>"
+        "<p>Lamarre-Condon returns to witness box for day two of his evidence. He has pleaded not guilty to murdering the couple in Sydney in 2024</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/2026/nov/06/beau-lamarre-condon-trial-witness-box-evidence-case-ntwnfb\">Beau Lamarre-Condon tells double murder trial shooting of Jesse Baird wasn’t intentional but ‘it was my fault’</a></p></li><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Lamarre-Condon tells the court he had seen what he assumed to be someone’s delivery motorcycle:</p><p><em>As soon as I saw that I had an idea … I saw a hi-vis hooded jacket, waterproof long pants and gloves.</em></p><p><em>This moment here … I wish that I didn’t do this … But I had the thought process that if I was to put on this helmet and outfit I could knock on Jesse’s door I would look like an UberEats driver without any verbal interaction with Jesse.</em></p><p>At the very least I would have had an AVO out against me … police don’t hesitate to put another police on an AVO … I was worried if I knocked on the door it would be perceived as harassment.</p> <a href=\"https://www.theguardian.com/australia-news/live/2026/nov/06/beau-lamarre-condon-trial-former-police-accused-murder-case-jesse-baird-luke-davies-ntwnfb\">Continue reading...</a>"
       ],
-      "date": "2026-11-04",
+      "date": "2026-11-06",
       "real": true
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/world/2026/nov/04/spains-deadly-train-crashes-have-damaged-public-trust-in-the-system",
-      "title": "Spain’s deadly train crashes have damaged public confidence in the system",
-      "summary": "<p>Pedro Sánchez and his socialist-led coalition government are racing to rebuild trust ahead of a snap election, but the task they face is immense</p><p><strong>• </strong><a href=\"https://www.theguardian.com/commentisfree/2018/mar/22/this-is-europe-sign-up-guardian-email-updates\"><strong>Don’t get",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/06/liberal-jess-wilson-campaign-bus-crashes-into-shop-first-day-victorian-election",
+      "title": "Liberal campaign bus crashes into shop awning on its first outing of Victorian election campaign",
+      "summary": "<p>Opposition leader Jess Wilson grimaced as the ‘Jess Express’, carrying Liberals and reporters, backs into the structure in suburban Melbourne</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3",
       "paragraphs": [
-        "<p>Pedro Sánchez and his socialist-led coalition government are racing to rebuild trust ahead of a snap election, but the task they face is immense</p><p><strong>• </strong><a href=\"https://www.theguardian.com/commentisfree/2018/mar/22/this-is-europe-sign-up-guardian-email-updates\"><strong>Don’t get This Is Europe delivered to your inbox? Sign up here</strong></a></p><p>A week ago today, for the second time in nine months, I got in my car and drove south from Madrid to cover a deadly train crash.</p><p>At 8.53am last Wednesday, a high-speed train operated by Spain’s state-owned rail company, Renfe, smashed into the back of a stationary train run by the private rail company Iryo, on the outskirts of the small town of Urda in Castilla-La Mancha. <a href=\"https://www.theguardian.com/world/2026/oct/29/spain-mourning-period-deadly-train-crash\">Sixty-nine people died in the accident</a>, more than 100 were injured, and Spain’s already depleted confidence in its treasured rail network plummeted.</p> <a href=\"https://www.theguardian.com/world/2026/nov/04/spains-deadly-train-crashes-have-damaged-public-trust-in-the-system\">Continue reading...</a>"
+        "<p>Opposition leader Jess Wilson grimaced as the ‘Jess Express’, carrying Liberals and reporters, backs into the structure in suburban Melbourne</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The Victorian Liberal party’s first offical day on the campaign trail has hit a snag, after its campaign bus reversed into the awning of a shopfront.</p><p>The “Jess Express”, a large blue bus emblazoned with an image of the opposition leader, Jess Wilson, was unveiled on Friday, 12 days after Labor launched its own red equivalent.</p> <a href=\"https://www.theguardian.com/australia-news/2026/nov/06/liberal-jess-wilson-campaign-bus-crashes-into-shop-first-day-victorian-election\">Continue reading...</a>"
       ],
-      "date": "2026-11-04",
+      "date": "2026-11-06",
+      "real": true
+    },
+    {
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/06/beau-lamarre-condon-trial-witness-box-evidence-case-ntwnfb",
+      "title": "Beau Lamarre-Condon tells double murder trial shooting of Jesse Baird wasn’t intentional but ‘it was my fault’",
+      "summary": "<p>Former NSW police officer gives evidence for a second day after pleading not guilty to murdering Baird and Luke Davies in early 2024</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/nov/06/beau-lamarre-condon-trial-former-police-accused-murder-case-jesse-baird-luke-davi",
+      "paragraphs": [
+        "<p>Former NSW police officer gives evidence for a second day after pleading not guilty to murdering Baird and Luke Davies in early 2024</p><ul><li><p><a href=\"https://www.theguardian.com/australia-news/live/2026/nov/06/beau-lamarre-condon-trial-former-police-accused-murder-case-jesse-baird-luke-davies-ntwnfb\">Beau Lamarre-Condon trial live updates: former police officer continues evidence in double murder trial</a></p></li></ul><p>Beau Lamarre-Condon has said he is “guilty of manslaughter” but said shooting Jesse Baird wasn’t intentional, as he gave evidence in his double-murder trial.</p><p>The former police officer is accused of fatally shooting Baird and his partner, Luke Davies, with his police service weapon in Baird’s Paddington home in Sydney on 19 February 2024.</p> <a href=\"https://www.theguardian.com/australia-news/2026/nov/06/beau-lamarre-condon-trial-witness-box-evidence-case-ntwnfb\">Continue reading...</a>"
+      ],
+      "date": "2026-11-06",
+      "real": true
+    },
+    {
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/culture/ng-interactive/2026/nov/06/powerhouse-parramatta-opening-festival",
+      "title": "Powerhouse Parramatta opens this weekend – and it’s dazzling inside and out",
+      "summary": "<p>Coups de théâtre abound in the $915m addition to western Sydney’s skyline, which opens on Saturday with five new exhibitions – and a 23-day festival</p><ul><li><p><a href=\"https://www.theguardian.com/lifeandstyle/2026/sep/25/saved-for-sunday-newsletter-email-signup-subscribe-guardian-australia-li",
+      "paragraphs": [
+        "<p>Coups de théâtre abound in the $915m addition to western Sydney’s skyline, which opens on Saturday with five new exhibitions – and a 23-day festival</p><ul><li><p><a href=\"https://www.theguardian.com/lifeandstyle/2026/sep/25/saved-for-sunday-newsletter-email-signup-subscribe-guardian-australia-lifestyle-culture?CMP=cvau_sfl\">Get our weekend culture and lifestyle email</a></p></li></ul><p>Dubbed the “Opera House of western Sydney”, Powerhouse Parramatta’s white lattice exoskeleton, composed from 1,300 individual pieces and wrapping 30,000 sq metres of interior space, has already become a familiar landmark.</p><p>Even better known, perhaps, <a href=\"https://www.theguardian.com/australia-news/2026/oct/31/parramatta-powerhouse-museum-opening-western-sydney-ntwnfb\">is the project’s controversial history</a>. Since the Parramatta outpost was announced in 2014, a vocal group of dissenters led by former staff and trustees has lamented what they see as the neglect of the museum’s Ultimo site in favour of a new infrastructure project, and what they say is a shift away from the museum’s core business towards contemporary art and events.</p> <a href=\"https://www.theguardian.com/culture/ng-interactive/2026/nov/06/powerhouse-parramatta-opening-festival\">Continue reading...</a>"
+      ],
+      "date": "2026-11-05",
+      "real": true
+    },
+    {
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/06/one-nation-sydney-fundraiser-pauline-hanson-nda-ntwnfb",
+      "title": "One Nation asks donors at $3,000-a-head Sydney fundraiser to accept ‘non-disclosure agreement’",
+      "summary": "<p>Transparency experts raise concerns about plans to use NDA to gag attendees at event featuring Pauline Hanson in lead-up to NSW election</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">fre",
+      "paragraphs": [
+        "<p>Transparency experts raise concerns about plans to use NDA to gag attendees at event featuring Pauline Hanson in lead-up to NSW election</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>One Nation is attempting to gag donors from ever revealing details of discussions at an invite-only, cocktail-dress fundraiser with the party’s senior leadership team, in a move described as a “worrying precedent” for democracy.</p><p>Invitations to the “very special evening” at an undisclosed central Sydney venue next Thursday show donors will be charged $3,000 for a “private and very discrete” four-hour event.</p> <a href=\"https://www.theguardian.com/australia-news/2026/nov/06/one-nation-sydney-fundraiser-pauline-hanson-nda-ntwnfb\">Continue reading...</a>"
+      ],
+      "date": "2026-11-05",
+      "real": true
+    },
+    {
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/nov/05/bomb-threats-disrupt-flights-across-europe-and-renew-hybrid-warfare-fears",
+      "title": "Bomb threats disrupt at least 25 flights across Europe, raising hybrid war fears",
+      "summary": "<p>Planes forced into emergency landings or diversions two days after hoax alerts affected air travel</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/nov/05/bomb-threats-european-flights-airports-disruption-explainer\">Why have more than 30 European flights been hit by bomb threats this",
+      "paragraphs": [
+        "<p>Planes forced into emergency landings or diversions two days after hoax alerts affected air travel</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/nov/05/bomb-threats-european-flights-airports-disruption-explainer\">Why have more than 30 European flights been hit by bomb threats this week?</a></p></li></ul><p>Hoax bomb threats have caused at least 34 flights across Europe to be disrupted, with some forced to make emergency landings, as questions mount over an apparently coordinated effort to cause chaos for travellers.</p><p>The <a href=\"https://www.theguardian.com/world/live/2026/nov/05/aer-lingus-plane-bomb-threat-europe-latest-news-updates#top-of-blog\">series of warnings</a> on Thursday affected flights between Italy, Ireland, the UK, Spain, Bulgaria, Romania, Poland, Finland, Austria, Denmark, Belgium, Portugal, France, Greece, Serbia and Czechia.</p> <a href=\"https://www.theguardian.com/world/2026/nov/05/bomb-threats-disrupt-flights-across-europe-and-renew-hybrid-warfare-fears\">Continue reading...</a>"
+      ],
+      "date": "2026-11-05",
+      "real": true
+    },
+    {
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/live/2026/nov/05/aer-lingus-plane-bomb-threat-europe-latest-news-updates",
+      "title": "Multiple planes diverted as bomb threats to commercial flights reported across Europe – as it happened",
+      "summary": "<p>EU transport commissioner says ‘too early’ to say if bomb threats to 20 flights are linked</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/nov/05/tell-us-have-you-been-affected-by-the-bomb-threats-to-flights-in-europe\">Tell us: have you been affected by the bomb threats?</a></p></li",
+      "paragraphs": [
+        "<p>EU transport commissioner says ‘too early’ to say if bomb threats to 20 flights are linked</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/nov/05/tell-us-have-you-been-affected-by-the-bomb-threats-to-flights-in-europe\">Tell us: have you been affected by the bomb threats?</a></p></li></ul><p>And <a href=\"https://www.ansa.it/sito/notizie/mondo/2026/11/05/triplo-allarme-bomba-coinvolti-due-voli-diretti-a-roma-e-uno-partito_746dfd38-9293-4c05-b2a2-c4fd0d609e5c.html\">the Italian news agency Ansa reported</a> that <strong>two more planes with links to Italy were affected by bomb threats this morning:</strong> that’s a WizzAir service from Milan Malpensa to Warsaw, which reportedly landed in Vienna, and a Finnair flight from Helsinki to Rome Fiumicino.</p><p><strong>Belgian newspaper Le Soir also reported a bomb threat against a LOT Polish Airline flight from Warsaw,</strong> which now landed at Zaventem.</p> <a href=\"https://www.theguardian.com/world/live/2026/nov/05/aer-lingus-plane-bomb-threat-europe-latest-news-updates\">Continue reading...</a>"
+      ],
+      "date": "2026-11-05",
+      "real": true
+    },
+    {
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/nov/05/protesters-france-march-strikes-education-cost-of-living",
+      "title": "Protesters march in cities across France as unions stage general strike",
+      "summary": "<p>Hundreds of thousands demonstrate over cost of living and cuts to public services as 70,000 police officers deployed</p><p>Hundreds of thousands of people have marched in cities across France in the latest round of street demonstrations, as trade unions put pressure on the government with a gener",
+      "paragraphs": [
+        "<p>Hundreds of thousands demonstrate over cost of living and cuts to public services as 70,000 police officers deployed</p><p>Hundreds of thousands of people have marched in cities across France in the latest round of street demonstrations, as trade unions put pressure on the government with a general strike over the cost of living and cuts to public services.</p><p>Striking teachers, hospital staff and rail workers joined high school and university students in largely peaceful demonstrations in Paris and other cities on Thursday amid a high police presence of 70,000 officers.</p> <a href=\"https://www.theguardian.com/world/2026/nov/05/protesters-france-march-strikes-education-cost-of-living\">Continue reading...</a>"
+      ],
+      "date": "2026-11-05",
+      "real": true
+    },
+    {
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/society/2026/nov/05/beware-cosmetic-surgery-tourism-packages-experts-advise",
+      "title": "Beware ‘sun, sea and surgery’ cosmetic tourism packages, experts advise",
+      "summary": "<p>British College of Aesthetic Medicine launches checklist as part of ‘vet it before you get it’ campaign</p><p>Cosmetic tourism is often sold as a package of sun, sea and surgery, but experts have said travelling overseas for procedures can end in infections, disfigurement and death.</p><p>Nora Nu",
+      "paragraphs": [
+        "<p>British College of Aesthetic Medicine launches checklist as part of ‘vet it before you get it’ campaign</p><p>Cosmetic tourism is often sold as a package of sun, sea and surgery, but experts have said travelling overseas for procedures can end in infections, disfigurement and death.</p><p>Nora Nugent, a consultant plastic surgeon and former president of the British Association of Aesthetic Plastic Surgeons, said travelling to countries such as Turkey for surgery came with myriad risks – and not just on the operating table.</p> <a href=\"https://www.theguardian.com/society/2026/nov/05/beware-cosmetic-surgery-tourism-packages-experts-advise\">Continue reading...</a>"
+      ],
+      "date": "2026-11-05",
+      "real": true
+    },
+    {
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/nov/05/eu-seeks-firmer-pledge-from-uk-discounted-university-tuition-fees",
+      "title": "EU presses UK to guarantee discounted university tuition fees for European students",
+      "summary": "<p>Failure to agree lower fees for EU citizens studying in UK should delay prized food and drink deal, members say</p><ul><li><p><a href=\"https://www.theguardian.com/politics/live/2026/nov/05/uk-politics-latest-news-updates-andy-burnham-eu-brexit-labour\">UK politics live – latest updates</a></p></li",
+      "paragraphs": [
+        "<p>Failure to agree lower fees for EU citizens studying in UK should delay prized food and drink deal, members say</p><ul><li><p><a href=\"https://www.theguardian.com/politics/live/2026/nov/05/uk-politics-latest-news-updates-andy-burnham-eu-brexit-labour\">UK politics live – latest updates</a></p></li></ul><p>The EU is seeking a firmer pledge from the British government to guarantee European students discounted rates on university tuition fees before a much-anticipated summit this month.</p><p>At a meeting of senior EU diplomats on Wednesday, at least six member states called for a clear commitment from the UK by the time of the summit that EU students will pay the lower domestic rate of university tuition fees.</p> <a href=\"https://www.theguardian.com/world/2026/nov/05/eu-seeks-firmer-pledge-from-uk-discounted-university-tuition-fees\">Continue reading...</a>"
+      ],
+      "date": "2026-11-05",
       "real": true
     }
   ]
