@@ -1,7 +1,107 @@
 {
-  "updated": "2026-11-15T02:12:07Z",
+  "updated": "2026-11-16T02:25:45Z",
   "count": 60,
   "articles": [
+    {
+      "source": "NPR",
+      "link": "https://www.npr.org/2026/11/15/nx-s1-6041683/flight-disruptions-expected-to-last-into-monday",
+      "title": "Flight disruptions expected to last into Monday",
+      "summary": "Congress recently gave the Department of Transportation $12.5 billion to upgrade the aging air traffic control system. President Trump wants more.<br><br>",
+      "paragraphs": [
+        "Congress recently gave the Department of Transportation $12.5 billion to upgrade the aging air traffic control system. President Trump wants more."
+      ],
+      "date": "2026-11-15",
+      "real": true
+    },
+    {
+      "source": "NPR",
+      "link": "https://www.npr.org/2026/11/15/nx-s1-6041716/a-long-long-ways-from-home-voyager-1-is-now-farther-than-anything-man-has-sent-into-space",
+      "title": "Far from home. Voyager 1 is now farther than anything man has sent into space",
+      "summary": "NASA's Voyager 1, which is the furthest man-made object from Earth, is set to reach a new milestone this week. On Wednesday, the probe will be roughly 16 billion miles from Earth.",
+      "paragraphs": [
+        "NASA's Voyager 1, which is the furthest man-made object from Earth, is set to reach a new milestone this week. On Wednesday, the probe will be roughly 16 billion miles from Earth."
+      ],
+      "date": "2026-11-15",
+      "real": true
+    },
+    {
+      "source": "NPR",
+      "link": "https://www.npr.org/2026/11/15/nx-s1-6013327/sydney-sweeney-jeans-american-eagle-garment-industry",
+      "title": "Who makes Sydney Sweeney's American Eagle jeans — and under what conditions?",
+      "summary": "Sydney Sweeney has great jeans, American Eagle Outfitters tells us. But who made them? And what are working conditions like in the garment factories of Pakistan and Bangladesh?",
+      "paragraphs": [
+        "Sydney Sweeney has great jeans, American Eagle Outfitters tells us. But who made them? And what are working conditions like in the garment factories of Pakistan and Bangladesh?"
+      ],
+      "date": "2026-11-15",
+      "real": true
+    },
+    {
+      "source": "NPR",
+      "link": "https://www.npr.org/2026/11/15/nx-s1-6041677/new-orleans-port-sues-miracle-mississippi-cruise-ship",
+      "title": "New Orleans port sues owners of tanker involved in Mississippi crash",
+      "summary": "Officials are seeking at least $1 million in damages from the owners of the tanker that hit a cruise ship last week. The incident was dubbed \"the miracle on the Mississippi\" after no one was killed.",
+      "paragraphs": [
+        "Officials are seeking at least $1 million in damages from the owners of the tanker that hit a cruise ship last week. The incident was dubbed \"the miracle on the Mississippi\" after no one was killed."
+      ],
+      "date": "2026-11-15",
+      "real": true
+    },
+    {
+      "source": "NPR",
+      "link": "https://www.npr.org/2026/11/15/nx-s1-6039311/laws-limiting-coal-miners-exposure-to-toxic-dust-are-in-danger-of-being-rolled-back",
+      "title": "Laws limiting coal miners' exposure to toxic dust are in danger of being rolled back",
+      "summary": "Coal miners who are exposed to silica dust are at a higher risk of black lung disease. Despite decades of advocacy, new efforts to regulate the toxic dust are under threat.",
+      "paragraphs": [
+        "Coal miners who are exposed to silica dust are at a higher risk of black lung disease. Despite decades of advocacy, new efforts to regulate the toxic dust are under threat."
+      ],
+      "date": "2026-11-15",
+      "real": true
+    },
+    {
+      "source": "NPR",
+      "link": "https://www.npr.org/2026/11/15/nx-s1-6040194/new-mexico-free-universal-childcare-families",
+      "title": "New Mexico wanted free childcare for all. This is what's worked — and what hasn't",
+      "summary": "A year ago in November, New Mexico became the first state to offer free childcare to every eligible family, regardless of income.",
+      "paragraphs": [
+        "A year ago in November, New Mexico became the first state to offer free childcare to every eligible family, regardless of income.",
+        "(Image credit: Nina Alexandria Riggio for NPR)"
+      ],
+      "date": "2026-11-15",
+      "real": true
+    },
+    {
+      "source": "NPR",
+      "link": "https://www.npr.org/2026/11/15/nx-s1-6039175/midterms-legislatures-states-democrats-gop",
+      "title": "Midterm voters ended the long-running GOP dominance in state legislatures",
+      "summary": "In several states, Democrats took control of legislatures that had been divided and they weakened GOP dominance in others. Issues on the agenda: More access to health care, new limits on school vouchers.",
+      "paragraphs": [
+        "In several states, Democrats took control of legislatures that had been divided and they weakened GOP dominance in others. Issues on the agenda: More access to health care, new limits on school vouchers."
+      ],
+      "date": "2026-11-15",
+      "real": true
+    },
+    {
+      "source": "NPR",
+      "link": "https://www.npr.org/2026/11/15/nx-s1-6002935/being-heumann-new-generation-disability-rights",
+      "title": "A new generation of disability rights activists carry on Judy Heumann's legacy",
+      "summary": "The film <em>Being Heumann</em> tells the lesser-known story of the mother of the disability rights movement. A new generation of activists share how they \"carry the torch\" today.",
+      "paragraphs": [
+        "Being Heumann , premiering November 13, 2026 on Apple TV.'/> The film Being Heumann tells the lesser-known story of the mother of the disability rights movement. A new generation of activists share how they \"carry the torch\" today."
+      ],
+      "date": "2026-11-15",
+      "real": true
+    },
+    {
+      "source": "NPR",
+      "link": "https://www.npr.org/2026/11/14/nx-s1-6041152/judge-trump-golf-course-blocks",
+      "title": "Trump blasts judge for halting his Washington golf project and says he will appeal",
+      "summary": "A federal judge on Saturday ordered a two-week delay to any work at a historic Washington public golf course not far from the White House.",
+      "paragraphs": [
+        "A federal judge on Saturday ordered a two-week delay to any work at a historic Washington public golf course not far from the White House."
+      ],
+      "date": "2026-11-14",
+      "real": true
+    },
     {
       "source": "NPR",
       "link": "https://www.npr.org/2026/11/14/nx-s1-6041115/faa-ground-stop-college-football-delays",
@@ -14,108 +114,97 @@
       "real": true
     },
     {
-      "source": "NPR",
-      "link": "https://www.npr.org/2026/11/14/nx-s1-6041093/st-patricks-day-parade-canceled-florida-dei",
-      "title": "Florida city cancels St. Patrick's Day parade, citing new anti-DEI law",
-      "summary": "A new Florida law that prohibits taxpayer dollars from going toward diversity initiatives has prompted Delray Beach to cancel its St. Patrick's Day parade after a nearly 60-year run.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/16/pope-condemns-murders-of-perus-indigenous-leaders-deforestation-of-amazon?traffic_source=rss",
+      "title": "Pope condemns murders of Peru’s Indigenous leaders, deforestation of Amazon",
+      "summary": "",
       "paragraphs": [
-        "A new Florida law that prohibits taxpayer dollars from going toward diversity initiatives has prompted Delray Beach to cancel its St. Patrick's Day parade after a nearly 60-year run."
+        ""
       ],
-      "date": "2026-11-14",
-      "real": true
-    },
-    {
-      "source": "NPR",
-      "link": "https://www.npr.org/2026/11/14/nx-s1-6040942/maintenance-gone-awry-caused-nation-wide-ground-stop-says-transportation-secretary",
-      "title": "Maintenance gone awry caused nation-wide ground stop, says Transportation Secretary",
-      "summary": "Transportation Secretary Sean Duffy points blame toward contractor in explaining Friday's nation-wide aviation ground stop.",
-      "paragraphs": [
-        "Transportation Secretary Sean Duffy points blame toward contractor in explaining Friday's nation-wide aviation ground stop."
-      ],
-      "date": "2026-11-14",
-      "real": true
-    },
-    {
-      "source": "NPR",
-      "link": "https://www.npr.org/2026/11/14/nx-s1-6041119/us-measles-elimination-status-vaccines-cdc-paho",
-      "title": "US has lost measles elimination status, global health authorities say",
-      "summary": "The U.S. has lost its status as a country where measles is eliminated, according to researchers with direct knowledge of the deliberations at the Pan American Health Organization.",
-      "paragraphs": [
-        "The U.S. has lost its status as a country where measles is eliminated, according to researchers with direct knowledge of the deliberations at the Pan American Health Organization."
-      ],
-      "date": "2026-11-14",
-      "real": true
-    },
-    {
-      "source": "NPR",
-      "link": "https://www.npr.org/2026/11/14/g-s1-153786/spacex-successfully-catches-starship-and-makes-history",
-      "title": "SpaceX successfully catches Starship and makes history",
-      "summary": "The company's spacecraft returned to its Texas launchpad in dramatic fashion — by carefully lowering itself until two metal arms attached to the launch tower could secure it.",
-      "paragraphs": [
-        "The company's spacecraft returned to its Texas launchpad in dramatic fashion — by carefully lowering itself until two metal arms attached to the launch tower could secure it."
-      ],
-      "date": "2026-11-14",
-      "real": true
-    },
-    {
-      "source": "NPR",
-      "link": "https://www.npr.org/2026/11/14/g-s1-153781/bomb-ethanol-plant-peoria-illinois-evacuations",
-      "title": "Bomb found near ethanol plant in central Illinois forces evacuations",
-      "summary": "The bomb was discovered Friday afternoon at the BioUrja Renewables plant in Peoria. Officials say the bomb has been \"rendered safe,\" but called it a \"credible threat.\" The FBI is investigating.",
-      "paragraphs": [
-        "The bomb was discovered Friday afternoon at the BioUrja Renewables plant in Peoria. Officials say the bomb has been \"rendered safe,\" but called it a \"credible threat.\" The FBI is investigating."
-      ],
-      "date": "2026-11-14",
-      "real": true
-    },
-    {
-      "source": "NPR",
-      "link": "https://www.npr.org/2026/11/14/nx-s1-6037777/democrats-midterms-whats-next-conference",
-      "title": "'We can't let them down' -- After midterm wins, Democrats turn to charting path ahead",
-      "summary": "Democrats from across the country descended on Denver for a two-day conference to chart the course of their party after sweeping victories in the midterm elections.",
-      "paragraphs": [
-        "Democrats from across the country descended on Denver for a two-day conference to chart the course of their party after sweeping victories in the midterm elections."
-      ],
-      "date": "2026-11-14",
-      "real": true
-    },
-    {
-      "source": "NPR",
-      "link": "https://www.npr.org/2026/11/14/nx-s1-6040952/faa-ground-stop-airplane-travel",
-      "title": "FAA blames Friday's ground stop on 'equipment issue' during telecoms network upgrade",
-      "summary": "Transportation Secretary Sean Duffy said initial investigations pointed to an issue with contractor L3Harris updating old tech at a remote location.",
-      "paragraphs": [
-        "Transportation Secretary Sean Duffy said initial investigations pointed to an issue with contractor L3Harris updating old tech at a remote location."
-      ],
-      "date": "2026-11-14",
-      "real": true
-    },
-    {
-      "source": "NPR",
-      "link": "https://www.npr.org/2026/11/14/nx-s1-6040144/chile-protests-fuel-kast-students",
-      "title": "Fuel crisis and protests pressure Chile's far-right president",
-      "summary": "Chile's far-right President José Antonio Kast is facing mounting public anger, as rising fuel prices trigger transport strikes and protests across the country.",
-      "paragraphs": [
-        "Chile's far-right President José Antonio Kast is facing mounting public anger, as rising fuel prices trigger transport strikes and protests across the country."
-      ],
-      "date": "2026-11-14",
-      "real": true
-    },
-    {
-      "source": "NPR",
-      "link": "https://www.npr.org/2026/11/14/nx-s1-6034952/alaska-results-ranked-choice-voting-nonpartisan-primary",
-      "title": "Alaska voters aren't ditching ranked choice voting, top-four primaries",
-      "summary": "This is the second time Alaskans voted down an effort to repeal the state's unique election system, which voters first approved in 2020. A repeal effort in 2024 also failed narrowly.",
-      "paragraphs": [
-        "This is the second time Alaskans voted down an effort to repeal the state's unique election system, which voters first approved in 2020. A repeal effort in 2024 also failed narrowly."
-      ],
-      "date": "2026-11-14",
+      "date": "2026-11-16",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/15/iraq-pm-sacks-nine-officials-over-oil-smuggling-in-pro-iran-stronghold?traffic_source=rss",
-      "title": "Iraq PM sacks nine officials over oil smuggling in pro-Iran stronghold",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/pope-urges-end-to-amazon-deforestation?traffic_source=rss",
+      "title": "Pope urges end to Amazon deforestation",
+      "summary": "",
+      "paragraphs": [
+        ""
+      ],
+      "date": "2026-11-16",
+      "real": true
+    },
+    {
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/16/founder-of-guadalajara-cartel-dies-in-hospital-after-decades-in-prison?traffic_source=rss",
+      "title": "Founder of Guadalajara cartel dies in hospital after decades in prison",
+      "summary": "",
+      "paragraphs": [
+        ""
+      ],
+      "date": "2026-11-16",
+      "real": true
+    },
+    {
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/16/after-a-nationwide-ground-stop-us-faces-aviation-infrastructure-questions?traffic_source=rss",
+      "title": "After a nationwide ground stop, US faces aviation infrastructure questions",
+      "summary": "",
+      "paragraphs": [
+        ""
+      ],
+      "date": "2026-11-16",
+      "real": true
+    },
+    {
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/czechs-rally-against-govt-threat-to-media-independence?traffic_source=rss",
+      "title": "Czechs rally against gov’t threat to media independence",
+      "summary": "",
+      "paragraphs": [
+        ""
+      ],
+      "date": "2026-11-16",
+      "real": true
+    },
+    {
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/16/zambias-copper-boom-attracts-billions-in-investment-but-who-benefits?traffic_source=rss",
+      "title": "Zambia’s copper boom attracts billions in investment, but who benefits?",
+      "summary": "",
+      "paragraphs": [
+        ""
+      ],
+      "date": "2026-11-16",
+      "real": true
+    },
+    {
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/16/eisenkot-says-netanyahu-cant-remain-israel-pm-amid-alleged-vote-meddling?traffic_source=rss",
+      "title": "Eisenkot says Netanyahu can’t remain Israel PM amid alleged vote meddling",
+      "summary": "",
+      "paragraphs": [
+        ""
+      ],
+      "date": "2026-11-16",
+      "real": true
+    },
+    {
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/16/iran-war-live-tehran-warns-it-may-strike-first-before-another-us-attack?traffic_source=rss",
+      "title": "Iran war live: Third US carrier arrives, Iran warns it could strike first",
+      "summary": "",
+      "paragraphs": [
+        ""
+      ],
+      "date": "2026-11-16",
+      "real": true
+    },
+    {
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/brawl-erupts-in-brazils-womens-league-final?traffic_source=rss",
+      "title": "Brawl erupts in Brazil’s Women’s League final",
       "summary": "",
       "paragraphs": [
         ""
@@ -125,8 +214,8 @@
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/netanyahu-sends-plea-to-eisenkot-for-unity-government?traffic_source=rss",
-      "title": "Netanyahu sends plea to Eisenkot for unity government",
+      "link": "https://www.aljazeera.com/sports/2026/11/15/england-stun-spain-to-end-la-rojas-43-game-unbeaten-run?traffic_source=rss",
+      "title": "England stun Spain to end La Roja’s 43-game unbeaten run",
       "summary": "",
       "paragraphs": [
         ""
@@ -136,8 +225,8 @@
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/thailands-elderly-kept-in-cages?traffic_source=rss",
-      "title": "Thailand’s elderly kept in cages",
+      "link": "https://www.aljazeera.com/news/2026/11/15/australia-canada-italy-and-the-uk-urge-israel-to-allow-aid-into-gaza?traffic_source=rss",
+      "title": "Australia, Canada, Italy and the UK urge Israel to allow aid into Gaza",
       "summary": "",
       "paragraphs": [
         ""
@@ -147,8 +236,8 @@
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/aje-onl-nf_spacexs-starship-nails-a-smooth-return-141126?traffic_source=rss",
-      "title": "SpaceX’s Starship nails a smooth return with historic catch",
+      "link": "https://www.aljazeera.com/news/2026/11/15/us-treasury-chief-calls-for-outsider-to-lead-embattled-tech-firm-nvidia?traffic_source=rss",
+      "title": "US Treasury chief calls for outsider to lead embattled tech firm Nvidia",
       "summary": "",
       "paragraphs": [
         ""
@@ -158,8 +247,8 @@
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/15/israeli-air-strike-kills-senior-hamas-commander-in-gaza?traffic_source=rss",
-      "title": "Israeli air strike kills senior Hamas commander in Gaza",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/yemens-houthis-unilaterally-release-600-war-detainees?traffic_source=rss",
+      "title": "Yemen’s Houthis unilaterally release 600 war detainees",
       "summary": "",
       "paragraphs": [
         ""
@@ -169,8 +258,8 @@
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/15/hundreds-of-men-march-in-switzerland-to-protest-violence-against-women?traffic_source=rss",
-      "title": "Hundreds of men march in Switzerland to protest violence against women",
+      "link": "https://www.aljazeera.com/gallery/2026/11/15/photos-pope-leo-visits-perus-amazon-and-andean-regions-during-12-day-tour?traffic_source=rss",
+      "title": "Photos: Pope Leo visits Peru’s Amazon and Andean regions during 12-day tour",
       "summary": "",
       "paragraphs": [
         ""
@@ -180,8 +269,8 @@
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/15/spacexs-starship-captured-by-launchpad-arms-in-dramatic-first?traffic_source=rss",
-      "title": "SpaceX’s Starship captured by launchpad arms in dramatic first",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/palestinians-reclaim-gazas-shores-with-a-swim-for-hope?traffic_source=rss",
+      "title": "Palestinians reclaim Gaza’s shores with a swim for hope",
       "summary": "",
       "paragraphs": [
         ""
@@ -191,8 +280,8 @@
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/11/15/iran-war-live-israel-vows-gaza-offensive-policy-despite-caretaker-status?traffic_source=rss",
-      "title": "Iran war live: Israel vows Gaza ‘offensive policy’ despite caretaker status",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/11/15/who-can-force-israel-to-implement-gaza-ceasefire-deal?traffic_source=rss",
+      "title": "Who can force Israel to implement Gaza ceasefire deal?",
       "summary": "",
       "paragraphs": [
         ""
@@ -202,189 +291,101 @@
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/portugal-immortalises-ronaldo-with-a-new-number-7?traffic_source=rss",
-      "title": "Portugal immortalises Ronaldo with a new number 7",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/estonia-to-close-border-crossings-with-russia-after-alleged-arson-attack?traffic_source=rss",
+      "title": "Estonia to close border crossings with Russia after alleged arson attack",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-11-14",
+      "date": "2026-11-15",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/aje-onl-nf_iraq-pm-targets-militia-stronghold-in-oil-smuggling-141126?traffic_source=rss",
-      "title": "Iraq PM targets powerful militia stronghold in $30m oil smuggling probe",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/jordan-sentences-three-men-to-death-over-deadly-church-attack-in-karak?traffic_source=rss",
+      "title": "Jordan sentences three men to death over deadly church attack in Karak",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-11-14",
+      "date": "2026-11-15",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/14/netanyahu-says-only-a-unity-government-can-guarantee-israels-security?traffic_source=rss",
-      "title": "Netanyahu says only a unity government can guarantee Israel’s security",
+      "link": "https://www.aljazeera.com/news/2026/11/15/africa-cdc-says-ebola-outbreak-in-dr-congo-still-not-under-control?traffic_source=rss",
+      "title": "Africa CDC says Ebola outbreak in DR Congo ‘still not under control’",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-11-14",
+      "date": "2026-11-15",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/14/explosion-near-syrias-capital-kills-father-and-child?traffic_source=rss",
-      "title": "Explosion near Syria’s capital kills father and child",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/israeli-drone-filmed-flying-low-outside-homes-in-southern-lebanon?traffic_source=rss",
+      "title": "Israeli drone filmed flying low outside homes in southern Lebanon",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-11-14",
+      "date": "2026-11-15",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/palestinian-stories-set-for-major-presence-at-2027-oscars?traffic_source=rss",
-      "title": "Palestinian stories set for major presence at 2027 Oscars",
+      "link": "https://www.aljazeera.com/news/2026/11/15/prince-harry-in-ukraine-meeting-invictus-2027-hopefuls?traffic_source=rss",
+      "title": "Prince Harry in Ukraine meeting Invictus 2027 hopefuls",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-11-14",
+      "date": "2026-11-15",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/sports/2026/11/14/ronaldo-less-portugal-thrashed-4-1-by-denmark-in-the-nations-league?traffic_source=rss",
-      "title": "Ronaldo-less Portugal thrashed 4-1 by Denmark in the Nations League",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/christian-priest-says-us-denied-him-a-visa-for-being-palestinian?traffic_source=rss",
+      "title": "Christian priest says US denied him a visa for being Palestinian",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-11-14",
+      "date": "2026-11-15",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/us-flights-resume-after-ageing-technology-blamed-for-outage?traffic_source=rss",
-      "title": "US flights resume after ageing technology blamed for outage",
+      "link": "https://www.aljazeera.com/news/2026/11/15/estonia-to-close-border-crossings-with-russia-after-attack-on-drone-maker?traffic_source=rss",
+      "title": "Estonia to close border crossings with Russia after attack on drone maker",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-11-14",
+      "date": "2026-11-15",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/14/us-envoy-kushner-says-he-aims-to-broker-europe-russia-talks-on-ukraine?traffic_source=rss",
-      "title": "US envoy Kushner says he aims to broker Europe-Russia talks on Ukraine",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/nearly-1500-migrants-reach-spains-canary-islands-in-one-day?traffic_source=rss",
+      "title": "Nearly 1,500 migrants reach Spain’s Canary Islands in one day",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-11-14",
+      "date": "2026-11-15",
       "real": true
     },
     {
       "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/14-11-sv-assam-muslim-families-evicted-demolition-drive?traffic_source=rss",
-      "title": "India’s Assam state demolishes homes of 132 Muslim families",
+      "link": "https://www.aljazeera.com/sports/2026/11/15/morocco-becomes-first-arab-nation-in-fifas-top-five-mens-rankings?traffic_source=rss",
+      "title": "Morocco becomes first Arab nation in FIFA’s top five men’s rankings",
       "summary": "",
       "paragraphs": [
         ""
       ],
-      "date": "2026-11-14",
-      "real": true
-    },
-    {
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/adlern-can_non-westren_cost_home_denmark-141126?traffic_source=rss",
-      "title": "Can being ‘non-Western’ cost you your home in Denmark?",
-      "summary": "",
-      "paragraphs": [
-        ""
-      ],
-      "date": "2026-11-14",
-      "real": true
-    },
-    {
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/deadly-car-bomb-blast-kills-two-near-syrias-capital?traffic_source=rss",
-      "title": "Deadly car bomb blast kills two near Syria’s capital",
-      "summary": "",
-      "paragraphs": [
-        ""
-      ],
-      "date": "2026-11-14",
-      "real": true
-    },
-    {
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/14/more-than-100000-rally-across-france-in-new-yellow-vest-protests?traffic_source=rss",
-      "title": "More than 100,000 rally across France in new Yellow Vest protests",
-      "summary": "",
-      "paragraphs": [
-        ""
-      ],
-      "date": "2026-11-14",
-      "real": true
-    },
-    {
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/14/tens-of-thousands-march-in-latest-portugal-housing-protests?traffic_source=rss",
-      "title": "Tens of thousands march in latest Portugal housing protests",
-      "summary": "",
-      "paragraphs": [
-        ""
-      ],
-      "date": "2026-11-14",
-      "real": true
-    },
-    {
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/14/pope-leo-urges-end-to-violence-in-peru-during-visit-to-remote-andes-town?traffic_source=rss",
-      "title": "Pope Leo urges end to violence in Peru during visit to remote Andes town",
-      "summary": "",
-      "paragraphs": [
-        ""
-      ],
-      "date": "2026-11-14",
-      "real": true
-    },
-    {
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/us-blames-outdated-technology-for-nationwide-flight-disruption?traffic_source=rss",
-      "title": "US blames outdated technology for nationwide flight disruption",
-      "summary": "",
-      "paragraphs": [
-        ""
-      ],
-      "date": "2026-11-14",
-      "real": true
-    },
-    {
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/11/14/us-blames-system-upgrade-for-longest-nationwide-faa-ground-stop-since-9?traffic_source=rss",
-      "title": "US blames system upgrade for longest nationwide FAA ground stop since 9/11",
-      "summary": "",
-      "paragraphs": [
-        ""
-      ],
-      "date": "2026-11-14",
-      "real": true
-    },
-    {
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/rising-costs-and-arrests-fuel-protests-in-central-african-republic?traffic_source=rss",
-      "title": "Rising costs and arrests fuel protests in Central African Republic",
-      "summary": "",
-      "paragraphs": [
-        ""
-      ],
-      "date": "2026-11-14",
+      "date": "2026-11-15",
       "real": true
     },
     {
@@ -444,6 +445,17 @@
     },
     {
       "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/nov/16/pope-leo-speech-peru-justice-for-amazon-activists-environment",
+      "title": "‘The blood of these brothers cries out’: Pope Leo demands justice for people killed protecting the Amazon",
+      "summary": "<p>Pontiff delivers forceful speech on final day in Peru as he travels from high in the Andes into the Amazon</p><p>Pope Leo XIV has demanded justice for environmental defenders killed for protecting the Amazon and backed efforts by Indigenous peoples to stop their lands from being ravaged by loggin",
+      "paragraphs": [
+        "<p>Pontiff delivers forceful speech on final day in Peru as he travels from high in the Andes into the Amazon</p><p>Pope Leo XIV has demanded justice for environmental defenders killed for protecting the Amazon and backed efforts by Indigenous peoples to stop their lands from being ravaged by logging and illegal mining.</p><p>On the penultimate day of his South American tour, Leo on Sunday travelled into the Peruvian Amazon and channelled one of Pope Francis’s core teachings that links care for the most vulnerable with care for God’s creation.</p> <a href=\"https://www.theguardian.com/world/2026/nov/16/pope-leo-speech-peru-justice-for-amazon-activists-environment\">Continue reading...</a>"
+      ],
+      "date": "2026-11-16",
+      "real": true
+    },
+    {
+      "source": "The Guardian",
       "link": "https://www.theguardian.com/world/2026/nov/14/fires-heat-floods-extreme-weather-2026",
       "title": "Choking fires, deadly heat and devastating floods: 2026 in extreme weather",
       "summary": "<p>People around the world have contended with unprecedented weather events and their fatal effects caused by the climate catastrophe</p><p>After the world’s hottest summer since records began in 1850, the death toll from extreme weather in 2026 is already in the high tens of thousands. That is a co",
@@ -488,13 +500,35 @@
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/uk-news/2026/nov/11/argentine-lawyer-mocks-uk-sovereignty-claim-in-falklands-oil-case",
-      "title": "Argentinian lawyer mocks UK’s sovereignty claim in Falklands oil case",
-      "summary": "<p>Lawyer says Britain wrong to believe in historic doctrine that crown has sovereignty over parts of oceans</p><p>Britain should not be permitted to act as a 17th-century colonial power treating the waters around the Falkland Islands as a <em>Dominium maris Britannici</em>, Argentina has told an in",
+      "link": "https://www.theguardian.com/technology/2026/nov/16/megaspeed-company-breaks-slience-nvidia-jensen-huang-alice-huang",
+      "title": "Megaspeed, the company linked to the downfall of Nvidia boss, says it’s a ‘legitimate and lawful business’",
+      "summary": "<p>Company insists Alice Huang, who is accused of being a Chinese spy, left business in late 2025</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguard",
       "paragraphs": [
-        "<p>Lawyer says Britain wrong to believe in historic doctrine that crown has sovereignty over parts of oceans</p><p>Britain should not be permitted to act as a 17th-century colonial power treating the waters around the Falkland Islands as a <em>Dominium maris Britannici</em>, Argentina has told an international tribunal.</p><p>Marcelo Kohen, representing Argentina at a hearing in Hamburg, mocked Britain for apparently believing in the historic doctrine that the British crown has sovereignty over expansive parts of the oceans.</p> <a href=\"https://www.theguardian.com/uk-news/2026/nov/11/argentine-lawyer-mocks-uk-sovereignty-claim-in-falklands-oil-case\">Continue reading...</a>"
+        "<p>Company insists Alice Huang, who is accused of being a Chinese spy, left business in late 2025</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Megaspeed International, the company linked to the downfall of the Nvidia chief, <a href=\"https://www.theguardian.com/technology/jensen-huang\">Jensen Huang</a>, says it is a “legitimate and lawful business” and has announced that its director, who allegedly had an affair with Jensen Huang, left the business in late 2025.</p><p>The Singapore-based cloud computing company on the weekend said it was “aware of recent media reports containing assertions about our business, supply chain and global operations that are not supported by verifiable evidence”.</p> <a href=\"https://www.theguardian.com/technology/2026/nov/16/megaspeed-company-breaks-slience-nvidia-jensen-huang-alice-huang\">Continue reading...</a>"
       ],
-      "date": "2026-11-11",
+      "date": "2026-11-16",
+      "real": true
+    },
+    {
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/technology/2026/nov/15/ai-cheating-south-korea-college-entrance-exam",
+      "title": "160 questions, only one wrong: top scorer in South Korea tax exam admits AI cheating",
+      "summary": "<p>Fears for national college entrance exam next week as test taker admits sending photos of questions to AI tool</p><p>The marks attained by the top scorer ⁠on South Korea’s national exam for aspiring tax accountants this year seemed too good to be true. On Sunday, sceptics were ⁠proven right when ",
+      "paragraphs": [
+        "<p>Fears for national college entrance exam next week as test taker admits sending photos of questions to AI tool</p><p>The marks attained by the top scorer ⁠on South Korea’s national exam for aspiring tax accountants this year seemed too good to be true. On Sunday, sceptics were ⁠proven right when he ⁠confessed to ​using generative AI to cheat.</p><p>The scandal has followed months of speculation after he scored near-perfect marks on hundreds of questions over two exams ⁠taken in April and July. It has also raised the stakes for organisers of South Korea’s annual college entrance exam this Thursday.</p> <a href=\"https://www.theguardian.com/technology/2026/nov/15/ai-cheating-south-korea-college-entrance-exam\">Continue reading...</a>"
+      ],
+      "date": "2026-11-15",
+      "real": true
+    },
+    {
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/nov/15/asia-diplomatic-summits-trump-xi-putin-apec-asean",
+      "title": "World leaders head to Asia for back-to-back diplomatic summits",
+      "summary": "<p>Tussle for influence as trade, tech and regional security to take centre stage in China, Philippines and Cambodia meetings</p><p>World leaders will fly in to Asia for back-to-back high-level summits this week against the backdrop of the tussle for influence between the superpowers China and the U",
+      "paragraphs": [
+        "<p>Tussle for influence as trade, tech and regional security to take centre stage in China, Philippines and Cambodia meetings</p><p>World leaders will fly in to Asia for back-to-back high-level summits this week against the backdrop of the tussle for influence between the superpowers China and the US.</p><p>Beijing will have the home advantage when it welcomes Donald Trump to its southern technology hub of Shenzhen for the Asia-Pacific Economic Cooperation (Apec) leaders’ meeting. It starts two weeks after the US leader <a href=\"https://www.theguardian.com/us-news/us-midterm-elections-2026\">lost midterm elections</a>.</p> <a href=\"https://www.theguardian.com/world/2026/nov/15/asia-diplomatic-summits-trump-xi-putin-apec-asean\">Continue reading...</a>"
+      ],
+      "date": "2026-11-15",
       "real": true
     },
     {
@@ -521,90 +555,90 @@
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/news/audio/2026/nov/13/teen-prodigy-netflix-star-prisoner-the-story-of-hong-kong-dissident-joshua-wong-podcast",
-      "title": "Teen prodigy, Netflix star, prisoner: the story of Hong Kong dissident Joshua Wong – podcast",
-      "summary": "<p>Pro-democracy activist <strong>Nathan Law </strong>and journalist <strong>Danny Vincent </strong>on the sentencing of the iconic Hong Kong campaigner Joshua Wong to another 10 years in prison. Send your comments and questions to <a href=\"mailto:tif.questions@theguardian.com\">tif.questions@theguar",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/16/mp-helen-haines-out-of-hospital-after-attack-leg-amputation-ntwnfb",
+      "title": "MP Helen Haines leaves hospital four weeks after alleged attack and double leg amputation",
+      "summary": "<p>The Alfred hospital in Melbourne confirmed on Monday the independent MP had been discharged</p><p>Independent Australian MP Helen Haines has been discharged from hospital, four weeks after she was <a href=\"https://www.theguardian.com/australia-news/2026/oct/24/helen-hainess-condition-improves-day",
       "paragraphs": [
-        "<p>Pro-democracy activist <strong>Nathan Law </strong>and journalist <strong>Danny Vincent </strong>on the sentencing of the iconic Hong Kong campaigner Joshua Wong to another 10 years in prison. Send your comments and questions to <a href=\"mailto:tif.questions@theguardian.com\">tif.questions@theguardian.com</a></p><p>He has been leading protests since he was 14. Joshua Wong has been on the cover of Time magazine, the focus of a Netflix documentary and an icon for Hong Kong’s pro-democracy movement.</p><p>Wong has been leading the fight against a Chinese squeeze on freedoms in Hong Kong for the last 15 years. He will now spend more than 16 years in prison.</p> <a href=\"https://www.theguardian.com/news/audio/2026/nov/13/teen-prodigy-netflix-star-prisoner-the-story-of-hong-kong-dissident-joshua-wong-podcast\">Continue reading...</a>"
+        "<p>The Alfred hospital in Melbourne confirmed on Monday the independent MP had been discharged</p><p>Independent Australian MP Helen Haines has been discharged from hospital, four weeks after she was <a href=\"https://www.theguardian.com/australia-news/2026/oct/24/helen-hainess-condition-improves-days-after-losing-both-legs-from-alleged-attack-ntwnfb\">allegedly attacked by a man</a> outside her electorate office in regional Victoria and lost both of her legs.</p><p>The Alfred hospital in Melbourne confirmed on Monday Haines had been discharged, but provided no further detail. Her office has been contacted.</p> <a href=\"https://www.theguardian.com/australia-news/2026/nov/16/mp-helen-haines-out-of-hospital-after-attack-leg-amputation-ntwnfb\">Continue reading...</a>"
       ],
-      "date": "2026-11-13",
+      "date": "2026-11-16",
       "real": true
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/environment/2026/nov/12/china-rules-out-hosting-cop33-climate-summit-in-2028",
-      "title": "China rules out hosting Cop33 climate summit in 2028",
-      "summary": "<p>Decision disappoints experts hoping for world’s biggest emitter to take global lead on climate crisis </p><p>China has ruled out hosting the Cop33 UN climate summit in 2028 after months of deliberations, leaving the field open for other Asian countries to hold it, the Guardian understands.</p><p>",
+      "link": "https://www.theguardian.com/business/2026/nov/16/coles-cyber-attack-incident-data",
+      "title": "Coles investigating ‘cybersecurity incident’ and apologises to customers",
+      "summary": "<p>Supermarket giant says no customer, team or supplier data breached in cyber-attack but recommends customers update passwords</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or",
       "paragraphs": [
-        "<p>Decision disappoints experts hoping for world’s biggest emitter to take global lead on climate crisis </p><p>China has ruled out hosting the Cop33 UN climate summit in 2028 after months of deliberations, leaving the field open for other Asian countries to hold it, the Guardian understands.</p><p>The decision will disappoint many countries and climate experts, who had hoped the world’s biggest emitter would take the lead on the global stage, as the US under Donald Trump has <a href=\"https://www.theguardian.com/us-news/2026/jan/07/trump-international-groups-un\">vacated all forms of international cooperation on the climate</a>.</p> <a href=\"https://www.theguardian.com/environment/2026/nov/12/china-rules-out-hosting-cop33-climate-summit-in-2028\">Continue reading...</a>"
+        "<p>Supermarket giant says no customer, team or supplier data breached in cyber-attack but recommends customers update passwords</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Australia’s second-largest retailer has been targeted in a cyber-attack, though it is still too early to tell whether any of its data has been stolen or compromised.</p><p>Coles revealed the threat on Monday morning, saying it was investigating the incident with support from the Australian Cyber Security Centre and global security experts.</p> <a href=\"https://www.theguardian.com/business/2026/nov/16/coles-cyber-attack-incident-data\">Continue reading...</a>"
       ],
-      "date": "2026-11-12",
+      "date": "2026-11-16",
       "real": true
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/world/2026/nov/12/thursday-briefing-what-we-do-and-dont-know-about-alice-huang-and-the-nvidia-affair",
-      "title": "Thursday briefing: What we do (and don’t) know about Alice Huang and the Nvidia affair",
-      "summary": "<p>In today’s newsletter: US intelligence reportedly believes the former tech executive was recruited by Beijing, raising questions about the security of the AI industry and Trump’s close ties to Nvidia chief Jensen Huang</p><p></p><p>Good morning. Espionage is supposed to be a secretive business, a",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/16/australia-uk-canada-italy-urge-israel-critical-aid-gaza-winter-ntwnfb",
+      "title": "Australia, UK, Canada and Italy urge Israel to allow critical aid to Gaza ahead of winter",
+      "summary": "<p>Four countries call situation ‘entirely reversible’ in joint statement as flooding exacerbates humanitarian crisis</p><p>Australia, Canada, the United Kingdom and Italy have urged Israel to allow critical humanitarian aid to enter Gaza, describing the situation on the ground as “dire”.</p><p>The ",
       "paragraphs": [
-        "<p>In today’s newsletter: US intelligence reportedly believes the former tech executive was recruited by Beijing, raising questions about the security of the AI industry and Trump’s close ties to Nvidia chief Jensen Huang</p><p></p><p>Good morning. Espionage is supposed to be a secretive business, and spies are supposed to be virtually invisible. That hasn’t been the case for Alice Huang, the mysterious Shanghai executive who formed a romantic relationship with Jensen Huang, the founder of Nvidia, one of America’s most powerful tech companies.</p><p>Many questions have arisen since it emerged that US intelligence believes that Huang (no relation of Jensen’s) is an asset recruited by the Chinese intelligence services to spy on behalf of Beijing. This morning’s newsletter explains what we know about the story, and what it tells us about the effectiveness of Chinese espionage. That’s after the headlines.</p><p><em><strong>UK </strong></em>| Ministers are considering <a href=\"https://www.theguardian.com/media/2026/nov/11/tv-entertainment-industry-protect-women-david-walliams-allegations-nandy\">changing the law</a> to force the entertainment industry to better protect women and children in the wake of the revelations over David Walliams and the conviction of Russell Brand.</p><p><em><strong>Climate </strong></em>| The UK government has <a href=\"https://www.theguardian.com/politics/2026/nov/11/uk-appoints-worlds-first-special-representative-for-climate-security\">appointed the world’s first </a>special representative for climate security, in the strongest sign yet of fears that climate breakdown will bring chaos to the country.</p><p><em><strong>US midterms </strong></em>| Democrat Scott Colom has become the first Black senator in Mississippi to be elected since Reconstruction,<a href=\"https://www.theguardian.com/us-news/2026/nov/11/scott-colom-mississippi-senate-race\"> in a stunning upset </a>after more than a week of vote counting in one of the country’s most reliably red states.</p><p><em><strong>Europe </strong></em>| Millions of people across Spain have joined the country’s <a href=\"https://www.theguardian.com/world/2026/nov/11/spain-general-strike-housing-costs\">first general strike in 14 years</a>, setting up picket lines to protest against soaring housing prices before an election in which the far right could be catapulted into power.</p><p><em><strong>Technology </strong></em>| Police officers <a href=\"https://www.theguardian.com/technology/2026/nov/12/facial-recognition-errors-put-ethnic-minorities-at-risk-of-wrongful-arrest-police-watchdog-warns\">risk arresting innocent people</a>, especially from ethnic minorities, if they treat inaccurate facial recognition data as evidence, an official report has found.</p> <a href=\"https://www.theguardian.com/world/2026/nov/12/thursday-briefing-what-we-do-and-dont-know-about-alice-huang-and-the-nvidia-affair\">Continue reading...</a>"
-      ],
-      "date": "2026-11-12",
-      "real": true
-    },
-    {
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/australia-news/2026/nov/15/australia-weather-east-coast-thunderstorms-giant-hail-and-powerful-winds-ettalong-beach-swimmer-lightning-strike",
-      "title": "Thunderstorms, giant hail and powerful winds forecast for NSW as wild weather hits east coast",
-      "summary": "<p>Volatile weather predicted after storms on Saturday, with a man in his 20s struck by lightning while swimming on NSW Central Coast</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app<",
-      "paragraphs": [
-        "<p>Volatile weather predicted after storms on Saturday, with a man in his 20s struck by lightning while swimming on NSW Central Coast</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Dangerous and severe “supercell” thunderstorms with the potential for giant hail and destructive winds were forecast for parts of New South Wales on Sunday, as volatile weather continued in the eastern states over the weekend.</p><p>Storms dumped heavy rain across large parts of northern and eastern NSW and much of Queensland on Saturday, with strong winds recorded up to 98km/h in Goulburn and rainfall totals of between 30mm and 50mm in the Coffs Harbour area.</p> <a href=\"https://www.theguardian.com/australia-news/2026/nov/15/australia-weather-east-coast-thunderstorms-giant-hail-and-powerful-winds-ettalong-beach-swimmer-lightning-strike\">Continue reading...</a>"
+        "<p>Four countries call situation ‘entirely reversible’ in joint statement as flooding exacerbates humanitarian crisis</p><p>Australia, Canada, the United Kingdom and Italy have urged Israel to allow critical humanitarian aid to enter Gaza, describing the situation on the ground as “dire”.</p><p>The four countries released a joint statement on Monday morning, urging Israel to allow 150,000 tents and other vital supplies being held at the border into Gaza ahead of winter.</p> <a href=\"https://www.theguardian.com/australia-news/2026/nov/16/australia-uk-canada-italy-urge-israel-critical-aid-gaza-winter-ntwnfb\">Continue reading...</a>"
       ],
       "date": "2026-11-15",
       "real": true
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/business/2026/nov/15/myer-david-jones-stores-closures-administration",
-      "title": "David Jones’ future looks grim. Is Myer next?",
-      "summary": "<p>With Myer’s profitability battered and share price languishing near all-time lows, DJs’ slide into administration raises an uncomfortable question</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/16/gender-diverse-australian-sailors-barred-from-us-submarines-despite-aukus-deal-documents-reveal-ntwnfb",
+      "title": "Gender-diverse Australian sailors barred from US submarines despite Aukus deal, documents reveal",
+      "summary": "<p>Defence briefing released under freedom of information laws shows ADF beholden to US directives when in training</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"ht",
       "paragraphs": [
-        "<p>With Myer’s profitability battered and share price languishing near all-time lows, DJs’ slide into administration raises an uncomfortable question</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>When the retailer’s doors slide open, shoppers are greeted by rows of slashed price tags, frantic discounting, and all the other hallmarks of a department store closing down.</p><p>Except this isn’t David Jones, the embattled upmarket retailer that is <a href=\"https://www.theguardian.com/business/2026/nov/11/david-jones-store-closures-administration-restructure\">shutting half its 38 stores</a>.</p> <a href=\"https://www.theguardian.com/business/2026/nov/15/myer-david-jones-stores-closures-administration\">Continue reading...</a>"
+        "<p>Defence briefing released under freedom of information laws shows ADF beholden to US directives when in training</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Aukus is effectively forcing the Australian navy to comply with a US ban on transgender people in the military with gender-diverse navy recruits <a href=\"https://www.theguardian.com/us-news/2026/jun/01/transgender-troops-military-enlistment-ruling\">prevented from starting a career</a> in nuclear submarines because they would not be safe training on US boats.</p><p>Internal Australian defence force documents show transgender and non-binary sailors and officers are explicitly banned from Australia’s nuclear submarine training program because of US policies.</p> <a href=\"https://www.theguardian.com/australia-news/2026/nov/16/gender-diverse-australian-sailors-barred-from-us-submarines-despite-aukus-deal-documents-reveal-ntwnfb\">Continue reading...</a>"
       ],
-      "date": "2026-11-14",
+      "date": "2026-11-15",
       "real": true
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/australia-news/2026/nov/15/victoria-premier-ben-caroll-youth-crime-offenders-plan-ntwnfb",
-      "title": "Even Labor MPs are at a loss over the Victorian premier’s ‘tough love’ plan for youth offenders",
-      "summary": "<p>Parliamentarians across factional lines share concerns about policy that legal expert says ‘paints the imprisonment of children as therapeutic’</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">daily political email</a>, <a href=\"https://app.adjust.com/w4u",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/15/anthony-albanese-welcomes-trump-xi-putin-summit-even-as-european-leaders-express-reservations",
+      "title": "Anthony Albanese welcomes Trump-Xi-Putin summit – even as European leaders express reservations",
+      "summary": "<p>‘We think dialogue is a good thing,’ Australian PM says after German chancellor urges the US to work with Europe for peace in Ukraine</p><p>Australia has endorsed this week’s historic summit between Donald Trump, Xi Jinping and Vladimir Putin in China, even as European leaders warn that the US pr",
       "paragraphs": [
-        "<p>Parliamentarians across factional lines share concerns about policy that legal expert says ‘paints the imprisonment of children as therapeutic’</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">daily political email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>Until December last year, Meena Singh was Victoria’s commissioner for Aboriginal children and young people, a role in which she advocated for some of the state’s most vulnerable children.</p><p>She had held the role since 2022. In all that time, she says, nobody from the Victorian government had approached her with a proposal like the one the Victorian premier, Ben Carroll, announced last week: a $204m “tough love” plan to send children who commit low- and mid-level offences to secure facilities, including the former Malmsbury youth justice centre, for schooling, drug and alcohol treatment and to learn life skills.</p> <a href=\"https://www.theguardian.com/australia-news/2026/nov/15/victoria-premier-ben-caroll-youth-crime-offenders-plan-ntwnfb\">Continue reading...</a>"
+        "<p>‘We think dialogue is a good thing,’ Australian PM says after German chancellor urges the US to work with Europe for peace in Ukraine</p><p>Australia has endorsed this week’s historic summit between Donald Trump, Xi Jinping and Vladimir Putin in China, even as European leaders warn that the US president must not make major concessions over the war in Ukraine.</p><p>The three-way summit is planned to take place in Shenzhen, where the leaders will gather for the Asia-Pacific Economic Cooperation (Apec) meeting. The Ukrainian president, Volodymyr Zelenskyy, has warned the talks must not lead to a redistribution of influence among world powers or the abandonment of his country, more than four years into the war sparked by Putin’s full-scale invasion.</p> <a href=\"https://www.theguardian.com/australia-news/2026/nov/15/anthony-albanese-welcomes-trump-xi-putin-summit-even-as-european-leaders-express-reservations\">Continue reading...</a>"
       ],
-      "date": "2026-11-14",
+      "date": "2026-11-15",
       "real": true
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/australia-news/2026/nov/15/art-over-profit-ai-policy-debate-andrew-mclachlan",
-      "title": "Art ‘must not be sacrificed on the altar of corporate profit’, Liberal senator says as AI policy debate rages",
-      "summary": "<p>Andrew McLachlan says he chooses ‘real forests over virtual ones’ as he urges Labor government to consider AI’s impact on artists and environment</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">daily political email</a>, <a href=\"https://app.adjust.com/w",
+      "link": "https://www.theguardian.com/world/2026/nov/15/estonia-to-close-all-border-crossings-with-russia-after-attack-on-drone-maker",
+      "title": "Estonia to close all border crossings with Russia after attack on drone maker",
+      "summary": "<p>Authorities say Russian intelligence service ordered attack which Estonian PM links to Tallinn’s support for Ukraine </p><p>Estonia will close all its border crossings with Russia from 1 December after a suspected sabotage attack on a drone maker in the Baltic state over the weekend, which author",
       "paragraphs": [
-        "<p>Andrew McLachlan says he chooses ‘real forests over virtual ones’ as he urges Labor government to consider AI’s impact on artists and environment</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">daily political email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The outspoken Liberal senator Andrew McLachlan has raised the alarm about the approach of his party and the Labor government to AI, saying artists’ copyright must not be “sacrificed” for investment and building new datacentres must not be prioritised above environmental concerns.</p><p>As <a href=\"https://www.theguardian.com/technology/2026/nov/09/weakening-ai-copyright-law-will-spell-disaster-for-creativity-australia\">Labor considers copyright changes in an AI policy suite</a> including datacentres, online safety, energy resources and economic benefits, the South Australian backbencher added weight to mooted constitutional challenges as to whether watering down copyright law <a href=\"https://www.theguardian.com/law/2026/oct/31/experts-warn-ai-copyright-changes-could-breach-australian-constitution-and-spark-huge-compensation-rights-case\">would be an illegal acquisition of property</a>.</p><p><strong><a href=\"https://www.theguardian.com/australia-news/2026/aug/28/politics-really-newsletter-guardian-australia-free-best-daily-auspol-email-subscribe?CMP=copyembed\">Sign up for Guardian Australia’s Politics, really newsletter here</a></strong></p> <a href=\"https://www.theguardian.com/australia-news/2026/nov/15/art-over-profit-ai-policy-debate-andrew-mclachlan\">Continue reading...</a>"
+        "<p>Authorities say Russian intelligence service ordered attack which Estonian PM links to Tallinn’s support for Ukraine </p><p>Estonia will close all its border crossings with Russia from 1 December after a suspected sabotage attack on a drone maker in the Baltic state over the weekend, which authorities said was ordered by Russia’s GRU military intelligence service.</p><p>On Saturday morning, eight people were detained during an attempted attack on Threod Systems, a defence company that manufactures long-range attack and reconnaissance drones. No injuries or damage were reported after the company’s security team responded to the incident.</p> <a href=\"https://www.theguardian.com/world/2026/nov/15/estonia-to-close-all-border-crossings-with-russia-after-attack-on-drone-maker\">Continue reading...</a>"
       ],
-      "date": "2026-11-14",
+      "date": "2026-11-15",
       "real": true
     },
     {
       "source": "The Guardian",
-      "link": "https://www.theguardian.com/australia-news/2026/nov/14/microsoft-deeply-sorry-for-global-disruption-that-could-have-billion-dollar-impact-on-australia",
-      "title": "Microsoft ‘deeply sorry’ for global outage that could have billion-dollar impact on Australia",
-      "summary": "<p>Experts say disruption<strong> </strong>exposes ‘Australia’s reliance on foreign technology’ as software giant says services being restored</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">",
+      "link": "https://www.theguardian.com/uk-news/2026/nov/15/prince-harry-ukraine-war-surprise-trip-invictus-games",
+      "title": "Prince Harry tells Ukrainians they are ‘going to win war’ on surprise trip to Lviv",
+      "summary": "<p>Duke of Sussex meets wounded veterans in city and says country could one day host Invictus Games</p><p>Prince Harry has told Ukrainian soldiers they are going to win the war with Russia, during a surprise visit to the country.</p><p>The Duke of Sussex met wounded veterans and medics in the city o",
       "paragraphs": [
-        "<p>Experts say disruption<strong> </strong>exposes ‘Australia’s reliance on foreign technology’ as software giant says services being restored</p><ul><li><p>Get our <a href=\"https://www.theguardian.com/email-newsletters?CMP=cvau_sfl\">breaking news email</a>, <a href=\"https://app.adjust.com/w4u7jx3\">free app</a> or <a href=\"https://www.theguardian.com/australia-news/series/full-story?CMP=cvau_sfl\">daily news podcast</a></p></li></ul><p>The <a href=\"https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports\">Microsoft outage</a> could be a disaster for the Australian economy that forces some small businesses to close, with costs expected to run into the billions of dollars, experts have warned.</p><p>The US software company has said it is “deeply sorry” for a widespread outage that caused disruption to millions of users, organisations and businesses across the globe – and that it has “addressed the underlying issue”.</p> <a href=\"https://www.theguardian.com/australia-news/2026/nov/14/microsoft-deeply-sorry-for-global-disruption-that-could-have-billion-dollar-impact-on-australia\">Continue reading...</a>"
+        "<p>Duke of Sussex meets wounded veterans in city and says country could one day host Invictus Games</p><p>Prince Harry has told Ukrainian soldiers they are going to win the war with Russia, during a surprise visit to the country.</p><p>The Duke of Sussex met wounded veterans and medics in the city of Lviv, in the west of Ukraine, as he addressed a conference on treating those injured in war. He said he had taken a risk in travelling to the country, but that he had felt “warmth” when arriving on Saturday.</p> <a href=\"https://www.theguardian.com/uk-news/2026/nov/15/prince-harry-ukraine-war-surprise-trip-invictus-games\">Continue reading...</a>"
       ],
-      "date": "2026-11-14",
+      "date": "2026-11-15",
+      "real": true
+    },
+    {
+      "source": "The Guardian",
+      "link": "https://www.theguardian.com/world/2026/nov/15/czechia-protest-prague-media-freedom",
+      "title": "Hundreds of thousands of Czechs protest in Prague over media freedom",
+      "summary": "<p>Estimated 350,000 people rally against plan to scrap licence fees and fund broadcasters from state budget</p><p>Hundreds of thousands of Czechs have rallied in Prague to protest against a perceived government attempt to stifle media freedom.</p><p>The gathering on Sunday to save the mandatory lic",
+      "paragraphs": [
+        "<p>Estimated 350,000 people rally against plan to scrap licence fees and fund broadcasters from state budget</p><p>Hundreds of thousands of Czechs have rallied in Prague to protest against a perceived government attempt to stifle media freedom.</p><p>The gathering on Sunday to save the mandatory licence fees that fund Czechia’s public broadcasters drew more than 350,000 people, making it one of the biggest in the country’s history, organisers said.</p> <a href=\"https://www.theguardian.com/world/2026/nov/15/czechia-protest-prague-media-freedom\">Continue reading...</a>"
+      ],
+      "date": "2026-11-15",
       "real": true
     },
     {
@@ -627,39 +661,6 @@
         "<p>Eurotunnel owner Getlink wants to replicate ‘airport experience’ at Folkestone and Calais, without making people get out of cars</p><p>Airport-style passport and fingerprinting controls are to be introduced at Eurotunnel in an attempt to prevent “short-term and long-term chaos” in Folkestone and Calais.</p><p>In a breakthrough for travellers, the European Commission has agreed to a new system in which an “eagle eye” camera system, already used in Rome and Paris airports to supervise fingerprinting and facial imaging, will be used at the border between the UK and France.</p> <a href=\"https://www.theguardian.com/travel/2026/nov/14/eurotunnel-drive-in-fingerprint-trial-folkestone-calais-border\">Continue reading...</a>"
       ],
       "date": "2026-11-14",
-      "real": true
-    },
-    {
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/world/2026/nov/14/university-hungary-orban-soros-ceu",
-      "title": "University hounded out of Hungary by Orbán reaches out to new government",
-      "summary": "<p>Prospect of partial return to Budapest by Central European University suggests confidence in Hungary’s future</p><p>A university that Viktor Orbán tried to chase out of Hungary is open to expanding its presence in Budapest, in a mark of confidence in the country’s democratic future.</p><p>Carsten",
-      "paragraphs": [
-        "<p>Prospect of partial return to Budapest by Central European University suggests confidence in Hungary’s future</p><p>A university that Viktor Orbán tried to chase out of Hungary is open to expanding its presence in Budapest, in a mark of confidence in the country’s democratic future.</p><p>Carsten Q Schneider, the interim president and rector of Central European University (CEU), said it was interested in increasing its programmes in Budapest, as long as this did not damage the student experience.</p> <a href=\"https://www.theguardian.com/world/2026/nov/14/university-hungary-orban-soros-ceu\">Continue reading...</a>"
-      ],
-      "date": "2026-11-14",
-      "real": true
-    },
-    {
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/world/2026/nov/13/hungary-seizes-195m-in-cash-found-buried-in-forests-amid-graft-inquiry",
-      "title": "Hungary seizes $19.5m in cash found buried in forests amid graft inquiry",
-      "summary": "<p>Anti-corruption agency carried out searches as part of investigation into Orbán-era minister accused of taking bribes</p><p>Hungary’s anti-corruption agency said on Friday it had seized cash worth $19.5m (£14.8m) buried in forests and hidden elsewhere while investigating an ex-minister of nationa",
-      "paragraphs": [
-        "<p>Anti-corruption agency carried out searches as part of investigation into Orbán-era minister accused of taking bribes</p><p>Hungary’s anti-corruption agency said on Friday it had seized cash worth $19.5m (£14.8m) buried in forests and hidden elsewhere while investigating an ex-minister of nationalist former leader Viktor Orbán’s cabinet.</p><p>Miklós Seszták, Hungary’s minister of national development between 2014 and 2018, is accused of taking bribes in a scheme involving the state transport company, purchasing secondhand buses at inflated prices.</p> <a href=\"https://www.theguardian.com/world/2026/nov/13/hungary-seizes-195m-in-cash-found-buried-in-forests-amid-graft-inquiry\">Continue reading...</a>"
-      ],
-      "date": "2026-11-13",
-      "real": true
-    },
-    {
-      "source": "The Guardian",
-      "link": "https://www.theguardian.com/world/2026/nov/13/russia-ukraine-talks-kaja-kallas-eu-foreign-policy-dublin-summit",
-      "title": "Russia is ‘setting traps’ in Ukraine talks, EU foreign policy chief warns",
-      "summary": "<p>Kaja Kallas says Moscow is trying to divert attention from its aggression by raising issue of European security</p><p>The EU’s foreign policy chief has warned against “walking into the traps that Russia is setting” as she said Moscow was trying to start a debate about European security in order t",
-      "paragraphs": [
-        "<p>Kaja Kallas says Moscow is trying to divert attention from its aggression by raising issue of European security</p><p>The EU’s foreign policy chief has warned against “walking into the traps that Russia is setting” as she said Moscow was trying to start a debate about European security in order to divert attention from its aggression.</p><p>“We have one aggressor and one victim, and the aggressor does not have security concerns,” Kaja Kallas said on arrival at an EU leaders’ summit in Dublin. “Nobody has ever attacked them. They have attacked others. I mean, keep the focus, people.”</p> <a href=\"https://www.theguardian.com/world/2026/nov/13/russia-ukraine-talks-kaja-kallas-eu-foreign-policy-dublin-summit\">Continue reading...</a>"
-      ],
-      "date": "2026-11-13",
       "real": true
     }
   ]
